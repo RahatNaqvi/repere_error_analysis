@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="LCP_LCPInfo13h30_2012-04-11_132700" version="9" version_date="140312">
+<Speakers>
+<Speaker id="spk1" name="Brigitte_BOUCHER" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Chloe_BUFFARD" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk3" name="Francois_BAYROU" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk4" name="Nicolas_SARKOZY" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="Francois_HOLLANDE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="Henri_EMMANUELLI" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk7" name="Jeremie_HARTMANN" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk8" name="Michel_MERCIER" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk9" name="Marie_LABAT" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk10" name="Valerie_PECRESSE" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk11" name="Jean-Francois_COPE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk12" name="Segolene_ROYAL" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk13" name="speaker#13" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk14" name="Eva_JOLY" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk15" name="Marine_LE_PEN" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="188.983">
+<Turn startTime="0" endTime="188.983">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="188.983" endTime="1094.046">
+<Turn startTime="188.983" endTime="215.832" speaker="spk1">
+<Sync time="188.983"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ bonjour à tous et bienvenue dans votre édition de la mi-journée sur LCP nous sommes le mercredi 11 avril 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+<Sync time="194.943"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+voici les titres : la crise de la dette resurgit à 11 jours du premier tour de l'élection présidentielle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+<Sync time="200.432"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+&lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt; nous prédit un destin à l'espagnol en renvoyant &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; et &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; dos à dos 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+<Sync time="205.847"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+l'Espagne qui a fait chuter les marchés hier, Paris a cédé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+<Sync time="208.828"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+plus de 3%. dans ce journal &lt;pers=Henri_EMMANUELLI&gt;Henri Emmanuelli&lt;/pers&gt; le député PS des Landes, membre de la commission des finances de l'assemblée nationale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est notre invité.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="215.832" endTime="216.506">
+<Sync time="215.832"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="216.506" endTime="230.264">
+<Sync time="216.506"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le projet de loi antiterroriste présenté ce matin en conseil des ministres, il 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ provient des mesures annoncées par le chef de l'état après les tueries de Toulouse et Montauban 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un projet de loi qui a peu de chance de voir le jour en l'absence de session parlementaire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et alors que la gauche est contre.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="230.264" endTime="232.269">
+<Sync time="230.264"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="232.269" endTime="244.121">
+<Sync time="232.269"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la dette de la zone euro préoccupe les investisseurs et les politiques. alors que la bourse de Paris a cédé plus de 3% hier à cause de la situation financière espagnole 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt; tire la sonnette d'alarme. &lt;pers=Chloe_BUFFARD&gt;Chloé Buffard&lt;/pers&gt;.
+</Turn>
+<Turn startTime="244.121" endTime="244.99">
+<Sync time="244.121"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="244.99" endTime="259.767">
+<Sync time="244.99"/>
+la crise de la dette va-t-elle faire son retour dans la campagne électorale ? c'est ce qu'espère &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt;. ce matin le centriste a revêtu son costume préféré celui de père la rigueur renvoyant dos à dos &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; et &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;.
+</Turn>
+<Turn startTime="259.767" endTime="260.128">
+<Sync time="259.767"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="260.128" endTime="281.615">
+<Sync time="260.128"/>
+qui se sont entendus au moins implicitement pour ne pas traiter
+<Sync time="264.236"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la question de la situation du pays
+<Sync time="266.542"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et pour que on aille 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à l'élection présidentielle en effaçant le premier tour
+<Sync time="272.558"/>
+je ne crois pas une seconde depuis des années avoir manqué à l'obligation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="276.606"/>
+d'annoncer aux français la catastrophe que l'accumulation de dettes représentait pour eux.
+</Turn>
+<Turn speaker="spk2" startTime="281.615" endTime="291.184">
+<Sync time="281.615"/>
+entre les deux favoris, le débat tourne autour de la responsabilité de la dette, &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; défend son bilan qui selon lui a protégé les français.
+</Turn>
+<Turn speaker="spk4" startTime="291.184" endTime="300.991">
+<Sync time="291.184"/>
+si nous remettons en cause la réforme des retraites, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si nous défaisons le travail que nous avons fait patiemment avec &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="297.417"/>
+depuis 5 ans pourquoi voulez vous que ce qui se passe chez les autres ne se passerait pas chez nous ? 
+</Turn>
+<Turn speaker="spk2" startTime="300.991" endTime="306.479">
+<Sync time="300.991"/>
+&lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; lui fait des mauvais chiffres de l'économie française un argument électoral.
+</Turn>
+<Turn speaker="spk5" startTime="306.479" endTime="309.072">
+<Sync time="306.479"/>
+la dette publique de notre pays n'a jamais été aussi élevée
+</Turn>
+<Turn startTime="309.072" endTime="309.886">
+<Sync time="309.072"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="309.886" endTime="310.796">
+<Sync time="309.886"/>
+dans son histoire
+</Turn>
+<Turn startTime="310.796" endTime="311.387">
+<Sync time="310.796"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="311.387" endTime="324.693">
+<Sync time="311.387"/>
+et voilà que celui qui en est responsable 
+<Sync time="314.012"/>
+viendrait nous donner des leçons de gestion
+<Sync time="317.408"/>
+sur les finances publiques, sur l'économie, sur la compétitivité mais non 
+<Sync time="321.947"/>
+nous n'accepterons aucune leçon.
+</Turn>
+<Turn speaker="spk2" startTime="324.693" endTime="335.085">
+<Sync time="324.693"/>
+présente au début de la campagne la question de la dette a laissé sa place à d'autres sujets ces dernières semaines, comme la viande halal, le prix de l'essence ou encore le permis à points.
+</Turn>
+<Turn startTime="335.085" endTime="335.686">
+<Sync time="335.085"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="335.686" endTime="345.559">
+<Sync time="335.686"/>
+&lt;pers=Henri_EMMANUELLI&gt;Henri Emmanuelli&lt;/pers&gt; bonjour 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ vous êtes député PS des Landes, membre de la commission des finances, vous avez entendu &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt; qui dit qu'il y a entente entre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; et &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="345.559" endTime="370.115">
+<Sync time="345.559"/>
+Monsieur &lt;pers=Francois_BAYROU&gt;Bayrou&lt;/pers&gt; joue les prophètes mais pour jouer les prophètes, il faut une voix très pure et des vérités très dures.
+<Sync time="350.799"/>
+or, il n'a ni l'une ni les autres, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je m'explique.
+<Sync time="353.766"/>
+il critique mais lui se garde bien de nous expliquer ce qu'il faudrait faire.
+<Sync time="358.114"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ j'ai lu ses interviews, un par un, à aucun moment il n'explique
+<Sync time="362.508"/>
+où est-ce que lui ferait des économies. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc, il stigmatise les autres mais il se garde bien d'entrer dans les détails. donc moi j'appelle ça une posture quoi.
+</Turn>
+<Turn speaker="spk1" startTime="370.115" endTime="377.74">
+<Sync time="370.115"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la crise de la dette est-ce qu'elle a quand même pas été passée 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sous silence pendant cette campagne ? 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ "the economist" parlait de déni vous 
+<Event desc="bc" type="noise" extent="begin"/>
+avez vu cette une ?
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="377.74" endTime="414.376" speaker="spk6">
+<Sync time="377.74"/>
+pas du tout depuis le début,
+<Sync time="379.755"/>
+et moi je m'excuse mais on fait tout ce qu'on peut 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="382.485"/>
+on répète que Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; a ajouté 650 milliards d'euros 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et a doublé la dette publique française.
+<Sync time="390.111"/>
+il faut le dire comment et où ?
+<Sync time="392.117"/>
+on a pas arrêté de le dire 
+<Sync time="393.8"/>
+on la connaît cette dette et on sait même parce que la cour des comptes nous l'a expliqué qu'un tiers à peu près,
+<Sync time="399.469"/>
+un peu moins d'ailleurs, était imputable à la crise
+<Sync time="402.293"/>
+que Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; n'est pas responsable 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et les deux tiers
+<Sync time="405.204"/>
+responsable à la gestion de Monsieur &lt;pers=Francois_FILLON&gt;Fillon&lt;/pers&gt;, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et là où je trouve qu'on approche vraiment des sommets 
+<Sync time="410.24"/>
+c'est que je vois le président de la République et le premier ministre 
+</Turn>
+<Turn startTime="414.376" endTime="415.476">
+<Sync time="414.376"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="415.476" endTime="428.919">
+<Sync time="415.476"/>
+encourager à la spéculation contre la zone euro en brandissant l'épouvantail de la gauche, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est-à-dire que ceux qui ont créé le désastre n'ont pas le courage d'assumer leur responsabilité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et brandissent l'épouvantail de la gauche. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk6" startTime="428.919" endTime="430.947">
+<Sync time="428.919"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="430.947" endTime="434.676">
+<Sync time="430.947"/>
+l'un des thèmes majeurs, l'un des problèmes 
+<Event desc="bc" type="noise" extent="begin"/>
+majeurs à gérer par le président
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="434.676" endTime="437.675">
+<Sync time="434.676"/>
+(pres)que en situation de forfaiture 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qu'un premier ministre 
+</Turn>
+<Turn startTime="437.675" endTime="438.16">
+<Sync time="437.675"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="438.16" endTime="439.884">
+<Sync time="438.16"/>
+dise si la gauche passe
+</Turn>
+<Turn startTime="439.884" endTime="440.355">
+<Sync time="439.884"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="440.355" endTime="443.151">
+<Sync time="440.355"/>
+la zone euro va s'effondrer et on va ressembler à la Grèce ou à l'Espagne 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="443.151" endTime="443.749">
+<Sync time="443.151"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="443.749" endTime="448.453">
+<Sync time="443.749"/>
+on est vraiment dans la zone rouge là. ça s'appelle schpiler
+<Sync time="447.547"/>
+contre l'euro
+</Turn>
+<Turn speaker="spk1" startTime="448.453" endTime="449.368">
+<Sync time="448.453"/>
+pas de scénario à la grecque ? 
+</Turn>
+<Turn speaker="spk6" startTime="449.368" endTime="453.172">
+<Sync time="449.368"/>
+et c'est pas le rôle d'un premier ministre ou a fortiori d'un président de la république
+</Turn>
+<Turn speaker="spk1" startTime="453.172" endTime="466.023">
+<Sync time="453.172"/>
+alors on va reparler de la réduction des déficits puisqu'il figure 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans les programmes des principaux candidats mais tous ne suivent pas le même objectif 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'engagement pris à Bruxelles prévoit un équilibre des finances en 2016 &lt;pers=Jeremie_HARTMANN&gt;Jérémie Hartmann&lt;/pers&gt; s'est penché sur les programmes.
+</Turn>
+<Turn startTime="466.023" endTime="466.896">
+<Sync time="466.023"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="466.896" endTime="553.45">
+<Sync time="466.896"/>
+ils en ont fait une priorité de leur programme
+<Sync time="469.484"/>
+qu'ils s'agisse de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; ou de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;
+<Sync time="472.174"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les deux principaux candidats à la présidentielle visent le retour à l'équilibre budgétaire
+<Sync time="476.568"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en 2017 pour &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; 
+<Sync time="478.805"/>
+dès 2016 pour &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;
+<Sync time="480.871"/>
+alors que le déficit de la France est actuellement de 115 milliards d'euros.
+<Sync time="484.605"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ soit 5,2% de notre produit intérieur brut.
+<Sync time="488.108"/>
+si l'un et l'autre table sur une hausse des prélèvements 
+<Sync time="490.788"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; a d'ores et déjà fait voter une hausse de la TVA alors que &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; l'annulera s'il est élu.
+<Sync time="496.725"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le candidat socialiste souhaite notamment renégocier le traité européen
+<Sync time="500.593"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour y introduire un volet sur la croissance, essentiel selon lui à l'assainissement de nos comptes publics.
+<Sync time="506.521"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ plus ambitieux encore &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt; promet de rétablir l'équilibre budgétaire pour 2015.
+<Sync time="512.056"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le candidat centriste entend prescrire une cure de rigueur sévère aux français 
+<Sync time="516.072"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 50 milliards d'euros de hausse de recettes cumulés à une baisse du même montant des dépenses.
+<Sync time="521.132"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le candidat s'engage à ne pas dépenser un euro de plus dans la sphère publique pendant deux ans
+<Sync time="526.275"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; souhaite quant à elle faire voter une loi cadre obligeant la France à un déficit structurel égal à zéro.
+<Sync time="532.654"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais aussi rétablir la possibilité pour la banque de France de détenir des titres de la dette.
+<Sync time="537.686"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; reste l'un des seuls à ne pas faire du retour à l'équilibre budgétaire une priorité
+<Sync time="542.884"/>
+le candidat du front de Gauche mise d'abord sur les investissements et la croissance pour relancer l'économie
+<Sync time="548.008"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il propose de créer en france un pôle public bancaire et financier 
+<Sync time="551.652"/>
+qui agira pour l'emploi et les salaires.
+</Turn>
+<Turn startTime="553.45" endTime="554.235">
+<Sync time="553.45"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="554.235" endTime="559.158">
+<Sync time="554.235"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ &lt;pers=Henri_EMMANUELLI&gt;Henri Emmanuelli&lt;/pers&gt; est-ce que vous craignez une sanction des marchés le 7 mai en cas de victoire 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de v()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; ? 
+</Turn>
+<Turn speaker="spk6" startTime="559.158" endTime="570.524">
+<Sync time="559.158"/>
+non mais écoutez 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si on nous explique qu'il faut pas voter à gauche parce que les marchés sont pas d'accord 
+<Sync time="564.121"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors j'ai envie de dire aux français : surtout donnez tort aux marchés quoi c'est une façon 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de vous reprendre. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais ce que je 
+</Turn>
+<Turn speaker="spk1 spk6" startTime="570.524" endTime="574.565">
+<Sync time="570.524"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="574.565" endTime="575.854">
+<Sync time="574.565"/>
+fait madame on déjà 
+</Turn>
+<Turn speaker="spk1 spk6" startTime="575.854" endTime="578.246">
+<Sync time="575.854"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="578.246" endTime="579.35">
+<Sync time="578.246"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ vous y croyez ou pas ?
+</Turn>
+<Turn speaker="spk6" startTime="579.35" endTime="619.418">
+<Sync time="579.35"/>
+on a déjà perdu le triple A, on a déjà deux annonces
+<Sync time="583.31"/>
+de notation
+<Sync time="584.705"/>
+qui ont annoncé des signes négatifs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+saut
+<Event desc="dis=rev" type="noise" extent="end"/>
+ sauf une parce qu'
+<Event desc="dis=rep" type="noise" extent="begin"/>
+elle
+<Event desc="dis=rep" type="noise" extent="end"/>
+ elle est la possession d'un français. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc on arrête de nous *amuser avec des fantômes. la réalité elle est là.
+<Sync time="594.588"/>
+et personne d'autre que les observateurs de la vie politique française ne peuvent le nier 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc moi ce que je trouve ahurissant c'est qu'on va nous réunir à 13h30
+<Event desc="13 heures 30" type="pronounce" extent="previous"/>
+ à la sauvette 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour présenter le programme de stabilité de la France et je remarque là-dedans
+<Sync time="607.851"/>
+que pour revenir à l'équilibre il faut
+<Sync time="610.168"/>
+augmenter les prélèvements obligatoires de plus d'un point 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est-à-dire que Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; a caché dans son problème de programme de stabilité 25 milliards d'euros 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="619.418" endTime="638.384">
+<Sync time="619.418"/>
+vous parlez en fait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de &lt;pers=Francois_BAROIN&gt;François Baroin&lt;/pers&gt; et de &lt;pers=Valerie_PECRESSE&gt;Valérie Pécresse&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ voilà présenter donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le projet de programme de stabilité de croissance avec les engagements 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pris notamment à Bruxelles pour revenir à l'équilibre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="630.105"/>
+en 2016 alors &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; lui prévoit 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de revenir à l'équilibre en 2017, est-ce qu'il faut laisser passer un an ? est-ce qu'on peut se permettre ça ? 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ en ce temps de crise.
+</Turn>
+<Turn speaker="spk6" startTime="638.384" endTime="643.356">
+<Sync time="638.384"/>
+qu'en on s'est permis en 5 ans on s'est permis 650 milliards d'euros 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de dette supplémentaire 
+</Turn>
+<Turn speaker="spk1 spk6" startTime="643.356" endTime="644.482">
+<Sync time="643.356"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="644.482" endTime="645.977">
+<Sync time="644.482"/>
+revenir à l'équilibre plus tôt non ? 
+</Turn>
+<Turn speaker="spk6" startTime="645.977" endTime="649.719">
+<Sync time="645.977"/>
+mais est-ce que vous savez combien coûte par exemple la baisse de la TVA sur la restauration ? 
+</Turn>
+<Turn startTime="649.719" endTime="650.578" speaker="spk1">
+<Sync time="649.719"/>
+plusieurs milliards
+</Turn>
+<Turn speaker="spk6" startTime="650.578" endTime="651.911">
+<Sync time="650.578"/>
+3 milliards et demi 
+</Turn>
+<Turn startTime="651.911" endTime="652.525">
+<Sync time="651.911"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="652.525" endTime="678.85">
+<Sync time="652.525"/>
+est-ce que vous savez combien coûtait l'amendement Copé 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ près de 7 milliards d'euros par an et on vient nous expliquer que 3 milliards c'est un enjeu national 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ donc ce n'est pas sérieux.
+<Sync time="660.761"/>
+ce qui est sérieux
+<Sync time="662.143"/>
+c'est qu'on a doublé la dette publique de ce pays
+<Sync time="665.022"/>
+ça c'est grave
+<Sync time="666.348"/>
+et ce qui est sérieux
+<Sync time="667.781"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est que là-dedans 
+<Sync time="668.937"/>
+alors que la droite dit la gauche va mettre des impôts eux ils ont camouflé 25 milliards de prélèvements supplémentaires 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dont ils se sont bien gardés d'annoncer et la couleur et la teneur.
+</Turn>
+<Turn speaker="spk1" startTime="678.85" endTime="691.513">
+<Sync time="678.85"/>
+alors ce matin l'UMP a présenté un tract sous forme d'impôt on va le voir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur le revenu chiffrant à 15 milliards 6 la somme à payer par les classes moyennes si &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; est élu. les classes moyennes se sont 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est votre cible ? 
+</Turn>
+<Turn speaker="spk6" startTime="691.513" endTime="697.515">
+<Sync time="691.513"/>
+dites-moi vous êtes spécialisée dans les tracts de l'UMP ? parce qu'il y a aussi des tracts du PS qui expliquent l'inverse.
+</Turn>
+<Turn speaker="spk1 spk6" startTime="697.515" endTime="701.069">
+<Sync time="697.515"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="701.069" endTime="710.555">
+<Sync time="701.069"/>
+écoutez 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="701.702"/>
+tout le monde sait
+<Sync time="702.94"/>
+que pendant 5 ans la droite Monsieur &lt;pers=Francois_FILLON&gt;Fillon&lt;/pers&gt; et Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt;, Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; d'abord Monsieur &lt;pers=Francois_FILLON&gt;Fillon&lt;/pers&gt; ensuite qui a été
+<Sync time="708.919"/>
+le collaborateur comme disait l'autre
+</Turn>
+<Turn startTime="710.555" endTime="711.507">
+<Sync time="710.555"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="711.507" endTime="721.757">
+<Sync time="711.507"/>
+ont rajouté 24 taxes dans ce pays.
+<Sync time="714.843"/>
+qu'ils ont rajouté des impôts et aujourd'hui leur seul arg(ument) ils ont doublé la dette publique 
+<Sync time="719.155"/>
+et leur seul argument c'est la gauche va mettre des impôts. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk6" startTime="721.757" endTime="724.542">
+<Sync time="721.757"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="724.542" endTime="725.996">
+<Sync time="724.542"/>
+prélèvement obligatoire vont baisser ? 
+</Turn>
+<Turn speaker="spk6" startTime="725.996" endTime="727.247">
+<Sync time="725.996"/>
+qu'est ce qu'ils ont défendu ?
+</Turn>
+<Turn speaker="spk1" startTime="727.247" endTime="728.387">
+<Sync time="727.247"/>
+vous pouvez vous engager là-dessus ? 
+</Turn>
+<Turn speaker="spk6" startTime="728.387" endTime="745.555">
+<Sync time="728.387"/>
+qu'est-ce qu'ils ont défendu ? les classes les plus riches 
+<Sync time="731.17"/>
+si la gauche passe non les 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ prélèvements obligatoires ne vont pas diminuer non, 
+<Event desc="bc" type="noise" extent="begin"/>
+ils vont augmenter
+<Event desc="bc" type="noise" extent="end"/>
+ comme dans le programme de l'UMP je vous le 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ rappele pour la troisième fois.
+<Sync time="741.377"/>
+non c'est pas pareil parce que c'est pas les mêmes qui vont payer.
+<Sync time="743.831"/>
+nous y aura pas de bouclier fiscal
+</Turn>
+<Turn speaker="spk1" startTime="745.555" endTime="746.562">
+<Sync time="745.555"/>
+ce sera pas les classes moyennes 
+</Turn>
+<Turn speaker="spk6" startTime="746.562" endTime="763.371">
+<Sync time="746.562"/>
+pas les classes moyennes ça va être les plus favorisés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 
+<Sync time="749.589"/>
+vous savez c'est très simple &amp;hein ils sont obligés de mentir
+<Sync time="753.101"/>
+comme y a que 10% de classes favorisées dans les 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ supérieurs
+<Sync time="756.715"/>
+ils peuvent pas avoir fait une politique pour ces 10% là et expliquer que ils veulent une majorité, donc il faut qu'ils mentent
+</Turn>
+<Turn speaker="spk1" startTime="763.371" endTime="798.718">
+<Sync time="763.371"/>
+merci &lt;pers=Henri_EMMANUELLI&gt;Henri Emmanuelli&lt;/pers&gt; membre de la commission des finances, député 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ PS des Landes d'avoir accepté 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ notre invitation. alors avant les auditions 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="771.732"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des ministres des finances et du budget dont nous parlions devant les commissions des finances de l'assemblée et du sénat aujourd'hui s'est tenu 
+<Sync time="778.133"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et bien avant cela le conseil des ministres, les mesures antiterroristes annoncées par le chef de l'Etat après l'affaire &lt;pers=Mohamed_MERAH&gt;Mohamed Merah&lt;/pers&gt;
+<Sync time="784.107"/>
+ont donné lieu à un projet de loi présenté donc à l'Elysée. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il vise à mieux prévenir les actes d'individus isolés en ciblant notamment internet et les formations au Jihad, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le ministre de la justice justifie ces mesures qui ne seront pour autant pas examinées avant l'élection présidentielle.
+</Turn>
+<Turn startTime="798.718" endTime="799.615">
+<Sync time="798.718"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="799.615" endTime="834.878">
+<Sync time="799.615"/>
+il était de la responsabilité du gouvernement après les événements 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tragiques que l'on a vécus, il y a quand même eu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ plusieurs personnes d'assassinées, des enfants, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des militaires. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on va pas rester les bras ballants. 
+<Sync time="810.44"/>
+le travail du ministre de la justice 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ était de préparer un texte complétant
+<Sync time="814.576"/>
+de la législation sur le terrorisme, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ prenant en compte les nouvelles façons 
+<Sync time="819.1"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ du terrorisme, notamment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ les loups solitaires
+<Sync time="822.861"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a pas que des réseaux, il y a aussi maintenant des terroristes qui agissent seuls qui se forment seuls, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc on complète notre législation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce texte sera déposé au parlement et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le nouveau parlement l'étudiera.
+</Turn>
+<Turn startTime="834.878" endTime="835.409">
+<Sync time="834.878"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="835.409" endTime="852.073">
+<Sync time="835.409"/>
+les mousquetaires étaient réunis à Provins en Seine-et-Marne hier soir pour soutenir &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="840.612"/>
+les mousquetaires ce sont les 6 quadras du gouvernement, ancien bébé &lt;pers=Jacques_CHIRAC&gt;Chirac&lt;/pers&gt; ils étaient à l'unisson
+<Sync time="845.741"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ derrière le candidat à l'UMP, unité de façade ou franche amitié 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Marie_LABAT&gt;Marie Labat&lt;/pers&gt; et &lt;pers=Joanne_PROFETA&gt;Joanne Profeta&lt;/pers&gt; étaient sur place.
+</Turn>
+<Turn startTime="852.073" endTime="852.488">
+<Sync time="852.073"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="852.488" endTime="867.714">
+<Sync time="852.488"/>
+un pour tous et tous pour &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; 
+<Sync time="854.9"/>
+tel était le mot d'ordre pour les 6 mousquetaires de l'UMP hier soir à Provins.
+<Sync time="859.451"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour leur unique meeting commun, ils ont choisi de miser à moins de deux semaines du premier tour
+<Sync time="864.566"/>
+sur le rassemblement et la fidélité à &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk10" startTime="867.714" endTime="883.688">
+<Sync time="867.714"/>
+on est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ une belle équipe on pense d'abord que &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; a fait monter
+<Sync time="872.418"/>
+une équipe de quadragénaires qui nous a donné 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="875.376"/>
+j'allais dire 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les moyens de nous exprimer en politique, nous voulons aller plus loin, nous voulons porter l'idée de réforme dans notre pays 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et nous voulons mettre la France en mouvement.
+</Turn>
+<Turn speaker="spk9" startTime="883.688" endTime="905.093">
+<Sync time="883.688"/>
+pourtant en coulisses c'est bel et bien l'après présidentielle qui se jouait en Seine-et-Marne.
+<Sync time="888.11"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une réunion d'enfants de la chiraquie, avec pour ambition la présidentielle de 2017
+<Sync time="893.23"/>
+mais aussi pour &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; la présidence de l'UMP en cas de défaite de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; en mai prochain.
+<Sync time="899.149"/>
+alors au moment des discours, l'objectif est bien de rassembler mais surtout de se rassembler à six.
+</Turn>
+<Turn speaker="spk11" startTime="905.093" endTime="932.987">
+<Sync time="905.093"/>
+il nous a semblé
+<Sync time="906.549"/>
+que nos tempéraments
+<Sync time="908.09"/>
+que nos caractères
+<Sync time="909.721"/>
+que notre maturité 
+<Sync time="911.552"/>
+faisait
+<Sync time="912.767"/>
+que nous pouvions ensemble mener une aventure collective.
+<Sync time="917.485"/>
+que nous, autant que nous sommes, avec nos personnalités et nos ambitions 
+<Sync time="922.237"/>
+nous ayons fait le choix,
+<Sync time="924.022"/>
+pas une fois une soirée, mais depuis bien longtemps déjà
+<Sync time="928.151"/>
+et je le crois pour encore bien longtemps de nous retrouver la main dans main.
+</Turn>
+<Turn speaker="spk9" startTime="932.987" endTime="942.406">
+<Sync time="932.987"/>
+une amitié que ces quadras de la majorité veulent durable, à moins que la perspective de 2017 ou d'une nomination à Matignon en 2012 ne finissent par enrayer la machine.
+</Turn>
+<Turn startTime="942.406" endTime="943.122">
+<Sync time="942.406"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="943.122" endTime="956.892">
+<Sync time="943.122"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ &lt;pers=Segolene_ROYAL&gt;Ségolène Royal&lt;/pers&gt; la présidente de la région Poitou-Charentes était l'invitée de "questions d'info" sur LCP. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ engagée derrière son ancien compagnon pour la présidentielle elle a néanmoins salué la campagne du candidat du Front de Gauche, écoutez.
+</Turn>
+<Turn startTime="956.892" endTime="957.474">
+<Sync time="956.892"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="957.474" endTime="977.59">
+<Sync time="957.474"/>
+il fait une bonne campagne &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; ce serait pas honnête de ne pas le reconnaître.
+<Sync time="960.838"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il fait une bonne campagne 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ une campagne 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de mobilisation
+<Sync time="965.366"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur des thèmes d'ailleurs que nous avons 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en commun 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="971.336"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je crois que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sa
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sa campagne est utile au sens où elle va aussi chercher 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des abstentionnistes
+</Turn>
+<Turn speaker="spk13" startTime="977.59" endTime="979.503">
+<Sync time="977.59"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ elle vous fait envie cette campagne ? 
+</Turn>
+<Turn speaker="spk12" startTime="979.503" endTime="985.449">
+<Sync time="979.503"/>
+elle me rappelle 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+par certains
+<Event desc="dis=rev" type="noise" extent="end"/>
+ à certains égards celle de ma campagne de 2007. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="985.449" endTime="1006.884">
+<Sync time="985.449"/>
+l'émission "questions d'info" qui sera diffusée ce soir en intégralité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à 19h30
+<Event desc="19 heures 30" type="pronounce" extent="previous"/>
+. passe d'armes entre
+<Sync time="991.162"/>
+&lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt; et &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; par médias interposés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la candidate Europe Ecologie les Verts s'est attaqué à la 
+<Sync time="996.101"/>
+fortune de la présidente du FN 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui lui viendrait de l'héritage &lt;pers=Hubert_LAMBERT&gt;Lambert&lt;/pers&gt; reçu dans des conditions controversées
+<Sync time="1002.572"/>
+&lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; a immédiatement exprimé son intention de saisir la justice, écoutez.
+</Turn>
+<Turn startTime="1006.884" endTime="1007.638">
+<Sync time="1006.884"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="1007.638" endTime="1033.951">
+<Sync time="1007.638"/>
+je pense que c'est mon devoir voyez-vous Monsieur &lt;pers=Gilbert_BARBIER&gt;Barbier&lt;/pers&gt; de rappeler
+<Sync time="1011.501"/>
+qui est &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt;, d'où elle vient et ce qu'elle porte. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je pense que c'est une femme qui ment
+<Sync time="1017.512"/>
+je pense que lorsqu'elle dit qu'elle est la candidate du peuple, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il est important que quelqu'un rappelle que ce n'est pas vrai, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1023.995"/>
+qu'elle vit dans un château et je rappelle l'origine de ce château 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+elle
+<Event desc="dis=rev" type="noise" extent="end"/>
+ c'est une héritière 
+<Sync time="1029.369"/>
+et de la fortune et du parti. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ elle ne vient pas de nulle part. 
+</Turn>
+<Turn speaker="spk15" startTime="1033.951" endTime="1062.272">
+<Sync time="1033.951"/>
+c'est qu'elle n'a aucune excuse puisqu'elle est une ancienne juge d'instruction par conséquent 
+<Sync time="1037.518"/>
+elle savait pertinemment la portée des propos 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1040.397"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qu'elle a tenus
+<Sync time="1041.838"/>
+eh bien 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les tribunaux vont en être saisi et rendront leur décision 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1045.595"/>
+avant le premier tour, chacun pourra donc voir que cette dame qui se dit 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1050.063"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour la moralisation de la vie politique aura été condamné en diffamation pour avoir
+<Sync time="1056.102"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+tenu des
+<Event desc="dis=rev" type="noise" extent="end"/>
+ porté des calomnies inadmissibles sur 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une de ses adversaires.
+</Turn>
+<Turn startTime="1062.272" endTime="1062.845">
+<Sync time="1062.272"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1062.845" endTime="1086.083">
+<Sync time="1062.845"/>
+hommage unanime à &lt;pers=Raymond_AUBRAC&gt;Raymond Aubrac&lt;/pers&gt; le dernier survivant des chefs
+<Sync time="1066.902"/>
+de la 
+<Event desc="b" type="noise" extent="begin"/>
+ résistance est décédé hier soir 
+<Sync time="1069.338"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à l'âge 
+<Event desc="b" type="noise" extent="end"/>
+ de 97 ans à l'hôpital du Val-de-Grâce 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1072.226"/>
+cofondateur du mouvement "libération sud" il avait été arrêté par les allemands 
+<Sync time="1076.288"/>
+en 1943. &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; a salué une figure héroïque de la résistance et &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; un juste qui s'est opposé au nazisme.
+</Turn>
+<Turn startTime="1086.083" endTime="1087.594">
+<Sync time="1086.083"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1087.594" endTime="1094.046">
+<Sync time="1087.594"/>
+c'est la fin de cette édition merci à tous de votre attention bonne suite de programmes sur LCP prochain journal de la rédaction ce soir 20h30
+<Event desc="20 heures 30" type="pronounce" extent="previous"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1094.046" endTime="1559.880">
+<Turn startTime="1094.046" endTime="1559.880">
+<Sync time="1094.046"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

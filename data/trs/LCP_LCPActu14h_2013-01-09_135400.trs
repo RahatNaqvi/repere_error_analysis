@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Yann" audio_filename="LCP_LCPActu14h_2013-01-09_135400" version="10" version_date="140306">
+<Speakers>
+<Speaker id="spk1" name="Daniel_FASQUELLE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk2" name="Alain_VIDALIES" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk3" name="Brigitte_BOUCHER" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk4" name="Eric_WOERTH" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="Pierre_MOSCOVICI" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="speaker#6" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk7" name="Jean-Francois_COPE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk8" name="Thibaud_LE_FLOCH" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk9" name="Guy_OLHARAN" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="717.0">
+<Turn startTime="0" endTime="717.0">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="717.0" endTime="1340.0">
+<Turn startTime="717.0" endTime="744.657" speaker="spk1">
+<Sync time="717.0"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+alors 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on n'est pas allé jusqu'à 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ traiter de la question de la pension 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de reversion. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous savez que ce n'est pas prévu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pour le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pour le PACS. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+en ce qui concerne les conséquences 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ successorales, les alliés ont la possibilité, à travers un acte notarié 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="731.264"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'accorder les libéralités 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+aux
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à l'allié 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, à l'autre personne qui se trouve 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans dans dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans le couple. il y a donc là 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+beaucoup de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ beaucoup de souplesse en réalité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+offerte par l'alliance civile et la possibilité d'aménager, bien évidemment, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les conséqu(ences)
+</Turn>
+<Turn speaker="spk3 spk1" startTime="744.657" endTime="746.912">
+<Sync time="744.657"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="746.912" endTime="753.619">
+<Sync time="746.912"/>
+(avanc)ée sur la forme, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en réalité surtout, l'important c'est qu'il n'y a plus l'adoption. 
+<Event desc="b" type="noise" extent="begin"/>
+l'adoption n'est pas possible.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="753.619" endTime="798.408">
+<Sync time="753.619"/>
+c'est une *avancée surtout sur le fond parce que on répond là à des attentes des couples homosexuels. *moi il y a de très nombreux couples homosexuels d'ailleurs qui m'ont écrit en me disant : « mais bien sûr, nous 
+<Event desc="r" type="noise" extent="instantaneous"/>
+on ne souhaite pas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ forcément le mariage 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="765.086"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et on ne souhaite pas surtout le mariage et la filiation. par contre, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une proposition comme l'alliance civile nous va et nous convient 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ parfaitement » . et donc c'est une solution de bon sens 
+<Event desc="r" type="noise" extent="instantaneous"/>
+qui peut rassembler une majorité de français. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="776.783"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ alors, évidemment il y a ceux qui veulent,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ quoi qu'il arrive, le mariage homosexuel avec ses conséquences en matière de filiation. mais ils sont
+<Event desc="b" type="noise" extent="instantaneous"/>
+ très minoritaires. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il y a ceux qui, quoi qu'il arrive, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ne veulent
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ne veulent surtout que rien ne change. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ils trouvent même déjà que le PACS c'est trop. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="788.914"/>
+mais il y a une immense majorité de 
+<Event desc="b" type="noise" extent="instantaneous"/>
+français qui sont d'accord pour se retrouver 
+<Event desc="r" type="noise" extent="instantaneous"/>
+autour d'une proposition 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de bon sens, qui apporte une réponse aux couples homosexuels, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+mais qui apaise aussi les tensions 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ dans la société française.
+</Turn>
+<Turn speaker="spk3" startTime="798.408" endTime="801.553">
+<Sync time="798.408"/>
+et quelle forme va prendre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ cette initiative. 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a une prop(osition)
+</Turn>
+<Turn speaker="spk3 spk1" startTime="801.553" endTime="803.829">
+<Sync time="801.553"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="803.829" endTime="851.256">
+<Sync time="803.829"/>
+proposition de loi dès le mois de novembre. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'est vrai qu'on a eu un petit peu de mal à nous faire entendre, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+mais je suis heureux 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de voir qu'aujourd'hui c'est le groupe UMP qui, dans son ensemble, reprend, sous la forme d'un amendement, mot pour mot, ma proposition 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de loi. et donc c'est tout l'UMP 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="816.979"/>
+qui va se retrouver dans le cadre des débats 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en commission puis dans l'hémicycle, pour défendre 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'alliance civile sous la forme d'un amendement 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui sera d'ailleurs étudié avant l'article premier, c'est-à-dire que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+avant qu'on étudiera le mariage pour tous, on débattra de l'alliance civile et c'est une bonne chose 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="831.471"/>
+parce que si l'alliance civile pouvait être 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+retenue, ça éviterait, évidemment, d'aller plus loin 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans le texte. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et je m'adresse, non seulement aux députés UMP et aux députés 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+^^UMpi
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ UDI mais également 
+<Event desc="r" type="noise" extent="instantaneous"/>
+aux députés de la majorité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="844.504"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et je sais qu'un certain nombre d'entre eux sont mal à l'aise par rapport au texte que propose le gouvernement 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et on pourrait se retrouver 
+<Event desc="r" type="noise" extent="instantaneous"/>
+autour de cette proposition : l'alliance civile.
+</Turn>
+<Turn speaker="spk3" startTime="851.256" endTime="864.323">
+<Sync time="851.256"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour autant, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à l'UMP il n'y a pas unanimité sur cette 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ question du mariage pour tous et de l'adoption. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+je vous propose d'entendre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce qu'en pense &lt;pers=Alain_VIDALIES&gt;Alain Vidalies&lt;/pers&gt;, le ministre des relations avec le parlement ; il était 
+<Event desc="r" type="noise" extent="instantaneous"/>
+l'invité de "questions d'info" sur LCP.
+</Turn>
+<Turn startTime="864.323" endTime="865.137">
+<Sync time="864.323"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="865.137" endTime="884.676">
+<Sync time="865.137"/>
+dans ce débat, 
+<Event desc="b" type="noise" extent="begin"/>
+aujourd'hui, qui a été très politisé par 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ par l'UMP et qui, d'une certaine façon, a un peu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+délégué à l'église
+<Event desc="b" type="noise" extent="end"/>
+ catholique le soin de mener la bataille contre le gouvernement.
+<Sync time="875.697"/>
+je pense que pour l'église catholique, d'ailleurs, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il y a un piège qui a été tendu là et dans lequel 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ils sont
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ils sont tombés un peu allègrement par(ce) j'ai sous les yeux 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ un communiqué de 7
+</Turn>
+<Turn startTime="884.676" endTime="885.148">
+<Sync time="884.676"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="885.148" endTime="887.756">
+<Sync time="885.148"/>
+7 secrétaires nationaux de l'UMP
+</Turn>
+<Turn startTime="887.756" endTime="888.224">
+<Sync time="887.756"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="888.224" endTime="897.83">
+<Sync time="888.224"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ du 22 novembre 2011 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et qui demande à &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; de mettre dans son programme présidentiel 
+<Event desc="r" type="noise" extent="instantaneous"/>
+le mariage pour tous, le mariage homosexuel.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="897.83" endTime="902.328">
+<Sync time="897.83"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+&lt;pers=Daniel_FASQUELLE&gt;Daniel Fasquelle&lt;/pers&gt;, est-ce que vous reconnaissez quand-même qu'à l'UMP vous êtes partagés sur cette question ?
+</Turn>
+<Turn speaker="spk1" startTime="902.328" endTime="920.238">
+<Sync time="902.328"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais 
+<Event desc="b" type="noise" extent="begin"/>
+pas tant que ça, en fait, parce que
+<Event desc="b" type="noise" extent="end"/>
+ c'est vrai que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ certains souhaitaient 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le mariage pour tous. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+&lt;pers=Axel_PONIATOWSKI&gt;Axel Poniatowski&lt;/pers&gt;, qui avait d'ailleurs 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="910.536"/>
+voté pour la proposition de loi socialiste ouvrant le mariage aux couples homosexuels 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ durant la précédente législature, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+est venu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+n(ous)
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nous rejoindre et soutient maintenant l'alliance 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ civile.
+</Turn>
+<Turn speaker="spk3" startTime="920.238" endTime="922.631">
+<Sync time="920.238"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+donc l'UMP
+<Event desc="b" type="noise" extent="end"/>
+est pour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le mariage 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="922.631" endTime="923.629">
+<Sync time="922.631"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="923.629" endTime="924.500">
+<Sync time="923.629"/>
+et contre l'adoption
+</Turn>
+<Turn speaker="spk1 spk3" startTime="924.500" endTime="925.835">
+<Sync time="924.500"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="925.835" endTime="935.286">
+<Sync time="925.835"/>
+il faut sortir du faux débat « pour ou contre le mariage homosexuel » et l'alliance civile permet 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de s(e)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de sortir 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de ce faux
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de ce faux débat. et je vois aujourd'hui se rassembler autour de ce projet d'alliance civile
+</Turn>
+<Turn startTime="935.286" endTime="935.807">
+<Sync time="935.286"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="935.807" endTime="964.811">
+<Sync time="935.807"/>
+certains qui étaient très hostiles au mariage homosexuel ou certains qui s'interrogeaient. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+mais ils s'interrogeaient 
+<Event desc="b" type="noise" extent="instantaneous"/>
+parce qu'il y avait pas d'alternative. aujourd'hui qu'il y a une alternative, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+nous serons extrêmement nombreux à nous retrouver autour de ce projet d'alliance civile 
+<Event desc="r" type="noise" extent="instantaneous"/>
+au sein 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de l'UMP. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="949.704"/>
+et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ceux qui ne soutiendront pas ce projet d'alliance civile seront extrêmement minoritaires 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ chez nous. et parmi ceux que citait monsieur &lt;pers=Alain_VIDALIES&gt;Vidalies&lt;/pers&gt;, il y en a certains aujourd'hui qui sont en train de nous rejoindre 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="959.322"/>
+pour soutenir cette alternative qu'il fallait construire parce que l'UMP 
+<Event desc="r" type="noise" extent="instantaneous"/>
+doit être force d'opposition mais également force de proposit(ion)
+</Turn>
+<Turn speaker="spk3" startTime="964.811" endTime="995.748">
+<Sync time="964.811"/>
+vous restez encore un court instant avec nous, &lt;pers=Daniel_FASQUELLE&gt;Daniel Fasquelle&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il y avait une autre réunion de groupe ce matin à l'Assemblée, celle du rassemblement UMP. le groupe parlementaire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+devrait être dissous à la reprise des travaux le 15 janvier, soit au plus tard mardi prochain
+<Event desc="r" type="noise" extent="instantaneous"/>
+.
+<Sync time="977.176"/>
+hier, &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; et &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; ont détaillé l'accord signé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+le 17 décembre. les membres de l'équipe dirigeante pourraient être 
+<Event desc="r" type="noise" extent="instantaneous"/>
+connus 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dès lundi. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="985.418"/>
+un nouveau vote pour la présidence de l'UMP reste, lui, prévu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+en septembre prochain. &lt;pers=Eric_WOERTH&gt;Éric Woerth&lt;/pers&gt; qui participait à cette réunion 
+<Event desc="r" type="noise" extent="instantaneous"/>
+s'est montré 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ optimiste au micro de &lt;pers=Thomas_SOULIE&gt;Thomas Soulié&lt;/pers&gt; 
+<Event desc="b" type="noise" extent="begin"/>
+et &lt;pers=Elisa_BERTHOLOMEY&gt;Élisa Bertholomey&lt;/pers&gt;.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="995.748" endTime="996.499">
+<Sync time="995.748"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="996.499" endTime="1028.423">
+<Sync time="996.499"/>
+c'était nécessaire de créer 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ce groupe. c'est nécessaire aujourd'hui d'y mettre fin à partir du moment où
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a un accord à la fois 
+<Event desc="r" type="noise" extent="instantaneous"/>
+sur une nouvelle élection au sein de l'UMP et sur 
+<Event desc="r" type="noise" extent="instantaneous"/>
+le partage des responsabilités au sein de notre parti. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1008.935"/>
+et avec une volonté farouche 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; comme 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+d(e)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de 
+<Event desc="r" type="noise" extent="instantaneous"/>
+toutes celles et tous ceux 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+qui suivent &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de participer à la construction d'une opposition encore plus 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dynamique. et donc, nous devons 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1020.118"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ continuer à réfléchir à l'opposition 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ au sein 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+du par(ti)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de l'Assemblée nationale et du Sénat 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et aussi en dehors de l'Assemblée et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+du
+<Event desc="dis=rep" type="noise" extent="end"/>
+ du Sénat, au sein de notre propre formation.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1028.423" endTime="1038.953">
+<Sync time="1028.423"/>
+&lt;pers=Daniel_FASQUELLE&gt;Daniel Fasquelle&lt;/pers&gt;, vous vous êtes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ copéiste.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+est-ce que vous avez
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ vous êtes optimiste aussi sur 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le rapprochement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ du rassemblement UMP et de l'UMP ? 
+</Turn>
+<Turn speaker="spk1" startTime="1038.953" endTime="1045.471">
+<Sync time="1038.953"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+&amp;bah moi je suis 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ni
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ni copéiste, ni filloniste. j'étais resté un peu en retrait étant *président de la fédération de l'UMP du Pas-de-Calais, je n'avais pas voulu f(aire)
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1045.471" endTime="1046.077">
+<Sync time="1045.471"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1046.077" endTime="1046.627">
+<Sync time="1046.077"/>
+rejoint le
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1046.627" endTime="1047.604">
+<Sync time="1046.627"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1047.604" endTime="1066.123">
+<Sync time="1047.604"/>
+l'autre. par contre je n'ai pas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ rejoint le rassemblement UMP. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et avec &lt;pers=Nathalie_KOSCIUSKO-MORIZET&gt;Nathalie Kosciusko-Morizet&lt;/pers&gt;, &lt;pers=Bruno_LE_MAIRE&gt;Bruno 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+Lumaire
+<Event desc="dis=rev" type="noise" extent="end"/>
+ Le Maire&lt;/pers&gt; et d'autres, je faisais partie des non-alignés, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1055.363"/>
+ceux qui souhaitaient justement que très rapidement on rassemble 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ à nouveau la famille, et je suis très heureux de voir que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+les choses sont, de ce point de vue, bien engagées. on ne peut pas faire un vrai travail d'opposition et de proposition si on n'est pas rassemblé.
+</Turn>
+<Turn speaker="spk3" startTime="1066.123" endTime="1071.872">
+<Sync time="1066.123"/>
+et vous n'êtes pas inquiet 
+<Event desc="r" type="noise" extent="instantaneous"/>
+sur cette équipe dirigeante qui est en train de se mettre en place ? il y aurait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des tensions déjà.
+</Turn>
+<Turn startTime="1071.872" endTime="1072.457">
+<Sync time="1071.872"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1072.457" endTime="1101.014">
+<Sync time="1072.457"/>
+pas du tout ! je crois qu'effectivement il faut un petit peu de temps pour que tout cela se mette en place. vous savez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+, 
+<Event desc="b" type="noise" extent="begin"/>
+dès le lendemain de l'élection, dès le lundi, alors que les résultats n'étaient pas encore proclamés, moi j'avais appelé à une présidence partagée, à une présidence commune.
+<Event desc="b" type="noise" extent="end"/>
+ alors, il y aura une présidence autour de &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt;, mais une équipe partagée 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1087.249"/>
+et j'en suis vraiment très heureux parce que je crois qu'on a 
+<Event desc="r" type="noise" extent="instantaneous"/>
+des gens de valeur dans chacun des deux camps et il fallait à tout prix pouvoir les réunir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+pour vraiment faire ce travail à la fois d'opposition et de proposition, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+celui que les français nous demandent de faire, ici, à l'Assemblée nationale 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et au Sénat.
+</Turn>
+<Turn speaker="spk3" startTime="1101.014" endTime="1102.959">
+<Sync time="1101.014"/>
+merci &lt;pers=Daniel_FASQUELLE&gt;Daniel Fasquelle&lt;/pers&gt;, député UM(P)
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1102.959" endTime="1103.674">
+<Sync time="1102.959"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1103.674" endTime="1126.138">
+<Sync time="1103.674"/>
+du Pas-de-Calais. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+on poursuit ce journal avec l'affaire Cahuzac portée devant la justice. le parquet a ouvert une enquête préliminaire pour blanchiment de fraude fiscale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+afin de vérifier si le ministre délégué au budget 
+<Event desc="r" type="noise" extent="instantaneous"/>
+a détenu un compte en Suisse.
+<Sync time="1115.786"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+accusé par le site Mediapart, &lt;pers=Jerome_CAHUZAC&gt;Jérôme Cahuzac&lt;/pers&gt; s'en défend et se réjouit de cette procédure. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+l'opposition reste prudente face à ces accusations 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et le gouvernement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+le soutient. écoutez &lt;pers=Pierre_MOSCOVICI&gt;Pierre Moscovici&lt;/pers&gt; et &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; :
+</Turn>
+<Turn startTime="1126.138" endTime="1126.86">
+<Sync time="1126.138"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1126.86" endTime="1137.785">
+<Sync time="1126.86"/>
+je pense que c'est un élément 
+<Event desc="b" type="noise" extent="instantaneous"/>
+qui lui permettra 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de démontrer son innocence. 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Jerome_CAHUZAC&gt;Jérôme Cahuzac&lt;/pers&gt; a toujours dit, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il l'a affirmé à plusieurs reprises, qu'il n'avait pas eu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de compte en Suisse, qu'il n'y avait pas
+</Turn>
+<Turn speaker="spk6 spk5" startTime="1137.785" endTime="1138.931">
+<Sync time="1137.785"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1138.931" endTime="1139.288">
+<Sync time="1138.931"/>
+croyez ?
+</Turn>
+<Turn speaker="spk5" startTime="1139.288" endTime="1153.546">
+<Sync time="1139.288"/>
+j'ai confiance 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ quand quelqu'un se met en face de moi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et me dit les yeux dans les yeux, quelqu'un avec qui je travaille bien, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+quelqu'un qui est un ami : « voilà ! je n'ai pas eu de compte en Suisse », j'ai confiance. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et donc, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+maintenant, la justice, cette enquête, lui permettra de faire valoir les éléments qui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+montreront son innocence.
+</Turn>
+<Turn speaker="spk7" startTime="1153.546" endTime="1164.619">
+<Sync time="1153.546"/>
+&amp;hum pour ce qui me concerne, moi j'ai toujours été extrêmement clair 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et toujours considéré que l'on devait respecter la présomption d'innocence et surtout 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ lorsque 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, à ce stade, il ne s'agit que d'allégations
+</Turn>
+<Turn startTime="1164.619" endTime="1165.186">
+<Sync time="1164.619"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="1165.186" endTime="1166.123">
+<Sync time="1165.186"/>
+d'une certaine presse.
+</Turn>
+<Turn startTime="1166.123" endTime="1166.652">
+<Sync time="1166.123"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1166.652" endTime="1187.315">
+<Sync time="1166.652"/>
+au volet économie, le débrayage des salariés de Virgin Megastore. ils organisent, aujourd'hui à Paris, un rassemblement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+devant le magasin des Champs-Élysées pour protester 
+<Event desc="r" type="noise" extent="instantaneous"/>
+contre le dépôt de bilan qui doit être déposé aujourd'hui.
+<Sync time="1179.326"/>
+&lt;pers=Thibaud_LE_FLOCH&gt;Thibaud Le Floch&lt;/pers&gt;, vous êtes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ devant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le Virgin Megastore, sur les Champs-Élysées. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est une mobilisation 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nationale.
+</Turn>
+<Turn startTime="1187.315" endTime="1198.711">
+<Sync time="1187.315"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="1198.711" endTime="1238.671">
+<Sync time="1198.711"/>
+effectivement, c'est une mobilisation nationale pour les 1000 salariés des 26 magasins 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Virgin situés en France, comme celui des Champs-Élysées
+<Event desc="r" type="noise" extent="instantaneous"/>
+.
+<Sync time="1207.366"/>
+tout à l'heure 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+les
+<Event desc="dis=rev" type="noise" extent="end"/>
+ des dizaines et des 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+*dizaines
+<Event desc="dis=rev" type="noise" extent="end"/>
+ dizaines de salariés sont arrivés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+au son des sifflets et des mégaphones, avec des pancartes clamant : « oui à la culture ! 
+<Event desc="r" type="noise" extent="instantaneous"/>
+non à la fermeture ! ». 
+<Event desc="r" type="noise" extent="instantaneous"/>
+tout ça pour dénoncer, vous l'avez dit, le dépôt de bilan
+<Sync time="1219.676"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+déposé aujourd'hui par la direction ; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et surtout pour dénoncer 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la gestion du 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+prêt majoritaire
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de l'actionnaire majoritaire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+Butler Capital Partners, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+qui selon eux n'a pas vu la concurrence d'internet 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1232.407"/>
+d'ailleurs je vous propose d'écouter l'un des syndicalistes de Virgin. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+des propos recueillis au micro de &lt;pers=Francois_SLAMA&gt;François Slama&lt;/pers&gt; et &lt;pers=Chloe_BAIZE&gt;Chloé Baïze&lt;/pers&gt;.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="1238.671" endTime="1239.357">
+<Sync time="1238.671"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1239.357" endTime="1270.781">
+<Sync time="1239.357"/>
+nous, ce qu'on reproche c'est que l'actionnaire n'ait pas voulu s'impliquer 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans le projet Virgin. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il a acheté Virgin, il a rien fait et aujourd'hui il nous jette et c'est juste inacceptable. le pire du pire ce serait la liquidation, ça serait 1000 emplois supprimés. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+mais nous, vraiment, on veut se battre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+pour maintenir tous ces emplois ; on cherche un repreneur.
+<Sync time="1254.168"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on veut
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on veut travailler avec lui, vraiment, sur un nouveau projet Virgin, un nouveau projet commercial 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui re(noue)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui renoue avec l'ADN de Virgin, qu'on redevienne des magasins 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="en" type="language" extent="begin"/>
+fun
+<Event desc="en" type="language" extent="end"/>
+, décalés, avec de l'événementiel, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+vraiment tournés vers les nouvelles technologies
+<Event desc="r" type="noise" extent="instantaneous"/>
+.
+<Sync time="1265.929"/>
+il y a vraiment la place pour un magasin comme ça. il faut arrêter ! les gens achètent différemment, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+mais ils achètent quand même.
+</Turn>
+<Turn startTime="1270.781" endTime="1282.964">
+<Sync time="1270.781"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="1282.964" endTime="1328.799">
+<Sync time="1282.964"/>
+d'ailleurs les gens continuent d'acheter mais de plus en plus sur internet et de moins en moins dans les magasins du type 
+<Event desc="r" type="noise" extent="instantaneous"/>
+Virgin. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+alors, pour savoir un petit peu à quoi ressemblent les difficultés du groupe, il faut savoir que Virgin 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ne payait plus ni ses fournisseurs ni ses loyers depuis plusieurs mois.
+<Sync time="1297.178"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+par exemple, aux Champs-Élysées, derrière moi, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+le loyer n'était plus payé depuis 3 mois, ce qui représente 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 8 millions d'euros de dette. au total, la dette du groupe s'élève à 22 millions.
+<Sync time="1307.794"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ce dépôt de bilan va donc déboucher sur une procédure de redressement judiciaire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+si l'entreprise peut être sauvée. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+si ce n'est pas le cas, ce sera la liquidation pure et simple du groupe,
+<Sync time="1317.392"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+un scénario que veulent, bien évidemment, éviter les 1000 salariés de Virgin. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+désormais, leur sort repose entre les mains 
+<Event desc="r" type="noise" extent="instantaneous"/>
+de l'administrateur judiciaire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+qui va être nommé dans les prochains jours par le tribunal de commerce.
+</Turn>
+<Turn startTime="1328.799" endTime="1329.641">
+<Sync time="1328.799"/>
+
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1329.641" endTime="1340.0">
+<Sync time="1329.641"/>
+merci &lt;pers=Thibaud_LE_FLOCH&gt;Thibaud Le Floch&lt;/pers&gt;, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en duplex des Champs-Élysées. c'est la fin de cette édition. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+merci à tous de votre attention. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+rendez-vous ce soir à 20h30
+<Event desc="20 heures 30" type="pronounce" extent="previous"/>
+ pour un prochain journal de la rédaction.
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1340.0" endTime="1510.248">
+<Turn startTime="1340.0" endTime="1510.248">
+<Sync time="1340.0"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

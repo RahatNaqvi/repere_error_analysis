@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="LCP_CaVousRegarde_2012-09-20_002500" version="12" version_date="140310">
+<Speakers>
+<Speaker id="spk1" name="Christophe_BORGEL" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk2" name="Arnaud_ARDOIN" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk3" name="Florian_PHILIPPOT" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk4" name="Henri_STERDYNIAK" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk6" name="Pierre_LELLOUCHE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="1694.278">
+<Turn startTime="0" endTime="1694.278">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="1694.278" endTime="1994.984">
+<Turn startTime="1694.278" endTime="1696.991" speaker="spk1">
+<Sync time="1694.278"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce que nous avons promis c'est que ce redressement se ferait
+</Turn>
+<Turn startTime="1696.991" endTime="1697.403">
+<Sync time="1696.991"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1697.403" endTime="1715.141">
+<Sync time="1697.403"/>
+dans une volonté de justice 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec un effort qui sera demandé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'abord à ceux qui ont plus. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc si je veux appuyer cette dynamique, c'est parce que elle est rééquilibrée 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que il y a une réorientation de la politique européenne
+<Sync time="1712.069"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je crois qu'on est en train d'entraîner l'Europe sur une autre voie
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1715.141" endTime="1715.625">
+<Sync time="1715.141"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Christophe_BORGEL&gt;Christophe Bor(gel)&lt;/pers&gt; !
+</Turn>
+<Turn speaker="spk1" startTime="1715.625" endTime="1725.502">
+<Sync time="1715.625"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et soit on le pense alors dans ce cas-là, il faut appuyer cette dynamique, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+soit on le conteste
+<Event desc="bc" type="noise" extent="end"/>
+ mais je crains qu'on ne revienne 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+à la seule
+<Event desc="bc" type="noise" extent="end"/>
+ logique d'austérité qui était 
+<Event desc="bc" type="noise" extent="begin"/>
+portée hier par Madame
+<Event desc="bc" type="noise" extent="end"/>
+ &lt;pers=Angela_MERKEL&gt;Merkel&lt;/pers&gt; et Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sar(kozy)&lt;/pers&gt;
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1725.502" endTime="1734.126">
+<Sync time="1725.502"/>
+&lt;pers=Christophe_BORGEL&gt;Christophe Borgel&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="begin"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="end"/>
+ en tout cas merci parce que vous étiez en direct de Dijon à l'occasion 
+<Event desc="bc" type="noise" extent="begin"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de ces journées
+<Event desc="bc" type="noise" extent="end"/>
+ parlementaires.
+<Event desc="b" type="noise" extent="instantaneous"/>
+ vous reviendrez débattre avec nous en plateau, c'est beaucoup plus 
+<Event desc="b" type="noise" extent="begin"/>
+simple évidemment d'avoir vos interlocuteurs
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1734.126" endTime="1734.553">
+<Sync time="1734.126"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec plais(ir).
+</Turn>
+<Turn speaker="spk2" startTime="1734.553" endTime="1750.230">
+<Sync time="1734.553"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qui ne partagent pas complètement votre point de vue mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en tout cas merci, merci d'avoir répondu à nos questions en direct. &lt;pers=Florian_PHILIPPOT&gt;Florian Philippot&lt;/pers&gt;, qu'est-ce que vous répondez pour avancer un petit peu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1742.747"/>
+parce que moi j'y comprends plus rien, journaliste j'ai lu que &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; avait quand même fait avancer un certain nombre de points, on a entendu
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des chefs d'états parler de croissance, de dire que
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1750.230" endTime="1752.367">
+<Sync time="1750.230"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1752.367" endTime="1753.438">
+<Sync time="1752.367"/>
+infléchi ou est-ce qu'il a
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1753.438" endTime="1754.343">
+<Sync time="1753.438"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1754.343" endTime="1755.93">
+<Sync time="1754.343"/>
+vient du ministre des affaires européennes lui-même 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1755.93" endTime="1756.47">
+<Sync time="1755.93"/>
+énerve tout le monde !
+</Turn>
+<Turn speaker="spk3" startTime="1756.47" endTime="1810.431">
+<Sync time="1756.47"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+qui a dit
+<Event desc="b" type="noise" extent="end"/>
+ nous nous sommes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+nous nous sommes trompés pendant la campagne, nous n'aurions pas dû dire que nous allions renégocier 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le tr(aité)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le traité mais tenter de le réorienter. voilà donc ils ont avoué, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ y a pas de renégociation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais au-delà de ça 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1767.009"/>
+je voudrais
+<Event desc="b" type="noise" extent="instantaneous"/>
+ quand même faire un bilan aussi parce qu'on nous dit toujours 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on nous promet toujours le coup d'après. 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ allez, prenez ce traité, il est pas terrible, il est pas parfait mais vous verrez le suivant il sera parfait. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on nous a fait le coup depuis 20 ans tout de même &amp;hein 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et demain l'Europe sociale, c'était le slogan du parti socialiste 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1780.474"/>
+partagé d'ailleurs 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ à l'époque déjà par le RPR 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et je vois que l'UMP essaye de créer un faux débat sur ce sujet-là alors qu'ils sont parfaitement d'accord et qu'ils voteront ensemble 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ comme d'habitude 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce traité. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je reprends juste une citation, c'est assez drôle ça vient du " bêtisier de Maastricht " 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ça a été écrit par &lt;pers=Jean-Pierre_CHEVENEMENT&gt;Jean-Pierre Chevènement&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Michel_SAPIN&gt;Michel Sapin&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1794.421"/>
+le traité de Maastricht se traduira par plus de croissance, plus d'emplois, plus de solidarité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le Figaro du 20 août 1992. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Martine_AUBRY&gt;Martine Aubry&lt;/pers&gt;, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le 12 septembre 1992 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1804.411"/>
+l'Europe ce sera plus d'emploi, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ plus de protection sociale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et moins d'exclusion 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et même &lt;pers=Bernard_KOUCHNER&gt;Bernard Kouchner&lt;/pers&gt; lui il est assez drôle 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1810.431" endTime="1811.060">
+<Sync time="1810.431"/>
+bon fin des citations
+</Turn>
+<Turn speaker="spk3" startTime="1811.060" endTime="1812.727">
+<Sync time="1811.060"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+le 8 septembre
+<Event desc="bc" type="noise" extent="end"/>
+ 92, la dernière
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1812.727" endTime="1815.07">
+<Sync time="1812.727"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1815.07" endTime="1822.995">
+<Sync time="1815.07"/>
+rit beaucoup plus mais je crois que les français pleurent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que cette Europe-là, c'est l'Europe de l'austérité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et c'est l'Europe de moins de démocratie, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ moins de souveraineté nationale parce qu'il faut rentrer dans le conte(nu)
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1822.995" endTime="1828.024">
+<Sync time="1822.995"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1828.024" endTime="1834.734">
+<Sync time="1828.024"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+je pense
+<Event desc="bc" type="noise" extent="end"/>
+ que nous sommes tous d'accord pour dire qu'il aurait fallu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une rupture franche dans la stratégie européenne
+</Turn>
+<Turn startTime="1834.734" endTime="1835.594">
+<Sync time="1834.734"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1835.594" endTime="1846.392">
+<Sync time="1835.594"/>
+sur à ces rapports. il aurait fallu effectivement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un vrai pacte de croissance. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il aurait fallu renoncer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à des politiques d'austérité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+qui plombent 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+complétement
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ complètement l'Europe
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1846.392" endTime="1847.073">
+<Sync time="1846.392"/>
+et en plus des poli(tiques)
+</Turn>
+<Turn speaker="spk4 spk3" startTime="1847.073" endTime="1850.188">
+<Sync time="1847.073"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1850.188" endTime="1864.205">
+<Sync time="1850.188"/>
+BCE de soutenir les pays sans leur imposer 
+<Event desc="bc" type="noise" extent="begin"/>
+comme elle le fait
+<Event desc="bc" type="noise" extent="end"/>
+ actuellement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des politiques d'austérité 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le fait est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le fait 
+<Event desc="bc" type="noise" extent="begin"/>
+est
+<Sync time="1857.767"/>
+
+<Event desc="bc" type="noise" extent="end"/>
+le fait est que la France n'a pas réussi malheureusement 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à avoir le rapport de force 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ en Europe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et
+</Turn>
+<Turn speaker="spk4 spk6" startTime="1864.205" endTime="1871.469">
+<Sync time="1864.205"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1871.469" endTime="1873.97">
+<Sync time="1871.469"/>
+parce que tous les deux, &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; comme &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; avaient la
+</Turn>
+<Turn speaker="spk4 spk2" startTime="1873.97" endTime="1876.098">
+<Sync time="1873.97"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1876.098" endTime="1877.491">
+<Sync time="1876.098"/>
+puisse réussir à changer l'Europe.
+</Turn>
+<Turn speaker="spk4 spk2" startTime="1877.491" endTime="1880.244">
+<Sync time="1877.491"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1880.244" endTime="1880.775">
+<Sync time="1880.244"/>
+&lt;pers=Pierre_LELLOUCHE&gt;Pierre Lellou(che)&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk6" startTime="1880.775" endTime="1881.567">
+<Sync time="1880.775"/>
+les slogans 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3 spk6" startTime="1881.567" endTime="1884.337">
+<Sync time="1881.567"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1884.337" endTime="1885.948">
+<Sync time="1884.337"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ attendez est-ce 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ qu'on peut juste parler des faits.
+</Turn>
+<Turn speaker="spk6 spk2" startTime="1885.948" endTime="1888.384">
+<Sync time="1885.948"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1888.384" endTime="1902.428">
+<Sync time="1888.384"/>
+cette année 
+<Event desc="bc" type="noise" extent="begin"/>
+Monsieur &lt;pers=Florian_PHILIPPOT&gt;Philippot&lt;/pers&gt;
+<Event desc="bc" type="noise" extent="end"/>
+ et vous monsieur l'économiste 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1891.391"/>
+vous ne pouvez pas ne pas *savoir que la France 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ va devoir emprunter 60 milliards, c'est un déficit 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ plus 90 qui viennent à échéance 90, 100. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+en réalité on a
+<Event desc="bc" type="noise" extent="end"/>
+ arrêtez, s'il vous plait !
+</Turn>
+<Turn speaker="spk6 spk3" startTime="1902.428" endTime="1910.564">
+<Sync time="1902.428"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1910.564" endTime="1926.792">
+<Sync time="1910.564"/>
+sans arrêt. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc le problème de &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; aujourd'hui c'est quoi ? c'est qu'au minimum il doit aller sur les marchés chercher 150 milliards d'euros l'année prochaine.
+<Sync time="1918.324"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si il ne tient pas les engagements de baisse des déficits 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et d()
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et d'une trajectoire vertueuse, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les taux d'intérêt qui sont très bas aujourd'hui vont exploser.
+</Turn>
+<Turn speaker="spk6 spk2" startTime="1926.792" endTime="1927.476">
+<Sync time="1926.792"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1927.476" endTime="1932.519">
+<Sync time="1927.476"/>
+se trouver 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec des taux d'intérêt italiens ou espagnols 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui va
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui va tomber la
+</Turn>
+<Turn speaker="spk4 spk6" startTime="1932.519" endTime="1950.437">
+<Sync time="1932.519"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Sync time="1943.989"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1950.437" endTime="1956.282">
+<Sync time="1950.437"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ dette, elle est détenue par les ménages japonais. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la dette 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ française, malheureusement, est détenue par les marchés, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est ça la grande
+</Turn>
+<Turn speaker="spk2 spk6" startTime="1956.282" endTime="1962.185">
+<Sync time="1956.282"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1962.185" endTime="1990.22">
+<Sync time="1962.185"/>
+je vous en prie, juste un point. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pourquoi est-ce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on accuse de 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la France de s'être couchée face à l'Allemagne. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ là 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on a vu des livres de Monsieur &lt;pers=Arnaud_MONTEBOURG&gt;Montebourg&lt;/pers&gt; dénoncer l'Allemagne, on continue à dire qu'il y a une logique allemande 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1974.785"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ quel c'est quoi le problème ? 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+mais
+<Event desc="dis=rep" type="noise" extent="end"/>
+ mais c'est quoi le problème ? c'est que l'Allemagne, elle est en excédent commercial 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1980.112"/>
+c'est le premier pays 
+<Event desc="bc" type="noise" extent="begin"/>
+exportateur du monde
+<Event desc="bc" type="noise" extent="end"/>
+, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle dégage des excédents, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle est au plein emploi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et en effet, elle est contre l'idée d'aller 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+financer à fond perdu
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk6" startTime="1990.22" endTime="1994.984">
+<Sync time="1990.22"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1994.984" endTime="3300.384">
+<Turn startTime="1994.984" endTime="3300.384">
+<Sync time="1994.984"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
