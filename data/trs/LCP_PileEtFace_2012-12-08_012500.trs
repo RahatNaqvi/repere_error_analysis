@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Yann" audio_filename="LCP_PileEtFace_2012-12-08_012500" version="11" version_date="140311">
+<Topics>
+<Topic id="to1" desc="r"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Catherine_VAUTRIN" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk2" name="Karine_BERGER" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk3" name="Jean-Pierre_GRATIEN" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="628.883">
+<Turn startTime="0" endTime="628.883">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="628.883" endTime="811.311">
+<Turn startTime="628.883" endTime="660.527" speaker="spk1">
+<Sync time="628.883"/>
+vous savez, comme moi, que la mobilité n'est pas aussi simple que ça 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et dire 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ à quelqu'un de 50 ans : « vous déménagez demain matin. votre femme a un boulot ? &amp;bah écoutez, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+on va essayer d'en trouver un autre. vous avez acheté une maison ? &amp;bah dommage, tant pis, on fait autre chose ".
+<Sync time="638.329"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'est facile à dire, c'est pas facile à vivre. à partir de là, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il faut, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et c'est là-dessus qu'on a également un sujet, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+qui est le sujet de l'accompagnement des personnes qui sont en recherche d'emploi, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+avec de vraies formations 
+<Event desc="r" type="noise" extent="instantaneous"/>
+qui leur permettent d'aller vers autre chose 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="652.8"/>
+là-dessus, aujourd'hui, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il y a une difficulté dans notre pays 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+au
+<Event desc="dis=rev" type="noise" extent="end"/>
+ à ce que je vois dans ce que vous proposez aujourd'hui, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il n'y a pas d'évolution proposée.
+</Turn>
+<Turn speaker="spk2" startTime="660.527" endTime="672.833">
+<Sync time="660.527"/>
+ alors je, (en)fin
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+d(e)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+s(ur)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sur ce point là 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je pense sincèrement que la négociation générale qui est en train de se mettre en place sur la formation professionnelle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ apportera beaucoup 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de réponses au point 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+que
+<Event desc="dis=rep" type="noise" extent="end"/>
+ que vous soulevez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais je voudrais
+</Turn>
+<Turn speaker="spk3 spk2" startTime="672.833" endTime="673.384">
+<Sync time="672.833"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="673.384" endTime="675.088">
+<Sync time="673.384"/>
+parce que c'est pas des négociations sur la f(ormation)
+</Turn>
+<Turn speaker="spk3 spk2" startTime="675.088" endTime="675.353">
+<Sync time="675.088"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="675.353" endTime="677.419">
+<Sync time="675.353"/>
+formation professionnelle.
+ c'est un des points
+</Turn>
+<Turn speaker="spk1" startTime="677.419" endTime="677.613">
+<Sync time="677.419"/>
+c'est
+</Turn>
+<Turn speaker="spk3 spk1" startTime="677.613" endTime="678.722">
+<Sync time="677.613"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="678.722" endTime="679.67">
+<Sync time="678.722"/>
+c'est un point fondamen(tal)
+</Turn>
+<Turn speaker="spk3 spk2" startTime="679.67" endTime="680.575">
+<Sync time="679.67"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="680.575" endTime="681.584">
+<Sync time="680.575"/>
+sécuriser
+</Turn>
+<Turn speaker="spk2 spk3" startTime="681.584" endTime="682.132">
+<Sync time="681.584"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="682.132" endTime="683.086">
+<Sync time="682.132"/>
+parcours profe(ssionnel)
+</Turn>
+<Turn speaker="spk2 spk3" startTime="683.086" endTime="683.678">
+<Sync time="683.086"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="683.678" endTime="695.65">
+<Sync time="683.678"/>
+c'est un point fondamental. c'est-à-dire que, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j(e)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je comprends les propos de madame &lt;pers=Catherine_VAUTRIN&gt;Vautrin&lt;/pers&gt;, qu'elle ne s'aligne pas sur 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+la
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l(es) les les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les réclamations 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ du MEDEF et d'autres *organisations patronales qui veulent 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la flexibilité, la flexibilité
+<Event desc="dis=rep" type="noise" extent="end"/>
+, la flexibilité, rien que la flexibilité.
+</Turn>
+<Turn startTime="695.65" endTime="696.313">
+<Sync time="695.65"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="696.313" endTime="715.382">
+<Sync time="696.313"/>
+sur ce point-là, si vous êtes d'accord avec cette idée-là, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+on va s(e) on va
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on va trouver un point 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'entente, c'est-à-dire que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="702.456"/>
+si on fait évoluer le droit du travail 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ça signifie que, du côté des salariés, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+on doit faire aussi évoluer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+la protection, 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ le droit à la formation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et la sécurisation sur l'ensemble du parcours 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de l(a)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ du parcours professionnel. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3 spk2" startTime="715.382" endTime="716.232">
+<Sync time="715.382"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="716.232" endTime="716.576">
+<Sync time="716.232"/>
+(ga)gnant
+</Turn>
+<Turn speaker="spk2" startTime="716.576" endTime="748.185">
+<Sync time="716.576"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c'est don(nant)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ en tout cas c'est donnant-donnant. je sais pas si c'est gagnant-gagnant, à ce stade 
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'est donnant-donnant
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et je suis très gênée
+<Event desc="b" type="noise" extent="instantaneous"/>
+, moi, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+quand j'entends 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'opposition expliquer que la seule solution c'est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la flexibilisation du marché du travail 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="729.758"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ monsieur &lt;pers=Francois_FILLON&gt;Fillon&lt;/pers&gt; 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ a parlé de faire passer 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la durée du travail à 48 heures par semaine. j'ai pas très bien compris ce qui lui prenait ce jour-là. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'était avant la bagarre interne. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="737.169"/>
+mais 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c'(est)
+<Event desc="dis=rev" type="noise" extent="end"/>
+. enfin, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on n'est pas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans un monde 
+<Event desc="r" type="noise" extent="instantaneous"/>
+où 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="741.512"/>
+la solution c'est de faire exploser le droit du travail et puis d'attendre que le salarié, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ou la personne au chômage se débrouille toute seu(le)
+</Turn>
+<Turn speaker="spk3 spk2" startTime="748.185" endTime="749.697">
+<Sync time="748.185"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="749.697" endTime="756.12">
+<Sync time="749.697"/>
+il faut donner du côté 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+des s(alariés)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ des employeurs plus de facilité pour se séparer, le cas échéant, de salariés mais en cont(repartie)
+</Turn>
+<Turn speaker="spk2 spk3" startTime="756.12" endTime="757.985">
+<Sync time="756.12"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="757.985" endTime="759.671">
+<Sync time="757.985"/>
+(salar)ié. qu'il y ait une sécurisat(ion)
+</Turn>
+<Turn speaker="spk2 spk3" startTime="759.671" endTime="760.704">
+<Sync time="759.671"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="760.704" endTime="761.345">
+<Sync time="760.704"/>
+tout au long de la vie
+</Turn>
+<Turn speaker="spk2 spk3" startTime="761.345" endTime="762.13">
+<Sync time="761.345"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="762.13" endTime="784.008">
+<Sync time="762.13"/>
+PME demandent surtout la capacité de pouvoir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+s'adapter en cas de choc économique. quand votre chiffre d'affaire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+fait moins 40%, comme ça a été le cas à l'automne 2008 dans certains secteurs, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il faut pouvoir proposer une solution d'adaptation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à ses équipes salariales. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="774.647"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en échange
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en échange, 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et je tiens à préciser que cet « en échange » 
+<Event desc="r" type="noise" extent="instantaneous"/>
+est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ absolument fondamental, on est sur 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+la même
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le *même niveau, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+en échange : 
+<Event desc="r" type="noise" extent="instantaneous"/>
+droit à la formation
+</Turn>
+<Turn startTime="784.008" endTime="784.517">
+<Sync time="784.008"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="784.517" endTime="794.123">
+<Sync time="784.517"/>
+avec la responsabilité du salarié 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui choisit sa formation, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+sécurisation sur l'ensemble 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+d(e)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ du parcours de vie et puis 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+d'autres éléments notamment sur les contrats précaires
+</Turn>
+<Turn speaker="spk1" startTime="794.123" endTime="808.239">
+<Sync time="794.123"/>
+alors là-dessus il y a plusieurs éléments, d'abord je vais vous citer 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ (quel)qu'un qui est pas connu pour son appartenance à l'UMP, c'est madame &lt;pers=Segolene_ROYAL&gt;Royal&lt;/pers&gt;, qui elle-même disait dans un débat il y a peu de temps : 
+<Event desc="r" type="noise" extent="instantaneous"/>
+« l'embauche, elle est liée au carnet de commandes ». et ça c'est le vrai sujet, 
+<Event desc="bc" type="noise" extent="begin"/>
+hum
+<Event desc="bc" type="noise" extent="end"/>
+ donc il y a bien sûr une nécessité de flexibilité, je suis heureuse 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de vous entendre d(ire)
+</Turn>
+<Turn speaker="spk1 spk3" startTime="808.239" endTime="808.984">
+<Sync time="808.239"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="808.984" endTime="811.311">
+<Sync time="808.984"/>
+vous allez nous *citer 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Gerhard_SCHRODER&gt;Gerhard Schröder&lt;/pers&gt;
+</Turn>
+</Section>
+<Section type="nontrans" startTime="811.311" endTime="2064.672">
+<Turn startTime="811.311" endTime="2064.672">
+<Sync time="811.311"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

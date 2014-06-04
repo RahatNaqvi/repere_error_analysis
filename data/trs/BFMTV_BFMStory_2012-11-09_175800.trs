@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Vervisch_Ménard" audio_filename="BFMTV_BFMStory_2012-11-09_175800" version="17" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Olivier_TRUCHOT" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Rachid_M_BARKI" check="no" type="male" dialect="native" accent="R2" scope="local"/>
+<Speaker id="spk4" name="Jean-Vincent_PLACE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk6" name="Fabienne_DELAHAYE" check="no" dialect="native" accent="R4" scope="local" type="female"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="694.081">
+<Turn startTime="0" endTime="694.081">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="694.081" endTime="1298.171">
+<Turn speaker="spk1" startTime="694.081" endTime="701.576">
+<Sync time="694.081"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+dans l'actualité, également ce soir, ce 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+^^braguage spectaculaire
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ce braquage spectaculaire filmé par
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des caméras de surveillance dans un centre commercial à Lon(dres).
+</Turn>
+<Turn speaker="spk2" startTime="701.576" endTime="771.736">
+<Sync time="701.576"/>
+*oui, vous allez voir que les malfaiteurs ont fait irruption à moto, directement à l'intérieur de ce centre commercial, au milieu des passants.
+<Sync time="706.955"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ils se sont emparés 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'objets de valeur dans une bijouterie, après avoir brisé la vitrine. les malfaiteurs
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sont ensuite repartis, sans être inquiétés et bien sûr,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en chevauchant leur moto.
+<Sync time="717.601"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+rien ne va plus chez "Ibéria". la compagnie aérienne Espagnole annonce la suppression de 4500 emplois et une baisse générale des salaires.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ "Ibéria" perd en effet 1,7
+<Event desc="un virgule sept" type="pronounce" extent="previous"/>
+ million d'euros par jour
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+et
+<Event desc="dis=hes" type="noise" extent="end"/>
+ lutte pour sa survie.
+<Sync time="731.327"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'est ce qu'affirme son directeur général.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ inquiétude de l'ONU à propos 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+de
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la 
+<Event desc="b" type="noise" extent="begin"/>
+population syrienne. 4 millions d'entre eux ont besoin d'aide selon l'Organisation des Nations Unies qui indique.
+<Sync time="742.896"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+que 11 mille syriens se sont réfugiés dans les pays voisins ces dernières 24 heures,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dont 9000 pour la seule Turquie.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le départ
+<Event desc="b" type="noise" extent="end"/>
+ du 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ septième "Vendée globe" sera donné demain, normalement, des Sables d'Olonne en Vendée.
+<Sync time="757.618"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+toutefois plusieurs skippers s'inquiètent déjà de la profondeur 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+des
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de l'eau,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans le chenal d'accès à la mer, 
+<Event desc="b" type="noise" extent="begin"/>
+à l'heure qui a été fixée pour le départ par l'organisation, et du coup,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ justement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le coup d'envoi de cette course de l'extrême pourrait être retardé.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="771.736" endTime="783.765">
+<Sync time="771.736"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on en saura plus tout à l'heure dans "BFM story" puisque je serai avec &lt;pers=Michel_DESJOYEAUX&gt;Michel Desjoyeaux&lt;/pers&gt;, le Zidane des mers, 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ celui qui a remporté, il est seul d'ailleurs, deux fois cette course mythique du "Vendée globe" qui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ démarre demain. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+demain et ce week-end, quel temps ?
+</Turn>
+<Turn speaker="spk2" startTime="783.765" endTime="808.624">
+<Sync time="783.765"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ alors demain déjà, le temps qui restera assez gris et pluvieux avec même des pluies soutenues et orageuses,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de la Vallée du Rhône à la Provence 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Alpes Côte d'Azur.
+<Sync time="792.391"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la neige tombera assez en abondance, d'ailleurs sur 
+<Event desc="b" type="noise" extent="begin"/>
+les Alpes du Nord. les températures de 10°
+<Event desc="10 degrés" type="pronounce" extent="previous"/>
+ à Cherbourg à 24°
+<Event desc="24 degrés" type="pronounce" extent="previous"/>
+ tout de même à Ajaccio. et puis dimanche,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce sera plutôt l'amélioration avec le retour des éclaircies des Charentes aux Ardennes,
+<Sync time="803.739"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ainsi qu'autour du Golfe du Lion. les températures de 9°
+<Event desc="9 degrés" type="pronounce" extent="previous"/>
+ à Rouen à 22 toujours à Ajaccio.
+</Turn>
+<Turn speaker="spk1" startTime="808.624" endTime="817.839">
+<Sync time="808.624"/>
+ merci &lt;pers=Rachid_M_BARKI&gt;Rachid M'Barki&lt;/pers&gt;. on vous retrouve à 18h30
+<Event desc="18 heures 30" type="pronounce" extent="previous"/>
+.
+<Event desc="b" type="noise" extent="end"/>
+ je reçois le frondeur du jour, &lt;pers=Jean-Vincent_PLACE&gt;Jean-Vincent Placé&lt;/pers&gt;. bonsoir monsieur 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ le président du groupe
+</Turn>
+<Turn speaker="spk1 spk4" startTime="817.839" endTime="818.519">
+<Sync time="817.839"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="818.519" endTime="824.923">
+<Sync time="818.519"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ au sénat.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous regrettez d'avoir rallumé ce matin le débat récurrent de la participation de vos collègues
+</Turn>
+<Turn speaker="spk1 spk4" startTime="824.923" endTime="825.807">
+<Sync time="824.923"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="825.807" endTime="892.395">
+<Sync time="825.807"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+pas du tout, moi je 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je réponds aux questions. vous voyez, donc je fais pas langue de bois, je suis connu pour ça.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il s'avère que je fais beaucoup de réunions 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+,
+<Sync time="833.869"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+en région 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+. je sillonne le pays, pas seulement à Notre-Dame-Des-Landes, mais ailleurs où il y a des luttes écologiques. j'étais dans l'Orne, par exemple, pour dénoncer 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+,
+<Sync time="841.82"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'installation d'une déchetterie à côté des haras, en détériorant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'environnement.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je peux vous dire que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est pas une question, d'ailleurs 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, d'Europe Écologie Les Verts, qui sont des parlementaires, une question du parti, *ce sont tout simplement les citoyennes et les citoyens
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui sont attachés
+<Sync time="856.084"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à la protection de notre planète, qui veulent lutter contre le dérèglement climatique,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui veulent mettre en place, qui veulent que le gouvernement mette en place, des
+<Event desc="r" type="noise" extent="instantaneous"/>
+ propositions 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ politiques,
+<Sync time="864.461"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+qui consistent 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à être écolo. et bien, il y a une déception, il y a une attente très très forte, il y a une impatience
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ notamment
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ après l'excellent discours du Président de la République, vous voyez, je suis pas très frondeur,
+<Sync time="876.455"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+le Président de la République, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;, a tracé une perspective stratégique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+de transition énergétique, de conversion écologique de l'économie,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ lors de son discours à la conférence environnementale ;
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et &amp;ben que fait le gouvernement ? voilà, c'est tout ! je pose la question !
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je relaie cette impatience là
+<Sync time="889.268"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+qui est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+très
+<Event desc="dis=rep" type="noise" extent="end"/>
+ très forte et cette interrogation, oui, &amp;ben voilà, les
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="892.395" endTime="893.514">
+<Sync time="892.395"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="893.514" endTime="895.266">
+<Sync time="893.514"/>
+vous avez été recadré par 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ votre mouvement 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="895.266" endTime="895.937">
+<Sync time="895.266"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="895.937" endTime="901.773">
+<Sync time="895.937"/>
+je sais bien. vous aimez bien 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ savoir si il y en a qui ont des mises au point, des recadrages ou je sais pas quoi.
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ personne ne recadre personne.
+</Turn>
+<Turn speaker="spk4 spk1" startTime="901.773" endTime="902.04">
+<Sync time="901.773"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="902.04" endTime="902.548">
+<Sync time="902.04"/>
+été recadré ?
+</Turn>
+<Turn speaker="spk4" startTime="902.548" endTime="933.966">
+<Sync time="902.548"/>
+non,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ mais moi je souhaite que nous soyons à l'aise dans ce gouvernement. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+je suis un des promoteurs principaux. c'est mes propres amis écologistes 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ justement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ m'ont assez reproché d'avoir tant voulu cet accord 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ avec le parti socialiste
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et tant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+voulu 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ cette 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ participation gouvernementale.
+<Sync time="916.084"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+mais si moi 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ aujourd'hui je dis,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et que ça a un certain 
+<Event desc="b" type="noise" extent="instantaneous"/>
+écho quand même,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ça ne va 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ pas dans le bon sens
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ moi je vois &lt;pers=Arnaud_MONTEBOURG&gt;Arnaud Montebourg&lt;/pers&gt;, il passe son temps à vouloir remettre le débat gaz de 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ schiste. et &amp;ben, cette 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+^^énernie
+<Event desc="dis=rev" type="noise" extent="end"/>
+ énergie là, c'est le cas de le dire,
+<Sync time="928.555"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et bien qu'il la mette à créer des emplois dans les énergies renouvelables
+<Event desc="b" type="noise" extent="instantaneous"/>
+ avec la banque publique 
+<Event desc="b" type="noise" extent="instantaneous"/>
+d'investissement.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ monsi(eur)
+</Turn>
+<Turn speaker="spk1" startTime="933.966" endTime="935.257">
+<Sync time="933.966"/>
+vous êtes pas fait rouler dans la farine, finalem(ent) ?
+</Turn>
+<Turn speaker="spk4" startTime="935.257" endTime="943.506">
+<Sync time="935.257"/>
+non, mais c'est pour ça que je suis pas content
+<Event desc="r" type="noise" extent="instantaneous"/>
+. parce que, au 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ moment où je parle, 
+<Event desc="b" type="noise" extent="begin"/>
+on peut encore changer les choses,
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je viens de le dire sur la banque publique d'investissement, la fiscalité écologique !
+</Turn>
+<Turn startTime="943.506" endTime="944.206">
+<Sync time="943.506"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="944.206" endTime="972.985">
+<Sync time="944.206"/>
+le premier ministre, et je suis pas content 
+<Event desc="b" type="noise" extent="instantaneous"/>
+non plus, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ annonce
+<Event desc="b" type="noise" extent="instantaneous"/>
+ des 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mesures en faveur des entreprises sans conditionnalité. déjà, bon, 
+<Event desc="b" type="noise" extent="begin"/>
+on nous disait: « on trouve pas d'argent ! », tout d'un coup, on trouve 20 milliards. on trouve 20 milliards en augmentant la TVA, mais ça j'y reviendrai.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ces 20 milliards là, il faut les conditionnaliser.
+<Event desc="b" type="noise" extent="end"/>
+
+<Sync time="959.068"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il faut faire en sorte 
+<Event desc="r" type="noise" extent="instantaneous"/>
+que *il y ait soit de la recherche, soit de l'innovation, soit des emplois, soit de l'écologie !
+<Event desc="r" type="noise" extent="instantaneous"/>
+ moi 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ on me dit : « &amp;ah oui, mais la fiscalité écologique, ça attendra 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 2016, on fera 3 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ milliards ». enfin, on se moque du monde et on se moque des écologistes pour le coup.
+</Turn>
+<Turn speaker="spk1 spk4" startTime="972.985" endTime="974.758">
+<Sync time="972.985"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="974.758" endTime="992.812">
+<Sync time="974.758"/>
+juillet on nous a dit : « &amp;ah mais
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on va 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pas faire l'augmentation de TVA voulue par &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; » 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ; &amp;paf ! on fait de 
+<Event desc="b" type="noise" extent="instantaneous"/>
+de la TVA. et on fait de la TVA sur le taux intermédiaire.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le taux intermédiaire, je vais vous donner un exemple : 
+<Sync time="984.822"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+moi j'étais vice président des transports de la région 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Île-de-France, je n'ai pas attendu 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ Monsieur &lt;pers=Lionel_JOSPIN&gt;Jospin&lt;/pers&gt; pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le non cumul des mandats, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+je l'ai fait de moi-même.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et bien, c'est transport collectif !
+</Turn>
+<Turn startTime="992.812" endTime="993.24">
+<Sync time="992.812"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="993.24" endTime="993.908">
+<Sync time="993.24"/>
+c'est les transports
+</Turn>
+<Turn speaker="spk1 spk4" startTime="993.908" endTime="996.917">
+<Sync time="993.908"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="996.917" endTime="1002.301">
+<Sync time="996.917"/>
+vous me faites une longue liste 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ de tout ce qui ne va pas
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec les socialistes.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pourquoi êtes vous encore dans cette majorité ? 
+</Turn>
+<Turn speaker="spk4" startTime="1002.301" endTime="1043.271">
+<Sync time="1002.301"/>
+(par)ce que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je considère que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a des françaises et des français
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui sont en train de s'éloigner du gouvernement. comme déjà, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la gauche de la gauche,
+<Sync time="1009.28"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+les 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ communistes et même déjà des 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+des gens qui se retrouvaient dans la gauche du parti socialiste.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et moi, comme justement, je veux la réussite de ce gouvernement,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ comme je veux aider &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+eh bien au lieu de l'aider
+<Sync time="1019.237"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+en la fermant 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et y compris nombre de collègues qui disent dans les couloirs : « &amp;ah oui, mais tu as raison, mais est ce que c'est le moment ? » 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ etc.
+<Event desc="et cetera" type="pronounce" extent="previous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+, oui, je crois que c'est exactement le moment,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que c'est dans la première année qu'on peut faire des réformes
+<Sync time="1029.748"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et je le dis très 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tranquillement : si il y a pas ces réformes là, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+cette année, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+on ne les verra pas.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que, &amp;hein bon, on va se dire la vérité,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ quand on nous dit : « on va fermer Fessenheim
+<Event desc="b" type="noise" extent="instantaneous"/>
+ en 2016 et qu'on va faire la fiscalité écologique
+<Event desc="b" type="noise" extent="instantaneous"/>
+ en 2016,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est une année 
+<Event desc="b" type="noise" extent="instantaneous"/>
+électorale, c'est avant la
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1043.271" endTime="1044.137">
+<Sync time="1043.271"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1044.137" endTime="1054.586">
+<Sync time="1044.137"/>
+bien sûr, j'y crois pas. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+donc moi, je le souhaite et je le dis : je souhaite des engagements 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ forts.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je sais que notre secrétaire national verra, et c'est bien,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le premier ministre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mardi
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ; et bien
+<Event desc="b" type="noise" extent="instantaneous"/>
+, ça doit être sur la table ! 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1054.586" endTime="1055.345">
+<Sync time="1054.586"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1055.345" endTime="1063.751">
+<Sync time="1055.345"/>
+en plus,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je vais vous dire, parce que les temps politiques ont leur rôle.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous serons en plus le week-end prochain,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les parlementaires 
+<Event desc="b" type="noise" extent="instantaneous"/>
+écologistes, à Notre-Dame-Des-Landes.
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+on voit bien
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1063.751" endTime="1065.048">
+<Sync time="1063.751"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1065.048" endTime="1083.447">
+<Sync time="1065.048"/>
+là, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est là, c'est vraiment
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la cerise sur le gâteau, 
+<Event desc="b" type="noise" extent="instantaneous"/>
+si j'ose dire. 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on va 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ envoyer la police 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+dans une répression incroyable
+<Event desc="b" type="noise" extent="instantaneous"/>
+ avec des lacrymogènes, 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+avec des
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ hélicoptères,
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh 
+<Event desc="b" type="noise" extent="instantaneous"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dégager des manifestants 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sympatiques et pacifiques,
+<Sync time="1079.183"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et des 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ associations environnementales,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui, justement, veulent protéger notre environnement.
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1083.447" endTime="1086.092">
+<Sync time="1083.447"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1086.092" endTime="1088.597">
+<Sync time="1086.092"/>
+que faites vous avec les socialistes ? puisque les socialistes ne vous respec(tent)
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1088.597" endTime="1089.139">
+<Sync time="1088.597"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1089.139" endTime="1101.986">
+<Sync time="1089.139"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+moi, je constate 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, je n'ai pas un problème de suceptibilité, ni moi ni le parti.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous, nous souhaitons que ces politiques là se mettent en place. c'est même plus une question d'accord
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ou de questions, j'ai vu que le premier ministre, entendu,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ disait le mot "politicien". 
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1101.986" endTime="1106.515">
+<Sync time="1101.986"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1106.515" endTime="1126.063">
+<Sync time="1106.515"/>
+il fait ce qu'il veut. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on en est pas là. c'est que on est en retard. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ on est en retard sur tout. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ce qui a été présenté après le rapport Gallois.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est extrêmement décalé, c'est archaïque et ça va être déjà très rapidement dilué.
+<Sync time="1117.755"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et c'est la réalité. et c'est pour ça que je suis aussi ferme et passionné sur le sujet,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est qu'il nous faut absolument 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ entamer rapidement la conversion écologique de l'économie.
+</Turn>
+<Turn speaker="spk1" startTime="1126.063" endTime="1144.802">
+<Sync time="1126.063"/>
+(al)ors parallèlement,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; donne 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une interview 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans "Marianne" 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1130.448"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'était, semble t-il, avant votre intervention. 
+<Event desc="bc" type="noise" extent="begin"/>
+oui
+<Event desc="bc" type="noise" extent="end"/>
+ il a pas l'air d'être très perturbé par l'éventualité du départ de &lt;pers=Cecile_DUFLOT&gt;Cécile Duflot&lt;/pers&gt; et de &lt;pers=Pascal_CANFIN&gt;Pascal Canfin&lt;/pers&gt; du gouvernement. quand on l'interroge, il dit : « &amp;ben, 
+<Event desc="b" type="noise" extent="begin"/>
+c'est possible, bon, je ne le voudrais pas
+<Event desc="b" type="noise" extent="end"/>
+, je ne le souhaite pas »
+<Event desc="bc" type="noise" extent="instantaneous"/>
+, il est très content des deux ministres, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+mais ça sera pas un drame.
+</Turn>
+<Turn startTime="1144.802" endTime="1145.519">
+<Sync time="1144.802"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1145.519" endTime="1163.129">
+<Sync time="1145.519"/>
+
+<Event desc="rire" type="noise" extent="begin"/>
+écoutez
+<Event desc="rire" type="noise" extent="end"/>
+, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+le Président de la République, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+s(i)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ si il dit, parce qu'il est très fin politique,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ c'est connu, et moi, j'ai beaucoup d'estime et de respect pour le Président de la République &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si, lui même, alors que 
+<Event desc="b" type="noise" extent="begin"/>
+on sait pas très bien pourquoi
+<Event desc="b" type="noise" extent="end"/>
+ le Président de la République répond à ce type de questions,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dit que c'est possible.
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="1159.928"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'est quelque part, il sent 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ que les écologistes,
+</Turn>
+<Turn startTime="1163.129" endTime="1163.905">
+<Sync time="1163.129"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1163.905" endTime="1170.08">
+<Sync time="1163.905"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+forcément, prennent de la distance avec ce gouvernement qui ne fait pas suffisamment.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puisque vous parlez des ministres,
+<Event desc="b" type="noise" extent="end"/>
+ heureusement qu'ils sont là.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ heureusement
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1170.08" endTime="1172.501">
+<Sync time="1170.08"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1172.501" endTime="1184.827">
+<Sync time="1172.501"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+&lt;pers=Cecile_DUFLOT&gt;Cécile Duflot&lt;/pers&gt; fait un boulot énorme 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur le logement. moi quand on me dit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, voilà, il y a un gouvernement, il y a 38 personnes
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;bah 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, on me dit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, citons-les ! et 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+f(aisons)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ disons avec un nom, une action.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et &amp;ben &lt;pers=Cecile_DUFLOT&gt;Cécile Duflot&lt;/pers&gt;, le logement, ça elle fait.
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1184.827" endTime="1185.92">
+<Sync time="1184.827"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn startTime="1185.92" endTime="1201.248" speaker="spk4">
+<Sync time="1185.92"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et c'est normal. elle est dans le gouvernement, c'est la stratégie
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ politique que nous avons voulu. d'ailleurs, je le dis aussi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+: si 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je suis aussi, pour le coup,
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ entendu aujourd'hui,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est parce que nous avons un pied dans le gouvernement. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et un pied, non pas dans la contestation,
+<Sync time="1199.641"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans la proposition !
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1201.248" endTime="1203.062">
+<Sync time="1201.248"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1203.062" endTime="1231.615">
+<Sync time="1203.062"/>
+et oui, je suis 
+<Event desc="b" type="noise" extent="instantaneous"/>
+persuadé
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que, dans les 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ semaines qui viennent,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y aura des débats, et ces débats là doivent prévaloir.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pas parce que
+<Event desc="b" type="noise" extent="instantaneous"/>
+ je veux être entendu ou que même le parti
+<Event desc="b" type="noise" extent="instantaneous"/>
+ écologiste veut être entendu, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+tout simplement parce que c'est l'urgence pour le pays, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et c'est la nécessité. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+est-ce que vous croyez,
+<Sync time="1217.399"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+que le numéro qui a été fait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+à Pétroplus,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à 
+<Event desc="b" type="noise" extent="instantaneous"/>
+Florange
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et à 
+<Event desc="b" type="noise" extent="instantaneous"/>
+Peugeot, ça a 
+<Event desc="b" type="noise" extent="begin"/>
+créé un
+<Event desc="b" type="noise" extent="end"/>
+ emploi ? voilà ! moi, je pose ces questions là.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que je pense que ce quinquennat de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;, il doit être utile
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et pour être 
+<Event desc="b" type="noise" extent="instantaneous"/>
+utile, il faut qu'il y ait
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un virage écologique
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de la politique
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1231.615" endTime="1232.699">
+<Sync time="1231.615"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1232.699" endTime="1244.79">
+<Sync time="1232.699"/>
+parce que votre collègue, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le maire de Sevran, &lt;pers=Stephane_GATIGNON&gt;Stéphane Gatignon&lt;/pers&gt;, Europe Écologie Les Verts, c'est une des villes les plus pauvres de France. il lance un combat.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il a décidé de faire la grève de la faim pour obtenir
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une aide de l'état. vous le soutenez ?
+</Turn>
+<Turn speaker="spk4" startTime="1244.79" endTime="1266.068">
+<Sync time="1244.79"/>
+bien sûr. est-ce que vous vous rendez compte que dans la semaine où,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on nous disait : « on ne peut pas trouver 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 1 euro, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et c'est ce budget là et rien d'autre », austère et rigoureux,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ lorsqu'il y a quelques pigeons qui s'excitent 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur Facebook de Californie.
+<Sync time="1258.227"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et bien, on trouve 800 millions d'euros.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ là, on trouve 20 milliards
+<Event desc="b" type="noise" extent="instantaneous"/>
+ pour les entreprises,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors que bon, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ leur compétitivité-coût, ça va pas être résolu par ça.
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1266.068" endTime="1267.275">
+<Sync time="1266.068"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1267.275" endTime="1280.918">
+<Sync time="1267.275"/>
+et bien, &lt;pers=Stephane_GATIGNON&gt;Gatignon&lt;/pers&gt;, dans sa commune, que je connais bien, où il se bat matin et soir
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour les logements, pour l'emploi, pour le pouvoir d'achat, pour la santé, pour l'éducation.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et bien, on lui dit : « non, les 5 millions 
+<Event desc="b" type="noise" extent="instantaneous"/>
+, on ne peut pas parce 
+<Event desc="b" type="noise" extent="instantaneous"/>
+qu'il y a l'austérité et la rigueur », c'est pas sérieux. vous comprenez pourquoi on est mécontent.
+</Turn>
+<Turn speaker="spk1" startTime="1280.918" endTime="1290.958">
+<Sync time="1280.918"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+merci Monsieur &lt;pers=Jean-Vincent_PLACE&gt;Placé&lt;/pers&gt;
+<Event desc="b" type="noise" extent="instantaneous"/>
+. dans un 
+<Event desc="musique" type="noise" extent="begin"/>
+instant, le salon 
+<Event desc="en" type="language" extent="begin"/>
+"Made in France"
+<Event desc="en" type="language" extent="end"/>
+. c'est une première, parrainé par l'ami de &lt;pers=Jean-Vincent_PLACE&gt;Jean-Vincent Placé&lt;/pers&gt;, &lt;pers=Arnaud_MONTEBOURG&gt;Arnaud Montebourg&lt;/pers&gt;.
+<Sync time="1287.277"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais de quoi s'agit-il ? sa directrice est mon invitée dans "BFM story"
+</Turn>
+<Turn startTime="1290.958" endTime="1298.171">
+<Sync time="1290.958"/>
+
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1298.171" endTime="1571.835">
+<Turn startTime="1298.171" endTime="1571.835">
+<Sync time="1298.171"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="1571.835" endTime="1890.74">
+<Turn speaker="spk1" startTime="1571.835" endTime="1584.434">
+<Sync time="1571.835"/>
+la suite de 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+"BFM
+<Event desc="dis=hes" type="noise" extent="end"/>
+ story", merci de votre fidélité, avec le 
+<Event desc="en" type="language" extent="begin"/>
+made in France
+<Event desc="en" type="language" extent="end"/>
+ qui tient son salon pour la première fois. celle qui a eu l'idée de ce salon,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui tombe pile poil 
+<Event desc="rire" type="noise" extent="begin"/>
+dans l'air du temps
+<Event desc="rire" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+, c'est &lt;pers=Fabienne_DELAHAYE&gt;Fabienne Delahaye&lt;/pers&gt;. bravo &amp;hein pour cette idée !
+</Turn>
+<Turn speaker="spk6" startTime="1584.434" endTime="1585.094">
+<Sync time="1584.434"/>
+&amp;ben merci.
+</Turn>
+<Turn speaker="spk1 spk6" startTime="1585.094" endTime="1585.853">
+<Sync time="1585.094"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1585.853" endTime="1593.981">
+<Sync time="1585.853"/>
+commissaire générale du salon 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ MIF Expo 
+<Event desc="bc" type="noise" extent="begin"/>
+précisément
+<Event desc="bc" type="noise" extent="end"/>
+. c'est à l'Espace Champerret à Paris. vous avez 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ accueilli 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le ministre du redressement productif 
+<Event desc="bc" type="noise" extent="begin"/>
+oui
+<Event desc="bc" type="noise" extent="end"/>
+, &lt;pers=Arnaud_MONTEBOURG&gt;Arnaud Montebourg&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk6" startTime="1593.981" endTime="1606.087">
+<Sync time="1593.981"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce matin, &lt;pers=Arnaud_MONTEBOURG&gt;Arnaud Montebourg&lt;/pers&gt; 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est venu inaugurer le salon.
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je l'en remercie encore et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, c'était une visite 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ enrichissante, j'espère
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1603.145"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pour
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pour lui, pour nous et un moment très très agréable.
+</Turn>
+<Turn speaker="spk1" startTime="1606.087" endTime="1609.125">
+<Sync time="1606.087"/>
+alors, que peut-on découvrir dans ce salon ? de quoi s'agit-il ?
+</Turn>
+<Turn speaker="spk6" startTime="1609.125" endTime="1616.849">
+<Sync time="1609.125"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors, on peut découvrir 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des entreprises qui fabriquent en France, parce que c'est vraiment 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le thème.
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk6" startTime="1616.849" endTime="1617.786">
+<Sync time="1616.849"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1617.786" endTime="1618.971">
+<Sync time="1617.786"/>
+fabriqué en France ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk6" startTime="1618.971" endTime="1619.309">
+<Sync time="1618.971"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1619.309" endTime="1621.254">
+<Sync time="1619.309"/>
+une entreprise étrangère, mais elle fabrique en France !
+</Turn>
+<Turn speaker="spk6" startTime="1621.254" endTime="1644.43">
+<Sync time="1621.254"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+alors elle f(abrique)
+<Event desc="dis=rev" type="noise" extent="end"/>
+, oui, ça peut être 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+, puisqu'on a la Toyota 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ Yaris. 
+<Event desc="b" type="noise" extent="begin"/>
+donc peu importe, effectivement, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le siège social de l'entreprise.
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce qui a été important pour nous, d'ailleurs j'ai fait comme une sorte de manifeste,
+<Sync time="1632.27"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'était que les matières, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+les
+<Event desc="dis=rev" type="noise" extent="end"/>
+ essentielles, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+de la fabrication, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ soient 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ soient 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, faites en *France, enfin les étapes essentielles de la fabrication
+<Event desc="r" type="noise" extent="instantaneous"/>
+ soient *réalisées en France.
+</Turn>
+<Turn speaker="spk1" startTime="1644.43" endTime="1645.201">
+<Sync time="1644.43"/>
+parce que, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ i(l)
+</Turn>
+<Turn speaker="spk1 spk6" startTime="1645.201" endTime="1645.532">
+<Sync time="1645.201"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1645.532" endTime="1657.963">
+<Sync time="1645.532"/>
+ça existe encore
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des produits 100% français ? il y a des produits qui sont transformés 
+<Event desc="bc" type="noise" extent="begin"/>
+oui
+<Event desc="bc" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui font appel 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à différents 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ autres produits venus de l'étranger. alors comment peut-on 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+labelliser un produit 
+<Event desc="en" type="language" extent="begin"/>
+made in France
+<Event desc="en" type="language" extent="end"/>
+ ?
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1657.963" endTime="1699.18">
+<Sync time="1657.963"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ alors, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+plein
+<Event desc="dis=rep" type="noise" extent="end"/>
+ plein d'éléments 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de réponse.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'ailleurs 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il existe
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il existe des labels, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+mais c'est pas
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, je crois que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est pas très intéressant, sauf en alimentaire d'ailleurs,
+<Sync time="1670.612"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur MIF Expo, en alimentaire, 100%
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ la provenance des matières premières doivent être française. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ concernant les produits manufacturés,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de tout temps et depuis 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des des des des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des siècles,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on importe des matières premières.
+<Sync time="1684.332"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+on n'est pas en France un énorme producteur de coton, par exemple.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est pas très grave.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce qui est important,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est que les étapes
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de la fabrication :
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le tissage, l'ourdissage soient faites et réalisées en France,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et fassent travailler 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ nos concitoyens dans un contexte.
+</Turn>
+<Turn speaker="spk1" startTime="1699.18" endTime="1701.928">
+<Sync time="1699.18"/>
+quels sont les secteurs et les produits concernés ? vous avez des exemples ?
+</Turn>
+<Turn speaker="spk6" startTime="1701.928" endTime="1702.551">
+<Sync time="1701.928"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+oui
+</Turn>
+<Turn speaker="spk1 spk6" startTime="1702.551" endTime="1703.185">
+<Sync time="1702.551"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1703.185" endTime="1720.983">
+<Sync time="1703.185"/>
+alors 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est varié. 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+tous les tous les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ tous les domaines d'activités
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mode, maison, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ loisirs, on parlait de la Toyota,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des sacs à main, des t-shirts, des polos, des bijoux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des vélos, un vélo électrique 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+,
+<Sync time="1716.95"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+qui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ est pliable avec un concept super novateur
+</Turn>
+<Turn speaker="spk1" startTime="1720.983" endTime="1721.792">
+<Sync time="1720.983"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais qui est français.
+</Turn>
+<Turn speaker="spk6" startTime="1721.792" endTime="1722.585">
+<Sync time="1721.792"/>
+et qui est français.
+</Turn>
+<Turn speaker="spk6 spk1" startTime="1722.585" endTime="1723.853">
+<Sync time="1722.585"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1723.853" endTime="1731.47">
+<Sync time="1723.853"/>
+économique, c'est sympatique, j'ai envie de dire, mais souvent c'est plus cher le 
+<Event desc="en" type="language" extent="begin"/>
+made in France
+<Event desc="en" type="language" extent="end"/>
+. c'est pour ça que nous, consommateurs, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et bien, on regarde le prix et puis souvent on va acheter à l'étranger.
+</Turn>
+<Turn startTime="1731.47" endTime="1732.262">
+<Sync time="1731.47"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1732.262" endTime="1754.846">
+<Sync time="1732.262"/>
+alors, c'est que vous regardez mal le prix. c'est à dire que vous regardez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+une étiquette
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et c'est vrai que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans un monde de court terme qu'est le nôtre,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on regarde trop,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ (en)fin ou du moins 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pas pas
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pas assez loin et on oublie
+<Sync time="1746.093"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans le coût
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de ^^n'un
+<Event desc="dis=rev" type="noise" extent="end"/>
+ d'un achat,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ en plus l'actualité me donne raison
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ par rapport aux *normes sanitaires, qu'il faudrait peut être 
+<Event desc="bc" type="noise" extent="begin"/>
+hum
+<Event desc="bc" type="noise" extent="end"/>
+ respecter. 
+</Turn>
+<Turn startTime="1754.846" endTime="1755.334">
+<Sync time="1754.846"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1755.334" endTime="1755.801">
+<Sync time="1755.334"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6 spk1" startTime="1755.801" endTime="1757.767">
+<Sync time="1755.801"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1757.767" endTime="1760.558">
+<Sync time="1757.767"/>
+produit qui a été bien fabriqué, qui a été tracé.
+</Turn>
+<Turn speaker="spk6 spk1" startTime="1760.558" endTime="1761.814">
+<Sync time="1760.558"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1761.814" endTime="1790.045">
+<Sync time="1761.814"/>
+oui. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+alors, mais qui est plus cher, mais là encore, moi je dis qu'il est pas plus cher.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la facture, vous la payez toujours 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un jour.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c'
+<Event desc="dis=rev" type="noise" extent="end"/>
+ un produit pas cher,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ c'est un produit qui vous coûte beaucoup plus cher,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en terme d'emploi.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, cher pour l'environnement,
+<Sync time="1776.17"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ cher sur la durée 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de la vie d'un produit, parce que quand vous 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ne pouvez pas réparer un produit, quand il n'y a plus 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de SAV,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et qu'il vous est obligé, constamment, de remplacer un produit défectueux.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6 spk1" startTime="1790.045" endTime="1793.06">
+<Sync time="1790.045"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1793.06" endTime="1798.396">
+<Sync time="1793.06"/>
+moi, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est du
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est du vécu. trois compas pour mon fils, 
+<Event desc="b" type="noise" extent="begin"/>
+cette année
+<Event desc="b" type="noise" extent="end"/>
+,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui est en CM1.
+</Turn>
+<Turn speaker="spk6 spk1" startTime="1798.396" endTime="1800.097">
+<Sync time="1798.396"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1800.097" endTime="1801.244">
+<Sync time="1800.097"/>
+hélas oui, je
+</Turn>
+<Turn speaker="spk6 spk1" startTime="1801.244" endTime="1803.455">
+<Sync time="1801.244"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1803.455" endTime="1805.455">
+<Sync time="1803.455"/>
+mais voilà. je les ai trouvé s(ur), 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+donc
+<Event desc="dis=rep" type="noise" extent="end"/>
+ donc 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1805.455" endTime="1808.71">
+<Sync time="1805.455"/>
+donc attendez, c'est intéressant. ça veut dire que le 
+<Event desc="en" type="language" extent="begin"/>
+made in 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ France
+<Event desc="en" type="language" extent="end"/>
+ c'est la garantie de la qualité ?
+</Turn>
+<Turn speaker="spk6" startTime="1808.71" endTime="1834.441">
+<Sync time="1808.71"/>
+&amp;ah oui. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'est la garantie de la qualité. en tout cas, les exposants, qui ont été sélectionnés sur le salon,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ont un savoir-faire. d'ailleurs, on s'est également appuyé, vous parliez des labels tout à l'heure,
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1818.493"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur un certain nombre de labels, OFG que vous connaissez,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais également 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le label entreprise du patrimoine 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ vivant,
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1825.78"/>
+qui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ désigne, en fait, des entreprises 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ dont le savoir-faire industriel ou artisanal
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est d'excellence.
+</Turn>
+<Turn speaker="spk1" startTime="1834.441" endTime="1837.757">
+<Sync time="1834.441"/>
+le 
+<Event desc="en" type="language" extent="begin"/>
+made in France
+<Event desc="en" type="language" extent="end"/>
+. on peut acheter les produits directement pendant le salon.
+</Turn>
+<Turn speaker="spk1 spk6" startTime="1837.757" endTime="1838.133">
+<Sync time="1837.757"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1838.133" endTime="1838.608">
+<Sync time="1838.133"/>
+jusqu'à quand ?
+</Turn>
+<Turn speaker="spk6" startTime="1838.608" endTime="1843.343">
+<Sync time="1838.608"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+alors, c'est demain. c'était aujourd'hui. demain et dimanche.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je tiens à souligner
+</Turn>
+<Turn speaker="spk6 spk1" startTime="1843.343" endTime="1844.361">
+<Sync time="1843.343"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1844.361" endTime="1845.289">
+<Sync time="1844.361"/>
+c'est à Paris. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6 spk1" startTime="1845.289" endTime="1846.11">
+<Sync time="1845.289"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1846.11" endTime="1860.637">
+<Sync time="1846.11"/>
+(Es)pace Champerret et surtout, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est important de le souligner,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ou bien le salon est gratuit parce que les invitations étaient 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ offertes en nombre,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ou bien le droit d'entrée sera remboursé à tout visiteur qui achète un produit sur le salon 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour que
+</Turn>
+<Turn speaker="spk6 spk1" startTime="1860.637" endTime="1863.145">
+<Sync time="1860.637"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1863.145" endTime="1887.466">
+<Sync time="1863.145"/>
+dans un instant,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ nous partirons 
+<Event desc="musique" type="noise" extent="begin"/>
+en Vendée parce que nous sommes à J-1
+<Event desc="j moins un " type="pronounce" extent="previous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ du départ de cette mythique course autour du monde en solitaire : le "Vendée globe" bien entendu. nous serons avec &lt;pers=Michel_DESJOYEAUX&gt;Michel Desjoyeaux&lt;/pers&gt;. c'est le seul skipper à avoir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+remporté le "Vendée globe" deux fois en 2001 et 2009. cette année,
+<Sync time="1876.886"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+il ne court pas, mais il est sur place. il sera avec nous en direct des Sables d'Olonne. et puis le rapport Jospin
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec &lt;pers=Roselyne_BACHELOT&gt;Roselyne Bachelot&lt;/pers&gt; qui a travaillé aux côtés de l'ancien premier ministre. à tout de suite.
+</Turn>
+<Turn startTime="1887.466" endTime="1890.74">
+<Sync time="1887.466"/>
+
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1890.74" endTime="3665.064">
+<Turn startTime="1890.74" endTime="3665.064">
+<Sync time="1890.74"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

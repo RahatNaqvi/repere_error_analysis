@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_CultureEtVous_2012-07-18_065040" version="5" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Stefano_SOLLIMA" check="no" type="male" dialect="nonnative" accent="R5" scope="local"/>
+<Speaker id="spk2" name="Francois-Xavier_MENAGE" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk3" name="Claire_FLEURY" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk4" name="Pauline_REVENAZ" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk5" name="Tito_TOPIN" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="speaker#6" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk7" name="speaker#7" check="no" type="male" dialect="nonnative" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="184.685">
+<Turn startTime="0" endTime="184.685">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="184.685" endTime="276.498">
+<Turn startTime="184.685" endTime="190.327" speaker="spk4">
+<Sync time="184.685"/>
+acab, c'est le nom de code inventé par les skinheads 
+<Event desc="b" type="noise" extent="begin"/>
+dans l'Angleterre des années 70 pour insulter la police.
+</Turn>
+<Turn speaker="spk2" startTime="190.327" endTime="197.699">
+<Sync time="190.327"/>
+&amp;eh bien c'est désormais un film venu tout droit d'Italie. le réalisateur, qui s'appelle &lt;pers=Stefano_SOLLIMA&gt;Sollima&lt;/pers&gt;, frappe un grand coup. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Claire_FLEURY&gt;Claire Fleury&lt;/pers&gt; et &lt;pers=Cecile_TRAN-TIEN&gt;Cécile Tran-Tien&lt;/pers&gt;
+</Turn>
+<Turn startTime="197.699" endTime="200.864">
+<Sync time="197.699"/>
+
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="200.864" endTime="204.242">
+<Sync time="200.864"/>
+premier film, et premier coup de maître.
+</Turn>
+<Turn speaker="spk5" startTime="204.242" endTime="208.807">
+<Sync time="204.242"/>
+le prix " sang neuf " est décerné cette année à &lt;pers=Stefano_SOLLIMA&gt;Stefano Sollima&lt;/pers&gt;
+</Turn>
+<Turn startTime="208.807" endTime="209.82">
+<Sync time="208.807"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="209.82" endTime="213.3">
+<Sync time="209.82"/>
+le voilà donc récompensé au festival du film policier de Beaune.
+</Turn>
+<Turn startTime="213.3" endTime="214.123">
+<Sync time="213.3"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="214.123" endTime="220.705">
+<Sync time="214.123"/>
+et pourtant, dans une autre vie &lt;pers=Stefano_SOLLIMA&gt;Stefano Sollima&lt;/pers&gt; était journaliste. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ désormais le voilà réalisateur, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et un grand.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="220.705" endTime="222.651">
+<Sync time="220.705"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="222.651" endTime="232.084">
+<Sync time="222.651"/>
+ici, pas de fioritures ni d'effets de style. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ réalisation fiévreuse pour découvrir le quotidien d'une brigade de CRS. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ portrait sans concession.
+</Turn>
+<Turn speaker="spk7" startTime="232.084" endTime="238.397">
+<Sync time="232.084"/>
+
+<Event desc="it" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk6" startTime="238.397" endTime="242.783">
+<Sync time="238.397"/>
+<Who nb="1"/>
+
+<Event desc="it" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+à force d'être face à la violence, les CRS finissent par être contaminés.
+</Turn>
+<Turn startTime="242.783" endTime="243.474">
+<Sync time="242.783"/>
+
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk1 spk6" startTime="243.474" endTime="246.828">
+<Sync time="243.474"/>
+<Who nb="1"/>
+
+<Event desc="it" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+et eux aussi entrent dans cette logique de haine, alors qu'ils sont censés la combattre.
+</Turn>
+<Turn speaker="spk1" startTime="246.828" endTime="247.699">
+<Sync time="246.828"/>
+
+<Event desc="it" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="247.699" endTime="253.89">
+<Sync time="247.699"/>
+une lutte qui semble impossible, car l'Italie de &lt;pers=Stefano_SOLLIMA&gt;Stefano Sollima&lt;/pers&gt; est une Italie en pleine crise morale.
+</Turn>
+<Turn speaker="spk1 spk6" startTime="253.89" endTime="261.624">
+<Sync time="253.89"/>
+<Who nb="1"/>
+
+<Event desc="it" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+notre société est devenue de plus en plus intolérante, de plus en plus fasciste.
+<Event desc="b" type="noise" extent="end"/>
+ et même ces groupes entre eux ne cessent de se combattrent
+</Turn>
+<Turn speaker="spk1" startTime="261.624" endTime="262.146">
+<Sync time="261.624"/>
+
+<Event desc="it" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk6" startTime="262.146" endTime="263.997">
+<Sync time="262.146"/>
+<Who nb="1"/>
+
+<Event desc="it" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+sans qu'on comprenne vraiment pourquoi.
+</Turn>
+<Turn speaker="spk1" startTime="263.997" endTime="264.762">
+<Sync time="263.997"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ 
+<Event desc="it" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="264.762" endTime="266.703">
+<Sync time="264.762"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="266.703" endTime="274.235">
+<Sync time="266.703"/>
+amoral, viscéral, Acab est une réussite. pas de doute, le cinéma italien nous a gratifié d'un film 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ coup de poing.
+</Turn>
+<Turn startTime="274.235" endTime="276.498">
+<Sync time="274.235"/>
+
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="276.498" endTime="418.944">
+<Turn startTime="276.498" endTime="418.944">
+<Sync time="276.498"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="LCP_PileEtFace_2012-07-05_192700" version="6" version_date="140312">
+<Speakers>
+<Speaker id="spk1" name="Jean-Pierre_GRATIEN" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Bruno_LE_ROUX" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk3" name="Christian_JACOB" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="304.387">
+<Turn startTime="0" endTime="304.387">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="304.387" endTime="1148.875">
+<Turn startTime="304.387" endTime="355.455" speaker="spk1">
+<Sync time="304.387"/>
+projet contre projet, idée contre idée, bienvenue dans " pile et face ", avec côté pile cette semaine 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le président du groupe socialiste, républicain et citoyen de l'assemblée nationale, et député de Seine-Saint-Denis 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Bruno_LE_ROUX&gt;Bruno Le Roux&lt;/pers&gt;, côté face, le
+<Sync time="318.392"/>
+président du groupe UMP de l'assemblée nationale et député de Seine-et-Marne &lt;pers=Christian_JACOB&gt;Christian Jacob&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ discours de politique générale devant la nouvelle assemblée nationale, présentation en conseil des ministres d'un collectif budgétaire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour l'année en cours,
+<Sync time="332.142"/>
+&lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; et son gouvernement sont réellement entrés cette semaine dans le vif du sujet 
+<Event desc="r" type="noise" extent="instantaneous"/>
+, le premier ministre repousse toute idée de reniement il refuse dit-il l'austérité, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais faut-il vraiment croire en cette force tranquille 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ou faut-il plutôt parler
+<Sync time="347.136"/>
+de méthode Coué face à la crise économique que continue de traverser 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ notre pays &amp;eh bien messieurs, vous allez avoir 30 minutes pour en débattre ;
+</Turn>
+<Turn startTime="355.455" endTime="356.927">
+<Sync time="355.455"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="356.927" endTime="362.793">
+<Sync time="356.927"/>
+la pièce tombe sur pile, c'est donc vous 
+<Event desc="b" type="noise" extent="begin"/>
+&lt;pers=Bruno_LE_ROUX&gt;Bruno Le Roux&lt;/pers&gt;
+<Event desc="b" type="noise" extent="end"/>
+ qui allez entamer ce *débat, c'est vous qui aurez 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la conclusion 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Christian_JACOB&gt;Christian Jacob&lt;/pers&gt;
+</Turn>
+<Turn startTime="362.793" endTime="363.205">
+<Sync time="362.793"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="363.205" endTime="369.123">
+<Sync time="363.205"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Bruno_LE_ROUX&gt;Bruno Le Roux&lt;/pers&gt; sur l'échelle des discours de politique générale qu'on a connus jusqu'ici sous la cinquième république,
+</Turn>
+<Turn startTime="369.123" endTime="369.693">
+<Sync time="369.123"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="369.693" endTime="374.155">
+<Sync time="369.693"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, où situeriez-vous le discours prononcé ce mardi par &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; ?
+</Turn>
+<Turn startTime="374.155" endTime="375.183">
+<Sync time="374.155"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="375.183" endTime="376.481">
+<Sync time="375.183"/>
+je ne les ai pas tous en tête,
+</Turn>
+<Turn startTime="376.481" endTime="376.956">
+<Sync time="376.481"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="376.956" endTime="380.152">
+<Sync time="376.956"/>
+mais dans des circonstances qui sont des circonstances difficiles,
+</Turn>
+<Turn startTime="380.152" endTime="380.595">
+<Sync time="380.152"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="380.595" endTime="381.766">
+<Sync time="380.595"/>
+c'était un grand discours
+</Turn>
+<Turn startTime="381.766" endTime="382.241">
+<Sync time="381.766"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="382.241" endTime="386.482">
+<Sync time="382.241"/>
+un long discours d'abord parce qu'il fallait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donner 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la feuille de route complète.
+</Turn>
+<Turn startTime="386.482" endTime="386.893">
+<Sync time="386.482"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="386.893" endTime="393.127">
+<Sync time="386.893"/>
+rappeler les engagements pris par le président de la république, c'est une façon de dire que tous seront tenus.
+</Turn>
+<Turn startTime="393.127" endTime="393.649">
+<Sync time="393.127"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="393.649" endTime="402.304">
+<Sync time="393.649"/>
+et que un à un, nous cocherons chacune des 60 mesures 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour dire aux français, que même dans une période difficile nous avons tenu tous les engagements
+</Turn>
+<Turn startTime="402.304" endTime="402.7">
+<Sync time="402.304"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="402.7" endTime="426.549">
+<Sync time="402.7"/>
+que nous *leur 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+avi(ons)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ avions 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donnés dans la campagne électorale. et puis de l'autre côté il y avait nécessité à dire pourquoi le redressement, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la période de crise on la connaît, l'état de la France on le connaît, encore plus mauvais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'ailleurs que ce que nous avions dit en
+<Sync time="416.924"/>
+battant estrade pendant la campagne, donc il y a 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à côté de ce changement qui devait être incarné par le premier ministre un nécessaire redressement, et un redressement avec une clé,
+</Turn>
+<Turn startTime="426.549" endTime="426.929">
+<Sync time="426.549"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="426.929" endTime="428.695">
+<Sync time="426.929"/>
+pour nous, 
+<Event desc="b" type="noise" extent="begin"/>
+avec une règle d'or
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="428.695" endTime="428.916">
+<Sync time="428.695"/>
+&amp;ouais
+</Turn>
+<Turn speaker="spk2" startTime="428.916" endTime="438.337">
+<Sync time="428.916"/>
+qui est la justice. la justice partout au coeur de toutes les mesures 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui vont être prises et qui ont commencé à être prises ce matin 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le collectif budgétaire pour 2012.
+</Turn>
+<Turn startTime="438.337" endTime="439.255">
+<Sync time="438.337"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="439.255" endTime="440.062">
+<Sync time="439.255"/>
+&lt;pers=Christian_JACOB&gt;Christian Jacob&lt;/pers&gt;
+</Turn>
+<Turn startTime="440.062" endTime="440.853">
+<Sync time="440.062"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="440.853" endTime="441.565">
+<Sync time="440.853"/>
+(écou)tez le
+</Turn>
+<Turn speaker="spk1" startTime="441.565" endTime="444.492">
+<Sync time="441.565"/>
+propos de ce discours de politique générale prononcé par 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le premier ministre ?
+</Turn>
+<Turn speaker="spk3" startTime="444.492" endTime="452.285">
+<Sync time="444.492"/>
+&amp;ben très long, fastidieux, 
+<Event desc="bc" type="noise" extent="begin"/>
+poussif
+<Event desc="bc" type="noise" extent="end"/>
+, &amp;hein je crois que ça a été 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+la
+<Event desc="dis=rev" type="noise" extent="end"/>
+ l'avis 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ général 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+sur le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ sur ce discours, 
+<Event desc="bc" type="noise" extent="begin"/>
+tout simplement parce que
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3 spk2" startTime="452.285" endTime="452.823">
+<Sync time="452.285"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="452.823" endTime="453.677">
+<Sync time="452.823"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+pas le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ pas l'avis général
+</Turn>
+<Turn speaker="spk2 spk3" startTime="453.677" endTime="454.105">
+<Sync time="453.677"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="454.105" endTime="460.364">
+<Sync time="454.105"/>
+si c'est ce qui a été repris, un discours d'1h45
+<Event desc="1 heure 45" type="pronounce" extent="previous"/>
+, vous savez quand il faut 1h45
+<Event desc="1 heure 45" type="pronounce" extent="previous"/>
+ pour *exprimer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ son point de vue c'est qu'on a vraiment des diffi(cultés)
+</Turn>
+<Turn speaker="spk2 spk3" startTime="460.364" endTime="464.747">
+<Sync time="460.364"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="464.747" endTime="467.88">
+<Sync time="464.747"/>
+je vous ai pas coupé donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, on peut aussi se respecter 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et
+</Turn>
+<Turn speaker="spk2 spk3" startTime="467.88" endTime="476.264">
+<Sync time="467.88"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="476.264" endTime="476.644">
+<Sync time="476.264"/>
+(en)suite vous ré(pondez)
+</Turn>
+<Turn speaker="spk3" startTime="476.644" endTime="479.097">
+<Sync time="476.644"/>
+soit on s'écoute à 
+<Event desc="bc" type="noise" extent="begin"/>
+tour de rôle
+<Event desc="bc" type="noise" extent="end"/>
+, soit on se coupe la parole
+</Turn>
+<Turn speaker="spk2 spk3" startTime="479.097" endTime="482.769">
+<Sync time="479.097"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="482.769" endTime="520.99">
+<Sync time="482.769"/>
+quand un premier ministre a besoin d'1h45
+<Event desc="1 heure 45" type="pronounce" extent="previous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour exprimer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sa position, c'est quand même que cette position est sacrément 
+<Event desc="bc" type="noise" extent="begin"/>
+compliquée
+<Event desc="bc" type="noise" extent="end"/>
+, d'ailleurs on l'a bien vu, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ deux rappels à l'ordre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ consécutifs par 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la cour des comptes, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un rappel à l'ordre par 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+
+<Sync time="497.062"/>
+la commission, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec la présentation d'un collectif 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ budgétaire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ où 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ la cour des comptes rappelle la nécessité d'avoir une réduction des dépenses publiques, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ or là il n'y a pas de réduction de dépenses publiques, ou plutôt il y a un milliard
+<Sync time="511.232"/>
+de réduction *de *dépenses publiques 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 7,5 milliards
+<Event desc="7 milliards euh 5" type="pronounce" extent="previous"/>
+, 7,4 milliards
+<Event desc="7 milliards 4" type="pronounce" extent="previous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'augmentation d'impôts. donc 
+<Event desc="bc" type="noise" extent="begin"/>
+sept
+<Event desc="bc" type="noise" extent="end"/>
+ fois plus 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'augmentation d'impôt, donc un véritable
+</Turn>
+<Turn speaker="spk3 spk1" startTime="520.99" endTime="522.905">
+<Sync time="520.99"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="522.905" endTime="524.514">
+<Sync time="522.905"/>
+sur votre chemin, voilà le
+</Turn>
+<Turn speaker="spk3" startTime="524.514" endTime="524.83">
+<Sync time="524.514"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="524.83" endTime="527.952">
+<Sync time="524.83"/>
+terme que vous avez 
+<Event desc="bc" type="noise" extent="begin"/>
+choisi
+<Event desc="bc" type="noise" extent="end"/>
+ pour vous adresser au premier ministre après 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+son
+<Event desc="dis=rep" type="noise" extent="end"/>
+ son discours
+</Turn>
+<Turn speaker="spk1 spk3" startTime="527.952" endTime="529.092">
+<Sync time="527.952"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="529.092" endTime="554.82">
+<Sync time="529.092"/>
+on est dans l'irréparable, c'est-à-dire que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans une situation de crise, comme celle que nous vivons 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en ce moment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ s'engager de cette manière dans une explosion des dépenses publiques et surtout 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un véritable matraquage fiscal, que lorsque l'on dit matraquage fiscal
+<Sync time="543.415"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça veut dire que nos entreprises vont perdre de la compétitivité, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'on est sur une augmentation du coût du travail, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc on va avoir une augmentation du chômage, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et on affaiblit la position de la France 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et on affaiblit la 
+<Event desc="bc" type="noise" extent="begin"/>
+capacité
+<Event desc="bc" type="noise" extent="end"/>
+ de relance
+</Turn>
+<Turn speaker="spk1" startTime="554.82" endTime="555.548">
+<Sync time="554.82"/>
+&amp;hm et faut
+</Turn>
+<Turn startTime="555.548" endTime="555.849">
+<Sync time="555.548"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="555.849" endTime="573.555">
+<Sync time="555.849"/>
+pour ceux qui n'auraient pas vu ce discours 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on a entendu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'opposition &amp;hein, dont vous faites partie dont 
+<Event desc="bc" type="noise" extent="begin"/>
+vous êtes le leader
+<Event desc="bc" type="noise" extent="end"/>
+ &amp;hein, l'un des leaders en tout cas, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dire : impôts, impôts, impôts dans l'hémicycle, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+qui va peut-être relayer,
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ce qui vient relayer un peu ce que vous venez de dire 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="570.501"/>
+qu'est-ce que vous avez à 
+<Event desc="bc" type="noise" extent="begin"/>
+répondre à ça
+<Event desc="bc" type="noise" extent="end"/>
+, sur ce cette thématique du 
+<Event desc="bc" type="noise" extent="begin"/>
+matraquage fis(cal)
+<Event desc="bc" type="noise" extent="end"/>
+ ?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="573.555" endTime="574.061">
+<Sync time="573.555"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="574.061" endTime="618.726">
+<Sync time="574.061"/>
+je le redis une nouvelle fois oui, il va falloir qu'un certain nombre de français s'habituent à retourner 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans leurs boîtes aux lettres voir s'il y a une lettre des impôts, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, ils en avait perdu l'habitude, certains même 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ allaient uniquement dans la boîte aux lettres pour voir s'il y avait un chèque, et si on leur remboursait des impôts. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="588.74"/>
+et le coût du bouclier fiscal cette année, 735 millions d'euros est encore un coût absolument scandaleux dans une période de *crise où les classes moyennes et les classes modestes sont touchées. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais là 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ quand j'entendais monsieur &lt;pers=Christian_JACOB&gt;Jacob&lt;/pers&gt; tout à l'heure, parce que, ils ont perdu il y a deux mois, ils devraient
+<Sync time="602.933"/>
+s'en souvenir aujourd'hui, mais l'état 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans lequel 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ils parlent du pays c'est l'état dans lequel ils l'ont mis, ils ont mis ce pays dans le mur. je rappelle ici, parce *que ils voudraient nous donner des leçons, *que monsieur 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Francois_FILLON&gt;Fillon&lt;/pers&gt;
+<Sync time="614.528"/>
+au début du quinquennat dernier, nous disait : 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je suis à la tête d'un état en faillite.
+</Turn>
+<Turn startTime="618.726" endTime="619.106">
+<Sync time="618.726"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="619.106" endTime="640.6">
+<Sync time="619.106"/>
+*combien y avait-il de dette ? 1200 milliards d'euros, à combien a-t-il rendu la France, à la fin de son quinquennat ? 1800 milliards d'euros, 600 milliards d'euros supplémentaires 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors qu'il nous disait déjà il y a cinq ans 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que l'état y était en faillite et je pourrais 
+<Sync time="633.148"/>
+prendre la balance commerciale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je pourrais prendre la compétitivité des entreprises, je pourrais prendre tous les critères, ils ont mis la France dans le mur, alors oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="640.6" endTime="641.803">
+<Sync time="640.6"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="641.803" endTime="645.886">
+<Sync time="641.803"/>
+pas eu 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un jugement aussi négatif que cela sur la gestion 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+du
+<Event desc="dis=rep" type="noise" extent="end"/>
+ du gouvernement précé(dent)
+</Turn>
+<Turn speaker="spk2 spk1" startTime="645.886" endTime="647.142">
+<Sync time="645.886"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="647.142" endTime="647.793">
+<Sync time="647.142"/>
+continuité,
+</Turn>
+<Turn speaker="spk1" startTime="647.793" endTime="648.202">
+<Sync time="647.793"/>
+&amp;hm
+</Turn>
+<Turn speaker="spk2" startTime="648.202" endTime="651.161">
+<Sync time="648.202"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le rapport de la cour des comptes d'abord dit 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qu'il y a une
+</Turn>
+<Turn speaker="spk1 spk2" startTime="651.161" endTime="656.208">
+<Sync time="651.161"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="656.208" endTime="702.619">
+<Sync time="656.208"/>
+année il y a une tendance 
+<Event desc="bc" type="noise" extent="begin"/>
+préoccupante
+<Event desc="bc" type="noise" extent="end"/>
+ alors que &lt;pers=Lionel_JOSPIN&gt;Lionel Jospin&lt;/pers&gt; avait rendu les comptes de la France qui étaient quasiment à l'équilibre, comptes sociaux et comptes publics, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'il y a eu une dérive pendant dix ans qui a conduit à la pire situation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que si nous devons prendre des décisions aujourd'hui, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et si la cour nous demande de prendre des décisions
+<Sync time="670.438"/>
+qui sont des décisions lourdes, fortes, c'est bien qu'il y a une situation dramatique, comme elle n'a jamais été connue, s'il y avait une situation qui allait bien, et si l'état du *pays était bon, s'ils avaient réussi à protéger le pays face à la crise, la cour des comptes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ne nous ferait pas les propositions qu'elle fait aujourd'hui
+<Sync time="685.176"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors voilà, il y a nécessité à avoir une opposition, mais cette opposition, avant de s'opposer aussi bêtement qu'elle l'a fait ces deux derniers jours devrait réfléchir à son propre échec, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ devrait réfléchir à la façon 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dont tous ces éléments 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ que je viens de mettre sur la table,
+<Sync time="699.875"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle n'a pas su protéger ni la France ni les français.
+</Turn>
+<Turn speaker="spk1" startTime="702.619" endTime="703.236">
+<Sync time="702.619"/>
+&amp;hm
+</Turn>
+<Turn speaker="spk1" startTime="703.236" endTime="704.541">
+<Sync time="703.236"/>
+vous vous 
+<Event desc="bc" type="noise" extent="begin"/>
+sentez
+<Event desc="bc" type="noise" extent="end"/>
+ comptable ?
+</Turn>
+<Turn speaker="spk1 spk3" startTime="704.541" endTime="705.68">
+<Sync time="704.541"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="705.68" endTime="706.062">
+<Sync time="705.68"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sont
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sont
+</Turn>
+<Turn speaker="spk1 spk3" startTime="706.062" endTime="708.955">
+<Sync time="706.062"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="708.955" endTime="726.208">
+<Sync time="708.955"/>
+campagne électorale, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ au-delà de ces propos de tribune, très concrètement, la cour des comptes aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ invite 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à avoir une gestion dans la continuité, c'est-à-dire de continuer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à réduire les dépenses, se sont les propos 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+du
+<Event desc="dis=rep" type="noise" extent="end"/>
+ du président 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de la cour des comptes
+<Sync time="723.439"/>
+qui sauf erreur n'est pas un 
+<Event desc="bc" type="noise" extent="begin"/>
+sympathisant de l'UMP
+<Event desc="bc" type="noise" extent="end"/>
+ donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="726.208" endTime="728.62">
+<Sync time="726.208"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="728.62" endTime="745.264">
+<Sync time="728.62"/>
+membre 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+du
+<Event desc="dis=rep" type="noise" extent="end"/>
+ du Parti Socialiste, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc &lt;pers=Didier_MIGAUD&gt;Didier Migaud&lt;/pers&gt; invite à la continuité à la réduction des dépenses 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est donc bien évidemment dans cette voie qu'il faut aller. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur le matraquage fiscal là où 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je veux
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je veux revenir : ceux qui vont payer la note aujourd'hui ce sont les
+<Sync time="743.033"/>
+bas salaires. 
+<Event desc="bc" type="noise" extent="begin"/>
+c'est-à-dire que quand on supprime
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="745.264" endTime="748.603">
+<Sync time="745.264"/>
+vous faites référence sans doute au collectif budgétaire, à certaines 
+<Event desc="bc" type="noise" extent="begin"/>
+mesures de ce collectif
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="748.603" endTime="749.695">
+<Sync time="748.603"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="749.695" endTime="756.517">
+<Sync time="749.695"/>
+notamment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui est sans doute 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la plus forte 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la suppression 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+des heures
+<Event desc="dis=rev" type="noise" extent="end"/>
+ *de la défiscalisation des heures supplémen(taires)
+</Turn>
+<Turn speaker="spk3 spk1" startTime="756.517" endTime="757.008">
+<Sync time="756.517"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="757.008" endTime="777.767">
+<Sync time="757.008"/>
+qui va payer la note là-dessus, c'est bien les ouvriers, c'est pas les patrons du CAC40, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui bénéficient d'heures supplémentaires, ce sont les ouvriers, ce sont les salariés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce sont les cadres C dans la fonction publique, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est eux qui vont payer 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+cette
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ cette note et qui vont sans doute être les
+<Sync time="771.516"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les plus pénalisés. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+autour
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de cela, et au-delà même 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sur les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sur les fonctionnaires
+</Turn>
+<Turn startTime="777.767" endTime="778.194">
+<Sync time="777.767"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="778.194" endTime="788.2">
+<Sync time="778.194"/>
+là aussi on est sur une 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+*catérie
+<Event desc="dis=rev" type="noise" extent="end"/>
+ catégorie sociale qui va payer la note 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ très fortement, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ puisque on supprime le 1 sur 2, ce que nous avons mis en place pour réduire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les dépenses publiques
+</Turn>
+<Turn speaker="spk1 spk3" startTime="788.2" endTime="791.919">
+<Sync time="788.2"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="791.919" endTime="812.313">
+<Sync time="791.919"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à la retraite, et on réinjectait 50% pour augmenter les salaires pour permettre du déroulement de carrière, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc tout cela est supprimé, ça veut donc dire qu'avec une masse salariale identique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;eh bien 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+on va avoir
+<Event desc="dis=rev" type="noise" extent="end"/>
+ on va plus avoir 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce non
+<Event desc="dis=rep" type="noise" extent="end"/>
+
+<Sync time="805.889"/>
+ce non renouvellement, donc on aura le même nombre de fonctionnaires avec une même base salariale, bien évidemment les salaires vont baisser.
+</Turn>
+<Turn speaker="spk1" startTime="812.313" endTime="812.582">
+<Sync time="812.313"/>
+&amp;hm
+</Turn>
+<Turn speaker="spk3" startTime="812.582" endTime="822.242">
+<Sync time="812.582"/>
+et d'ailleurs 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rev" type="noise" extent="end"/>
+, madame &lt;pers=Marylise_LEBRANCHU&gt;Lebranchu&lt;/pers&gt; ne s'y est pas 
+<Event desc="bc" type="noise" extent="begin"/>
+trompé
+<Event desc="bc" type="noise" extent="end"/>
+, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ madame &lt;pers=Marylise_LEBRANCHU&gt;Lebranchu&lt;/pers&gt; 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ a annoncé ce 
+<Event desc="bc" type="noise" extent="begin"/>
+matin
+<Event desc="bc" type="noise" extent="end"/>
+ qu'il y aurait, je la 
+<Event desc="bc" type="noise" extent="begin"/>
+cite
+<Event desc="bc" type="noise" extent="end"/>
+, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les fonctionnaires auraient à affronter un grand moment de rigueur.
+</Turn>
+<Turn startTime="822.242" endTime="822.733">
+<Sync time="822.242"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="822.733" endTime="837.256">
+<Sync time="822.733"/>
+elle était taclée ensuite par madame &lt;pers=Najat_VALLAUD-BELKACEM&gt;Belkacem&lt;/pers&gt; mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ madame &lt;pers=Marylise_LEBRANCHU&gt;Lebranchu&lt;/pers&gt; ancien garde des sceaux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ancien questeur de l'assemblée nationale, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je pense qu'elle ne parle pas au hasard quand elle dit aux fonctionnaires 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'ils vont vivre un grand moment de rigueur 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle le disait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mardi matin sur 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, sur une radio périphérique
+</Turn>
+<Turn speaker="spk3 spk1" startTime="837.256" endTime="837.715">
+<Sync time="837.256"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="837.715" endTime="838.396">
+<Sync time="837.715"/>
+les heures supplémen(taires)
+</Turn>
+<Turn speaker="spk2 spk1" startTime="838.396" endTime="839.488">
+<Sync time="838.396"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="839.488" endTime="840.057">
+<Sync time="839.488"/>
+fonction publique
+</Turn>
+<Turn speaker="spk2" startTime="840.057" endTime="846.457">
+<Sync time="840.057"/>
+(mon)sieur &lt;pers=Christian_JACOB&gt;Jacob&lt;/pers&gt; ne le sait peut-être pas mais ça fait longtemps que 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rev" type="noise" extent="end"/>
+ le gouvernement qu'il soutenait ne payait plus les heures supplémentaires des fonctionnaires et d'une grande partie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des fonctionnaires
+</Turn>
+<Turn speaker="spk2 spk3" startTime="846.457" endTime="852.264">
+<Sync time="846.457"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="852.264" endTime="853.34">
+<Sync time="852.264"/>
+du renouvellement
+</Turn>
+<Turn speaker="spk2" startTime="853.34" endTime="853.577">
+<Sync time="853.34"/>
+je
+</Turn>
+<Turn speaker="spk3" startTime="853.577" endTime="854.336">
+<Sync time="853.577"/>
+du non-renouvellement
+</Turn>
+<Turn speaker="spk3 spk2" startTime="854.336" endTime="856.203">
+<Sync time="854.336"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="856.203" endTime="866.965">
+<Sync time="856.203"/>
+(é)coute 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ attentivement et au début de votre propos vous évoquiez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ cette question des heures supplémentaires pour les fonctionnaires avez-vous dit, catégorie C notamment, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+et donc je vous dis si vous ne le savez pas
+<Event desc="bc" type="noise" extent="end"/>
+ que ça fait longtemps 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que vous ne le 
+<Event desc="bc" type="noise" extent="begin"/>
+faisiez plus cette chose-là
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="866.965" endTime="867.297">
+<Sync time="866.965"/>
+les cat(égories)
+</Turn>
+<Turn speaker="spk2 spk3" startTime="867.297" endTime="871.237">
+<Sync time="867.297"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="871.237" endTime="893.006">
+<Sync time="871.237"/>
+(su)pplémentaires de payées de la même façon d'ailleurs que sur l'augmentation du SMIC 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous avez tous les contractuels, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ également qui vont être concernés, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans la fonction publique, ce qui veut dire que quand vous avez les allégements de charges 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que nous avions 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en-dessous de 1 à 1,6
+<Event desc="1 virgule 6" type="pronounce" extent="previous"/>
+ SMIC
+<Sync time="884.876"/>
+&amp;eh bien on est encore sur une augmentation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de dépenses qui va peser sur l'état. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est un milliard d'euros qui va là aussi peser sur 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ l'ensemble des 
+<Event desc="bc" type="noise" extent="begin"/>
+dépenses
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="893.006" endTime="894.091">
+<Sync time="893.006"/>
+j'ai des difficultés à suivre
+</Turn>
+<Turn speaker="spk3 spk2" startTime="894.091" endTime="894.582">
+<Sync time="894.091"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="894.582" endTime="896.218">
+<Sync time="894.582"/>
+(démons)tration 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+mais pour le reste
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="896.218" endTime="898.228">
+<Sync time="896.218"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="898.228" endTime="901.487">
+<Sync time="898.228"/>
+la forme de défiscalisation sur les heures supplémentaires 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans le privé.
+</Turn>
+<Turn speaker="spk2" startTime="901.487" endTime="902.057">
+<Sync time="901.487"/>
+oui, pour les en(treprises)
+</Turn>
+<Turn speaker="spk1 spk2" startTime="902.057" endTime="905.254">
+<Sync time="902.057"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="905.254" endTime="905.523">
+<Sync time="905.254"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="905.523" endTime="924.652">
+<Sync time="905.523"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+il y a des priorités, nous sommes en période de chômage
+<Event desc="bc" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce gouvernement a laissé filer le chômage sans protéger les français, nous sommes aujourd'hui à presque 10% de la population active qui est au chômage, c'est quelque chose de beaucoup trop fort, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc les grandes entreprises doivent être aujourd'hui incitées 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="919.770"/>
+à embaucher, et non pas à faire des heures supplémentaires et c'est dans les petites entreprises de moins de vingt salariés
+</Turn>
+<Turn speaker="spk1" startTime="924.652" endTime="924.874">
+<Sync time="924.652"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="924.874" endTime="951.469">
+<Sync time="924.874"/>
+qu'il y a là une nécessité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à les conserver parce que, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour deux raisons, d'abord parce que elle est une vraie variable qui leur permet d'ajuster aujourd'hui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la demande
+<Sync time="934.002"/>
+qu'elles ont 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la nécessité de produire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec le nombre de salariés, et ensuite parce que nous voulons, dans cette période de crise et nous allons le montrer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dès les prochains jours, faire en sorte que ces PME 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ soient favorisées, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ notamment en baissant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'impôt 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qu'elles doivent aujourd'hui, en faisant en sorte parce que 
+<Sync time="948.164"/>
+on voudrait dire matraquage fiscal mais non, il y en a certains qui vont payer beaucoup plus
+</Turn>
+<Turn speaker="spk2 spk1" startTime="951.469" endTime="952.051">
+<Sync time="951.469"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="952.051" endTime="955.848">
+<Sync time="952.051"/>
+mesure vous voulez privilégiez plutôt les embauches que le pouvoir d'achat ?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="955.848" endTime="956.798">
+<Sync time="955.848"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="956.798" endTime="959.662">
+<Sync time="956.798"/>
+mais la question c'est qu'en période de chômage d'abord 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3 spk2" startTime="959.662" endTime="961.64">
+<Sync time="959.662"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="961.64" endTime="981.292">
+<Sync time="961.64"/>
+&amp;nan &amp;nan le pouvoir d'achat, le pouvoir d'achat n'a jamais augmenté, vous ne me trouverez aucune corrélation entre l'augmentation des pouvoirs d'achat et l'exonération de taxe 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur l'éxonération sur les heures supplémentaires, aucun, vous ne trouverez aucun rapport qui ait fait cela 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc ce n'est pas une
+<Sync time="975.471"/>
+question de pouvoir d'achat 
+<Event desc="bc" type="noise" extent="begin"/>
+c'est une question
+<Event desc="bc" type="noise" extent="end"/>
+ de priorité qui est donnée à l'emploi, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et pour le reste quand on parle de pouvoir d'achat,
+</Turn>
+<Turn speaker="spk1" startTime="981.292" endTime="981.561">
+<Sync time="981.292"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="981.561" endTime="992.518">
+<Sync time="981.561"/>
+nous nous avons des rentrées fiscales qui vont être par la base de suppressions de niches, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ suppression, taxes sur les dividendes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour les grandes entreprises qui font des bénéfices
+<Sync time="989.395"/>
+c'est-à-dire que nous allons mettre à contribution 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ceux qui ne payaient
+</Turn>
+<Turn startTime="992.518" endTime="993.04">
+<Sync time="992.518"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="993.04" endTime="1019.975">
+<Sync time="993.04"/>
+pas d'impôts ou proportionnellement peu d'impôts par rapport aux classes moyennes et modestes, et dans le même temps nous revenons sur la suppression, sur la TVA sociale, et 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+la s()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ la TVA sociale c'est 13 milliards que nous réinjectons parce qu'ils auraient été pris 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sinon par l'autre majorité alors quand on parle de pouvoir d'achat 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1007.979"/>
+toutes les mesures que nous prenons là 
+<Event desc="bc" type="noise" extent="begin"/>
+sont des
+<Event desc="bc" type="noise" extent="end"/>
+ mesures qui visent, un, à favoriser le pouvoir d'achat des plus modestes, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ deux c'est vrai, à avoir des rentrées fiscales 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de la part de ceux qui aujourd'hui peuvent contribuer à l'effort 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de la nation.
+</Turn>
+<Turn speaker="spk1" startTime="1019.975" endTime="1030.468">
+<Sync time="1019.975"/>
+la fonction publique, pour répondre à ce qu'a dit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+et ce ne
+<Event desc="dis=rev" type="noise" extent="end"/>
+ bon c'est vrai que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le non-remplacement d'un fonctionnaire sur deux partant à la retraite a été mis en place pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+toute la durée du quinquennat précédent
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1030.468" endTime="1031.734">
+<Sync time="1030.468"/>
+mais ce coup de 
+<Event desc="bc" type="noise" extent="begin"/>
+sécateur
+<Event desc="bc" type="noise" extent="end"/>
+ était imbécile
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1031.734" endTime="1033.569">
+<Sync time="1031.734"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1033.569" endTime="1035.42">
+<Sync time="1033.569"/>
+ce coup de sécateur était totalement imbécile,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1035.42" endTime="1036.275">
+<Sync time="1035.42"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1036.275" endTime="1048.047">
+<Sync time="1036.275"/>
+(a)boutissait 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+à ce qu'on remplisse plus
+<Event desc="dis=rev" type="noise" extent="end"/>
+ à ce qu'on ne remplace plus les professeurs dans une circonscription comme la mienne, et qu'on ait plusieurs milliers de demi-journées qui ne soient pas remplacées dans les écoles primaires, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'était la pire des gestions publiques que l'on puisse imaginer
+</Turn>
+<Turn speaker="spk1" startTime="1048.047" endTime="1049.455">
+<Sync time="1048.047"/>
+mais ça faisait faire des économies à l'é(tat)
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1049.455" endTime="1050.99">
+<Sync time="1049.455"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1050.99" endTime="1078.137">
+<Sync time="1050.99"/>
+fait, en ne mettant pas d'enseignants devant les élèves, moi ce n'est pas ma conception des choix que nous devons faire, donc nous avons fait des choix, dans ce budget, 89 millions sur l'éducation dès maintenant 
+<Event desc="bc" type="noise" extent="begin"/>
+pour
+<Event desc="bc" type="noise" extent="end"/>
+ créer les premiers postes 
+<Event desc="bc" type="noise" extent="begin"/>
+60 mille
+<Event desc="bc" type="noise" extent="end"/>
+ postes, et dans le même temps nous l'avons dit, il faudra qu'il y ait une augmentation
+<Sync time="1065.698"/>
+de 1% par an 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de la masse pour la 
+<Event desc="bc" type="noise" extent="begin"/>
+fonction publique
+<Event desc="bc" type="noise" extent="end"/>
+, et cela voudrait dire réorganisation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et cela voudrait dire non remplacement d'un certain nombre de fonctionnaires partant à la retraite 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous avons été très clairs sur ce plan, et dans la campagne et maintenant.
+</Turn>
+<Turn speaker="spk1" startTime="1078.137" endTime="1080.431">
+<Sync time="1078.137"/>
+pour aller jusqu'au bout, les salaires des fonctionnaires vont
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1080.431" endTime="1082.678">
+<Sync time="1080.431"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1082.678" endTime="1083.39">
+<Sync time="1082.678"/>
+tout de suite la parole
+</Turn>
+<Turn speaker="spk2" startTime="1083.39" endTime="1084.134">
+<Sync time="1083.39"/>
+ils ne baisseront pas
+</Turn>
+<Turn speaker="spk1" startTime="1084.134" endTime="1084.941">
+<Sync time="1084.134"/>
+ils ne baisseront pas
+</Turn>
+<Turn startTime="1084.941" endTime="1085.368">
+<Sync time="1084.941"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1085.368" endTime="1101.101">
+<Sync time="1085.368"/>
+alors, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+deux d(eux)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ deux points 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+tout
+<Event desc="dis=rep" type="noise" extent="end"/>
+ tout d'abord 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ la suppression 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+du
+<Event desc="dis=rep" type="noise" extent="end"/>
+ du un sur deux, vous concentrez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un effort de 65 mille créations de postes dans des ministères dits prioritaires 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est à dire l'éducation nationale, si j'ai bien compris 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1099.645"/>
+ministère de 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la justice
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1101.101" endTime="1102.351">
+<Sync time="1101.101"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1102.351" endTime="1102.762">
+<Sync time="1102.351"/>
+*présent
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1102.762" endTime="1103.474">
+<Sync time="1102.762"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1103.474" endTime="1104.543">
+<Sync time="1103.474"/>
+trois quarts des fonctionnaires
+</Turn>
+<Turn speaker="spk1" startTime="1104.543" endTime="1104.812">
+<Sync time="1104.543"/>
+oui
+</Turn>
+<Turn speaker="spk3" startTime="1104.812" endTime="1106.26">
+<Sync time="1104.812"/>
+de la fonction publique d'état
+</Turn>
+<Turn startTime="1106.26" endTime="1106.671">
+<Sync time="1106.260"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1106.671" endTime="1148.875">
+<Sync time="1106.671"/>
+donc sur toutes 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les les au(tres)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les autres fonctionnaires, qui ont découvert 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'ils n'étaient pas considérés comme prioritaires par le gouvernement, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour eux ça va être des purges, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sans précédent, dans le ministère de l'agriculture, dans le ministère de l'écologie, dans le ministère de la culture, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans tous ces ministères 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1121.509"/>
+qui sont plus prioritaires aux yeux du gouvernement, c'est ce qui a été annoncé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est-à-dire qu'on va se retrouver 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour pouvoir financer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les créations de postes dans l'éducation nationale c'est-à-dire dans les trois quarts 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des postes 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de la fonction publique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un quart va vraiment passer à la
+<Sync time="1136.091"/>
+purge c'est, tous les autres ministères qui ne sont 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ni intérieur ni justice 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ni éducation nationale, et là on va peut-être se retrouver 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+pour un
+<Event desc="dis=rev" type="noise" extent="end"/>
+ (en)fin pour neuf départs ou pour dix départs dans certains cas à 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un seul
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un seul remplacement.
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1148.875" endTime="2158.992">
+<Turn startTime="1148.875" endTime="2158.992">
+<Sync time="1148.875"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

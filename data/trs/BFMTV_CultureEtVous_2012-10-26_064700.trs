@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Yann" audio_filename="BFMTV_CultureEtVous_2012-10-26_064700" version="6" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Pascale_DE_LA_TOUR_DU_PIN" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Christophe_DELAY" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk3" name="Berenice_MARLOHE" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk4" name="Eric_HERSON-MACAREL" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="Philippe_DUFREIGNE" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk6" name="Daniel_CRAIG" check="no" type="male" dialect="nonnative" accent="R5" scope="local"/>
+<Speaker id="spk7" name="speaker#7" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk8" name="Annie_MILON" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk9" name="Nadine_ALARI" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk10" name="speaker#10" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk11" name="Samuel_LABARTHE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk12" name="Javier_BARDEM" check="no" type="male" dialect="nonnative" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="431.977">
+<Turn startTime="0" endTime="431.977">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="431.977" endTime="527.532">
+<Turn startTime="431.977" endTime="437.795" speaker="spk1">
+<Sync time="431.977"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+évidemment ! évidemment ! aujourd'hui, la sortie du nouveau "james bond" : "skyfall".
+</Turn>
+<Turn speaker="spk2" startTime="437.795" endTime="448.482">
+<Sync time="437.795"/>
+c'est un titre unique, évidemment. il *rempile &lt;pers=Daniel_CRAIG&gt;Daniel Craig&lt;/pers&gt; pour la troisième fois 
+<Event desc="r" type="noise" extent="instantaneous"/>
+dans le rôle de l'espion de sa majesté. &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt; a vu le film et je crois qu'il a beaucoup aimé.
+</Turn>
+<Turn startTime="448.482" endTime="450.265">
+<Sync time="448.482"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="450.265" endTime="453.475">
+<Sync time="450.265"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+ça a du bon un coup de théâtre de temps en temps. monsieur ?
+</Turn>
+<Turn speaker="spk4" startTime="453.475" endTime="455.621">
+<Sync time="453.475"/>
+Bond. James Bond.
+</Turn>
+<Turn startTime="455.621" endTime="456.852">
+<Sync time="455.621"/>
+
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="456.852" endTime="463.223">
+<Sync time="456.852"/>
+la phrase est archi connue mais il faudra vous y faire, dans ce "james bond" du cinquantenaire, il y a d'abord beaucoup de clins d'oeil à la saga.
+</Turn>
+<Turn speaker="spk6" startTime="463.223" endTime="464.371">
+<Sync time="463.223"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6 spk7" startTime="464.371" endTime="467.897">
+<Sync time="464.371"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+oui, on a voulu remettre des choses, des vieux trucs, pour tous ceux qui sont fans.
+</Turn>
+<Turn speaker="spk6" startTime="467.897" endTime="468.83">
+<Sync time="467.897"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="468.83" endTime="470.678">
+<Sync time="468.83"/>
+des fans qui vont avoir des haut-le-coeur.
+</Turn>
+<Turn speaker="spk8" startTime="470.678" endTime="472.43">
+<Sync time="470.678"/>
+non ! je risque de toucher Bond.
+</Turn>
+<Turn speaker="spk9" startTime="472.43" endTime="473.561">
+<Sync time="472.43"/>
+je vous dis de tirer, nom de dieu !
+</Turn>
+<Turn startTime="473.561" endTime="475.558">
+<Sync time="473.561"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="475.558" endTime="478.834">
+<Sync time="475.558"/>
+car dès les premières scènes, on 
+<Event desc="b" type="noise" extent="begin"/>
+retient son souffle pour le héros.
+</Turn>
+<Turn speaker="spk6" startTime="478.834" endTime="479.486">
+<Sync time="478.834"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6 spk7" startTime="479.486" endTime="482.78">
+<Sync time="479.486"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+à partir du moment où on a une bonne histoire, une bonne intrigue, on peut rajouter tout ce qu'on veut.
+</Turn>
+<Turn speaker="spk6" startTime="482.78" endTime="483.277">
+<Sync time="482.78"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="483.277" endTime="485.435">
+<Sync time="483.277"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+et ça tombe bien, on a ajouté des doutes,
+</Turn>
+<Turn speaker="spk10" startTime="485.435" endTime="487.664">
+<Sync time="485.435"/>
+il n'y a aucune honte à avouer que vous avez perdu la main.
+</Turn>
+<Turn startTime="487.664" endTime="488.513">
+<Sync time="487.664"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="488.513" endTime="492.099">
+<Sync time="488.513"/>
+une menace qui plane sur M, la patronne des services secrets,
+</Turn>
+<Turn startTime="492.099" endTime="493.964">
+<Sync time="492.099"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="493.964" endTime="497.538">
+<Sync time="493.964"/>
+et un méchant campé par &lt;pers=Javier_BARDEM&gt;Javier Bardem&lt;/pers&gt;, drôle et flippant à la fois.
+</Turn>
+<Turn speaker="spk11" startTime="497.538" endTime="499.881">
+<Sync time="497.538"/>
+maman a vraiment été méchante.
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk12 spk7" startTime="499.881" endTime="504.005">
+<Sync time="499.881"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+en fait, on a voulu que, simplement en le regardant, les gens soient mal à l'aise.
+</Turn>
+<Turn speaker="spk12" startTime="504.005" endTime="504.937">
+<Sync time="504.005"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="504.937" endTime="509.384">
+<Sync time="504.937"/>
+autre atout qui ne vous mettra pas mal à l'aise : dans cette saga, une française !
+</Turn>
+<Turn speaker="spk3" startTime="509.384" endTime="510.819">
+<Sync time="509.384"/>
+et quelle française !
+</Turn>
+<Turn speaker="spk5" startTime="510.819" endTime="514.649">
+<Sync time="510.819"/>
+&lt;pers=Berenice_MARLOHE&gt;Bérénice Marlohe&lt;/pers&gt;, 33 ans, qui pour camper la 
+<Event desc="en" type="language" extent="begin"/>
+bond-girl
+<Event desc="en" type="language" extent="end"/>
+ a imaginé
+</Turn>
+<Turn speaker="spk3" startTime="514.649" endTime="518.085">
+<Sync time="514.649"/>
+une créature qui est entre l'homme, la femme
+</Turn>
+<Turn startTime="518.085" endTime="518.593">
+<Sync time="518.085"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="518.593" endTime="519.594">
+<Sync time="518.593"/>
+et un animal.
+</Turn>
+<Turn speaker="spk5" startTime="519.594" endTime="523.787">
+<Sync time="519.594"/>
+rien que ça ! elle réussit, en tout cas, à se faire sa place dans cette saga d'envergure.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="523.787" endTime="527.532">
+<Sync time="523.787"/>
+vous avez fait une apparition audacieuse dans notre petit mélo.
+</Turn>
+</Section>
+<Section type="nontrans" startTime="527.532" endTime="1270.200">
+<Turn startTime="527.532" endTime="1270.200">
+<Sync time="527.532"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

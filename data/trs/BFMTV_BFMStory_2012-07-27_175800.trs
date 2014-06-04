@@ -1,0 +1,3897 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_BFMStory_2012-07-27_175800" version="14" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Olivier_TRUCHOT" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Frederic_DE_LANOUVELLE" check="no" type="male" dialect="native" accent="R2" scope="local"/>
+<Speaker id="spk3" name="Pierrick_TAISNE" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk4" name="Jo-Wilfried_TSONGA" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="Jean-Marc_AYRAULT" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="Christophe_JAKUBYSZYN" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk7" name="Danny_BOYLE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk8" name="speaker#8" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk9" name="Remi_PERROT" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk10" name="Thomas_DE_ROCHECHOUART" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk11" name="Christian_SEIGLE-FERRAND" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk12" name="Marlene_BFMTV_BFMStory_2012-07-27_175800" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk13" name="Bertrand_LAFERRERE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk14" name="Francois_HOLLANDE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk15" name="Laetitia_SOUDY" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk16" name="Hugues_OBRY" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk17" name="Fabienne_BROUCARET" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk18" name="Sandra_BOULANGER" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk19" name="Inconnu_026" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk20" name="speaker#20" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk21" name="speaker#21" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk22" name="Maxime_POULLAOUEC" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk23" name="Frederic_NATHAN" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk24" name="Inconnu_030" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk25" name="speaker#25" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk26" name="Gerard_SCHALLER" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk27" name="Brahim_ASLOUM" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk28" name="Virgile_CAILLET" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="167.01">
+<Turn startTime="0" endTime="167.01">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="167.01" endTime="1598.132">
+<Turn startTime="167.01" endTime="174.576" speaker="spk1">
+<Sync time="167.01"/>
+ce soir ce qu'il faut retenir dans l'actualité &lt;pers=Frederic_DE_LANOUVELLE&gt;Frédéric de Lanouvelle&lt;/pers&gt; bonsoir &lt;pers=Frederic_DE_LANOUVELLE&gt;Frédéric&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ plus que quelques heures avant l'ouverture des Jeux Olympiques.
+</Turn>
+<Turn speaker="spk2" startTime="174.576" endTime="184.336">
+<Sync time="174.576"/>
+la cérémonie débutera à 22h
+<Event desc="22 heures" type="pronounce" extent="previous"/>
+ heure française et nous sommes en direct avec &lt;pers=Pierrick_TAISNE&gt;
+<Event desc="dis=rev" type="noise" extent="begin"/>
+*Pierrit
+<Event desc="dis=rev" type="noise" extent="end"/>
+ Pierrick Taisne&lt;/pers&gt; en direct du club France &lt;pers=Pierrick_TAISNE&gt;Pierrick&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dernière ligne droite pour les athlètes tricolores.
+</Turn>
+<Turn startTime="184.336" endTime="184.914">
+<Sync time="184.336"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="184.914" endTime="217.733">
+<Sync time="184.914"/>
+oui dernière ligne droite &amp;hein pour les athlètes français vous l'avez dit alors eux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ils ne sont pas là &amp;hein soit certains se préparent tout simplement pour leurs épreuves 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="191.345"/>
+d'autres eux se préparent mentalement pour cette cérémonie d'ouverture tout à l'heure vous l'avez dit à partir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de 22h
+<Event desc="22 heures" type="pronounce" extent="previous"/>
+ alors nous avons croisé tout à l'heure &lt;pers=Laura_FLESSEL-COLOVIC&gt;Laura Flessel&lt;/pers&gt;, &amp;hein &lt;pers=Laura_FLESSEL-COLOVIC&gt;Laura Flessel&lt;/pers&gt; qui sera
+<Sync time="199.883"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la porte drapeau de cette délégation française tout à l'heure, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ hier on a pu voir notamment enfin toute cette semaine même on a pu voir notamment de() défiler 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ au club France de nombreux athlètes &lt;pers=Teddy_RINER&gt;Teddy Riner&lt;/pers&gt;, les basketteurs, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les handballeurs avec notamment 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Nikola_KARABATIC&gt;Nikola Karabatic&lt;/pers&gt; ou encore
+<Sync time="212.841"/>
+&lt;pers=Jo-Wilfried_TSONGA&gt;Jo-Wilfried Tsonga&lt;/pers&gt; &amp;hein, &lt;pers=Jo-Wilfried_TSONGA&gt;Jo-Wilfried Tsonga&lt;/pers&gt; au micro de &lt;pers=Julien_RICHARD&gt;Julien Richard&lt;/pers&gt; que nous avons rencontré hier.
+</Turn>
+<Turn startTime="217.733" endTime="219.166">
+<Sync time="217.733"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="219.166" endTime="240.11">
+<Sync time="219.166"/>
+je pense que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+tous les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ tous les sportifs qui vont être là 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+sont
+<Event desc="dis=rev" type="noise" extent="end"/>
+ vont être comme des enfants 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à ce moment-là je pense que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="226.107"/>
+c'est quelque chose 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qu'on vit pas énormément dans une vie, c'est un rêve de gosse quand on est dans son canapé et qu'on regarde le défilé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on est déjà comme un gosse donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ j'imagine même pas de l'intérieur.
+</Turn>
+<Turn speaker="spk3" startTime="240.11" endTime="271.705">
+<Sync time="240.11"/>
+alors le numéro un français &amp;hein va vivre ce rêve de gosse, il fera partie avec d'autres athlètes donc 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui défileront tout à l'heure au stade 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="246.357"/>
+olympique, d'autres sont restés tranquillement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à se préparer tout simplement parce qu'une cérémonie d'ouverture c'est long, c'est fatiguant, ils préfèrent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ se concentrer pleinement
+<Sync time="253.755"/>
+sur l'entrée en compétition &amp;hein dès demain pour certains d'entre eux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et il faut savoir également qu'au club France tout à l'heure c'est le premier ministre
+<Sync time="260.205"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ Monsieur &lt;pers=Jean-Marc_AYRAULT&gt;Ayrault&lt;/pers&gt; qui est venu donc saluer et encourager ces équipes de France accompagné 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ du ministre des sports Madame &lt;pers=Valerie_FOURNEYRON&gt;Fourneyron&lt;/pers&gt;. ces deux personnalités se rendront 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ensuite au stade olympique pour représenter la France tout à l'heure à la cérémonie d'ouverture à partir de 22h
+<Event desc="22 heures" type="pronounce" extent="previous"/>
+.
+</Turn>
+<Turn speaker="spk2" startTime="271.705" endTime="300.34">
+<Sync time="271.705"/>
+merci beaucoup &lt;pers=Pierrick_TAISNE&gt;Pierrick Taisne&lt;/pers&gt; en direct de Londres vous êtes avec &lt;pers=Jean-Marc_BRIEU&gt;Jean-Marc Brieu&lt;/pers&gt; et vous nous parliez justement de &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; le premier ministre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+qui a été
+<Event desc="dis=rev" type="noise" extent="end"/>
+ qui est reçu en ce moment même à Buckingham Palace 
+<Sync time="281.051"/>
+par la reine tout comme la centaine de chefs d'état et de gouvernement qui assisteront à la cérémonie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'ouverture ce soir le premier ministre qui était tout à l'heure en direct sur BFM Tv 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="292.211"/>
+vous le savez les français à Pékin avait décroché 41 médailles dont 7 en or et bien il espère que cette fois les athlètes feront encore mieux. écoutez-le. 
+</Turn>
+<Turn startTime="300.34" endTime="301.865">
+<Sync time="300.34"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="301.865" endTime="309.231">
+<Sync time="301.865"/>
+moi je souhaite qu'y ait bien sûr que ils fassent mieux que à Pékin, même si à Pékin 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 40 médailles c'était bien mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je souhaite qu'il y ai davantage de médailles d'or
+</Turn>
+<Turn speaker="spk6" startTime="309.231" endTime="310.007">
+<Sync time="309.231"/>
+il y en avait 7 à Pékin
+</Turn>
+<Turn speaker="spk5" startTime="310.007" endTime="332.302">
+<Sync time="310.007"/>
+absolument et 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais le travail qui avait été fait est formidable &amp;hein 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et une superbe préparation et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je sais l'effort que ça demande
+<Sync time="317.495"/>
+individuel mais aussi collectif je pense à tous les soutiens techniques, je pense à 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tout ce que fait le mouvement sportif français et mouvement olympique et sportif français et donc je suis très confiant 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+
+<Sync time="328.422"/>
+à un moment où ces jeux 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+sont en
+<Event desc="dis=rev" type="noise" extent="end"/>
+ vont être ouverts à Londres.
+</Turn>
+<Turn speaker="spk2" startTime="332.302" endTime="344.063">
+<Sync time="332.302"/>
+et c'est &lt;pers=Danny_BOYLE&gt;Danny Boyle&lt;/pers&gt; le cinéaste qui organise la cérémonie d'ouverture, oscar du meilleur réalisateur pour le film " Slumdog Millionnaire " il a disposé d'un budget 34 millions d'euros, il nous livre ses dernières impressions quelques heures avant le coup d'envoi.
+</Turn>
+<Turn startTime="344.063" endTime="344.696">
+<Sync time="344.063"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="344.696" endTime="349.418">
+<Sync time="344.696"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ce sera un spectacle en live donc tout repose sur les acteurs
+</Turn>
+<Turn startTime="349.418" endTime="349.862">
+<Sync time="349.418"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="349.862" endTime="352.265">
+<Sync time="349.862"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+et là dans le cas présent les volontaires
+</Turn>
+<Turn startTime="352.265" endTime="352.713">
+<Sync time="352.265"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="352.713" endTime="358.146">
+<Sync time="352.713"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+donc il y a de quoi se sentir nerveux pour eux, pour eux vraiment car mes nerfs à moi peu importe.
+</Turn>
+<Turn startTime="358.146" endTime="358.997">
+<Sync time="358.146"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="358.997" endTime="363.35">
+<Sync time="358.997"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+mais l'excitation que je ressens évidemment j'imagine que c'est pareil pour eux
+</Turn>
+<Turn startTime="363.35" endTime="364.122">
+<Sync time="363.35"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="364.122" endTime="365.712">
+<Sync time="364.122"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+je suis impatient vraiment
+</Turn>
+<Turn startTime="365.712" endTime="366.166">
+<Sync time="365.712"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="366.166" endTime="369.673">
+<Sync time="366.166"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+après arrivera ce qui arrivera parce que c'est du live
+</Turn>
+<Turn startTime="369.673" endTime="370.108">
+<Sync time="369.673"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="370.108" endTime="376.955">
+<Sync time="370.108"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+et c'est une fois seulement, je ne le referais jamais
+<Sync time="372.975"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+c'est extraordinaire de vivre ça 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="376.955" endTime="377.376">
+<Sync time="376.955"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="377.376" endTime="382.186">
+<Sync time="377.376"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans l'actualité également la commission de discipline de la fédération française de football elle a tranché.
+</Turn>
+<Turn speaker="spk2" startTime="382.186" endTime="392.861">
+<Sync time="382.186"/>
+les débordements de &lt;pers=Samir_NASRI&gt;Samir Nasri&lt;/pers&gt;, &lt;pers=Jeremy_MENEZ&gt;Jérémie Ménez&lt;/pers&gt;, &lt;pers=Hatem_BEN_ARFA&gt;Hatem Ben Arfa&lt;/pers&gt; et &lt;pers=Yann_M_VILA&gt;Yann M'Vila&lt;/pers&gt; à l'euro était discutés. en effet aujourd'hui suspension pour deux d'entre eux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les détails de &lt;pers=Remi_PERROT&gt;Remi Perrot&lt;/pers&gt; devant le siège de la fédération.
+</Turn>
+<Turn startTime="392.861" endTime="393.85">
+<Sync time="392.861"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="393.85" endTime="449.654">
+<Sync time="393.85"/>
+et comme on pouvait s'y attendre c'est donc &lt;pers=Samir_NASRI&gt;Samir Nasri&lt;/pers&gt; qui a écopé de la plus lourde sanction 3 matches de suspension en équipe de France pour le joueur de Manchester City qui était présent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce matin ici au siège de la fédération française de football 
+<Sync time="406.787"/>
+3 matchs de suspension pour son ferme ta gueule adressé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à la presse française et devant les caméras du monde entier lors du tout premier match de l'équipe de France lors de l'euro
+<Sync time="415.111"/>
+1 match de suspension c'est pour &lt;pers=Jeremy_MENEZ&gt;Jérémie Menez&lt;/pers&gt; qui lui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avait eu une altercation avec son capitaine et coéquipier &lt;pers=Hugo_LLORIS&gt;Hugo Lloris&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et qui avait également eu des propos insultants envers l'arbitre de la rencontre France Espagne. en revanche la commission de discipline a été plutôt clémente 
+<Sync time="428.349"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec &lt;pers=Hatem_BEN_ARFA&gt;Hatem Ben Arfa&lt;/pers&gt; et &lt;pers=Yann_M_VILA&gt;Yann M'Vila&lt;/pers&gt; les deux joueurs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ n'écopent que d'un simple rappel à l'ordre puisque en ce qui concerne les primes de match il va falloir encore attendre pour savoir si elles seront reversées 
+<Sync time="439.574"/>
+ou non 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ aux joueurs de l'équipe de France il faudra attendre la tenue du comité exécutif en tout cas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ aujourd'hui la commission de discipline a tranché 3 matches de suspension &lt;pers=Samir_NASRI&gt;Samir Nasri&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et un match pour &lt;pers=Jeremy_MENEZ&gt;Jérémie Menez&lt;/pers&gt;
+</Turn>
+<Turn startTime="449.654" endTime="450.601">
+<Sync time="449.654"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="450.601" endTime="481.19">
+<Sync time="450.601"/>
+attention aux violents orages sur le nord de la France. 43 départements sont placés en vigilance orange par météo France sur une zone nord sud allant du Midi-Pyrénées au Nord-Pas-de-Calais de fortes averses de pluies sont annoncées, possibilité de chute de grêle également des rafales de vent elles pourraient dépasser
+<Sync time="465.155"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les 100km/h
+<Event desc="100 kilomètres heure" type="pronounce" extent="previous"/>
+ et puis les routes très chargées aussi ce week-end 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ journée classée orange au niveau national dans le sens des départs orange aussi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="473.053"/>
+pour les retours dans le sud-est de la France et puis demain ce sera pire puisque bison futé voit rouge pour les départs au niveau national rouge pour les retours 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans la moitié sud.
+</Turn>
+<Turn speaker="spk1" startTime="481.19" endTime="486.305">
+<Sync time="481.19"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ l'actualité c'est aussi la tuerie probablement préméditée selon les enquêteurs la tuerie de Savoie.
+</Turn>
+<Turn speaker="spk2" startTime="486.305" endTime="494.875">
+<Sync time="486.305"/>
+un homme de 24 ans qui a abattu son père et son frère de 8 ans. un autre de ses frères grièvement blessé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sa mère a prévenu les secours, les détails de &lt;pers=Thomas_DE_ROCHECHOUART&gt;Thomas de Rochechouart&lt;/pers&gt;.
+</Turn>
+<Turn startTime="494.875" endTime="495.255">
+<Sync time="494.875"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="495.255" endTime="501.57">
+<Sync time="495.255"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ un chalet paisible au coeur des Alpes, une famille aisée et en apparence sans histoire
+</Turn>
+<Turn startTime="501.57" endTime="501.927">
+<Sync time="501.57"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="501.927" endTime="506.677">
+<Sync time="501.927"/>
+rien de l'extérieur ne laissait présager le drame qui s'est déroulé ici à huis clos derrière ces volets.
+</Turn>
+<Turn startTime="506.677" endTime="507.056">
+<Sync time="506.677"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="507.056" endTime="510.79">
+<Sync time="507.056"/>
+la famille réunie en fin d'après-midi ce jeudi
+<Sync time="509.366"/>
+lorsque tout bascule
+</Turn>
+<Turn speaker="spk11" startTime="510.79" endTime="525.376">
+<Sync time="510.79"/>
+c'est le plus grand 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des garçons qui a eu un coup de folie on va dire et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sur(ement)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sûrement au cours d'une dispute avec son père et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ça a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ça a dégénéré il a donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ abattu son père et ses deux frères avec une arme à feu.
+</Turn>
+<Turn speaker="spk10" startTime="525.376" endTime="542.658">
+<Sync time="525.376"/>
+le père et l'un des frères âgé de 8 ans sont tués sur le coup
+<Sync time="528.532"/>
+blessé grièvement le deuxième frère est toujours dans le coma.
+<Sync time="531.503"/>
+la mère, elle parvient à s'enfuir c'est elle qui donne l'alerte
+<Sync time="534.807"/>
+à Bozel c'est la consternation tout le monde ici connaissait la famille très impliquée dans la vie du village 
+<Sync time="539.626"/>
+cette voisine vient à peine d'apprendre la nouvelle.
+</Turn>
+<Turn speaker="spk12" startTime="542.658" endTime="556.914">
+<Sync time="542.658"/>
+heureusement que je suis assise et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je savais que le grand frère lui avait des soucis au niveau 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ psychiatrique on va dire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais j'aurais jamais pensé un truc pareil.
+</Turn>
+<Turn speaker="spk10" startTime="556.914" endTime="562.343">
+<Sync time="556.914"/>
+des problèmes psychiatriques confirmés par le parquet de Chambéry qui étudie la piste de la préméditation.
+</Turn>
+<Turn startTime="562.343" endTime="562.769">
+<Sync time="562.343"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="562.769" endTime="572.627">
+<Sync time="562.769"/>
+âgé de 24 ans le fils amateur de jeux de rôles travaillait dans l'entreprise fondée par le père qui avait fait fortune avec cette première société. entre les deux les disputes étaient fréquentes.
+</Turn>
+<Turn speaker="spk13" startTime="572.627" endTime="586.855">
+<Sync time="572.627"/>
+le fils comme les jeunes faisaient pas mal de conneries et sur le plan professionnel il arrivait pas à se stabiliser ou alors
+<Sync time="578.961"/>
+que son père effectivement lui était très attaché aux règles, au boulot, à la réussite. il y a bien eu quelque chose en trop qui a fait qu'il a pété les plombs.
+</Turn>
+<Turn speaker="spk10" startTime="586.855" endTime="590.76">
+<Sync time="586.855"/>
+le fils a été arrêté, une enquête pour assassinat a été ouverte.
+</Turn>
+<Turn startTime="590.76" endTime="592.272">
+<Sync time="590.76"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="592.272" endTime="603.903">
+<Sync time="592.272"/>
+visite de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; chez l'équipementier automobile Valéo aujourd'hui, une entreprise française qui réussit selon le président il y a à nouveau défendu le plan d'aide du gouvernement à la filière automobile, l'avenir de la voiture électrique également, écoutez.
+</Turn>
+<Turn speaker="spk14" startTime="603.903" endTime="605.174">
+<Sync time="603.903"/>
+je voulais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="605.174" endTime="605.867">
+<Sync time="605.174"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="605.867" endTime="611.186">
+<Sync time="605.867"/>
+montrer que le plan qui a été présenté par le gouvernement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="609.637"/>
+le ministre &lt;pers=Arnaud_MONTEBOURG&gt;Montebourg&lt;/pers&gt; 
+</Turn>
+<Turn startTime="611.186" endTime="612.286">
+<Sync time="611.186"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="612.286" endTime="616.047">
+<Sync time="612.286"/>
+permettait de donner priorité aux véhicules
+</Turn>
+<Turn startTime="616.047" endTime="616.7">
+<Sync time="616.047"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="616.7" endTime="621.741">
+<Sync time="616.7"/>
+de demain. ceux-là même qui sont conçus pour une part ici.
+</Turn>
+<Turn startTime="621.741" endTime="622.374">
+<Sync time="621.741"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="622.374" endTime="642.715">
+<Sync time="622.374"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'actualité en Syrie et les combats entre les forces de &lt;pers=Bachar_AL-ASSAD&gt;Bachar al-Assad&lt;/pers&gt; et les rebelles qui font toujours rage à Alep deuxième ville du pays, combats également à Deraa où malgré les violences
+<Sync time="631.246"/>
+plusieurs manifestants ont défilé dans la rue 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à la frontière libano-syrienne les réfugiés sont également cible de l'armée de &lt;pers=Bachar_AL-ASSAD&gt;Bachar al-Assad&lt;/pers&gt; récit de nos envoyés spéciaux &lt;pers=Laetitia_SOUDY&gt;Laetitia Soudy&lt;/pers&gt; et &lt;pers=Quentin_BAULIER&gt;Quentin Baulier&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk15" startTime="642.715" endTime="695.777">
+<Sync time="642.715"/>
+du village libanais où nous avons pu nous rendre on a pu voir clairement le drapeau syrien 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il faut dire qu'une petite rivière sépare les deux pays et ce village 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="651.285"/>
+libanais est depuis des mois la cible de l'armée syrienne régulière 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur les murs les impacts de balles se comptent par dizaines 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'armée syrienne utilise désormais l'artillerie lourde pour bombarder ces villages.
+<Sync time="663.28"/>
+il faut dire qu'il y a de nombreux réfugiés syriens qui se sont installés ici 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ depuis des mois des réfugiés qui désormais doivent aller 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un peu plus haut dans les montagnes pour trouver
+<Sync time="671.662"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un endroit plus sûr, les libanais qui habitent ces villages sont eux aussi victimes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de ce conflit l'un d'entre eux nous le disait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je n'avais aucun problème avec le régime de &lt;pers=Bachar_AL-ASSAD&gt;Bachar al-Assad&lt;/pers&gt;
+<Sync time="680.916"/>
+mais en voyant ce qu'il fait je soutiens désormais la révolution. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'armée syrienne ne fait pas que tirer sur ces villages, elle ferait aussi
+<Sync time="688.216"/>
+des incursions, certains parlent de kidnapping 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il faut dire que cette zone sert aussi de base arrière à de nombreux combattants de l'armée syrienne libre.
+</Turn>
+<Turn startTime="695.777" endTime="696.48">
+<Sync time="695.777"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="696.48" endTime="700.223">
+<Sync time="696.48"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ la météo attention donc aux orages ce soir et cette nuit et demain matin ? 
+</Turn>
+<Turn speaker="spk2" startTime="700.223" endTime="719.546">
+<Sync time="700.223"/>
+&amp;ben des orages qui se décaleront davantage à l'est et qui concerneront les régions du Limousin jusqu'à l'Auvergne et le nord est. toujours du soleil sur le sud est retour des éclaircies 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="709.455"/>
+entre la Bretagne et la Normandie les températures elles sont en baisse, 13 à Brest, 18 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à B()
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à Biarritz, 19 à Paris et Grenoble 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 21 à Perpignan à Lyon et 22 degrés à Nice.
+</Turn>
+<Turn speaker="spk1" startTime="719.546" endTime="757.207">
+<Sync time="719.546"/>
+merci &lt;pers=Frederic_DE_LANOUVELLE&gt;Frédéric&lt;/pers&gt; bon week-end à vous 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+. les jeux olympiques 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on est à moins de 4h
+<Event desc="4 heures" type="pronounce" extent="previous"/>
+ maintenant de la cérémonie d'ouverture 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à Londres
+<Event desc="dis=rep" type="noise" extent="end"/>
+, à Londres où nous retrouvons &lt;pers=Hugues_OBRY&gt;Hugues Obry&lt;/pers&gt;.
+<Sync time="728.86"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ notre consultant, l'un des consultants de BFM Tv 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour ces jeux olympiques les vingt septième, bonsoir &lt;pers=Hugues_OBRY&gt;Hugues&lt;/pers&gt; vous êtes rappelons le
+<Sync time="737.531"/>
+pour ceux qui ne vous connaissent pas encore 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un escrimeur vous avez été notamment médaillé d'or par équipe au JO d'Athènes en 2004 mais vous avez également participé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ aux JO de Sydney alors justement &lt;pers=Hugues_OBRY&gt;Hugues&lt;/pers&gt; 
+<Sync time="747.902"/>
+dans quel état d'esprit est-on lorsqu'on est athlète participant aux Jeux Olympiques à quelques heures de ce défilé dans le stade olympique ? 
+</Turn>
+<Turn speaker="spk16" startTime="757.207" endTime="787.754">
+<Sync time="757.207"/>
+et &amp;ben là on est tous 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en train de se préparer, on met nos chaussures, on met nos chemises et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on se prépare à rentrer dans le long circuit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ du défilé avec 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des beaucoup d'attente dans les cars
+<Sync time="769.979"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à un moment donné un petit parcage 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="773.01"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans des salles pour enfin 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pouvoir rentrer
+<Sync time="776.222"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais on se regarde tous on essaie de savoir si on est bien habillé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="780.15"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on regarde aussi les autres nations donc voilà c'est 
+<Sync time="783.339"/>
+ça va être le début on est dans les starting blocs et on espère que ça va bientôt partir.
+</Turn>
+<Turn speaker="spk1" startTime="787.754" endTime="793.317">
+<Sync time="787.754"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ les pour un athlètes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les Jeux Olympiques c'est le rendez-vous le plus important d'une vie, d'une carrière ? 
+</Turn>
+<Turn startTime="793.317" endTime="793.807">
+<Sync time="793.317"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="793.807" endTime="816.466">
+<Sync time="793.807"/>
+en fait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je pense que ça se programme depuis 4 ans on planifie tout, les choses depuis 4 ans et puis on attend
+<Sync time="800.306"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour arriver c'est vrai que c'est la compétition majeure, c'est la compétition qu'il faut pas louper
+<Sync time="804.774"/>
+et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ y a tout un travail derrière et on espère ne pas se louper ce jour-là mais c'est vraiment 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+, la dernière compet(ition) où on peut avoir la reconnaissance et 
+<Sync time="813.255"/>
+se dire que on peut finir sur quelque chose de beau ouais.
+</Turn>
+<Turn speaker="spk1" startTime="816.466" endTime="823.87">
+<Sync time="816.466"/>
+alors maintenant vous êtes de l'autre côté de la barrière vous allez 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ commenter l'escrime 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'ailleurs qu'elles sont nos chances cette année ?
+</Turn>
+<Turn startTime="823.87" endTime="824.721">
+<Sync time="823.87"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="824.721" endTime="852.737">
+<Sync time="824.721"/>
+alors on a un peu moins de chance que les autres années parce qu'on a une délégation qui a un peu diminué du fait des qualifications qu'ont été dures 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ aujourd'hui chaque escrimeur qui est ici peut éventuellement avoir une médaille 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="835.514"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je dirais que 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rev" type="noise" extent="end"/>
+ le plus important ce sera entre 3 et 4 médailles un bon résultat pour nous 3 et 4 médailles 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="841.466"/>
+et surtout si on veut garder en tête la France qui gagne aux jeux en escrime il faut à tout prix avoir une médaille d'or 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="847.333"/>
+et pour ça on va commencer dès demain, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dès le sa(medi)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dès le samedi avec le fleuret dames.
+</Turn>
+<Turn startTime="852.737" endTime="853.116">
+<Sync time="852.737"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="853.116" endTime="857.316">
+<Sync time="853.116"/>
+et notamment une bonne chance de médaille pour &lt;pers=Astrid_GUYART&gt;Astrid Guyart&lt;/pers&gt; au fleuret dames dès demain matin.
+</Turn>
+<Turn speaker="spk1" startTime="857.316" endTime="868.976">
+<Sync time="857.316"/>
+vous avez rencontré euh 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les français, les françaises quel est leur état d'esprit 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que je sais bien que y a 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ une ambiance bon enfant aussi on se retrouve mais il faut aussi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ très rapidement se concentrer parce que la compétition démarre très vite.
+</Turn>
+<Turn startTime="868.976" endTime="869.411">
+<Sync time="868.976"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="869.411" endTime="898.006">
+<Sync time="869.411"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+faut faut
+<Event desc="dis=rep" type="noise" extent="end"/>
+ faut avoir 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le bon
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le bon dosage entre s'amuser, se faire plaisir et puis être concentré pour la compet(ition) ne pas basculer trop tôt dans la compet(ition) 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="878.352"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ là ils ont fait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ une bonne bascule au stage à Vittel qui s'est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+très
+<Event desc="dis=rep" type="noise" extent="end"/>
+ très bien passée 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="882.451"/>
+je pense qu'ils sont dans une bonne dynamique ensuite après vous savez il y a des adversaires tout le monde vient ici pour gagner et malheureusement y a que trois médailles. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="889.83"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en tout cas je suis sûr qu'ils feront le maximum pour y arriver en tout cas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je les ai rencontrés ils étaient tous motivés, tous solidaires 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et ils avaient envie de donner le maximum d'eux.
+</Turn>
+<Turn speaker="spk1" startTime="898.006" endTime="910.089">
+<Sync time="898.006"/>
+je le disais vous avez connu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Sydney, vous avez connu Athènes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+co(mment)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ comment se présente Londres 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+vous
+<Event desc="dis=rep" type="noise" extent="end"/>
+ vous sentez 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une fièvre londonienne 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ un emballement de la population pour ces jeux ? 
+</Turn>
+<Turn startTime="910.089" endTime="910.839">
+<Sync time="910.089"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="910.839" endTime="943.363">
+<Sync time="910.839"/>
+c'est difficile quand on est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de l'extérieur de comparer. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ j'ai vécu Sydney c'était magnifique, Athènes il y avait une effervescence énorme 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ici 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je le je le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je le ressens un petit peu moins parce que je suis moins à l'intérieur du village 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="925.222"/>
+mais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je sens que y a des passionnés de sport qui arrivent on a vu dans les métros
+<Sync time="929.653"/>
+on voit dans les rues il y a de plus en plus de monde 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="931.853"/>
+et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je sens que
+<Sync time="933.471"/>
+avec les premiers résultats, avec les premiers résultats sportifs et les premières médailles, les premières souffrances
+<Sync time="938.674"/>
+je pense que c'est là qu'on va vraiment se rendre compte qu'on est réellement rentré dans ces jeux.
+</Turn>
+<Turn speaker="spk1" startTime="943.363" endTime="981.071">
+<Sync time="943.363"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ merci &lt;pers=Hugues_OBRY&gt;Hugues&lt;/pers&gt;, merci &lt;pers=Hugues_OBRY&gt;Hugues Obry&lt;/pers&gt; en direct de Londres, 
+<Event desc="bc" type="noise" extent="begin"/>
+consultant escrime
+<Event desc="bc" type="noise" extent="end"/>
+ pour les jeux et a donc à très bientôt parce qu'on a bien compris pour l'escrime 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça va démarrer très vite et très fort. alors justement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on a vu &lt;pers=Laura_FLESSEL-COLOVIC&gt;Laura Flessel&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="954.307"/>
+ça c'est formidable pour l'escrime pour l'épée puisque c'est la porte drapeau 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de l'équipe de France &lt;pers=Fabienne_BROUCARET&gt;Fabienne Broucaret&lt;/pers&gt; justement bonjour je voulais 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ parler avec vous quelques minutes parce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les femmes ont une place importante pendant 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ces
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ces olympiades
+<Sync time="968.065"/>
+&lt;pers=Laura_FLESSEL-COLOVIC&gt;Laura Flessel&lt;/pers&gt;, &lt;pers=Laure_MANAUDOU&gt;Laure Manaudou&lt;/pers&gt; et vous avez signé un livre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui s'appelle " le sport féminin " vous êtes journaliste et qui dit le sport c'est le dernier bastion du sexisme. &amp;bah j'ai pas l'impression parce qu'on a choisi &lt;pers=Laura_FLESSEL-COLOVIC&gt;Laura Flessel&lt;/pers&gt; formidable 40 ans, mère de famille, c'est un beau symbole.
+</Turn>
+<Turn speaker="spk17" startTime="981.071" endTime="1005.336">
+<Sync time="981.071"/>
+c'est un beau symbole en effet alors faut souligner quand même que c'est que la seulement la troisième femme qui est porte drapeau 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la dernière c'était &lt;pers=Marie-Jose_PEREC&gt;Marie-Jo Pérec&lt;/pers&gt; en 96 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et avant c'était &lt;pers=Christine_CARON&gt;Christine Caron&lt;/pers&gt; nageuse donc 
+<Event desc="tx" type="noise" extent="instantaneous"/>
+ on a pas non plus une prédominance des femmes en porte drapeau 
+<Sync time="994.436"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donc là c'est super &lt;pers=Laura_FLESSEL-COLOVIC&gt;Laura Flessel&lt;/pers&gt; est vraiment une sportive 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ au palmarès important avec plusieurs médailles olympiques et puis ses cinquième JO 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donc vraiment en effet c'est un beau symbole et puis 
+</Turn>
+<Turn speaker="spk1" startTime="1005.336" endTime="1015.097">
+<Sync time="1005.336"/>
+surtout que c'est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+elle est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ elle est très atypique parce que elle est encore là en compétition 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ elle a 40 ans 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est un âge avancé pour une sportive de haut niveau bien entendu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mère de famille.
+</Turn>
+<Turn speaker="spk17" startTime="1015.097" endTime="1016.281">
+<Sync time="1015.097"/>
+exactement 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1016.281" endTime="1018.033">
+<Sync time="1016.281"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est un modèle pour les femmes ? 
+</Turn>
+<Turn speaker="spk17" startTime="1018.033" endTime="1039.881">
+<Sync time="1018.033"/>
+oui je pense elle a plein de valeurs c'est une femme très engagée en dehors du sport contre les discriminations contre le racisme donc c' est vraiment un beau personnage qui a une très belle histoire et quand 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+on revoyait
+<Event desc="dis=rev" type="noise" extent="end"/>
+ je voyais hier
+<Sync time="1028.208"/>
+pendant des reportages les premières images à ses jeux en 92 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je pense qu'elle a grandi avec le sport français et on a tous envie voilà qu'elle brille aux jeux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et en effet c'est un beau modèle &amp;ben 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pour
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pour les femmes et hommes qui font le sport. 
+</Turn>
+<Turn speaker="spk1" startTime="1039.881" endTime="1041.661">
+<Sync time="1039.881"/>
+on parle beaucoup aussi bien sûr de &lt;pers=Laure_MANAUDOU&gt;Laure Manaudou&lt;/pers&gt;
+</Turn>
+<Turn startTime="1041.661" endTime="1042.092">
+<Sync time="1041.661"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1042.092" endTime="1044.366">
+<Sync time="1042.092"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donc 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il y a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il y a des stars au féminin 
+</Turn>
+<Turn speaker="spk17" startTime="1044.366" endTime="1065.958">
+<Sync time="1044.366"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a des stars mais alors après 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a aussi et &amp;ben beaucoup de femmes qui sont beaucoup moins connues 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'ont aussi des chances de médailles 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ dans leur sport dont on parle beaucoup moins
+<Sync time="1051.988"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et dont on a tendance hélas à parler tous les 4 ans pendant les jeux et puis après on les oublie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ elles reviennent voilà pour les jeux c'est pour ça que les jeux sont vraiment très importants parce que c'est une vitrine 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour le sport pour les femmes et en effet on a quelques stars et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ elles boostent le sport féminin. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1065.958" endTime="1084.662">
+<Sync time="1065.958"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+vous
+<Event desc="dis=rep" type="noise" extent="end"/>
+ vous le dites dans votre livre &amp;hein au départ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le sport moderne a été inventé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ par les hommes pour les hommes
+<Sync time="1071.58"/>
+bon c'est vrai que ça a quand même bien changé et aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les femmes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1077.065"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sportives peuvent devenir 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+d(es)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des stars et passionner autant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les spectateurs hommes et femmes 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+que que que
+<Event desc="dis=rep" type="noise" extent="end"/>
+ que leurs homologues masculins.
+</Turn>
+<Turn speaker="spk17" startTime="1084.662" endTime="1109.055">
+<Sync time="1084.662"/>
+oui on revient de loin parce que &lt;pers=Pierre_DE_COUBERTIN&gt;Coubertin&lt;/pers&gt; lui voyait les femmes pour couronner les vainqueurs et c'est tout, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc en effet en un siècle et demi on a beaucoup progressé
+<Sync time="1091.591"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ maintenant faut se rendre compte aussi des conditions d'entraînement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quand on voit les footballeuses oui on s'intéresse beaucoup plus à elles 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ certaines sont encore amateurs quand on parle
+<Sync time="1098.857"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'autres sportives, de boxeuses, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de nos judokas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a quand même des gros écarts pour les conditions d'entraînement et aussi les conditions de salaire donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on les voit plus mais il y a encore du 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ travail à faire. 
+</Turn>
+<Turn speaker="spk1" startTime="1109.055" endTime="1115.34">
+<Sync time="1109.055"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les athlètes les primes 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+que
+<Event desc="dis=rep" type="noise" extent="end"/>
+ que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les sportives ont touchées pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ y a des 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de l'écart
+<Event desc="dis=rev" type="noise" extent="end"/>
+ des écarts 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ? 
+</Turn>
+<Turn speaker="spk17" startTime="1115.34" endTime="1142.947">
+<Sync time="1115.34"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'est la magie des jeux, c'est-à-dire que là 
+<Event desc="mic" type="noise" extent="begin"/>
+pour
+<Event desc="mic" type="noise" extent="end"/>
+ tout le monde ça va être les mêmes primes 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donc qu'on soit connu pas connu dans un 
+<Sync time="1122.502"/>
+sport médiatisé ou non, homme femme tout le monde touchera la même chose. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est la première année aussi que les paralympiques toucheront la même chose donc là les jeux c'est vraiment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1130.19"/>
+une exception mais c'est vrai que dans 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+d'autres
+<Event desc="dis=rev" type="noise" extent="end"/>
+ beaucoup d'autres sports tout au long de l'année 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les revenus ne sont pas les mêmes le football en est un exemple très flagrant 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais on peut aussi parler voilà du rugby 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ du tennis hors tournoi du grand chelem voilà y a beaucoup 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1142.947" endTime="1169.929">
+<Sync time="1142.947"/>
+le football féminin qui a déjà démarré puisque malheureusement 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les françaises ont déjà perdu mercredi mais bon c'est pas terminé. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je voudrais qu'on évoque ensemble le cas de cette judoka venue d'Arabie Saoudite qui crée peut-être malgré elle la polémique 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ parce que 
+<Sync time="1155.651"/>
+elle devra enlever 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ son foulard islamique pour participer aux épreuves c'est 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ce que
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ce qu'a dit la fédération 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ internationale de judo 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+<Sync time="1163.565"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le problème c'est que son pays l'Arabie Saoudite l'autorise à participer 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais avec des critères très stricts avec le foulard
+</Turn>
+<Turn startTime="1169.929" endTime="1170.442">
+<Sync time="1169.929"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1170.442" endTime="1174.97">
+<Sync time="1170.442"/>
+non mixité 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et puis également forcément un proche doit accompagner 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'athlète
+</Turn>
+<Turn speaker="spk17" startTime="1174.97" endTime="1176.38">
+<Sync time="1174.97"/>
+tout à fait, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ là on est
+</Turn>
+<Turn speaker="spk1" startTime="1176.38" endTime="1178.298">
+<Sync time="1176.38"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ est-ce qu'on a raison d'accepter ces conditions ? non ? 
+</Turn>
+<Turn speaker="spk17" startTime="1178.298" endTime="1203.209">
+<Sync time="1178.298"/>
+moi je pense pas parce que le sport a des valeurs c'est la neutralité, la religion 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ n'a rien à faire selon moi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans les stades 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le sport est vraiment on appelle à la trêve olympique donc il y a pas de politique en théorie il y a pas de 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1189.123"/>
+religion non plus 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc il y a le voile mais il y a aussi en effet toutes les tenues et toutes les exigences 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et la non mixité enfin on va le voir ce soir c'est une belle fête 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la cérémonie donc je me demande par exemple ces deux sportives 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'Arabie Saoudite est-ce qu'elles vont être mêlées aux autres, est-ce qu'elles
+</Turn>
+<Turn speaker="spk17 spk1" startTime="1203.209" endTime="1205.796">
+<Sync time="1203.209"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk17" startTime="1205.796" endTime="1208.324">
+<Sync time="1205.796"/>
+voilà 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc ça pose beaucoup de 
+<Event desc="bc" type="noise" extent="begin"/>
+questions et ça remet
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1208.324" endTime="1209.799">
+<Sync time="1208.324"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ est-ce qu'on aurait dû dire non à l'Arabie Saoudite ? 
+</Turn>
+<Turn speaker="spk17" startTime="1209.799" endTime="1235.105">
+<Sync time="1209.799"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ moi je pense qu'on aurait du oui poser les conditions du CIO, c'est-à-dire respecter la charte olympique tout simplement comme on le fait depuis un siècle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ après si l'Arabie Saoudite veut envoyer des sportives ils les envoient
+<Sync time="1219.756"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ selon 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les critères 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que tout le monde respecte depuis très longtemps, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le CIO en a choisi autrement
+<Sync time="1225.999"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donc c'est vrai qu'on se félicite que tous les pays ont des femmes ce qui n'était pas le cas auparavant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mais en effet le CIO selon moi 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ n'aurait pas du transiger là-dessus.
+</Turn>
+<Turn speaker="spk1" startTime="1235.105" endTime="1241.047">
+<Sync time="1235.105"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ bon cette judoka on verra &amp;hein si elle 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ participe ou pas aux épreuves de judo mais la fédération a dit non nous on veut pas de foulard 
+</Turn>
+<Turn speaker="spk17" startTime="1241.047" endTime="1246.758">
+<Sync time="1241.047"/>
+&amp;ben il y a quelque chose de dangereux quand même pour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le judo porter un voile pour un sport de combat comme ça c'est quand même 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+oui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ oui tout à fait
+</Turn>
+<Turn speaker="spk1" startTime="1246.758" endTime="1248.972">
+<Sync time="1246.758"/>
+oui mais en même temps est-ce que c'est pas 
+</Turn>
+<Turn startTime="1248.972" endTime="1249.389">
+<Sync time="1248.972"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1249.389" endTime="1260.531">
+<Sync time="1249.389"/>
+elle 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la priver justement de s'ouvrir 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en participant à une épreuve 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ parce que, ça fait elle, cette femme qu'on ne connaît pas c'est ça fait partie de sa culture elle a toujours connu j'imagine ce foulard islamique.
+</Turn>
+<Turn speaker="spk17" startTime="1260.531" endTime="1293.46">
+<Sync time="1260.531"/>
+alors le cas de l'Arabie Saoudite est intéressant parce qu'ils envoient pas des 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ femmes qui habitent 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ l'Arabie Saoudite qui ont grandi là-bas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'autre athlète qui participent est née et a grandi aux États-Unis 
+<Sync time="1269.546"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donc je pense que l'Arabie Saoudite veut envoyer un message à l'étranger c'est-à-dire oui on envoie des femmes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais concrètement faut se rappeler qu'en Arabie Saoudite les femmes n'ont pas le droit de faire de sport en public 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ elles n'ont pas le droit d'accompagner 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1280.2"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ leurs enfants au stade, c'est pareil en Iran 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a pas du tout d'infrastructures pour les femmes ou les petites filles. donc si on veut promouvoir le sport là-bas je pense que c'est pas la meilleure méthode puisque 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ concrètement par exemple les jeux ne seront pas retransmis sur la télé publique en Arabie Saoudite 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les gens sont obligés d'avoir
+</Turn>
+<Turn speaker="spk1" startTime="1293.46" endTime="1296.394">
+<Sync time="1293.46"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ alors pourquoi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le CIO a besoin de l'Arabie Saoudite ? c'est une question d'argent ? 
+</Turn>
+<Turn speaker="spk17" startTime="1296.394" endTime="1317.017">
+<Sync time="1296.394"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;bah 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le Qatar par exemple a investi massivement dans le sport 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ils se positionnent pour organiser 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des compétitions importantes que ce soit dans le foot ou 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1303.434"/>
+pour les JO 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ pour la décision de la FIFA c'est pas forcément une coïncidence en effet que ce soit accepté maintenant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors que la FIFA a toujours résisté. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ après le CIO 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ voilà voit le bon côté des choses 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en soulignant l'égalité homme femme.
+</Turn>
+<Turn speaker="spk1" startTime="1317.017" endTime="1351.998">
+<Sync time="1317.017"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous restez avec moi &lt;pers=Fabienne_BROUCARET&gt;Fabienne&lt;/pers&gt; on repart à Londres &amp;hein puisque c'est le fil rouge &amp;hein " BFM Story " spéciale jeux olympiques ce soir jusqu'à 19h
+<Event desc="19 heures" type="pronounce" extent="previous"/>
+ nous repartons 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à Londres rejoindre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1326.484"/>
+l'autre envoyé spécial 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de BFM Tv c'est &lt;pers=Sandra_BOULANGER&gt;Sandra Boulanger&lt;/pers&gt;, bonsoir &lt;pers=Sandra_BOULANGER&gt;Sandra&lt;/pers&gt; on va parler avec vous de la cérémonie d'ouverture, alors on en sait plus même si bien entendu on va découvrir tout cela à partir de 22h
+<Event desc="22 heures" type="pronounce" extent="previous"/>
+ heure française. on sait par exemple
+<Sync time="1338.534"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'on va beaucoup parler 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des racines britanniques de l'identité 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ britannique avec ce spectacle qui s'annonce haut 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en couleur j'imagine que l'excitation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ monte maintenant à quelques heures de cette cérémonie.
+</Turn>
+<Turn startTime="1351.998" endTime="1354.549">
+<Sync time="1351.998"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1354.549" endTime="1401.926">
+<Sync time="1354.549"/>
+oui l'ambiance monte depuis 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce matin, il y a eu 8h12
+<Event desc="8 heures 12" type="pronounce" extent="previous"/>
+ les cloches de Big Ben qui ont résonné les
+<Sync time="1361.491"/>
+cloches de Big ben qui n'avaient pas résonné en dehors de leurs horaires habituels depuis 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 1952, depuis la mort de &lt;pers=George_WINDSOR&gt;George IV&lt;/pers&gt; le père de la reine
+<Sync time="1369.105"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Elisabeth_WINDSOR&gt;
+<Event desc="dis=rev" type="noise" extent="begin"/>
+Elé()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ Elisabeth II&lt;/pers&gt; et à la suite de Big Ben toutes les cloches du pays ont résonné pendant 3 minutes pour 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ lancer cette journée exceptionnelle cette journée d'apothéose après
+<Sync time="1379.158"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 7 ans de préparation pour Londres et dans les rues à quelques heures du début de la cérémonie on commence à voir des gens avec des t-shirts avec des casquettes avec des drapeaux on sait que tous ces touristes tous ces supporters vont prendre la direction 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des
+<Sync time="1392.862"/>
+parcs pour assister à la cérémonie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur écran géant, ou des pubs où sera également diffusé l'événement et pour les plus chanceux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans le stade olympique évidemment.
+</Turn>
+<Turn startTime="1401.926" endTime="1402.906">
+<Sync time="1401.926"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1402.906" endTime="1404.895">
+<Sync time="1402.906"/>
+et on découvre les spectateurs 
+</Turn>
+<Turn speaker="spk19" startTime="1404.895" endTime="1409.915">
+<Sync time="1404.895"/>
+moi j'ai trois finales de coupe du monde à mon actif, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mon fils il en a pas mal non plus donc voilà
+</Turn>
+<Turn speaker="spk18" startTime="1409.915" endTime="1412.133">
+<Sync time="1409.915"/>
+et des cérémonies d'ouverture vous en 
+<Event desc="bc" type="noise" extent="begin"/>
+avez déjà ?
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk19" startTime="1412.133" endTime="1413.283">
+<Sync time="1412.133"/>
+c'est la première.
+</Turn>
+<Turn speaker="spk21" startTime="1413.283" endTime="1419.349">
+<Sync time="1413.283"/>
+c'est la tenue donc pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ faire honneur à nos athlètes français qui vont défiler ce soir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ lors de la cérémonie d'ouverture.
+</Turn>
+<Turn startTime="1419.349" endTime="1420.292">
+<Sync time="1419.349"/>
+
+</Turn>
+<Turn speaker="spk21" startTime="1420.292" endTime="1435.998">
+<Sync time="1420.292"/>
+et c'est la raison pour laquelle j'ai mis ce 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1422.815"/>
+cette tenue.
+<Sync time="1424.104"/>
+j'ai également un drapeau français dans la poche. c'est un événement exceptionnel
+<Sync time="1428.378"/>
+et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est un rêve finalement d'une vie et c'est un grand honneur d'être ici 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ assister à cette cérémonie d'ouverture.
+</Turn>
+<Turn startTime="1435.998" endTime="1442.066">
+<Sync time="1435.998"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1442.066" endTime="1455.153">
+<Sync time="1442.066"/>
+ces français qu'on a rencontrés 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tout à l'heure &amp;hein 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui ne regrette rien
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui ne regrettent rien de cet investissement financier 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ très important ils ont acheté leur place il y a un an pour 1500 pounds c'est-à-dire plus de 1900 euros.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1455.153" endTime="1468.354">
+<Sync time="1455.153"/>
+alors je disais on voit des images en direct des londoniens, des touristes qui actuellement entrent dans ce stade olympique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ a-t-on 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des infos plus précises sur cette cérémonie d'ouverture, sur son contenu &lt;pers=Sandra_BOULANGER&gt;Sandra&lt;/pers&gt; ?
+</Turn>
+<Turn startTime="1468.354" endTime="1470.101">
+<Sync time="1468.354"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1470.101" endTime="1553.437">
+<Sync time="1470.101"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+il faut savoir &lt;pers=Olivier_TRUCHOT&gt;Olivier&lt;/pers&gt; qu'il y a eu une communication très habile sur cette cérémonie c'est-à-dire qu'il y a encore beaucoup de mystère, beaucoup de secret mais il y a eu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1477.54"/>
+assez de fuites pour tenir en haleine les futurs 4 milliards de téléspectateurs, il y a eu quelques
+<Sync time="1484.079"/>
+petites fuites par exemple de spectateurs qui ont assisté à la répétition lundi dernier l'un d'entre eux a notamment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tweeter je ne peux rien vous dire mais si vous avez quelque chose de prévu ce soir et bien annulez
+<Sync time="1494.766"/>
+puisque 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la cérémonie est extraordinaire alors ce que l'on sait de cette cérémonie qui est orchestrée 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ par le réalisateur &lt;pers=Danny_BOYLE&gt;Danny Boyle&lt;/pers&gt; et bien c'est qu'elle commencera par une
+<Sync time="1503.684"/>
+scène bucolique avec des animaux vivants censés représenter la Grande Bretagne 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1508.674"/>
+préindustrielle puis il y aura ensuite plusieurs mises en scène historiques comme ça pour raconter toute l'histoire du Royaume-Uni 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y aura une sorte de narration rythmée par des chansons
+<Sync time="1520.942"/>
+on sait que &lt;pers=Danny_BOYLE&gt;Danny Boyle&lt;/pers&gt; fait toujours des films très rythmés donc on s'attend 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à un tempo très enlevé avec 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1526.422"/>
+des chansons modernes, des chansons typiques de la culture britannique on verra aussi
+<Sync time="1530.733"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des personnages 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ typiques 
+<Event desc="b-" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de la Grande Bretagne,
+<Event desc="-b" type="noise" extent="instantaneous"/>
+ on voit les supporters français qui sont dans les rues qui sont très joyeux et donc des personnages comme Harry Potter, James Brandou, Mary Poppins il y aura ensuite
+<Sync time="1542.197"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'arrivée des athlètes et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ensuite toujours cette grande question ce grand mystère qui affole les parieurs en Grande Bretagne qui sera le dernier porteur de la flamme olympique.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1553.437" endTime="1566.926">
+<Sync time="1553.437"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ merci &lt;pers=Sandra_BOULANGER&gt;Sandra Boulanger&lt;/pers&gt; en direct de Londres, un dernier mot avec vous &lt;pers=Fabienne_BROUCARET&gt;Fabienne Broucaret&lt;/pers&gt; pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ savoir si dans les instances sportives ceux qui dirigent la fédération, les entraîneurs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a maintenant plus de femmes ?
+</Turn>
+<Turn speaker="spk17" startTime="1566.926" endTime="1584.967">
+<Sync time="1566.926"/>
+non pour vous donner un exemple sur toutes les fédérations olympiques en France 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'est-à-dire 31 fédérations y a aucune femme 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ présidente
+<Sync time="1573.539"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et pour le comité qui a organisé les jeux de Londres il y avait une seule femme c'était la Princesse &lt;pers=Anne_WINDSOR&gt;Anne&lt;/pers&gt; donc on en est encore loin 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à tel point qu'on parle de quotas pour les fédérations 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ voilà dans les instances sportives pour qu'il y ait plus de femmes.
+</Turn>
+<Turn speaker="spk1" startTime="1584.967" endTime="1598.132">
+<Sync time="1584.967"/>
+merci &lt;pers=Fabienne_BROUCARET&gt;Fabienne Broucaret&lt;/pers&gt; " le sport féminin, le sport dernier bastion du sexisme " chez Michalon 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on va faire un point maintenant sur la route gros départ en vacances aujourd'hui c'est classé orange le point depuis le pc de Rosny-sous-bois
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1598.132" endTime="1619.479">
+<Turn startTime="1598.132" endTime="1619.479">
+<Sync time="1598.132"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="1619.479" endTime="1693.084">
+<Turn speaker="spk1" startTime="1619.479" endTime="1624.399">
+<Sync time="1619.479"/>
+&lt;pers=Maxime_POULLAOUEC&gt;Maxime Poullaouec&lt;/pers&gt; est-il avec nous pour les infos trafic ?
+</Turn>
+<Turn startTime="1624.399" endTime="1625.375">
+<Sync time="1624.399"/>
+
+</Turn>
+<Turn speaker="spk22" startTime="1625.375" endTime="1626.502">
+<Sync time="1625.375"/>
+tu peux me rappeler ou pas ?
+</Turn>
+<Turn startTime="1626.502" endTime="1627.107">
+<Sync time="1626.502"/>
+
+</Turn>
+<Turn speaker="spk22" startTime="1627.107" endTime="1627.934">
+<Sync time="1627.107"/>
+ça a bugué
+</Turn>
+<Turn speaker="spk1 spk22" startTime="1627.934" endTime="1629.432">
+<Sync time="1627.934"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn startTime="1629.432" endTime="1631.646">
+<Sync time="1629.432"/>
+
+</Turn>
+<Turn speaker="spk22" startTime="1631.646" endTime="1632.331">
+<Sync time="1631.646"/>
+d'accord okay
+</Turn>
+<Turn startTime="1632.331" endTime="1635.898">
+<Sync time="1632.331"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1635.898" endTime="1650.637">
+<Sync time="1635.898"/>
+bon &lt;pers=Maxime_POULLAOUEC&gt;Maxime&lt;/pers&gt; visiblement a un petit souci 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il nous entend pas on fera le point trafic bien entendu 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans quelques minutes c'est important il y a beaucoup de départs 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en vacances ce soir c'est d'ailleurs l'un des week-ends 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les plus chargés de l'été qui commence ce soir donc prudence sur 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les routes.
+</Turn>
+<Turn startTime="1650.637" endTime="1663.36">
+<Sync time="1650.637"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1663.36" endTime="1693.084">
+<Sync time="1663.36"/>
+allez à suivre dans
+<Event desc="musique" type="noise" extent="begin"/>
+ " BFM Story " ce spécial jeux olympiques nous serons avec un ancien médaillé d'or &lt;pers=Brahim_ASLOUM&gt;Brahim Asloum&lt;/pers&gt; le boxeur qui sera avec nous depuis Londres c'est notre consultant boxe
+<Sync time="1673.551"/>
+pour ces olympiades 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les chiffres, les performances, les records, les petites histoires, les grandes histoires des Jeux Olympiques 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis également
+<Sync time="1682.08"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les JO et l'argent puisqu'on annonce entre 12 et 15 milliards d'euros de budget pour ces jeux de Londres tout cela dans la deuxième partie de " BFM Story " .
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1693.084" endTime="1913.71">
+<Turn startTime="1693.084" endTime="1913.71">
+<Sync time="1693.084"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="1913.71" endTime="3138.022">
+<Turn speaker="spk1" startTime="1913.71" endTime="1937.723">
+<Sync time="1913.71"/>
+la suite de " BFM Story " 18h30
+<Event desc="18 heures 30" type="pronounce" extent="previous"/>
+ ce qu'il faut ce soir retenir dans l'actualité attention tout d'abord aux orages
+<Sync time="1919.513"/>
+ce soir et cette nuit quelques 43 départements 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans le nord de la France et le long d'une ligne entre Lille et Montpellier sont
+<Sync time="1926.669"/>
+placés sous vigilance orange par météo France des orages accompagnés parfois 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de fortes averses, de la grêle et même des rafales de vent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ atteignant ou dépassant 80 à 100km/h
+<Event desc="100 kilomètres heure" type="pronounce" extent="previous"/>
+, écoutez.
+</Turn>
+<Turn startTime="1937.723" endTime="1938.629">
+<Sync time="1937.723"/>
+
+</Turn>
+<Turn speaker="spk23" startTime="1938.629" endTime="1984.03">
+<Sync time="1938.629"/>
+actuellement on a encore de nombreux départements en vigilance orange 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de nombreux orages se déclenchent sur le pays en particulier 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1947.866"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+sur le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ sur la Picardie, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le nord, sur l'Ile-de-France, sur le nord est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+du côté de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ du côté de la Lorraine
+<Sync time="1955.495"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ces orages sont parfois forts, parfois accompagnés de grêle, il peut y avoir aussi de violentes rafales de vent et des pluies intenses 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en peu de temps
+<Sync time="1963.189"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis en cours de nuit on a une nouvelle salve orageuse qui va remonter des Pyrénées qui va se diriger aussi vers 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le massif central
+<Sync time="1970.735"/>
+des orages qui vont circuler rapidement mais qui pourront être fort aussi
+<Sync time="1973.771"/>
+c'est difficile 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à d(onner)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à donner les quantités d'eau qui vont tomber 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il peut y avoir des quantités d'eau qui vont 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de 20 à 40 millimètres en peu de temps 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des pluies intenses en peu de temps.
+</Turn>
+<Turn speaker="spk1" startTime="1984.03" endTime="2004.571">
+<Sync time="1984.03"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ donc prudence ce soir surtout si vous prenez le volant commence l'un des week-ends les plus chargés de l'été. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ bison futé vous le voyez
+<Sync time="1990.394"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ voit ce soir la soirée orange mais la journée la plus difficile sera celle de demain samedi rouge dans le sens des départs, rouge également dans le sens des retours pour la partie sud du pays partez plutôt dimanche si vous le pouvez. 
+</Turn>
+<Turn startTime="2004.571" endTime="2009.076">
+<Sync time="2004.571"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2009.076" endTime="2020.37">
+<Sync time="2009.076"/>
+alors nous partons maintenant à Lacanau en Gironde puisque certains campeurs ont décidé d'anticiper 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les bouchons opération pliage de tente vous le voyez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dès aujourd'hui pour pouvoir prendre ensuite la route avant tous les autres.
+</Turn>
+<Turn speaker="spk24" startTime="2020.37" endTime="2033.214">
+<Sync time="2020.37"/>
+très bonnes vacances en famille
+<Sync time="2022.958"/>
+avec les jeunes c'était très bien, on a eu 15 jours de beau temps, on a commencé avec le froid et on a terminé avec du soleil et de la chaleur tout était bien.
+</Turn>
+<Turn speaker="spk25" startTime="2033.214" endTime="2048.888">
+<Sync time="2033.214"/>
+&amp;ben voilà on part un jour plus tôt parce que vu le temps qu'il fait 
+<Sync time="2036.495"/>
+on préfère rentrer un petit jour un jour plus tôt comme ça on pourra on aura un jour de plus pour se reposer à la maison parce que finalement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le fait de partir en vacances &amp;ben on n'est pas forcément plus reposé que quand on est parti.
+</Turn>
+<Turn speaker="spk1" startTime="2048.888" endTime="2079.811">
+<Sync time="2048.888"/>
+les jeux olympiques à Londres à 3h30
+<Event desc="3 heures 30" type="pronounce" extent="previous"/>
+ maintenant de la cérémonie d'ouverture, 120 chefs d'état et de gouvernement 
+<Sync time="2055.447"/>
+attendus ce soir dans la capitale britannique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et accueillis par la Reine &lt;pers=Elisabeth_WINDSOR&gt;Elisabeth II&lt;/pers&gt; qui sera tout à l'heure dans les tribunes pour déclarer ouvert 
+<Sync time="2063.668"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ces vingt septième Jeux Olympiques. la France ce soir sera représentée par le premier ministre &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2070.908"/>
+&lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; viendra voir les athlètes un peu plus tard le 30 juillet. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; que &lt;pers=Christophe_JAKUBYSZYN&gt;Christophe Jakubyszyn&lt;/pers&gt; pour BFM TV a rencontré au bord de la Tamise, écoutez.
+</Turn>
+<Turn startTime="2079.811" endTime="2080.555">
+<Sync time="2079.811"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2080.555" endTime="2087.929">
+<Sync time="2080.555"/>
+moi je souhaite qu'y ait bien sûr que ils fassent mieux que à Pékin, même si à Pékin 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 40 médailles c'était bien mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je souhaite qu'y ait davantage de médailles d'or 
+</Turn>
+<Turn speaker="spk6" startTime="2087.929" endTime="2088.756">
+<Sync time="2087.929"/>
+y en avait 7 à Pékin
+</Turn>
+<Turn speaker="spk5" startTime="2088.756" endTime="2110.572">
+<Sync time="2088.756"/>
+absolument et mais le travail qui a été fait est formidable &amp;hein et une superbe préparation et 
+<Sync time="2094.412"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je sais l'effort que ça demande individuel mais aussi collectif je pense à tous les soutiens techniques, je pense à 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2100.294"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tout ce que fait le mouvement sportif français et olympique et sportif français 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc je suis très confiant 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à un moment où ces jeux 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+sont-en
+<Event desc="dis=rev" type="noise" extent="end"/>
+ vont être ouverts à Londres.
+</Turn>
+<Turn speaker="spk1" startTime="2110.572" endTime="2126.766">
+<Sync time="2110.572"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ la cérémonie d'ouverture doit donc débuter à 22h
+<Event desc="22 heures" type="pronounce" extent="previous"/>
+ heure française dans le stade olympique où défileront les milliers d'athlètes engagés une cérémonie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2119.546"/>
+qui rendra hommage à la culture et à l'identité britannique orchestrée par le réalisateur de " Slumdog Millionnaire " 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Danny_BOYLE&gt;Danny Boyle&lt;/pers&gt;.
+</Turn>
+<Turn startTime="2126.766" endTime="2127.695">
+<Sync time="2126.766"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="2127.695" endTime="2132.154">
+<Sync time="2127.695"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+ce sera un spectacle en live donc tout repose sur les acteurs
+</Turn>
+<Turn startTime="2132.154" endTime="2132.547">
+<Sync time="2132.154"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="2132.547" endTime="2134.933">
+<Sync time="2132.547"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+et là dans le cas présent les volontaires
+</Turn>
+<Turn startTime="2134.933" endTime="2135.367">
+<Sync time="2134.933"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="2135.367" endTime="2140.879">
+<Sync time="2135.367"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+donc il y a de quoi se sentir nerveux pour eux, pour eux vraiment car mes nerfs à moi peu importe.
+</Turn>
+<Turn startTime="2140.879" endTime="2141.679">
+<Sync time="2140.879"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="2141.679" endTime="2146.018">
+<Sync time="2141.679"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+mais l'excitation que je ressens évidemment j'imagine que c'est pareil pour eux
+</Turn>
+<Turn startTime="2146.018" endTime="2146.832">
+<Sync time="2146.018"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="2146.832" endTime="2160.1">
+<Sync time="2146.832"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+je suis impatient vraiment
+<Sync time="2148.541"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+après arrivera ce qui arrivera parce que c'est du live
+<Sync time="2152.598"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+et c'est une fois seulement, je ne le referais jamais
+<Sync time="2155.625"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+c'est extraordinaire de vivre ça 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2160.1" endTime="2238.797">
+<Sync time="2160.1"/>
+dans l'actualité également 4 joueurs de l'équipe de France de football convoqués aujourd'hui devant la
+<Sync time="2164.758"/>
+commission de discipline de la fédération 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ après leur mauvais comportement pendant l'euro. &lt;pers=Samir_NASRI&gt;Samir Nasri&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ écope de la peine la plus lourde pour 
+<Sync time="2172.906"/>
+insulte à la presse 3 matches de suspension, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jeremy_MENEZ&gt;Jérémy Menez&lt;/pers&gt; paye une insulte à l'arbitre d'un match 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+du sp(ort)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de suspension, tandis que &lt;pers=Hatem_BEN_ARFA&gt;Hatem Ben Arfa&lt;/pers&gt; et
+<Sync time="2182.403"/>
+&lt;pers=Yann_M_VILA&gt;Yann M'Vila&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sont simplement rappelés à l'ordre. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; en défenseur du plan de soutien à l'automobile présenté cette semaine par le gouvernement
+<Sync time="2191.131"/>
+lors d'une visite chez l'équipementier Valéo dans les Yvelines le président de la République a voulu affirmer sa confiance dans les entreprises innovantes dans ce secteur. 
+<Sync time="2201.296"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la crise dans la zone euro &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; et la Chancelière &lt;pers=Angela_MERKEL&gt;Merkel&lt;/pers&gt; ont eu un entretien téléphonique
+<Sync time="2206.91"/>
+aujourd'hui sur la situation de l'Espagne 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec la volonté de rassurer les marchés. le chef 
+<Sync time="2212.547"/>
+du gouvernement italien &lt;pers=Mario_MONTI&gt;Mario Monti&lt;/pers&gt; sera d'ailleurs à Paris 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mardi prochain pour un déjeuner de travail avec &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;.
+<Sync time="2218.863"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le drame familiale en Savoie les enquêteurs aujourd'hui ont étudié le passé psychiatrique du fils qui a abattu hier son père et son frère de 8 ans près de Courchevel 
+<Sync time="2228.174"/>
+il est également soupçonné d'avoir grièvement blessé son deuxième frère de 17 ans dont le pronostic vital 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est toujours engagé ce soir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des troubles psychiatriques confirmés par les proches.
+</Turn>
+<Turn startTime="2238.797" endTime="2239.445">
+<Sync time="2238.797"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2239.445" endTime="2256.628">
+<Sync time="2239.445"/>
+c'était quelqu'un de perturbé je crois 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à ce qu'on pouvait dire 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mais je
+<Sync time="2244.643"/>
+pas du tout il avait l'air plutôt gentil et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tout ce que je sais c'est qu'il avait fait pas mal de séjours 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en centre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour dépression pour choses comme ça, il était pas bien dans sa peau 
+</Turn>
+<Turn speaker="spk11" startTime="2256.628" endTime="2270.25">
+<Sync time="2256.628"/>
+c'est une famille qui est originaire de la commune qui est installée depuis de nombreuses années et qui est absolument sans histoire et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui participe à toutes les activités de la commune sans problème.
+</Turn>
+<Turn speaker="spk1" startTime="2270.25" endTime="2311.701">
+<Sync time="2270.25"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en bref la situation en Syrie les combats se sont poursuivis aujourd'hui à Alep
+<Sync time="2274.598"/>
+la deuxième ville du pays les opposants au régime de &lt;pers=Bachar_AL-ASSAD&gt;Bachar al-Assad&lt;/pers&gt; affirme avoir capturé une centaine de soldats et des miliciens pro régime pendant les combats.
+<Sync time="2285.341"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la météo demain matin les orages vont se décaler davantage
+<Sync time="2289.615"/>
+à l'est et concerneront les régions allant du Limousin et de l'Auvergne jusqu'au nord est. toujours du soleil dans le sud est 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et retour progressivement des éclaircies 
+<Sync time="2299.43"/>
+entre la Bretagne et la Normandie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les températures demain matin elles seront en baisse 13 à Brest, 18 à Biarritz, 19 à Paris et Grenoble 21 à Perpignan et Lyon et 22 degrés à Nice. 
+</Turn>
+<Turn startTime="2311.701" endTime="2318.587">
+<Sync time="2311.701"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2318.587" endTime="2329.383">
+<Sync time="2318.587"/>
+" BFM Story " spéciale Jeux Olympiques jusqu'à 19h
+<Event desc="19 heures" type="pronounce" extent="previous"/>
+ j'accueille mes invités &lt;pers=Gerard_SCHALLER&gt;Gérard Schaller&lt;/pers&gt; journaliste auteur de " petites histoires du 100 mètres et autres disciplines olympiques " bonsoir
+</Turn>
+<Turn speaker="spk26" startTime="2329.383" endTime="2329.999">
+<Sync time="2329.383"/>
+bonsoir
+</Turn>
+<Turn speaker="spk1" startTime="2329.999" endTime="2358.156">
+<Sync time="2329.999"/>
+des éditions Hugo et Compagnie et puis avec vous avec nous &lt;pers=Virgile_CAILLET&gt;Virgile Caillet&lt;/pers&gt; bonsoir 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ vous êtes directeur de KantarSport
+<Sync time="2336.25"/>
+institut d'études sur le sport business on parlera de l'argent
+<Sync time="2338.658"/>
+parce que y a beaucoup d'argent engagé dans ces 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ jeux à Londres mais tout de suite justement
+<Sync time="2343.126"/>
+repartons à Londres 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ retrouver notre consultant en boxe c'est un médaillé d'or messieurs &lt;pers=Brahim_ASLOUM&gt;Brahim Asloum&lt;/pers&gt; bonsoir &lt;pers=Brahim_ASLOUM&gt;Brahim&lt;/pers&gt;
+<Sync time="2350.647"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ merci d'être en direct ce soir 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ dans " BFM Story " 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quelle est l'ambiance à moins maintenant de 3h30
+<Event desc="3 heures trente" type="pronounce" extent="previous"/>
+ de la cérémonie d'ouverture ?
+</Turn>
+<Turn startTime="2358.156" endTime="2358.956">
+<Sync time="2358.156"/>
+
+</Turn>
+<Turn speaker="spk27" startTime="2358.956" endTime="2372.386">
+<Sync time="2358.956"/>
+écoutez l'ambiance est très bonne tout le monde 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ attend avec impatience 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="2363.147"/>
+l'ouverture des Jeux Olympiques
+<Sync time="2364.695"/>
+nous sommes actuellement au club France donc y a une ambiance assez particulière 
+<Sync time="2368.406"/>
+assez intense donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on attend vraiment 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ que les jeux commencent
+</Turn>
+<Turn speaker="spk1" startTime="2372.386" endTime="2384.91">
+<Sync time="2372.386"/>
+alors vous avez été engagé vous 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans les Jeux Olympiques notamment 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à Sydney en 2000
+<Sync time="2377.496"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ comment est-on lorsqu'on est de l'autre côté de la barrière finalement consultant on commente maintenant les petits camarades 
+<Sync time="2382.74"/>
+on est quand même beaucoup plus tranquille.
+</Turn>
+<Turn speaker="spk27" startTime="2384.91" endTime="2409.418">
+<Sync time="2384.91"/>
+je peux vous dire que y a pas de stress en tout cas y en a beaucoup moins
+<Sync time="2388.214"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est beaucoup plus agréable on va dire 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qu'on a l'occasion de savourer un peu plus les choses
+<Sync time="2392.493"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quand on est athlète on est un peu plus concentré, on est dans sa bulle 
+<Sync time="2395.64"/>
+on a un stress qui est assez permanent
+<Sync time="2398.02"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ là c'est un peu plus un état d'esprit un peu plus 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+tract()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ décontracté plus agréable
+<Sync time="2402.761"/>
+et ça permet aussi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de voir tous les sportifs au club France
+<Sync time="2406.33"/>
+où y a l'ambiance 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ très agréable
+</Turn>
+<Turn speaker="spk1" startTime="2409.418" endTime="2416.718">
+<Sync time="2409.418"/>
+alors pendant la cérémonie d'ouverture les athlètes vont donc défiler dans le stade olympique vous avez souvenir justement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de Sydney ?
+<Sync time="2415.272"/>
+c'est un moment très fort ?
+</Turn>
+<Turn startTime="2416.718" endTime="2417.615">
+<Sync time="2416.718"/>
+
+</Turn>
+<Turn speaker="spk27" startTime="2417.615" endTime="2456.647">
+<Sync time="2417.615"/>
+oui c'est un moment très fort j'ai eu l'occasion moi de à mes premiers Jeux Olympiques de pouvoir participer 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+
+<Sync time="2422.536"/>
+à l'ouverture des Jeux Olympiques
+<Sync time="2424.024"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est vrai que y a beaucoup d'attente donc on déconseille aux sportifs 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+
+<Sync time="2427.637"/>
+qui boxeraient le lendemain ou qui auront une compétition 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le lendemain 
+<Sync time="2431.542"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de pas
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de pas y aller de pas participer 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="2434.319"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ y a une fatigue 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui qui qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui est présente parce qu'on attend au moins 2h
+<Event desc="2 heures" type="pronounce" extent="previous"/>
+ avant de pouvoir
+<Sync time="2439.36"/>
+rentrer dans le stade 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis après y a tout un défilé tout un protocole 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2443.302"/>
+donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mais c'est assez excitant quand on les vit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="2446.583"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le stade 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ est rempli une ambiance 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ exceptionnelle
+<Sync time="2452.008"/>
+et le fait de faire les Jeux Olympiques 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est des moments très intenses.
+</Turn>
+<Turn speaker="spk1" startTime="2456.647" endTime="2461.373">
+<Sync time="2456.647"/>
+quelles sont nos chances dans la catégorie boxe pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ces JO à Londres ?
+</Turn>
+<Turn startTime="2461.373" endTime="2462.168">
+<Sync time="2461.373"/>
+
+</Turn>
+<Turn speaker="spk27" startTime="2462.168" endTime="2507.207">
+<Sync time="2462.168"/>
+nous avons actuellement 5 boxeurs qualifiés pour ces Jeux Olympiques
+<Sync time="2465.467"/>
+la plus grosse difficulté dans notre discipline c'est les qualifications 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ elles sont très rudes
+<Sync time="2469.797"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nous avons pas de tête de série donc nous pourrons boxer au premier tour un champion du monde ou un champion olympique
+<Sync time="2474.704"/>
+il s'avère que les Jeux Olympiques c'est pareil
+<Sync time="2476.912"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on en saura un peu plus je pense demain au tirage au sort 
+<Sync time="2480.133"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et de savoir comment 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les boxeurs vont aborder cette compétition 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2483.857"/>
+et mais en tout cas sur les 5 boxeurs engagés il y a deux boxeurs qui ont beaucoup d'expérience
+<Sync time="2489.379"/>
+qui est &lt;pers=Nordine_OUBAALI&gt;Nordine Oubaali&lt;/pers&gt; et &lt;pers=Alexis_VASTINE&gt;Alexis Vastine&lt;/pers&gt; qui sont 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ logiquement médaillables
+<Sync time="2494.739"/>
+mais dans les Jeux Olympiques y a pas de logique
+<Sync time="2496.999"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il faudra saisir les combats les uns après les autres 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et j'espère qu'en tout cas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="2501.86"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ après mon titre de champion olympique à Sydney 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nous aurons un nouveau champion olympique de boxe.
+</Turn>
+<Turn speaker="spk1" startTime="2507.207" endTime="2529.624">
+<Sync time="2507.207"/>
+ben on l'espère &lt;pers=Brahim_ASLOUM&gt;Brahim Asloum&lt;/pers&gt; merci d'avoir été avec nous quelques minutes et on vous retrouvera régulièrement bien sûr
+<Sync time="2513.163"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur l'antenne de BFM Tv pour notamment commenter 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la boxe. alors parlons de ces JO avec &lt;pers=Gerard_SCHALLER&gt;Gérard&lt;/pers&gt; et puis &lt;pers=Virgile_CAILLET&gt;Virgile&lt;/pers&gt;
+<Sync time="2520.915"/>
+tout d'abord &lt;pers=Gerard_SCHALLER&gt;Gérard&lt;/pers&gt; c'est vrai qu'avant tout des Jeux Olympiques ce sont des records, des performances on attend ça et des jeux réussis 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est lorsque les records sont battus.
+</Turn>
+<Turn speaker="spk26" startTime="2529.624" endTime="2536.552">
+<Sync time="2529.624"/>
+&amp;oh on risque d'être un peu déçu parce que Londres, il risque de pleuvoir et les records sur 100 mètres quand il pleut on fait pas de bonnes performances 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ non.
+</Turn>
+<Turn speaker="spk1" startTime="2536.552" endTime="2537.708">
+<Sync time="2536.552"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &amp;ah &amp;ben c'est déjà la douche froide
+</Turn>
+<Turn speaker="spk26" startTime="2537.708" endTime="2548.559">
+<Sync time="2537.708"/>
+
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ oui c'est déjà la douche froide 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et puis
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et puis les records 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2541.058"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on a un peu peur des records parce qu'on va tellement haut qu'on se dit derrière y a pas des aides qui ont été un peu apportées aux sportifs 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ voilà soyons clairs.
+</Turn>
+<Turn speaker="spk1" startTime="2548.559" endTime="2551.189">
+<Sync time="2548.559"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ on se posait pas ces questions 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ y a 20 ou 30 ans &amp;hein.
+</Turn>
+<Turn speaker="spk26" startTime="2551.189" endTime="2565.324">
+<Sync time="2551.189"/>
+on se les posait pas mais elles se posaient déjà 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ enfin 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on abordait pas le sujet 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+mais mais
+<Event desc="dis=rep" type="noise" extent="end"/>
+ mais 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est pas nouveau 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ non 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce qui est le plus intéressant c'est la lutte d'individu à individu j'allais dire d'homme à homme mais maintenant y a de plus en plus de femmes 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qui participent aux jeux Olympiques.
+</Turn>
+<Turn speaker="spk1" startTime="2565.324" endTime="2566.304">
+<Sync time="2565.324"/>
+c'est la compétition en fait.
+</Turn>
+<Turn speaker="spk26" startTime="2566.304" endTime="2573.05">
+<Sync time="2566.304"/>
+la compétition quelle que soit la performance réalisée quand la compétition est belle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ voilà le spectacle est là c'est 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2573.05" endTime="2592.899">
+<Sync time="2573.05"/>
+surtout que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on part toujours d'un objectif alors là on dit il faut faire au moins 41 médailles 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2577.865"/>
+ce sont 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les 41 de Pékin bon 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais on sait très bien qu'en général 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on se trompe même dans les pronostics ce qu'on attend avec une médaille d'or
+<Sync time="2585.575"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ contreperforme et puis d'autres qui étaient pas du tout attendus finalement sont les surprises agréables et les belles histoires des JO
+</Turn>
+<Turn speaker="spk26" startTime="2592.899" endTime="2604.958">
+<Sync time="2592.899"/>
+oui et bon 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je vais être un peu méchant. en 1984 tous les pays du monde, je dis bien tous les pays du monde ont fait plus de médailles que la fois précédente sauf le Royaume-Uni qui exceptionnellement était passé à travers.
+</Turn>
+<Turn speaker="spk1" startTime="2604.958" endTime="2605.961">
+<Sync time="2604.958"/>
+parce que 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+y a
+<Event desc="dis=rev" type="noise" extent="end"/>
+ y avait plus d'épreuves ?
+</Turn>
+<Turn speaker="spk26" startTime="2605.961" endTime="2606.802">
+<Sync time="2605.961"/>
+et oui c'est ça 
+</Turn>
+<Turn speaker="spk26 spk1" startTime="2606.802" endTime="2609.024">
+<Sync time="2606.802"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk26" startTime="2609.024" endTime="2627.518">
+<Sync time="2609.024"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on compare aujourd'hui les 41 médailles à ce qu'on avait en 1964 1968 mais le nombre d'épreuves 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+beaucoup
+<Event desc="dis=rep" type="noise" extent="end"/>
+ beaucoup plus élevé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2617.642"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on va avoir une médaille je l'espère au VTT 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+. le VTT c'est quelque chose de très récent
+<Sync time="2623.45"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en 68 c'était même pas inventé on connaissait pas ces vélos là. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2627.518" endTime="2644.924">
+<Sync time="2627.518"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors parlons un peu gros sous parce que on peut pas s'empêcher de regarder quand même la facture annoncée
+<Sync time="2632.351"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui était d'ailleurs pas la facture au départ &amp;hein, Londres ça devait coûter 3 ou 4 milliards 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça va coûter entre 12 et 15 milliards d'euros 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est quand même énormément d'argent 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans un pays en crise n'est-ce pas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un luxe trop coûteux ? 
+</Turn>
+<Turn speaker="spk28" startTime="2644.924" endTime="2664.794">
+<Sync time="2644.924"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors effectivement j'entendais tout à l'heure &lt;pers=Brahim_ASLOUM&gt;Brahim&lt;/pers&gt; nous dire que y avait pas véritablement de logique aux Jeux Olympiques en tout cas sportivement parce que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2651.984"/>
+économiquement oui 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y a une logique
+<Event desc="dis=rep" type="noise" extent="end"/>
+, y a une logique c'est un véritable business 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les Jeux Olympiques 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'organisation des jeux c'est lourd vous l'avez dit 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ça va être aux alentours de 12 13 milliards la facture 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pour
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pour les anglais.
+</Turn>
+<Turn speaker="spk1" startTime="2664.794" endTime="2668.093">
+<Sync time="2664.794"/>
+c'est moins que Pékin mais c'est beaucoup plus que tous 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les autres JO 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk28" startTime="2668.093" endTime="2689.371">
+<Sync time="2668.093"/>
+c'est nettement moins que Pékin ça 
+<Event desc="bc" type="noise" extent="begin"/>
+c'est sûr
+<Event desc="bc" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en revanche c'est 
+<Sync time="2671.91"/>
+en dessous d'Athènes 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+Athènes
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui avait été quand même un gouffre terrible 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ puisqu'ils étaient partis avec un budget prévisionnel de 2,5 milliards ils avaient terminé à plus de 13 milliards
+<Sync time="2681.071"/>
+donc 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ y avait une légère petite défaillance certainement 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+dans la
+<Event desc="dis=rev" type="noise" extent="end"/>
+ dans les prévisions budgétaires 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec une intervention de l'état qui était quasiment 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de 50% du budget global.
+</Turn>
+<Turn speaker="spk1" startTime="2689.371" endTime="2693.326">
+<Sync time="2689.371"/>
+
+<Event desc="bcd" type="noise" extent="begin"/>
+et on voit aujourd'hui où se trouve
+<Event desc="bcd" type="noise" extent="end"/>
+ la Grèce. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ alors justement est-ce que c'est un business rentable ?
+</Turn>
+<Turn speaker="spk28" startTime="2693.326" endTime="2732.429">
+<Sync time="2693.326"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ alors 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est un business rentable pour certains en tout cas puisque je peux vous dire que pour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le comité international olympique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est une affaire qui marche plutôt bien
+<Sync time="2702.654"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a énormément 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de sponsors qui sont présents 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sur
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sur cet événement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est un petit peu moins rentable en tout cas sur les dernières éditions
+<Sync time="2710.326"/>
+pour ce qui concerne 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ l'organisateur, l'organisation, la structure organisatrice 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et parfois pour l'état. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un petit peu difficile quand même de juger à court terme les Jeux Olympiques parce que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et ça sera le cas encore pour Londres
+<Sync time="2721.303"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ y a toute une logique d'investissement 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+des
+<Event desc="dis=rev" type="noise" extent="end"/>
+ dans les infrastructures 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ dans les transports exactement donc 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en fait la lecture 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+d'un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+d'un
+<Event desc="dis=rev" type="noise" extent="end"/>
+ des Jeux Olympiques 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rev" type="noise" extent="end"/>
+ c'est vraiment sur du long terme sur du très long terme.
+</Turn>
+<Turn speaker="spk1" startTime="2732.429" endTime="2735.484">
+<Sync time="2732.429"/>
+est-ce vrai que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la sécurité fait exploser tous les budgets également ?
+</Turn>
+<Turn speaker="spk28" startTime="2735.484" endTime="2736.034">
+<Sync time="2735.484"/>
+ça c'est vrai.
+</Turn>
+<Turn speaker="spk1" startTime="2736.034" endTime="2737.111">
+<Sync time="2736.034"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ il y avait pas ces soucis avant ? 
+</Turn>
+<Turn speaker="spk28" startTime="2737.111" endTime="2755.068">
+<Sync time="2737.111"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors y avait moins ce souci mais effectivement aujourd'hui les contraintes, les process
+<Sync time="2741.436"/>
+font que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la sécurité a dépassé vraiment toutes les attentes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est plus d'un milliard d'euros 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est complètement hallucinant 
+<Sync time="2749.061"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et effectivement &amp;bah 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est lié au contexte aujourd'hui 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ géopolitique 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ voilà.
+</Turn>
+<Turn speaker="spk1" startTime="2755.068" endTime="2767.143">
+<Sync time="2755.068"/>
+&lt;pers=Gerard_SCHALLER&gt;Gérard Schaller&lt;/pers&gt; 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les JO 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ce sont aussi bien sûr 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les sports, tous les sports et puis des sports que finalement on redécouvre tous les 4 ans puis ensuite qu'on abandonne 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ est-ce que quand même 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l'é(preuve)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ l'épreuve phare c'est pas le 100 mètres et ça ne reste pas le 100 mètres ?
+</Turn>
+<Turn speaker="spk26" startTime="2767.143" endTime="2768.599">
+<Sync time="2767.143"/>
+&amp;ah &amp;ben 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+bien sûr
+<Event desc="dis=rep" type="noise" extent="end"/>
+, bien sûr le 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2768.599" endTime="2769.524">
+<Sync time="2768.599"/>
+pourquoi d'ailleurs ? 
+</Turn>
+<Turn speaker="spk26" startTime="2769.524" endTime="2792.935">
+<Sync time="2769.524"/>
+
+<Event desc="pf" type="noise" extent="instantaneous"/>
+ parce que c'est l'homme le plus rapide du monde point si 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ y a pas de 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ vous voyez en natation c'est y a une espèce de contrainte qui est d'être dans l'eau, en marche à pied 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ y a une contrainte qui est de pas courir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2781.365"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le 100 mètres y a aucune contrainte c'est-à-dire que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est la valeur pure de l'individu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ voilà 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est comme ça 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qu'on exprime la valeur 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ d'un sportif.
+</Turn>
+<Turn speaker="spk1" startTime="2792.935" endTime="2793.827">
+<Sync time="2792.935"/>
+oui &lt;pers=Virgile_CAILLET&gt;Virgile&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk28" startTime="2793.827" endTime="2802.741">
+<Sync time="2793.827"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+oui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ oui 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je confirme puisqu'on a 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ une enquête récente qui confirme donc auprès des français qui confirme que la finale du 100 mètres est bien le moment le plus attendu par les français
+</Turn>
+<Turn speaker="spk1" startTime="2802.741" endTime="2803.957">
+<Sync time="2802.741"/>
+et donc le plus suivi 
+<Event desc="bc" type="noise" extent="begin"/>
+médiatiquement ? 
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk28" startTime="2803.957" endTime="2819.691">
+<Sync time="2803.957"/>
+à 81% donc c'est quand même 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+très
+<Event desc="dis=rep" type="noise" extent="end"/>
+ très largement le moment fort, le temps fort 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des Jeux Olympiques. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la natation
+<Sync time="2810.109"/>
+confirme son statut de deuxième sport aux Jeux Olympiques puisque 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les finales de natation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sont attendues à 74% on a quelques chances de médailles également 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce qui explique aussi cela.
+</Turn>
+<Turn speaker="spk1" startTime="2819.691" endTime="2824.529">
+<Sync time="2819.691"/>
+mais faut aussi des vedettes, faut des champions alors bien sûr &lt;pers=Usain_BOLT&gt;Bolt&lt;/pers&gt; ou &lt;pers=Michael_PHELPS&gt;Phelps&lt;/pers&gt; puisqu'on parlait de natation.
+</Turn>
+<Turn speaker="spk26" startTime="2824.529" endTime="2825.089">
+<Sync time="2824.529"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2825.089" endTime="2827.391">
+<Sync time="2825.089"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'est ça aussi qui fait la notoriété d'une discipline.
+</Turn>
+<Turn speaker="spk26" startTime="2827.391" endTime="2841.562">
+<Sync time="2827.391"/>
+c'est dans chaque pays, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ dans chaque pays 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Teddy_RINER&gt;Teddy Riner&lt;/pers&gt; est un champion fantastique j'espère qu'il va apporter la médaille à la France, la médaille d'or, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ celle qu'il mérite de toute façon 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je suis pas certain que dans certains pays &lt;pers=Teddy_RINER&gt;Teddy Riner&lt;/pers&gt; soit une vraie star. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2841.562" endTime="2846.501">
+<Sync time="2841.562"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ non nous on s'intéresse au judo, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ à l'escrime, à la natation, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ à l'athlétisme &lt;pers=Christophe_LEMAITRE&gt;Christophe Lemaitre&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk28" startTime="2846.501" endTime="2869.734">
+<Sync time="2846.501"/>
+oui &lt;pers=Teddy_RINER&gt;Te() Teddy Riner&lt;/pers&gt; les français ont grande confiance en &lt;pers=Teddy_RINER&gt;Teddy Riner&lt;/pers&gt; je peux vous dire 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ puisque 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ oui exactement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on a posé beaucoup de questions 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à nos
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à nos compatriotes 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour 83% des français &lt;pers=Teddy_RINER&gt;Teddy Riner&lt;/pers&gt; sera médaillé
+<Sync time="2860.26"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et parmi ces 83% ils sont 90% à le voir avec la médaille d'or 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ donc quelque part c'est une grosse pression mais lui-même se la met puisque je l'entendais récemment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ évoquer cette médaille d'or ou rien.
+</Turn>
+<Turn speaker="spk26" startTime="2869.734" endTime="2877.098">
+<Sync time="2869.734"/>
+oui je pense que ce sont ses résultats qui lui mettent la pression c'est-à-dire quand on 5 fois champion du monde alors qu'on a 22 ans forcément 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ on rêve du titre olympique.
+</Turn>
+<Turn speaker="spk1" startTime="2877.098" endTime="2878.716">
+<Sync time="2877.098"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ on croit encore aux Jeux Olympiques
+</Turn>
+<Turn speaker="spk26" startTime="2878.716" endTime="2880.274">
+<Sync time="2878.716"/>
+oui il est jeune il est il 
+</Turn>
+<Turn speaker="spk1" startTime="2880.274" endTime="2885.719">
+<Sync time="2880.274"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+est-ce que il a pas trop de pression
+<Event desc="bc" type="noise" extent="end"/>
+ ce pauvre &lt;pers=Teddy_RINER&gt;Teddy&lt;/pers&gt; parce que enfin ce pauvre &lt;pers=Teddy_RINER&gt;Teddy&lt;/pers&gt; de 2 mètres et quelques 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk26" startTime="2885.719" endTime="2903.111">
+<Sync time="2885.719"/>
+écoutez 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+s'il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ s'il se rate cette fois-ci il pourra encore recommencer la prochaine fois 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et la fois d'après encore.
+<Sync time="2890.206"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dou() &lt;pers=David_DOUILLET&gt;David Douillet&lt;/pers&gt; a été double champion olympique ce qui était déjà 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une performance exceptionnelle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ malgré son échec des derniers jeux &lt;pers=Teddy_RINER&gt;Teddy Riner&lt;/pers&gt; peut l'être trois fois.
+<Sync time="2899.508"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ enfin on attendons qu'il le soit déjà une fois ce 
+<Event desc="bc" type="noise" extent="begin"/>
+serait déjà
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2903.111" endTime="2920.871">
+<Sync time="2903.111"/>
+il y a des disciplines comme le canoë on peut pas dire que le canoë soit la discipline la plus télévisée, la plus suivie 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le reste de l'année 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et pourtant &lt;pers=Tony_ESTANGUET&gt;Tony Estanguet&lt;/pers&gt; on le connaît tous
+<Sync time="2911.253"/>
+donc 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y a y a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ y a ça aussi c'est ça qui est sympa pendant 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les Jeux Olympiques c'est que tout d'un coup on va s'intéresser, se passionner pour une discipline 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'on a d'ailleurs qu'on ne comprend pas très bien, qu'on maîtrise pas, on ne connaît pas les règles spécialement.
+</Turn>
+<Turn speaker="spk28" startTime="2920.871" endTime="2963.85">
+<Sync time="2920.871"/>
+effectivement c'est la magie des jeux &amp;hein 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le caractère unique et rare des Jeux Olympiques c'est vraiment tout à fait exceptionnel c'est une fois tous les 4 ans 
+<Sync time="2928.084"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il faut
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il faut rappeler que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les Jeux Olympiques portent quand même toute cette symbolique
+<Sync time="2932.538"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ils ont su conserver en fait le concept 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui qui est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui est plusieurs fois millénaire &amp;hein
+<Sync time="2937.015"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce concept un peu d'universalité 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de rassemblement des peuples 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ voir même c'était la trêve olympique donc voire même un peu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2945.303"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des notions de paix voilà donc 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on est dans cette thématique là, dans cette symbolique là c'est ce qui fait la force
+<Sync time="2951.365"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des jeux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et pour revenir un petit mot sur &lt;pers=Tony_ESTANGUET&gt;Tony Estanguet&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ les français là aussi sont très confiants en &lt;pers=Tony_ESTANGUET&gt;Tony Estanguet&lt;/pers&gt; ils le voient, ils le voient médaillé 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à 80% c'est le troisième derrière &lt;pers=Teddy_RINER&gt;Teddy Riner&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et le hand masculin.
+</Turn>
+<Turn speaker="spk1" startTime="2963.85" endTime="2982.936">
+<Sync time="2963.85"/>
+&amp;ah oui bien sûr &amp;ben les experts même si bon ils étaient un peu plus faible ces derniers temps mais on les attend beaucoup, on attend aussi beaucoup de la natation 
+<Sync time="2970.009"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ y a une belle équipe alors bien sûr &lt;pers=Laure_MANAUDOU&gt;Laure Manaudou&lt;/pers&gt; même si pour les médailles ça sera plus compliqué, mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Camille_LACOURT&gt;Camille Lacourt&lt;/pers&gt;, &lt;pers=Camille_MUFFAT&gt;Camille Muffat&lt;/pers&gt; 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et c'est vrai qu'aussi on se passionne pour la natation parce qu'on a une belle équipe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sympathique, photogénique.
+</Turn>
+<Turn speaker="spk26" startTime="2982.936" endTime="3020.328">
+<Sync time="2982.936"/>
+oui on en est presque à regretter que par exemple 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Frederick_BOUSQUET&gt;Frédérick Bousquet&lt;/pers&gt; ne puisse pas défendre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="2987.765"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ son son titre olympique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ non 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ne
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ne soit pas là 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce qu'on a une natation qui est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+tellement
+<Event desc="dis=rep" type="noise" extent="end"/>
+ tellement riche en France que on pourrait avoir
+<Sync time="2997.588"/>
+3, 4, 5 nageurs dans certaines disciplines sans que ce soit honteux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ là encore 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les athlètes représentent 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+se
+<Event desc="dis=rep" type="noise" extent="end"/>
+ se représentent individuellement mais
+<Sync time="3006.75"/>
+représentent aussi leur pays donc il y a des contraintes qui font que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans certaines disciplines il faut limiter 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ peut-être que le
+<Sync time="3013.567"/>
+peut-être que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le sparring partenaire de &lt;pers=Teddy_RINER&gt;Teddy Riner&lt;/pers&gt; est le deuxième meilleur judoka du monde 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais on ne saura jamais parce qu'il ne fera jamais de championnat.
+</Turn>
+<Turn speaker="spk1" startTime="3020.328" endTime="3034.204">
+<Sync time="3020.328"/>
+&amp;ouais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="3021.937"/>
+on parle des français mais enfin au final &amp;hein lorsqu'on regardera le tableau des médailles bon &amp;ben là on on est pas dans le top 3 ça sera soit la Chine, les États-Unis, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la Grande Bretagne peut-être, la Russie.
+</Turn>
+<Turn speaker="spk28" startTime="3034.204" endTime="3049.258">
+<Sync time="3034.204"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la Grande Bretagne sera certainement bien placée mais effectivement ça va se jouer entre la Chine, la Russie, les États-Unis 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3039.774"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui sont d'ailleurs les délégations derrière la Grande Bretagne 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais ça c'est bien logique, qui sont les délégations qui présentent le plus d'athlètes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ puisque effectivement États-Unis, Russie sont à près de 500 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3049.258" endTime="3059.614">
+<Sync time="3049.258"/>
+donc ça c'est quand même 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un des enjeux cette concurrence entre nations parce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on voilà on affirme aussi sa suprématie j'imagine que pour la Chine c'est important de finir peut-être 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pre(mière)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ première ? 
+</Turn>
+<Turn speaker="spk28" startTime="3059.614" endTime="3083.176">
+<Sync time="3059.614"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ effectivement alors on est moins dans une logique 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de sport de performance de résultats d'état comme ça a pu l'être à l'époque de l'Allemagne de l'est etc. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ néanmoins c'est un statut 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'on doit
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qu'on doit affirmer
+<Sync time="3070.02"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est pour ça que même au niveau politique 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on sent qu'il y a une relative pression à ce que l'équipe de France performe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on a été à 41 médailles dont 7 d'or 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on l'a entendu tout à l'heure et pour
+</Turn>
+<Turn speaker="spk1" startTime="3083.176" endTime="3084.156">
+<Sync time="3083.176"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+on était au dixième rang
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk28" startTime="3084.156" endTime="3091.074">
+<Sync time="3084.156"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+on était 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est ça
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est ça tout à fait
+<Event desc="bc" type="noise" extent="end"/>
+ l'objectif c'est de rentrer dans les 10 
+<Event desc="bc" type="noise" extent="begin"/>
+et puis 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+surtout
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="end"/>
+ surtout augmenter le nombre de médailles d'or puisque là il y a un caractère symbolique. 
+</Turn>
+<Turn speaker="spk1" startTime="3091.074" endTime="3091.827">
+<Sync time="3091.074"/>
+&lt;pers=Gerard_SCHALLER&gt;Gérard&lt;/pers&gt; oui
+</Turn>
+<Turn speaker="spk26" startTime="3091.827" endTime="3128.518">
+<Sync time="3091.827"/>
+oui vous savez y a des pays pour lesquels c'est important 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je pense je suis allé au Kenya et au Kenya je me suis demandé mais pourquoi ils dépensent autant d'argent 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ pour le sport alors que c'est un pays qui est pas très riche
+<Sync time="3101.309"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et on m'a expliqué là-bas tout simplement le sport est le ciment de la nation, c'est un pays qui est très récent
+<Sync time="3106.807"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les gens ne se sentent pas kenyans ils se sentent Kikuou, Masaï 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ etc.vent desc="et cetera" type="pronounce" extent="previous"/> 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de leurs différentes ethnies y a
+<Sync time="3112.837"/>
+un moment où ils se sentent kenyan c'est quand ils voient le drapeau monter sur le mât 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3118.931"/>
+c'est aussi de la politique interne, c'est pas seulement de la politique externe c'est aussi pour dire au pays regardez vous existez pour certaines nations et notamment je pense 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ aux nations africaines, c'est éminemment important.
+</Turn>
+<Turn speaker="spk1" startTime="3128.518" endTime="3138.022">
+<Sync time="3128.518"/>
+merci messieurs 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+. on va regarder maintenant la météo c'est important il va sans doute pleuvoir 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ pendant ces jours à Londres mais il pleut déjà 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en France avec ces orages qui traversent le pays, la météo pour demain.
+</Turn>
+</Section>
+<Section type="nontrans" startTime="3138.022" endTime="3599.664">
+<Turn startTime="3138.022" endTime="3599.664">
+<Sync time="3138.022"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
