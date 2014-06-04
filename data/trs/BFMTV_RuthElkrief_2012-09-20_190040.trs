@@ -4,7 +4,7 @@
 <Speakers>
 <Speaker id="spk1" name="Ruth_ELKRIEF" check="no" type="female" dialect="native" accent="R1" scope="local"/>
 <Speaker id="spk2" name="Rachid_M_BARKI" check="no" type="male" dialect="native" accent="R2" scope="local"/>
-<Speaker id="spk3" name="Véronique_FÈVRE" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk3" name="Veronique_FEVRE" check="no" type="female" dialect="native" accent="R3" scope="local"/>
 <Speaker id="spk4" name="Vincent_PEILLON" check="no" type="male" dialect="native" accent="R5" scope="local"/>
 <Speaker id="spk5" name="speaker#5" check="no" type="male" dialect="native" accent="R5" scope="local"/>
 <Speaker id="spk6" name="Bernadette_GROISON" check="no" type="female" dialect="native" accent="R5" scope="local"/>
@@ -88,7 +88,7 @@ un peu plus
 <Event desc="r" type="noise" extent="instantaneous"/>
  le sera pour remplacer 
 <Event desc="r" type="noise" extent="instantaneous"/>
- les départs en retraite. &lt;pers=Véronique_FÈVRE&gt;Véronique Fèvre&lt;/pers&gt;.
+ les départs en retraite. &lt;pers=Veronique_FEVRE&gt;Véronique Fèvre&lt;/pers&gt;.
 </Turn>
 <Turn startTime="1751.413" endTime="1752.984">
 <Sync time="1751.413"/>

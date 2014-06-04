@@ -3,7 +3,7 @@
 <Trans scribe="ELDA" audio_filename="LCP_EntreLesLignes_2013-03-16_212400" version="16" version_date="140319">
 <Speakers>
 <Speaker id="spk1" name="Anne_ROSENCHER" check="no" type="female" dialect="native" accent="R2" scope="local"/>
-<Speaker id="spk2" name="Jérôme_BÉGLÉ" check="no" type="male" dialect="native" accent="R2" scope="local"/>
+<Speaker id="spk2" name="Jerome_BEGLE" check="no" type="male" dialect="native" accent="R2" scope="local"/>
 <Speaker id="spk3" name="Carole_BARJON" check="no" type="female" dialect="native" accent="R2" scope="local"/>
 <Speaker id="spk4" name="Christophe_RUAULTS" check="no" type="male" dialect="native" accent="R1" scope="local"/>
 <Speaker id="spk5" name="Guillaume_ROQUETTE" check="no" type="male" dialect="native" accent="R2" scope="local"/>
@@ -352,7 +352,7 @@ ont été de la non-assistance à pays en danger.
 <Event desc="b" type="noise" extent="instantaneous"/>
  &amp;ben tout cela est juste
 <Sync time="974.936"/>
-le problème c'est qu'effectivement c'est un discours comme disait &lt;pers=Jérôme_BÉGLÉ&gt;Jérôme&lt;/pers&gt; qui est récurrent 
+le problème c'est qu'effectivement c'est un discours comme disait &lt;pers=Jerome_BEGLE&gt;Jérôme&lt;/pers&gt; qui est récurrent 
 <Event desc="r" type="noise" extent="instantaneous"/>
  donc c'est pour ça que
 <Sync time="978.881"/>
@@ -1766,7 +1766,7 @@ euh
 <Event desc="dis=rep" type="noise" extent="begin"/>
 un
 <Event desc="dis=rep" type="noise" extent="end"/>
- un dernier mot sur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt;, &lt;pers=Jérôme_BÉGLÉ&gt;Jérôme&lt;/pers&gt;.
+ un dernier mot sur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt;, &lt;pers=Jerome_BEGLE&gt;Jérôme&lt;/pers&gt;.
 </Turn>
 <Turn speaker="spk2" startTime="1651.921" endTime="1667.874">
 <Sync time="1651.921"/>

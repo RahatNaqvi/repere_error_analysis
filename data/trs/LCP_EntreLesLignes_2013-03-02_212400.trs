@@ -4,7 +4,7 @@
 <Speakers>
 <Speaker id="spk1" name="Carl_MEEUS" check="no" type="male" dialect="native" accent="R2" scope="local"/>
 <Speaker id="spk5" name="Christophe_RUAULTS" check="no" dialect="native" accent="R1" scope="local" type="male"/>
-<Speaker id="spk6" name="Jérôme_BÉGLÉ" check="no" type="male" dialect="native" accent="R2" scope="local"/>
+<Speaker id="spk6" name="Jerome_BEGLE" check="no" type="male" dialect="native" accent="R2" scope="local"/>
 <Speaker id="spk7" name="Claude_WEILL" check="no" type="male" dialect="native" accent="R2" scope="local"/>
 <Speaker id="spk8" name="Laurent_NEUMANN" check="no" type="male" dialect="native" accent="R2" scope="local"/>
 </Speakers>

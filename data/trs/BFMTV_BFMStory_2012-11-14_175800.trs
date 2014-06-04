@@ -14,7 +14,7 @@
 <Speaker id="spk11" name="speaker#11" check="no" type="female" dialect="nonnative" accent="R5" scope="local"/>
 <Speaker id="spk12" name="Louis_BURTON" check="no" type="male" dialect="native" accent="R5" scope="local"/>
 <Speaker id="spk13" name="Ulysse_GOSSET" check="no" dialect="native" accent="R4" scope="local" type="male"/>
-<Speaker id="spk14" name="Éric_STRAUMANN" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk14" name="Eric_STRAUMANN" check="no" type="male" dialect="native" accent="R4" scope="local"/>
 <Speaker id="spk15" name="Philippe_DOUCET" check="no" dialect="native" accent="R4" scope="local" type="male"/>
 <Speaker id="spk16" name="Bruno_BESCHIZZA" check="no" dialect="native" accent="R4" scope="local" type="male"/>
 <Speaker id="spk17" name="Khalil_AL-HAYA" check="no" type="male" dialect="nonnative" accent="R5" scope="local"/>
@@ -977,7 +977,7 @@ c'est en tout cas
 <Event desc="r" type="noise" extent="instantaneous"/>
 la question que se pose ce député qui est avec nous en direct de l'assemblée nationale, 
 <Event desc="r" type="noise" extent="instantaneous"/>
-le député &lt;pers=Éric_STRAUMANN&gt;Éric Straumann&lt;/pers&gt;. 
+le député &lt;pers=Eric_STRAUMANN&gt;Éric Straumann&lt;/pers&gt;. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 bonsoir monsieur le député UMP du
 </Turn>
