@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="1" version_date="140603">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Anne SATONNET" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Anne SATTONNET" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Gerard BAUDOUX" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk6" name="Dominique ROMEO" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk7" name="Carla BRUNI-SARKOZY" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk8" name="Johnny HALLYDAY" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk9" name="Liz EDWARDS" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk10" name="Les EDWARDS" type="unknown" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="346.28">
+<Turn startTime="0.0" speaker="spk1" endTime="69.16">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="69.16" speaker="spk2" endTime="69.24">
+<Sync time="69.16"/>
+ref=UNK soda=UNK qcompere=UNK percol=Anne_SATONNET
+</Turn>
+<Turn startTime="69.24" speaker="spk4" endTime="70.08">
+<Sync time="69.24"/>
+ref=UNK soda=UNK qcompere=Anne_SAITONNET percol=Anne_SATONNET
+</Turn>
+<Turn startTime="70.08" speaker="spk4" endTime="77">
+<Sync time="70.08"/>
+ref=UNK soda=Anne_SATTONNET qcompere=Anne_SAITONNET percol=Anne_SATONNET
+<Sync time="76.96"/>
+ref=UNK soda=Anne_SATTONNET qcompere=UNK percol=Anne_SATONNET
+</Turn>
+<Turn startTime="77" speaker="spk2" endTime="77.04">
+<Sync time="77"/>
+ref=UNK soda=Anne_SATTONNET qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="77.04" speaker="spk1" endTime="85.84">
+<Sync time="77.04"/>
+empty
+</Turn>
+<Turn startTime="85.84" speaker="spk2" endTime="85.93">
+<Sync time="85.84"/>
+ref=UNK soda=UNK qcompere=UNK percol=Gerard_BAUDOUX
+</Turn>
+<Turn startTime="85.93" speaker="spk5" endTime="99.68">
+<Sync time="85.93"/>
+ref=UNK soda=UNK qcompere=Gerard_BAUDOUX percol=Gerard_BAUDOUX
+<Sync time="86.64"/>
+ref=UNK soda=Gerard_BAUDOUX qcompere=Gerard_BAUDOUX percol=Gerard_BAUDOUX
+<Sync time="99.61"/>
+ref=UNK soda=Gerard_BAUDOUX qcompere=UNK percol=Gerard_BAUDOUX
+</Turn>
+<Turn startTime="99.68" speaker="spk2" endTime="99.84">
+<Sync time="99.68"/>
+ref=UNK soda=Gerard_BAUDOUX qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="99.84" speaker="spk1" endTime="109.56">
+<Sync time="99.84"/>
+empty
+</Turn>
+<Turn startTime="109.56" speaker="spk2" endTime="109.73">
+<Sync time="109.56"/>
+ref=UNK soda=UNK qcompere=UNK percol=Dominique_ROMAN
+</Turn>
+<Turn startTime="109.73" speaker="spk6" endTime="118.27">
+<Sync time="109.73"/>
+ref=UNK soda=UNK qcompere=Dominique_ROMEO percol=Dominique_ROMAN
+<Sync time="110.4"/>
+ref=UNK soda=Dominique_ROMEO qcompere=Dominique_ROMEO percol=Dominique_ROMAN
+<Sync time="118.25"/>
+ref=UNK soda=Dominique_ROMEO qcompere=UNK percol=Dominique_ROMAN
+</Turn>
+<Turn startTime="118.27" speaker="spk2" endTime="118.31">
+<Sync time="118.27"/>
+ref=UNK soda=Dominique_ROMEO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="118.31" speaker="spk1" endTime="169.79">
+<Sync time="118.31"/>
+empty
+</Turn>
+<Turn startTime="169.79" speaker="spk2" endTime="170.64">
+<Sync time="169.79"/>
+ref=UNK soda=UNK qcompere=Carla_BRUNI-SARKOZY percol=UNK
+</Turn>
+<Turn startTime="170.64" speaker="spk7" endTime="171.5">
+<Sync time="170.64"/>
+ref=UNK soda=Carla_BRUNI-SARKOZY qcompere=Carla_BRUNI-SARKOZY percol=UNK
+</Turn>
+<Turn startTime="171.5" speaker="spk2" endTime="171.84">
+<Sync time="171.5"/>
+ref=UNK soda=Carla_BRUNI-SARKOZY qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="171.84" speaker="spk1" endTime="286.27">
+<Sync time="171.84"/>
+empty
+</Turn>
+<Turn startTime="286.27" speaker="spk2" endTime="286.46">
+<Sync time="286.27"/>
+ref=UNK soda=UNK qcompere=UNK percol=Johnny_HALLYDAY
+</Turn>
+<Turn startTime="286.46" speaker="spk8" endTime="296.82">
+<Sync time="286.46"/>
+ref=UNK soda=UNK qcompere=Johnny_HALLYDAY percol=Johnny_HALLYDAY
+<Sync time="287.27"/>
+ref=UNK soda=Johnny_HALLYDAY qcompere=Johnny_HALLYDAY percol=Johnny_HALLYDAY
+<Sync time="287.89"/>
+ref=Johnny_HALLYDAY soda=Johnny_HALLYDAY qcompere=Johnny_HALLYDAY percol=Johnny_HALLYDAY
+<Sync time="288.39"/>
+ref=UNK soda=Johnny_HALLYDAY qcompere=Johnny_HALLYDAY percol=Johnny_HALLYDAY
+<Sync time="296.79"/>
+ref=UNK soda=Johnny_HALLYDAY qcompere=Johnny_HALLYDAY percol=UNK
+</Turn>
+<Turn startTime="296.82" speaker="spk2" endTime="297.11">
+<Sync time="296.82"/>
+ref=UNK soda=Johnny_HALLYDAY qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="297.11" speaker="spk1" endTime="333.7">
+<Sync time="297.11"/>
+empty
+</Turn>
+<Turn startTime="333.7" endTime="334.2">
+<Sync time="333.7"/>
+ERREUR -- ref=Liz_EDWARDS soda=UNK qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="334.2" speaker="spk1" endTime="341.22">
+<Sync time="334.2"/>
+empty
+</Turn>
+<Turn startTime="341.22" endTime="341.72">
+<Sync time="341.22"/>
+ERREUR -- ref=Liz_EDWARDS soda=UNK qcompere=UNK percol=UNK
+<Sync time="341.6"/>
+ERREUR -- ref=Liz_EDWARDS soda=UNK qcompere=UNK percol=Les_EDWARDS
+</Turn>
+<Turn startTime="341.72" speaker="spk2" endTime="341.87">
+<Sync time="341.72"/>
+ref=UNK soda=UNK qcompere=UNK percol=Les_EDWARDS
+</Turn>
+<Turn startTime="341.87" speaker="spk9" endTime="342.72">
+<Sync time="341.87"/>
+ref=UNK soda=UNK qcompere=Liz_EDWARDS percol=Les_EDWARDS
+</Turn>
+<Turn startTime="342.72" speaker="spk9" endTime="346.27">
+<Sync time="342.72"/>
+ref=UNK soda=Liz_EDWARDS qcompere=Liz_EDWARDS percol=Les_EDWARDS
+<Sync time="346.23"/>
+ref=UNK soda=Liz_EDWARDS qcompere=Liz_EDWARDS percol=UNK
+</Turn>
+<Turn startTime="346.27" speaker="spk2" endTime="346.28">
+<Sync time="346.27"/>
+ref=UNK soda=Liz_EDWARDS qcompere=UNK percol=UNK
+</Turn>
+</Section>
+</Episode>
+</Trans>

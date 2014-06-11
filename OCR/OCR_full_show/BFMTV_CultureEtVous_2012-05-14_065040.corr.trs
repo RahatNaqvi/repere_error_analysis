@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="1" version_date="140603">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Irene FRACHON" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Beth DITTO" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Felicity HUFFMAN" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk6" name="Louis NICOLLIN" type="unknown" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="281.97">
+<Turn startTime="0.0" speaker="spk1" endTime="3.52">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="3.52" speaker="spk2" endTime="3.66">
+<Sync time="3.52"/>
+ref=UNK soda=UNK qcompere=UNK percol=Irene_FRACHON
+</Turn>
+<Turn startTime="3.66" speaker="spk3" endTime="67.07">
+<Sync time="3.66"/>
+ref=UNK soda=UNK qcompere=Irene_FRACHON percol=Irene_FRACHON
+<Sync time="4.55"/>
+ref=UNK soda=Irene_FRACHON qcompere=Irene_FRACHON percol=Irene_FRACHON
+<Sync time="67.02"/>
+ref=UNK soda=Irene_FRACHON qcompere=UNK percol=Irene_FRACHON
+</Turn>
+<Turn startTime="67.07" speaker="spk2" endTime="67.19">
+<Sync time="67.07"/>
+ref=UNK soda=Irene_FRACHON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="67.19" speaker="spk1" endTime="139.02">
+<Sync time="67.19"/>
+empty
+</Turn>
+<Turn startTime="139.02" speaker="spk4" endTime="139.91">
+<Sync time="139.02"/>
+ref=UNK soda=UNK qcompere=Beth_DITTO percol=UNK
+</Turn>
+<Turn startTime="139.91" speaker="spk4" endTime="140.93">
+<Sync time="139.91"/>
+ref=UNK soda=Beth_DITTO qcompere=Beth_DITTO percol=UNK
+</Turn>
+<Turn startTime="140.93" speaker="spk2" endTime="141.11">
+<Sync time="140.93"/>
+ref=UNK soda=Beth_DITTO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="141.11" speaker="spk1" endTime="162.24">
+<Sync time="141.11"/>
+empty
+</Turn>
+<Turn startTime="162.24" speaker="spk2" endTime="162.34">
+<Sync time="162.24"/>
+ref=UNK soda=UNK qcompere=UNK percol=Felicity_HUFFMAN
+</Turn>
+<Turn startTime="162.34" speaker="spk5" endTime="168.22">
+<Sync time="162.34"/>
+ref=UNK soda=UNK qcompere=Felicity_HUFFMAN percol=Felicity_HUFFMAN
+<Sync time="163.19"/>
+ref=UNK soda=Felicity_HUFFMAN qcompere=Felicity_HUFFMAN percol=Felicity_HUFFMAN
+<Sync time="168.14"/>
+ref=UNK soda=Felicity_HUFFMAN qcompere=UNK percol=Felicity_HUFFMAN
+</Turn>
+<Turn startTime="168.22" speaker="spk2" endTime="168.24">
+<Sync time="168.22"/>
+ref=UNK soda=UNK qcompere=UNK percol=Felicity_HUFFMAN
+</Turn>
+<Turn startTime="168.24" speaker="spk1" endTime="172.54">
+<Sync time="168.24"/>
+empty
+</Turn>
+<Turn startTime="172.54" speaker="spk2" endTime="176.89">
+<Sync time="172.54"/>
+ref=UNK soda=UNK qcompere=Claire_FONTAINE percol=UNK
+</Turn>
+<Turn startTime="176.89" speaker="spk1" endTime="275.92">
+<Sync time="176.89"/>
+empty
+</Turn>
+<Turn startTime="275.92" speaker="spk2" endTime="275.98">
+<Sync time="275.92"/>
+ref=UNK soda=UNK qcompere=UNK percol=Louis_NICOLLIN
+</Turn>
+<Turn startTime="275.98" speaker="spk6" endTime="281.97">
+<Sync time="275.98"/>
+ref=UNK soda=UNK qcompere=Louis_NICOLLIN percol=Louis_NICOLLIN
+<Sync time="276.95"/>
+ref=UNK soda=Louis_NICOLLIN qcompere=Louis_NICOLLIN percol=Louis_NICOLLIN
+<Sync time="281.9"/>
+ref=UNK soda=Louis_NICOLLIN qcompere=UNK percol=Louis_NICOLLIN
+</Turn>
+</Section>
+</Episode>
+</Trans>

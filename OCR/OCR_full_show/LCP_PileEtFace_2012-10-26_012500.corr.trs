@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="1" version_date="140611">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Jean-Pierre GRATIEN" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Bruno LE ROUX" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Jean-Louis BORLOO" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk6" name="Jean-Louis BORLOO§§Bruno LE ROUX" type="unknown" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="1887.56">
+<Turn startTime="0.0" speaker="spk1" endTime="436.97">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="436.97" speaker="spk2" endTime="437">
+<Sync time="436.97"/>
+ref=UNK soda=UNK qcompere=Jean-Pierre_GRATIEN percol=UNK
+</Turn>
+<Turn startTime="437" speaker="spk3" endTime="438.8">
+<Sync time="437"/>
+ref=UNK soda=UNK qcompere=Jean-Pierre_GRATIEN percol=Jean-Pierre_GRATIEN
+<Sync time="437.28"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=Jean-Pierre_GRATIEN percol=Jean-Pierre_GRATIEN
+<Sync time="438.65"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=UNK percol=Jean-Pierre_GRATIEN
+</Turn>
+<Turn startTime="438.8" speaker="spk2" endTime="438.96">
+<Sync time="438.8"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="438.96" speaker="spk1" endTime="527.57">
+<Sync time="438.96"/>
+empty
+</Turn>
+<Turn startTime="527.57" speaker="spk2" endTime="527.6">
+<Sync time="527.57"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="527.6" speaker="spk4" endTime="532.03">
+<Sync time="527.6"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="527.76"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="528.48"/>
+ref=Bruno_LE_ROUX soda=Bruno_LE_ROUX qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="528.98"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="531.89"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=Bruno_LE_ROUX
+</Turn>
+<Turn startTime="532.03" speaker="spk2" endTime="532.32">
+<Sync time="532.03"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="532.32" speaker="spk1" endTime="597.17">
+<Sync time="532.32"/>
+empty
+</Turn>
+<Turn startTime="597.17" speaker="spk2" endTime="597.2">
+<Sync time="597.17"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO percol=UNK
+</Turn>
+<Turn startTime="597.2" speaker="spk5" endTime="602.63">
+<Sync time="597.2"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO percol=Jean-Louis_BORLOO
+<Sync time="597.6"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO percol=Jean-Louis_BORLOO
+<Sync time="602.48"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO
+</Turn>
+<Turn startTime="602.63" speaker="spk2" endTime="602.87">
+<Sync time="602.63"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="602.87" speaker="spk1" endTime="630.33">
+<Sync time="602.87"/>
+empty
+</Turn>
+<Turn startTime="630.33" speaker="spk2" endTime="630.36">
+<Sync time="630.33"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="630.36" speaker="spk6" endTime="635.08">
+<Sync time="630.36"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="630.72"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="635.08" speaker="spk2" endTime="635.27">
+<Sync time="635.08"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="635.27" speaker="spk1" endTime="707.69">
+<Sync time="635.27"/>
+empty
+</Turn>
+<Turn startTime="707.69" speaker="spk2" endTime="707.72">
+<Sync time="707.69"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="707.72" speaker="spk6" endTime="711.23">
+<Sync time="707.72"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="708"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="711.23" speaker="spk2" endTime="711.36">
+<Sync time="711.23"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="711.36" speaker="spk1" endTime="769.69">
+<Sync time="711.36"/>
+empty
+</Turn>
+<Turn startTime="769.69" speaker="spk2" endTime="769.72">
+<Sync time="769.69"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO percol=UNK
+</Turn>
+<Turn startTime="769.72" speaker="spk5" endTime="774.2">
+<Sync time="769.72"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO percol=Jean-Louis_BORLOO
+<Sync time="770.16"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO percol=Jean-Louis_BORLOO
+<Sync time="774.05"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO
+</Turn>
+<Turn startTime="774.2" speaker="spk2" endTime="774.48">
+<Sync time="774.2"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="774.48" speaker="spk1" endTime="823.37">
+<Sync time="774.48"/>
+empty
+</Turn>
+<Turn startTime="823.37" speaker="spk2" endTime="823.4">
+<Sync time="823.37"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="823.4" speaker="spk4" endTime="827.36">
+<Sync time="823.4"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="823.68"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="827.2"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=Bruno_LE_ROUX
+</Turn>
+<Turn startTime="827.36" speaker="spk2" endTime="827.52">
+<Sync time="827.36"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="827.52" speaker="spk1" endTime="837.25">
+<Sync time="827.52"/>
+empty
+</Turn>
+<Turn startTime="837.25" speaker="spk2" endTime="837.28">
+<Sync time="837.25"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="837.28" speaker="spk6" endTime="847.72">
+<Sync time="837.28"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="837.6"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="847.72" speaker="spk2" endTime="847.91">
+<Sync time="847.72"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="847.91" speaker="spk1" endTime="887.25">
+<Sync time="847.91"/>
+empty
+</Turn>
+<Turn startTime="887.25" speaker="spk2" endTime="887.28">
+<Sync time="887.25"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="887.28" speaker="spk6" endTime="898.84">
+<Sync time="887.28"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="887.52"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="898.84" speaker="spk2" endTime="899.03">
+<Sync time="898.84"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="899.03" speaker="spk1" endTime="985.89">
+<Sync time="899.03"/>
+empty
+</Turn>
+<Turn startTime="985.89" speaker="spk2" endTime="985.92">
+<Sync time="985.89"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="985.92" speaker="spk6" endTime="1002.44">
+<Sync time="985.92"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="986.16"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="1002.44" speaker="spk2" endTime="1002.72">
+<Sync time="1002.44"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1002.72" speaker="spk1" endTime="1051.25">
+<Sync time="1002.72"/>
+empty
+</Turn>
+<Turn startTime="1051.25" speaker="spk2" endTime="1051.28">
+<Sync time="1051.25"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1051.28" speaker="spk6" endTime="1056.92">
+<Sync time="1051.28"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1051.68"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1051.92"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="1056.92" speaker="spk2" endTime="1057.19">
+<Sync time="1056.92"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1057.19" speaker="spk1" endTime="1099.49">
+<Sync time="1057.19"/>
+empty
+</Turn>
+<Turn startTime="1099.49" speaker="spk2" endTime="1099.52">
+<Sync time="1099.49"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1099.52" speaker="spk6" endTime="1116.44">
+<Sync time="1099.52"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1099.92"/>
+ref=UNK soda=Jean-Louis_BORLOO§§Bruno_LE_ROUX qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1116.28"/>
+ref=UNK soda=Jean-Louis_BORLOO§§Bruno_LE_ROUX qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+</Turn>
+<Turn startTime="1116.44" speaker="spk2" endTime="1116.47">
+<Sync time="1116.44"/>
+ref=UNK soda=Jean-Louis_BORLOO§§Bruno_LE_ROUX qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1116.47" speaker="spk1" endTime="1163.94">
+<Sync time="1116.47"/>
+empty
+</Turn>
+<Turn startTime="1163.94" speaker="spk2" endTime="1163.96">
+<Sync time="1163.94"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1163.96" speaker="spk6" endTime="1177.75">
+<Sync time="1163.96"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1164.24"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="1177.75" speaker="spk2" endTime="1177.92">
+<Sync time="1177.75"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1177.92" speaker="spk1" endTime="1189.7">
+<Sync time="1177.92"/>
+empty
+</Turn>
+<Turn startTime="1189.7" speaker="spk2" endTime="1189.72">
+<Sync time="1189.7"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1189.72" speaker="spk4" endTime="1194.11">
+<Sync time="1189.72"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="1190.16"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="1193.97"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=Bruno_LE_ROUX
+</Turn>
+<Turn startTime="1194.11" speaker="spk2" endTime="1194.22">
+<Sync time="1194.11"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1194.22" speaker="spk1" endTime="1332.54">
+<Sync time="1194.22"/>
+empty
+</Turn>
+<Turn startTime="1332.54" speaker="spk2" endTime="1332.56">
+<Sync time="1332.54"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1332.56" speaker="spk4" endTime="1336.28">
+<Sync time="1332.56"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="1332.96"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="1336.14"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=Bruno_LE_ROUX
+</Turn>
+<Turn startTime="1336.28" speaker="spk2" endTime="1336.55">
+<Sync time="1336.28"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1336.55" speaker="spk1" endTime="1392.46">
+<Sync time="1336.55"/>
+empty
+</Turn>
+<Turn startTime="1392.46" speaker="spk2" endTime="1392.48">
+<Sync time="1392.46"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO percol=UNK
+</Turn>
+<Turn startTime="1392.48" speaker="spk5" endTime="1396.83">
+<Sync time="1392.48"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO percol=Jean-Louis_BORLOO
+<Sync time="1392.72"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO percol=Jean-Louis_BORLOO
+<Sync time="1396.7"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO
+</Turn>
+<Turn startTime="1396.83" speaker="spk2" endTime="1397.03">
+<Sync time="1396.83"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1397.03" speaker="spk1" endTime="1488.46">
+<Sync time="1397.03"/>
+empty
+</Turn>
+<Turn startTime="1488.46" speaker="spk2" endTime="1488.48">
+<Sync time="1488.46"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO percol=UNK
+</Turn>
+<Turn startTime="1488.48" speaker="spk5" endTime="1492.35">
+<Sync time="1488.48"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO percol=Jean-Louis_BORLOO
+<Sync time="1488.96"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO percol=Jean-Louis_BORLOO
+<Sync time="1492.21"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO
+</Turn>
+<Turn startTime="1492.35" speaker="spk2" endTime="1492.55">
+<Sync time="1492.35"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1492.55" speaker="spk1" endTime="1552.42">
+<Sync time="1492.55"/>
+empty
+</Turn>
+<Turn startTime="1552.42" speaker="spk2" endTime="1552.44">
+<Sync time="1552.42"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1552.44" speaker="spk6" endTime="1572">
+<Sync time="1552.44"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1552.56"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROUref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UN
+</Turn>
+<Turn startTime="1572" speaker="spk1" endTime="1625.46">
+<Sync time="1572"/>
+empty
+</Turn>
+<Turn startTime="1625.46" speaker="spk2" endTime="1625.48">
+<Sync time="1625.46"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1625.48" speaker="spk4" endTime="1628.55">
+<Sync time="1625.48"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="1625.76"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="1628.42"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=Bruno_LE_ROUX
+</Turn>
+<Turn startTime="1628.55" speaker="spk2" endTime="1628.88">
+<Sync time="1628.55"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1628.88" speaker="spk1" endTime="1684.14">
+<Sync time="1628.88"/>
+empty
+</Turn>
+<Turn startTime="1684.14" speaker="spk2" endTime="1684.16">
+<Sync time="1684.14"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1684.16" speaker="spk6" endTime="1697.64">
+<Sync time="1684.16"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1684.56"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="1697.64" speaker="spk2" endTime="1697.76">
+<Sync time="1697.64"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1697.76" speaker="spk1" endTime="1717.66">
+<Sync time="1697.76"/>
+empty
+</Turn>
+<Turn startTime="1717.66" speaker="spk2" endTime="1717.68">
+<Sync time="1717.66"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1717.68" speaker="spk6" endTime="1726.23">
+<Sync time="1717.68"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1717.92"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="1726.23" speaker="spk2" endTime="1726.55">
+<Sync time="1726.23"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1726.55" speaker="spk1" endTime="1745.06">
+<Sync time="1726.55"/>
+empty
+</Turn>
+<Turn startTime="1745.06" speaker="spk2" endTime="1745.08">
+<Sync time="1745.06"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1745.08" speaker="spk6" endTime="1750.76">
+<Sync time="1745.08"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1745.52"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="1750.76" speaker="spk2" endTime="1751.03">
+<Sync time="1750.76"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1751.03" speaker="spk1" endTime="1811.9">
+<Sync time="1751.03"/>
+empty
+</Turn>
+<Turn startTime="1811.9" speaker="spk2" endTime="1811.92">
+<Sync time="1811.9"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1811.92" speaker="spk4" endTime="1816.03">
+<Sync time="1811.92"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="1812.24"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="1815.9"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=Bruno_LE_ROUX
+</Turn>
+<Turn startTime="1816.03" speaker="spk2" endTime="1816.31">
+<Sync time="1816.03"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1816.31" speaker="spk1" endTime="1847.66">
+<Sync time="1816.31"/>
+empty
+</Turn>
+<Turn startTime="1847.66" speaker="spk2" endTime="1847.68">
+<Sync time="1847.66"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1847.68" speaker="spk6" endTime="1850.92">
+<Sync time="1847.68"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1848"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUXref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROU
+</Turn>
+<Turn startTime="1850.92" speaker="spk2" endTime="1851.11">
+<Sync time="1850.92"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1851.11" speaker="spk1" endTime="1860.5">
+<Sync time="1851.11"/>
+empty
+</Turn>
+<Turn startTime="1860.5" speaker="spk2" endTime="1860.52">
+<Sync time="1860.5"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO percol=UNK
+</Turn>
+<Turn startTime="1860.52" speaker="spk5" endTime="1863.72">
+<Sync time="1860.52"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO percol=Jean-Louis_BORLOO
+<Sync time="1860.96"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=Jean-Louis_BORLOO percol=Jean-Louis_BORLOO
+<Sync time="1863.58"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=Jean-Louis_BORLOO
+</Turn>
+<Turn startTime="1863.72" speaker="spk2" endTime="1864.07">
+<Sync time="1863.72"/>
+ref=UNK soda=Jean-Louis_BORLOO qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1864.07" speaker="spk1" endTime="1876.62">
+<Sync time="1864.07"/>
+empty
+</Turn>
+<Turn startTime="1876.62" speaker="spk2" endTime="1876.64">
+<Sync time="1876.62"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=UNK
+</Turn>
+<Turn startTime="1876.64" speaker="spk6" endTime="1887.56">
+<Sync time="1876.64"/>
+ref=UNK soda=UNK qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1877.04"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=Jean-Louis_BORLOO§§Bruno_LE_ROUX percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+<Sync time="1887.45"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=Jean-Louis_BORLOO§§Bruno_LE_ROUX
+</Turn>
+</Section>
+</Episode>
+</Trans>

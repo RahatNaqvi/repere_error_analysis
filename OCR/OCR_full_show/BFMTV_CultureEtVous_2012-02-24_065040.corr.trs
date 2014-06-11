@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="1" version_date="140603">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Youssou N DOUR" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Abdoulaziz DIOP" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Jennifer ANISTON" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk6" name="Scott SPIEGEL" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk7" name="Scott SIEGEL" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk8" name="Jorge MARROQUIN" type="unknown" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="387.09">
+<Turn startTime="0.0" speaker="spk1" endTime="15.16">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="15.16" speaker="spk2" endTime="15.25">
+<Sync time="15.16"/>
+ref=UNK soda=UNK qcompere=UNK percol=Youssou_N_DOUR
+</Turn>
+<Turn startTime="15.25" speaker="spk3" endTime="17.93">
+<Sync time="15.25"/>
+ref=UNK soda=UNK qcompere=Youssou_N'DOUR percol=Youssou_N_DOUR
+</Turn>
+<Turn startTime="17.93" speaker="spk2" endTime="18">
+<Sync time="17.93"/>
+ref=UNK soda=UNK qcompere=UNK percol=Youssou_N_DOUR
+</Turn>
+<Turn startTime="18" speaker="spk1" endTime="48.76">
+<Sync time="18"/>
+empty
+</Turn>
+<Turn startTime="48.76" speaker="spk2" endTime="48.85">
+<Sync time="48.76"/>
+ref=UNK soda=UNK qcompere=UNK percol=Abdoul-Aziz_DIOP
+</Turn>
+<Turn startTime="48.85" speaker="spk4" endTime="52.56">
+<Sync time="48.85"/>
+ref=UNK soda=UNK qcompere=Abdoulaziz_DIOP percol=Abdoul-Aziz_DIOP
+<Sync time="49.92"/>
+ref=UNK soda=Abdoulaziz_DIOP qcompere=Abdoulaziz_DIOP percol=Abdoul-Aziz_DIOP
+<Sync time="52.49"/>
+ref=UNK soda=Abdoulaziz_DIOP qcompere=UNK percol=Abdoul-Aziz_DIOP
+</Turn>
+<Turn startTime="52.56" speaker="spk2" endTime="53.03">
+<Sync time="52.56"/>
+ref=UNK soda=Abdoulaziz_DIOP qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="53.03" speaker="spk1" endTime="147.8">
+<Sync time="53.03"/>
+empty
+</Turn>
+<Turn startTime="147.8" speaker="spk2" endTime="147.85">
+<Sync time="147.8"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jennifer_ANISTON
+</Turn>
+<Turn startTime="147.85" speaker="spk5" endTime="158.19">
+<Sync time="147.85"/>
+ref=UNK soda=UNK qcompere=Jennifer_ANISTON percol=Jennifer_ANISTON
+<Sync time="148.8"/>
+ref=UNK soda=Jennifer_ANISTON qcompere=Jennifer_ANISTON percol=Jennifer_ANISTON
+<Sync time="156.28"/>
+ref=Jennifer_ANISTON soda=Jennifer_ANISTON qcompere=Jennifer_ANISTON percol=Jennifer_ANISTON
+<Sync time="156.78"/>
+ref=UNK soda=Jennifer_ANISTON qcompere=Jennifer_ANISTON percol=Jennifer_ANISTON
+<Sync time="158.13"/>
+ref=UNK soda=Jennifer_ANISTON qcompere=UNK percol=Jennifer_ANISTON
+</Turn>
+<Turn startTime="158.19" speaker="spk2" endTime="158.38">
+<Sync time="158.19"/>
+ref=UNK soda=Jennifer_ANISTON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="158.38" speaker="spk1" endTime="245.24">
+<Sync time="158.38"/>
+empty
+</Turn>
+<Turn startTime="245.24" speaker="spk2" endTime="245.29">
+<Sync time="245.24"/>
+ref=UNK soda=UNK qcompere=UNK percol=Scott_SPIEGEL
+</Turn>
+<Turn startTime="245.29" speaker="spk7" endTime="246.24">
+<Sync time="245.29"/>
+ref=UNK soda=UNK qcompere=Scott_SIEGEL percol=Scott_SPIEGEL
+</Turn>
+<Turn startTime="246.24" speaker="spk7" endTime="253.88">
+<Sync time="246.24"/>
+ref=UNK soda=Scott_SIEGEL qcompere=Scott_SIEGEL percol=Scott_SPIEGEL
+<Sync time="246.84"/>
+ref=Scott_SIEGEL soda=Scott_SIEGEL qcompere=Scott_SIEGEL percol=Scott_SPIEGEL
+<Sync time="247.34"/>
+ref=UNK soda=Scott_SIEGEL qcompere=Scott_SIEGEL percol=Scott_SPIEGEL
+<Sync time="250.56"/>
+ref=Scott_SIEGEL soda=Scott_SIEGEL qcompere=Scott_SIEGEL percol=Scott_SPIEGEL
+<Sync time="251.06"/>
+ref=UNK soda=Scott_SIEGEL qcompere=Scott_SIEGEL percol=Scott_SPIEGEL
+</Turn>
+<Turn startTime="253.88" speaker="spk7" endTime="253.91">
+<Sync time="253.88"/>
+ref=UNK soda=Scott_SIEGEL qcompere=UNK percol=Scott_SPIEGEL
+</Turn>
+<Turn startTime="253.91" speaker="spk2" endTime="253.95">
+<Sync time="253.91"/>
+ref=UNK soda=UNK qcompere=UNK percol=Scott_SPIEGEL
+</Turn>
+<Turn startTime="253.95" speaker="spk1" endTime="273.44">
+<Sync time="253.95"/>
+empty
+</Turn>
+<Turn startTime="273.44" speaker="spk2" endTime="273.49">
+<Sync time="273.44"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jorge_MARROQUIN
+</Turn>
+<Turn startTime="273.49" speaker="spk8" endTime="282.36">
+<Sync time="273.49"/>
+ref=UNK soda=UNK qcompere=Jorge_MARROQUIN percol=Jorge_MARROQUIN
+<Sync time="274.56"/>
+ref=UNK soda=Jorge_MARRODUIN qcompere=Jorge_MARROQUIN percol=Jorge_MARROQUIN
+<Sync time="275"/>
+ref=Jorge_MARROQUIN soda=Jorge_MARRODUIN qcompere=Jorge_MARROQUIN percol=Jorge_MARROQUIN
+<Sync time="275.5"/>
+ref=UNK soda=Jorge_MARRODUIN qcompere=Jorge_MARROQUIN percol=Jorge_MARROQUIN
+<Sync time="279.28"/>
+ref=Jorge_MARROQUIN soda=Jorge_MARRODUIN qcompere=Jorge_MARROQUIN percol=Jorge_MARROQUIN
+<Sync time="279.78"/>
+ref=UNK soda=Jorge_MARRODUIN qcompere=Jorge_MARROQUIN percol=Jorge_MARROQUIN
+</Turn>
+<Turn startTime="282.36" speaker="spk2" endTime="282.72">
+<Sync time="282.36"/>
+ref=UNK soda=Jorge_MARRODUIN qcompere=UNK percol=Jorge_MARROQUIN
+<Sync time="282.48"/>
+ref=UNK soda=Jorge_MARRODUIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="282.72" speaker="spk1" endTime="383.76">
+<Sync time="282.72"/>
+empty
+</Turn>
+<Turn startTime="383.76" speaker="spk2" endTime="387.09">
+<Sync time="383.76"/>
+ref=UNK soda=Jean-Pierre_RAFFARIN qcompere=UNK percol=UNK
+</Turn>
+</Section>
+</Episode>
+</Trans>

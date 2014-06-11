@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="1" version_date="140611">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Jean-Pierre GRATIEN" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Catherine VAUTRIN" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Karine BERGER" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk6" name="Karine BERGER§§Catherine VAUTRIN" type="unknown" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="1859.72">
+<Turn startTime="0.0" speaker="spk1" endTime="25.92">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="25.92" speaker="spk2" endTime="26.2">
+<Sync time="25.92"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="26.2" speaker="spk3" endTime="29.14">
+<Sync time="26.2"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=UNK percol=Jean-Pierre_GRATIEN
+<Sync time="26.27"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=Jean-Pierre_GRATIEN percol=Jean-Pierre_GRATIEN
+<Sync time="28.79"/>
+ref=UNK soda=UNK qcompere=Jean-Pierre_GRATIEN percol=Jean-Pierre_GRATIEN
+</Turn>
+<Turn startTime="29.14" speaker="spk2" endTime="29.2">
+<Sync time="29.14"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jean-Pierre_GRATIEN
+</Turn>
+<Turn startTime="29.2" speaker="spk1" endTime="118.32">
+<Sync time="29.2"/>
+empty
+</Turn>
+<Turn startTime="118.32" speaker="spk2" endTime="118.68">
+<Sync time="118.32"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="118.68" speaker="spk4" endTime="123.51">
+<Sync time="118.68"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="118.75"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="123.12"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="123.51" speaker="spk2" endTime="123.55">
+<Sync time="123.51"/>
+ref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="123.55" speaker="spk1" endTime="171.36">
+<Sync time="123.55"/>
+empty
+</Turn>
+<Turn startTime="171.36" speaker="spk2" endTime="171.88">
+<Sync time="171.36"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="171.88" speaker="spk4" endTime="176.07">
+<Sync time="171.88"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="171.95"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="175.67"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="176.07" speaker="spk2" endTime="176.12">
+<Sync time="176.07"/>
+ref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="176.12" speaker="spk1" endTime="227.04">
+<Sync time="176.12"/>
+empty
+</Turn>
+<Turn startTime="227.04" speaker="spk2" endTime="227.4">
+<Sync time="227.04"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="227.4" speaker="spk5" endTime="233.58">
+<Sync time="227.4"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="227.48"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="233.04"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="233.58" speaker="spk2" endTime="233.63">
+<Sync time="233.58"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+</Turn>
+<Turn startTime="233.63" speaker="spk1" endTime="270">
+<Sync time="233.63"/>
+empty
+</Turn>
+<Turn startTime="270" speaker="spk2" endTime="270.27">
+<Sync time="270"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="270.24"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="270.27" endTime="270.35">
+<Sync time="270.27"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="270.35" speaker="spk6" endTime="272.42">
+<Sync time="270.35"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="271.92"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="272.16"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="272.42" speaker="spk2" endTime="272.47">
+<Sync time="272.42"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="272.47" speaker="spk1" endTime="281.04">
+<Sync time="272.47"/>
+empty
+</Turn>
+<Turn startTime="281.04" speaker="spk2" endTime="281.36">
+<Sync time="281.04"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="281.36" speaker="spk5" endTime="285.26">
+<Sync time="281.36"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="281.43"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="284.62"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="285.26" speaker="spk2" endTime="286.95">
+<Sync time="285.26"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+<Sync time="285.31"/>
+
+<Sync time="286.8"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="286.95" speaker="spk6" endTime="294.31">
+<Sync time="286.95"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="287.02"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="293.75"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="294.31" speaker="spk1" endTime="349.44">
+<Sync time="294.31"/>
+empty
+</Turn>
+<Turn startTime="349.44" speaker="spk2" endTime="349.8">
+<Sync time="349.44"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="349.8" speaker="spk4" endTime="355.91">
+<Sync time="349.8"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="349.87"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="355.68"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="355.91" speaker="spk2" endTime="359.4">
+<Sync time="355.91"/>
+ref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="355.95"/>
+
+<Sync time="358.8"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="359.04"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="359.4" endTime="359.47">
+<Sync time="359.4"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="359.47" speaker="spk6" endTime="374.76">
+<Sync time="359.47"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="374.39"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="374.76" speaker="spk1" endTime="406.8">
+<Sync time="374.76"/>
+empty
+</Turn>
+<Turn startTime="406.8" speaker="spk2" endTime="407.2">
+<Sync time="406.8"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="407.2" endTime="407.27">
+<Sync time="407.2"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="407.27" speaker="spk6" endTime="412.12">
+<Sync time="407.27"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="411.36"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="411.83"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="412.12" speaker="spk1" endTime="426.72">
+<Sync time="412.12"/>
+empty
+</Turn>
+<Turn startTime="426.72" speaker="spk2" endTime="427.04">
+<Sync time="426.72"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="427.04" speaker="spk4" endTime="432.58">
+<Sync time="427.04"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="427.11"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="432.23"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="432.58" speaker="spk2" endTime="432.63">
+<Sync time="432.58"/>
+ref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="432.63" speaker="spk1" endTime="454.32">
+<Sync time="432.63"/>
+empty
+</Turn>
+<Turn startTime="454.32" speaker="spk2" endTime="454.92">
+<Sync time="454.32"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="454.56"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="454.92" endTime="454.99">
+<Sync time="454.92"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="454.99" speaker="spk6" endTime="458.75">
+<Sync time="454.99"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="458.39"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="458.75" speaker="spk1" endTime="470.4">
+<Sync time="458.75"/>
+empty
+</Turn>
+<Turn startTime="470.4" speaker="spk2" endTime="470.8">
+<Sync time="470.4"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="470.8" endTime="470.87">
+<Sync time="470.8"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="470.87" speaker="spk6" endTime="477.19">
+<Sync time="470.87"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="476.88"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="477.19" speaker="spk1" endTime="481.44">
+<Sync time="477.19"/>
+empty
+</Turn>
+<Turn startTime="481.44" speaker="spk2" endTime="481.92">
+<Sync time="481.44"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="481.92" speaker="spk4" endTime="488.86">
+<Sync time="481.92"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="481.99"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="488.63"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="488.86" speaker="spk2" endTime="488.92">
+<Sync time="488.86"/>
+ref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="488.92" speaker="spk1" endTime="513.6">
+<Sync time="488.92"/>
+empty
+</Turn>
+<Turn startTime="513.6" speaker="spk2" endTime="513.84">
+<Sync time="513.6"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="513.84" speaker="spk5" endTime="520.78">
+<Sync time="513.84"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="513.91"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="520.32"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="520.78" speaker="spk2" endTime="522.67">
+<Sync time="520.78"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+<Sync time="520.84"/>
+
+<Sync time="522.48"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="522.67" speaker="spk6" endTime="536.11">
+<Sync time="522.67"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="522.75"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="535.44"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="536.11" speaker="spk1" endTime="542.16">
+<Sync time="536.11"/>
+empty
+</Turn>
+<Turn startTime="542.16" speaker="spk2" endTime="542.36">
+<Sync time="542.16"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="542.36" speaker="spk6" endTime="548.99">
+<Sync time="542.36"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="542.42"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="548.4"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="548.99" speaker="spk1" endTime="569.04">
+<Sync time="548.99"/>
+empty
+</Turn>
+<Turn startTime="569.04" speaker="spk2" endTime="569.36">
+<Sync time="569.04"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="569.36" speaker="spk5" endTime="574.46">
+<Sync time="569.36"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="569.42"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="573.84"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="574.46" speaker="spk2" endTime="574.51">
+<Sync time="574.46"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+</Turn>
+<Turn startTime="574.51" speaker="spk1" endTime="583.91">
+<Sync time="574.51"/>
+empty
+</Turn>
+<Turn startTime="583.91" speaker="spk2" endTime="584.12">
+<Sync time="583.91"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="584.12" endTime="584.19">
+<Sync time="584.12"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="584.19" speaker="spk6" endTime="597.74">
+<Sync time="584.19"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="597.35"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="597.59"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="597.74" speaker="spk2" endTime="597.79">
+<Sync time="597.74"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="597.79" speaker="spk1" endTime="607.2">
+<Sync time="597.79"/>
+empty
+</Turn>
+<Turn startTime="607.2" speaker="spk2" endTime="607.55">
+<Sync time="607.2"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="607.55" speaker="spk4" endTime="613.19">
+<Sync time="607.55"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="607.63"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="612.95"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="613.19" speaker="spk2" endTime="613.23">
+<Sync time="613.19"/>
+ref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="613.23" speaker="spk1" endTime="631.91">
+<Sync time="613.23"/>
+empty
+</Turn>
+<Turn startTime="631.91" speaker="spk2" endTime="632.4">
+<Sync time="631.91"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="632.4" speaker="spk6" endTime="640.83">
+<Sync time="632.4"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="632.47"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="640.54"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="640.83" speaker="spk2" endTime="640.88">
+<Sync time="640.83"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="640.88" speaker="spk1" endTime="665.04">
+<Sync time="640.88"/>
+empty
+</Turn>
+<Turn startTime="665.04" speaker="spk2" endTime="665.32">
+<Sync time="665.04"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="665.32" speaker="spk5" endTime="671.42">
+<Sync time="665.32"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="665.39"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="667.54"/>
+ref=Karine_BERGER soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="668.04"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="671.04"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="671.42" speaker="spk2" endTime="671.47">
+<Sync time="671.42"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+</Turn>
+<Turn startTime="671.47" speaker="spk1" endTime="702.24">
+<Sync time="671.47"/>
+empty
+</Turn>
+<Turn startTime="702.24" speaker="spk2" endTime="702.48">
+<Sync time="702.24"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="702.48" speaker="spk6" endTime="712.6">
+<Sync time="702.48"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="702.55"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="712.08"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="712.6" speaker="spk1" endTime="726.24">
+<Sync time="712.6"/>
+empty
+</Turn>
+<Turn startTime="726.24" speaker="spk2" endTime="726.48">
+<Sync time="726.24"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="726.48" endTime="726.55">
+<Sync time="726.48"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="726.55" speaker="spk6" endTime="731.72">
+<Sync time="726.55"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="730.79"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="731.27"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="731.72" speaker="spk1" endTime="768.48">
+<Sync time="731.72"/>
+empty
+</Turn>
+<Turn startTime="768.48" speaker="spk2" endTime="768.68">
+<Sync time="768.48"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="768.68" speaker="spk5" endTime="774.99">
+<Sync time="768.68"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="768.75"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="774.48"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="774.99" speaker="spk2" endTime="775.04">
+<Sync time="774.99"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+</Turn>
+<Turn startTime="775.04" speaker="spk1" endTime="785.76">
+<Sync time="775.04"/>
+empty
+</Turn>
+<Turn startTime="785.76" speaker="spk2" endTime="785.88">
+<Sync time="785.76"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="785.88" speaker="spk6" endTime="796.51">
+<Sync time="785.88"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="785.95"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="796.08"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="796.51" speaker="spk1" endTime="801.12">
+<Sync time="796.51"/>
+empty
+</Turn>
+<Turn startTime="801.12" speaker="spk2" endTime="801.44">
+<Sync time="801.12"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="801.44" speaker="spk4" endTime="806.83">
+<Sync time="801.44"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="801.51"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="806.39"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="806.83" speaker="spk2" endTime="806.87">
+<Sync time="806.83"/>
+ref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="806.87" speaker="spk1" endTime="853.44">
+<Sync time="806.87"/>
+empty
+</Turn>
+<Turn startTime="853.44" speaker="spk2" endTime="853.76">
+<Sync time="853.44"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="853.76" endTime="853.83">
+<Sync time="853.76"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="853.83" speaker="spk6" endTime="860.08">
+<Sync time="853.83"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="859.44"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="859.67"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="860.08" speaker="spk1" endTime="875.76">
+<Sync time="860.08"/>
+empty
+</Turn>
+<Turn startTime="875.76" speaker="spk2" endTime="876.12">
+<Sync time="875.76"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="876.12" speaker="spk4" endTime="881.39">
+<Sync time="876.12"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="876.19"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="881.03"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRI
+</Turn>
+<Turn startTime="881.39" speaker="spk1" endTime="904.56">
+<Sync time="881.39"/>
+empty
+</Turn>
+<Turn startTime="904.56" speaker="spk2" endTime="905">
+<Sync time="904.56"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="905" endTime="905.07">
+<Sync time="905"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="905.07" speaker="spk6" endTime="924.72">
+<Sync time="905.07"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="924.24"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="924.48"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="924.72" speaker="spk1" endTime="937.92">
+<Sync time="924.72"/>
+empty
+</Turn>
+<Turn startTime="937.92" speaker="spk2" endTime="938.32">
+<Sync time="937.92"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="938.32" speaker="spk5" endTime="946.14">
+<Sync time="938.32"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="938.39"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="945.6"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="946.14" speaker="spk2" endTime="946.19">
+<Sync time="946.14"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+</Turn>
+<Turn startTime="946.19" speaker="spk1" endTime="956.4">
+<Sync time="946.19"/>
+empty
+</Turn>
+<Turn startTime="956.4" speaker="spk2" endTime="956.64">
+<Sync time="956.4"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="956.64" speaker="spk6" endTime="966.42">
+<Sync time="956.64"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="956.71"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="966"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="966.42" speaker="spk2" endTime="966.48">
+<Sync time="966.42"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="966.48" speaker="spk1" endTime="999.84">
+<Sync time="966.48"/>
+empty
+</Turn>
+<Turn startTime="999.84" speaker="spk2" endTime="999.92">
+<Sync time="999.84"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="999.92" speaker="spk6" endTime="1011.66">
+<Sync time="999.92"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="999.99"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1011.11"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1011.66" speaker="spk2" endTime="1011.72">
+<Sync time="1011.66"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1011.72" speaker="spk1" endTime="1020">
+<Sync time="1011.72"/>
+empty
+</Turn>
+<Turn startTime="1020" speaker="spk2" endTime="1020.16">
+<Sync time="1020"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1020.16" speaker="spk5" endTime="1020.23">
+<Sync time="1020.16"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1020.23" speaker="spk6" endTime="1031.35">
+<Sync time="1020.23"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1030.79"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1031.03"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="1031.35" speaker="spk1" endTime="1039.2">
+<Sync time="1031.35"/>
+empty
+</Turn>
+<Turn startTime="1039.2" speaker="spk2" endTime="1039.56">
+<Sync time="1039.2"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1039.56" speaker="spk5" endTime="1045.7">
+<Sync time="1039.56"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="1039.63"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="1045.2"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="1045.7" speaker="spk2" endTime="1045.76">
+<Sync time="1045.7"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+</Turn>
+<Turn startTime="1045.76" speaker="spk1" endTime="1057.44">
+<Sync time="1045.76"/>
+empty
+</Turn>
+<Turn startTime="1057.44" speaker="spk2" endTime="1057.76">
+<Sync time="1057.44"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1057.76" speaker="spk6" endTime="1063.51">
+<Sync time="1057.76"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1057.83"/>
+ref=UNK soda=Karine_BERGER§§Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1062.95"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="1063.51" speaker="spk1" endTime="1102.56">
+<Sync time="1063.51"/>
+empty
+</Turn>
+<Turn startTime="1102.56" speaker="spk2" endTime="1103.08">
+<Sync time="1102.56"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1103.08" speaker="spk4" endTime="1108.35">
+<Sync time="1103.08"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="1103.15"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="1108.07"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRI
+</Turn>
+<Turn startTime="1108.35" speaker="spk1" endTime="1136.16">
+<Sync time="1108.35"/>
+empty
+</Turn>
+<Turn startTime="1136.16" speaker="spk2" endTime="1136.64">
+<Sync time="1136.16"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="1136.4"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1136.64" endTime="1136.71">
+<Sync time="1136.64"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1136.71" speaker="spk6" endTime="1147.51">
+<Sync time="1136.71"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1146.94"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1147.18"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="1147.51" speaker="spk1" endTime="1167.34">
+<Sync time="1147.51"/>
+empty
+</Turn>
+<Turn startTime="1167.34" speaker="spk2" endTime="1167.58">
+<Sync time="1167.34"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="1167.52"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1167.58" speaker="spk6" endTime="1181.64">
+<Sync time="1167.58"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1181.26"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="1181.64" speaker="spk1" endTime="1196.64">
+<Sync time="1181.64"/>
+empty
+</Turn>
+<Turn startTime="1196.64" speaker="spk2" endTime="1197.16">
+<Sync time="1196.64"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="1196.88"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1197.16" endTime="1197.23">
+<Sync time="1197.16"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1197.23" speaker="spk6" endTime="1204.64">
+<Sync time="1197.23"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1204.06"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1204.3"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="1204.64" speaker="spk1" endTime="1221.1">
+<Sync time="1204.64"/>
+empty
+</Turn>
+<Turn startTime="1221.1" speaker="spk2" endTime="1221.59">
+<Sync time="1221.1"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1221.59" speaker="spk4" endTime="1226.98">
+<Sync time="1221.59"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="1221.67"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="1226.62"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1226.98" speaker="spk2" endTime="1229.56">
+<Sync time="1226.98"/>
+ref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="1227.03"/>
+
+<Sync time="1229.04"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="1229.28"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1229.56" endTime="1229.63">
+<Sync time="1229.56"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1229.63" speaker="spk6" endTime="1241.76">
+<Sync time="1229.63"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1241.03"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1241.28"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="1241.76" speaker="spk1" endTime="1247.76">
+<Sync time="1241.76"/>
+empty
+</Turn>
+<Turn startTime="1247.76" speaker="spk2" endTime="1248.11">
+<Sync time="1247.76"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1248.11" speaker="spk5" endTime="1254.5">
+<Sync time="1248.11"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="1248.19"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="1254"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="1254.5" speaker="spk2" endTime="1256.58">
+<Sync time="1254.5"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+<Sync time="1254.55"/>
+
+<Sync time="1256.4"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="1256.52"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1256.58" speaker="spk6" endTime="1280.72">
+<Sync time="1256.58"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1256.64"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1280.15"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="1280.72" speaker="spk1" endTime="1289.52">
+<Sync time="1280.72"/>
+empty
+</Turn>
+<Turn startTime="1289.52" speaker="spk2" endTime="1289.76">
+<Sync time="1289.52"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="1289.72"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1289.76" endTime="1289.79">
+<Sync time="1289.76"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1289.79" speaker="spk6" endTime="1305.79">
+<Sync time="1289.79"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1305.34"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1305.79" speaker="spk2" endTime="1305.83">
+<Sync time="1305.79"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1305.83" speaker="spk1" endTime="1329.84">
+<Sync time="1305.83"/>
+empty
+</Turn>
+<Turn startTime="1329.84" speaker="spk2" endTime="1330.08">
+<Sync time="1329.84"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1330.08" endTime="1330.15">
+<Sync time="1330.08"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1330.15" speaker="spk6" endTime="1348.94">
+<Sync time="1330.15"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1348.56"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1348.8"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1348.94" speaker="spk2" endTime="1350.76">
+<Sync time="1348.94"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1349"/>
+
+<Sync time="1350.24"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1350.76" speaker="spk4" endTime="1355.86">
+<Sync time="1350.76"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=Catherine_VAUTRIN
+<Sync time="1350.83"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="1355.51"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1355.86" speaker="spk2" endTime="1355.92">
+<Sync time="1355.86"/>
+ref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1355.92" speaker="spk1" endTime="1371.84">
+<Sync time="1355.92"/>
+empty
+</Turn>
+<Turn startTime="1371.84" speaker="spk2" endTime="1372.44">
+<Sync time="1371.84"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="1372.08"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1372.44" endTime="1372.51">
+<Sync time="1372.44"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1372.51" speaker="spk6" endTime="1377.58">
+<Sync time="1372.51"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1377.11"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1377.35"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1377.58" speaker="spk2" endTime="1377.64">
+<Sync time="1377.58"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1377.64" speaker="spk1" endTime="1414.56">
+<Sync time="1377.64"/>
+empty
+</Turn>
+<Turn startTime="1414.56" speaker="spk2" endTime="1414.88">
+<Sync time="1414.56"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1414.88" speaker="spk5" endTime="1419.54">
+<Sync time="1414.88"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="1414.95"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="1419.11"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="1419.54" speaker="spk2" endTime="1419.59">
+<Sync time="1419.54"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+</Turn>
+<Turn startTime="1419.59" speaker="spk1" endTime="1496.88">
+<Sync time="1419.59"/>
+empty
+</Turn>
+<Turn startTime="1496.88" speaker="spk2" endTime="1497.19">
+<Sync time="1496.88"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1497.19" speaker="spk4" endTime="1499.19">
+<Sync time="1497.19"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=UNK
+<Sync time="1497.2"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+<Sync time="1498.79"/>
+ref=UNK soda=UNK qcompere=Catherine_VAUTRIN percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1499.19" speaker="spk2" endTime="1499.23">
+<Sync time="1499.19"/>
+ref=UNK soda=UNK qcompere=UNK percol=Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1499.23" speaker="spk1" endTime="1525.2">
+<Sync time="1499.23"/>
+empty
+</Turn>
+<Turn startTime="1525.2" speaker="spk2" endTime="1525.48">
+<Sync time="1525.2"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1525.48" speaker="spk5" endTime="1529.79">
+<Sync time="1525.48"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER
+<Sync time="1525.55"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER percol=Karine_BERGER
+<Sync time="1529.27"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER percol=Karine_BERGER
+</Turn>
+<Turn startTime="1529.79" speaker="spk2" endTime="1532.68">
+<Sync time="1529.79"/>
+ref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER
+<Sync time="1529.83"/>
+
+<Sync time="1532.4"/>
+ref=UNK soda=Catherine_VAUTRIN qcompere=UNK percol=UNK
+<Sync time="1532.64"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1532.68" endTime="1532.75">
+<Sync time="1532.68"/>
+ref=UNK soda=Karine_BERGER qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRIN
+</Turn>
+<Turn startTime="1532.75" speaker="spk6" endTime="1540.79">
+<Sync time="1532.75"/>
+ref=UNK soda=Karine_BERGER qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRIN
+<Sync time="1540.31"/>
+ref=UNK soda=UNK qcompere=Karine_BERGER§§Catherine_VAUTRIN percol=Karine_BERGER§§Catherine_VAUTRINref=UNK soda=UNK qcompere=UNK percol=Karine_BERGER§§Catherine_VAUTRI
+</Turn>
+<Turn startTime="1540.79" speaker="spk1" endTime="1856.88">
+<Sync time="1540.79"/>
+empty
+</Turn>
+<Turn startTime="1856.88" speaker="spk2" endTime="1859.72">
+<Sync time="1856.88"/>
+ref=UNK soda=Gaspard_PROUST qcompere=UNK percol=UNK
+</Turn>
+</Section>
+</Episode>
+</Trans>

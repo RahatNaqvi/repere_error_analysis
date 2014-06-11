@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="1" version_date="140605">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Brigitte BOUCHER" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Francois BAYROU" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Jacques CHEMINADE" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk6" name="Nicolas SARKOZY" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk7" name="Nathalie ARTHAUD" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk8" name="Jean-Luc MELENCHON" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk9" name="Jean-Baptiste PREDALI" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk10" name="Eva JOLY" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk11" name="Anne LAUVERGEON" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk12" name="Celine BRACQ" type="unknown" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="962.85">
+<Turn startTime="0.0" speaker="spk1" endTime="161.44">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="161.44" speaker="spk2" endTime="161.45">
+<Sync time="161.44"/>
+ref=UNK soda=UNK qcompere=UNK percol=Brigitte_BOUCHER
+</Turn>
+<Turn startTime="161.45" speaker="spk3" endTime="165.28">
+<Sync time="161.45"/>
+ref=UNK soda=UNK qcompere=Brigitte_BOUCHER percol=Brigitte_BOUCHER
+<Sync time="162"/>
+ref=UNK soda=Brigitte_BOUCHER qcompere=Brigitte_BOUCHER percol=Brigitte_BOUCHER
+<Sync time="162.04"/>
+ref=Brigitte_BOUCHER soda=Brigitte_BOUCHER qcompere=Brigitte_BOUCHER percol=Brigitte_BOUCHER
+<Sync time="162.54"/>
+ref=UNK soda=Brigitte_BOUCHER qcompere=Brigitte_BOUCHER percol=Brigitte_BOUCHER
+<Sync time="165.16"/>
+ref=UNK soda=Brigitte_BOUCHER qcompere=UNK percol=Brigitte_BOUCHER
+</Turn>
+<Turn startTime="165.28" speaker="spk2" endTime="165.59">
+<Sync time="165.28"/>
+ref=UNK soda=Brigitte_BOUCHER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="165.59" speaker="spk1" endTime="242.84">
+<Sync time="165.59"/>
+empty
+</Turn>
+<Turn startTime="242.84" speaker="spk2" endTime="242.85">
+<Sync time="242.84"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_BAYROU
+</Turn>
+<Turn startTime="242.85" speaker="spk4" endTime="246.8">
+<Sync time="242.85"/>
+ref=UNK soda=UNK qcompere=Francois_BAYROU percol=Francois_BAYROU
+<Sync time="243.36"/>
+ref=UNK soda=Francois_BAYROU qcompere=Francois_BAYROU percol=Francois_BAYROU
+<Sync time="246.69"/>
+ref=UNK soda=Francois_BAYROU qcompere=UNK percol=Francois_BAYROU
+</Turn>
+<Turn startTime="246.8" speaker="spk2" endTime="247.19">
+<Sync time="246.8"/>
+ref=UNK soda=Francois_BAYROU qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="247.19" speaker="spk1" endTime="279.88">
+<Sync time="247.19"/>
+empty
+</Turn>
+<Turn startTime="279.88" speaker="spk2" endTime="279.93">
+<Sync time="279.88"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jacques_CHEMINADE
+</Turn>
+<Turn startTime="279.93" speaker="spk5" endTime="285.19">
+<Sync time="279.93"/>
+ref=UNK soda=UNK qcompere=Jacques_CHEMINADE percol=Jacques_CHEMINADE
+<Sync time="280.32"/>
+ref=UNK soda=Jacques_CHEMINADE qcompere=Jacques_CHEMINADE percol=Jacques_CHEMINADE
+<Sync time="280.48"/>
+ref=Jacques_CHEMINADE soda=Jacques_CHEMINADE qcompere=Jacques_CHEMINADE percol=Jacques_CHEMINADE
+<Sync time="280.98"/>
+ref=UNK soda=Jacques_CHEMINADE qcompere=Jacques_CHEMINADE percol=Jacques_CHEMINADE
+<Sync time="281.96"/>
+ref=Jacques_CHEMINADE soda=Jacques_CHEMINADE qcompere=Jacques_CHEMINADE percol=Jacques_CHEMINADE
+<Sync time="282.46"/>
+ref=UNK soda=Jacques_CHEMINADE qcompere=Jacques_CHEMINADE percol=Jacques_CHEMINADE
+<Sync time="285.09"/>
+ref=UNK soda=Jacques_CHEMINADE qcompere=UNK percol=Jacques_CHEMINADE
+</Turn>
+<Turn startTime="285.19" speaker="spk2" endTime="285.36">
+<Sync time="285.19"/>
+ref=UNK soda=Jacques_CHEMINADE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="285.36" speaker="spk1" endTime="295.24">
+<Sync time="285.36"/>
+empty
+</Turn>
+<Turn startTime="295.24" speaker="spk2" endTime="295.25">
+<Sync time="295.24"/>
+ref=UNK soda=UNK qcompere=UNK percol=Nicolas_SARKOZY
+</Turn>
+<Turn startTime="295.25" speaker="spk6" endTime="302.16">
+<Sync time="295.25"/>
+ref=UNK soda=UNK qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="295.36"/>
+ref=Nicolas_SARKOZY soda=UNK qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="295.86"/>
+ref=UNK soda=UNK qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="295.92"/>
+ref=UNK soda=Nicolas_SARKOZY qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="298.08"/>
+ref=Nicolas_SARKOZY soda=Nicolas_SARKOZY qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="298.58"/>
+ref=UNK soda=Nicolas_SARKOZY qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="301.24"/>
+ref=Nicolas_SARKOZY soda=Nicolas_SARKOZY qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="301.74"/>
+ref=UNK soda=Nicolas_SARKOZY qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="302.05"/>
+ref=UNK soda=Nicolas_SARKOZY qcompere=UNK percol=Nicolas_SARKOZY
+</Turn>
+<Turn startTime="302.16" speaker="spk2" endTime="302.38">
+<Sync time="302.16"/>
+ref=UNK soda=Nicolas_SARKOZY qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="302.38" speaker="spk1" endTime="320.6">
+<Sync time="302.38"/>
+empty
+</Turn>
+<Turn startTime="320.6" speaker="spk2" endTime="321.12">
+<Sync time="320.6"/>
+ref=UNK soda=UNK qcompere=UNK percol=Nathalie_ARTHAUD
+</Turn>
+<Turn startTime="321.12" speaker="spk7" endTime="324.87">
+<Sync time="321.12"/>
+ref=UNK soda=Nathalie_ARTHAUD qcompere=UNK percol=Nathalie_ARTHAUD
+<Sync time="321.16"/>
+ref=Nathalie_ARTHAUD soda=Nathalie_ARTHAUD qcompere=UNK percol=Nathalie_ARTHAUD
+<Sync time="321.66"/>
+ref=UNK soda=Nathalie_ARTHAUD qcompere=UNK percol=Nathalie_ARTHAUD
+<Sync time="322.96"/>
+ref=Nathalie_ARTHAUD soda=Nathalie_ARTHAUD qcompere=UNK percol=Nathalie_ARTHAUD
+<Sync time="323.46"/>
+ref=UNK soda=Nathalie_ARTHAUD qcompere=UNK percol=Nathalie_ARTHAUD
+</Turn>
+<Turn startTime="324.87" speaker="spk2" endTime="325.19">
+<Sync time="324.87"/>
+ref=UNK soda=Nathalie_ARTHAUD qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="325.19" speaker="spk1" endTime="349.84">
+<Sync time="325.19"/>
+empty
+</Turn>
+<Turn startTime="349.84" speaker="spk2" endTime="349.86">
+<Sync time="349.84"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jean-Luc_MELENCHON
+</Turn>
+<Turn startTime="349.86" speaker="spk8" endTime="355.56">
+<Sync time="349.86"/>
+ref=UNK soda=UNK qcompere=Jean-Luc_MELENCHON percol=Jean-Luc_MELENCHON
+<Sync time="350.09"/>
+ref=Jean-Luc_MELENCHON soda=UNK qcompere=Jean-Luc_MELENCHON percol=Jean-Luc_MELENCHON
+<Sync time="350.16"/>
+ref=Jean-Luc_MELENCHON soda=Jean-Luc_MELENCHON qcompere=Jean-Luc_MELENCHON percol=Jean-Luc_MELENCHON
+<Sync time="350.59"/>
+ref=UNK soda=Jean-Luc_MELENCHON qcompere=Jean-Luc_MELENCHON percol=Jean-Luc_MELENCHON
+<Sync time="355.45"/>
+ref=UNK soda=Jean-Luc_MELENCHON qcompere=UNK percol=Jean-Luc_MELENCHON
+</Turn>
+<Turn startTime="355.56" speaker="spk2" endTime="355.91">
+<Sync time="355.56"/>
+ref=UNK soda=Jean-Luc_MELENCHON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="355.91" speaker="spk1" endTime="377.65">
+<Sync time="355.91"/>
+empty
+</Turn>
+<Turn startTime="377.65" speaker="spk9" endTime="383.47">
+<Sync time="377.65"/>
+ref=Jean-Baptiste_PREDALI soda=UNK qcompere=UNK percol=UNK
+<Sync time="377.72"/>
+ref=Jean-Baptiste_PREDALI soda=UNK qcompere=UNK percol=Jean-Baptiste_PREDALI
+<Sync time="377.74"/>
+ref=Jean-Baptiste_PREDALI soda=UNK qcompere=Jean-Baptiste_PREDALI percol=Jean-Baptiste_PREDALI
+<Sync time="378.15"/>
+ref=UNK soda=UNK qcompere=Jean-Baptiste_PREDALI percol=Jean-Baptiste_PREDALI
+<Sync time="378.24"/>
+ref=UNK soda=Jean-Baptiste_PREDALI qcompere=Jean-Baptiste_PREDALI percol=Jean-Baptiste_PREDALI
+<Sync time="383.37"/>
+ref=UNK soda=Jean-Baptiste_PREDALI qcompere=UNK percol=Jean-Baptiste_PREDALI
+</Turn>
+<Turn startTime="383.47" speaker="spk2" endTime="383.75">
+<Sync time="383.47"/>
+ref=UNK soda=Jean-Baptiste_PREDALI qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="383.75" speaker="spk1" endTime="431.76">
+<Sync time="383.75"/>
+empty
+</Turn>
+<Turn startTime="431.76" speaker="spk2" endTime="431.78">
+<Sync time="431.76"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jean-Baptiste_PREDALI
+</Turn>
+<Turn startTime="431.78" speaker="spk9" endTime="437.72">
+<Sync time="431.78"/>
+ref=UNK soda=UNK qcompere=Jean-Baptiste_PREDALI percol=Jean-Baptiste_PREDALI
+<Sync time="432.21"/>
+ref=Jean-Baptiste_PREDALI soda=UNK qcompere=Jean-Baptiste_PREDALI percol=Jean-Baptiste_PREDALI
+<Sync time="432.24"/>
+ref=Jean-Baptiste_PREDALI soda=Jean-Baptiste_PREDALI qcompere=Jean-Baptiste_PREDALI percol=Jean-Baptiste_PREDALI
+<Sync time="432.71"/>
+ref=UNK soda=Jean-Baptiste_PREDALI qcompere=Jean-Baptiste_PREDALI percol=Jean-Baptiste_PREDALI
+<Sync time="437.61"/>
+ref=UNK soda=Jean-Baptiste_PREDALI qcompere=UNK percol=Jean-Baptiste_PREDALI
+</Turn>
+<Turn startTime="437.72" speaker="spk2" endTime="437.99">
+<Sync time="437.72"/>
+ref=UNK soda=Jean-Baptiste_PREDALI qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="437.99" speaker="spk1" endTime="491.96">
+<Sync time="437.99"/>
+empty
+</Turn>
+<Turn startTime="491.96" speaker="spk2" endTime="491.98">
+<Sync time="491.96"/>
+ref=UNK soda=UNK qcompere=UNK percol=Eva_JOLY
+</Turn>
+<Turn startTime="491.98" speaker="spk10" endTime="497.2">
+<Sync time="491.98"/>
+ref=UNK soda=UNK qcompere=Eva_JOLY percol=Eva_JOLY
+<Sync time="492.13"/>
+ref=Eva_JOLY soda=UNK qcompere=Eva_JOLY percol=Eva_JOLY
+<Sync time="492.63"/>
+ref=UNK soda=UNK qcompere=Eva_JOLY percol=Eva_JOLY
+<Sync time="492.72"/>
+ref=UNK soda=Eva_JOLY qcompere=Eva_JOLY percol=Eva_JOLY
+<Sync time="497.1"/>
+ref=UNK soda=Eva_JOLY qcompere=UNK percol=Eva_JOLY
+</Turn>
+<Turn startTime="497.2" speaker="spk2" endTime="497.27">
+<Sync time="497.2"/>
+ref=UNK soda=Eva_JOLY qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="497.27" speaker="spk1" endTime="582.72">
+<Sync time="497.27"/>
+empty
+</Turn>
+<Turn startTime="582.72" speaker="spk2" endTime="583.2">
+<Sync time="582.72"/>
+ref=UNK soda=UNK qcompere=UNK percol=Anne_LAUVERGEON
+</Turn>
+<Turn startTime="583.2" speaker="spk11" endTime="587.79">
+<Sync time="583.2"/>
+ref=UNK soda=Anne_LAUVERGEON qcompere=UNK percol=Anne_LAUVERGEON
+<Sync time="583.53"/>
+ref=Anne_LAUVERGEON soda=Anne_LAUVERGEON qcompere=UNK percol=Anne_LAUVERGEON
+<Sync time="584.03"/>
+ref=UNK soda=Anne_LAUVERGEON qcompere=UNK percol=Anne_LAUVERGEON
+</Turn>
+<Turn startTime="587.79" speaker="spk2" endTime="588.22">
+<Sync time="587.79"/>
+ref=UNK soda=Anne_LAUVERGEON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="588.22" speaker="spk1" endTime="600.76">
+<Sync time="588.22"/>
+empty
+</Turn>
+<Turn startTime="600.76" speaker="spk2" endTime="600.78">
+<Sync time="600.76"/>
+ref=UNK soda=UNK qcompere=UNK percol=Nicolas_SARKOZY
+</Turn>
+<Turn startTime="600.78" speaker="spk6" endTime="604.88">
+<Sync time="600.78"/>
+ref=UNK soda=UNK qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="601.44"/>
+ref=UNK soda=Nicolas_SARKOZY qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="602.41"/>
+ref=Nicolas_SARKOZY soda=Nicolas_SARKOZY qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="602.91"/>
+ref=UNK soda=Nicolas_SARKOZY qcompere=Nicolas_SARKOZY percol=Nicolas_SARKOZY
+<Sync time="604.78"/>
+ref=UNK soda=Nicolas_SARKOZY qcompere=UNK percol=Nicolas_SARKOZY
+</Turn>
+<Turn startTime="604.88" speaker="spk2" endTime="605.26">
+<Sync time="604.88"/>
+ref=UNK soda=Nicolas_SARKOZY qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="605.26" speaker="spk1" endTime="633.79">
+<Sync time="605.26"/>
+empty
+</Turn>
+<Turn startTime="633.79" speaker="spk2" endTime="633.82">
+<Sync time="633.79"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jean-Luc_MELENCHON
+</Turn>
+<Turn startTime="633.82" speaker="spk8" endTime="639.83">
+<Sync time="633.82"/>
+ref=UNK soda=UNK qcompere=Jean-Luc_MELENCHON percol=Jean-Luc_MELENCHON
+<Sync time="634.17"/>
+ref=Jean-Luc_MELENCHON soda=UNK qcompere=Jean-Luc_MELENCHON percol=Jean-Luc_MELENCHON
+<Sync time="634.32"/>
+ref=Jean-Luc_MELENCHON soda=Jean-Luc_MELENCHON qcompere=Jean-Luc_MELENCHON percol=Jean-Luc_MELENCHON
+<Sync time="634.67"/>
+ref=UNK soda=Jean-Luc_MELENCHON qcompere=Jean-Luc_MELENCHON percol=Jean-Luc_MELENCHON
+<Sync time="639.74"/>
+ref=UNK soda=Jean-Luc_MELENCHON qcompere=UNK percol=Jean-Luc_MELENCHON
+</Turn>
+<Turn startTime="639.83" speaker="spk2" endTime="640.07">
+<Sync time="639.83"/>
+ref=UNK soda=Jean-Luc_MELENCHON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="640.07" speaker="spk1" endTime="702.36">
+<Sync time="640.07"/>
+empty
+</Turn>
+<Turn startTime="702.36" speaker="spk2" endTime="702.38">
+<Sync time="702.36"/>
+ref=UNK soda=UNK qcompere=UNK percol=Celine_BRACQ
+</Turn>
+<Turn startTime="702.38" speaker="spk12" endTime="708.03">
+<Sync time="702.38"/>
+ref=UNK soda=UNK qcompere=Celine_BRACQ percol=Celine_BRACQ
+<Sync time="702.72"/>
+ref=UNK soda=Celine_BRACQ qcompere=Celine_BRACQ percol=Celine_BRACQ
+<Sync time="702.97"/>
+ref=Celine_BRACQ soda=Celine_BRACQ qcompere=Celine_BRACQ percol=Celine_BRACQ
+<Sync time="703.47"/>
+ref=UNK soda=Celine_BRACQ qcompere=Celine_BRACQ percol=Celine_BRACQ
+<Sync time="707.94"/>
+ref=UNK soda=Celine_BRACQ qcompere=UNK percol=Celine_BRACQ
+</Turn>
+<Turn startTime="708.03" speaker="spk2" endTime="708.47">
+<Sync time="708.03"/>
+ref=UNK soda=Celine_BRACQ qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="708.47" speaker="spk1" endTime="781.77">
+<Sync time="708.47"/>
+empty
+</Turn>
+<Turn startTime="781.77" speaker="spk12" endTime="787.92">
+<Sync time="781.77"/>
+ref=Celine_BRACQ soda=UNK qcompere=UNK percol=UNK
+<Sync time="781.8"/>
+ref=Celine_BRACQ soda=UNK qcompere=UNK percol=Celine_BRACQ
+<Sync time="781.82"/>
+ref=Celine_BRACQ soda=UNK qcompere=Celine_BRACQ percol=Celine_BRACQ
+<Sync time="782.16"/>
+ref=Celine_BRACQ soda=Celine_BRACQ qcompere=Celine_BRACQ percol=Celine_BRACQ
+<Sync time="782.27"/>
+ref=UNK soda=Celine_BRACQ qcompere=Celine_BRACQ percol=Celine_BRACQ
+<Sync time="787.82"/>
+ref=UNK soda=Celine_BRACQ qcompere=UNK percol=Celine_BRACQ
+</Turn>
+<Turn startTime="787.92" speaker="spk2" endTime="788.16">
+<Sync time="787.92"/>
+ref=UNK soda=Celine_BRACQ qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="788.16" speaker="spk1" endTime="832.13">
+<Sync time="788.16"/>
+empty
+</Turn>
+<Turn startTime="832.13" speaker="spk12" endTime="836.44">
+<Sync time="832.13"/>
+ref=Celine_BRACQ soda=UNK qcompere=UNK percol=UNK
+<Sync time="832.28"/>
+ref=Celine_BRACQ soda=UNK qcompere=UNK percol=Celine_BRACQ
+<Sync time="832.3"/>
+ref=Celine_BRACQ soda=UNK qcompere=Celine_BRACQ percol=Celine_BRACQ
+<Sync time="832.63"/>
+ref=UNK soda=UNK qcompere=Celine_BRACQ percol=Celine_BRACQ
+<Sync time="832.8"/>
+ref=UNK soda=Celine_BRACQ qcompere=Celine_BRACQ percol=Celine_BRACQ
+<Sync time="836.34"/>
+ref=UNK soda=Celine_BRACQ qcompere=UNK percol=Celine_BRACQ
+</Turn>
+<Turn startTime="836.44" speaker="spk2" endTime="836.64">
+<Sync time="836.44"/>
+ref=UNK soda=Celine_BRACQ qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="836.64" speaker="spk1" endTime="958.27">
+<Sync time="836.64"/>
+empty
+</Turn>
+<Turn startTime="958.27" speaker="spk2" endTime="958.3">
+<Sync time="958.27"/>
+ref=UNK soda=UNK qcompere=Nicolas_SARKOZY percol=UNK
+</Turn>
+<Turn startTime="958.3" speaker="spk6" endTime="958.8">
+<Sync time="958.3"/>
+ref=Nicolas_SARKOZY soda=UNK qcompere=Nicolas_SARKOZY percol=UNK
+</Turn>
+<Turn startTime="958.8" speaker="spk2" endTime="959.04">
+<Sync time="958.8"/>
+ref=UNK soda=UNK qcompere=Nicolas_SARKOZY percol=UNK
+</Turn>
+<Turn startTime="959.04" speaker="spk6" endTime="962.85">
+<Sync time="959.04"/>
+ref=UNK soda=Nicolas_SARKOZY qcompere=Nicolas_SARKOZY percol=UNKref=UNK soda=Nicolas_SARKOZY qcompere=UNK percol=UN
+</Turn>
+</Section>
+</Episode>
+</Trans>

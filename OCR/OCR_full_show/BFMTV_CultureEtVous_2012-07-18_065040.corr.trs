@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="1" version_date="140603">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Katia RIZET" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Patrick TOUNIAN" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Stefano SOLLIMA" type="unknown" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="322.96">
+<Turn startTime="0.0" speaker="spk1" endTime="105.32">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="105.32" speaker="spk2" endTime="105.34">
+<Sync time="105.32"/>
+ref=UNK soda=UNK qcompere=UNK percol=Katia_RIZET
+</Turn>
+<Turn startTime="105.34" speaker="spk3" endTime="114.6">
+<Sync time="105.34"/>
+ref=UNK soda=UNK qcompere=Katia_RIZET percol=Katia_RIZET
+<Sync time="106.32"/>
+ref=UNK soda=Katia_RIZET qcompere=Katia_RIZET percol=Katia_RIZET
+<Sync time="114.49"/>
+ref=UNK soda=Katia_RIZET qcompere=UNK percol=Katia_RIZET
+</Turn>
+<Turn startTime="114.6" speaker="spk2" endTime="114.96">
+<Sync time="114.6"/>
+ref=UNK soda=Katia_RIZET qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="114.96" speaker="spk1" endTime="151.08">
+<Sync time="114.96"/>
+empty
+</Turn>
+<Turn startTime="151.08" speaker="spk2" endTime="151.14">
+<Sync time="151.08"/>
+ref=UNK soda=UNK qcompere=UNK percol=Patrick_TAUZIAC
+</Turn>
+<Turn speaker="spk4" startTime="151.14" endTime="152.16">
+<Sync time="151.14"/>
+ref=UNK soda=UNK qcompere=Patrick_TOUNIAN percol=Patrick_TAUZIAC
+</Turn>
+<Turn startTime="152.16" speaker="spk4" endTime="168.7">
+<Sync time="152.16"/>
+ref=UNK soda=Patrick_TOUNIAN qcompere=Patrick_TOUNIAN percol=Patrick_TAUZIAC
+</Turn>
+<Turn startTime="168.7" speaker="spk2" endTime="168.96">
+<Sync time="168.7"/>
+ref=UNK soda=Patrick_TOUNIAN qcompere=UNK percol=Patrick_TAUZIAC
+<Sync time="168.8"/>
+ref=UNK soda=Patrick_TOUNIAN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="168.96" speaker="spk1" endTime="237.82">
+<Sync time="168.96"/>
+empty
+</Turn>
+<Turn startTime="237.82" endTime="238.32">
+<Sync time="237.82"/>
+ERREUR -- ref=Stefano_SOLLIMA soda=UNK qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="238.32" endTime="239.12">
+<Sync time="238.32"/>
+
+</Turn>
+<Turn startTime="239.12" speaker="spk2" endTime="239.15">
+<Sync time="239.12"/>
+ref=UNK soda=UNK qcompere=UNK percol=Stefano_SOLLIMA
+</Turn>
+<Turn startTime="239.15" speaker="spk5" endTime="242.12">
+<Sync time="239.15"/>
+ref=UNK soda=UNK qcompere=Stefano_SOLLIMA percol=Stefano_SOLLIMA
+<Sync time="240.24"/>
+ref=UNK soda=Stefano_SOLLIMA qcompere=Stefano_SOLLIMA percol=Stefano_SOLLIMA
+<Sync time="241.99"/>
+ref=UNK soda=Stefano_SOLLIMA qcompere=UNK percol=Stefano_SOLLIMA
+</Turn>
+<Turn startTime="242.12" speaker="spk2" endTime="245.1">
+<Sync time="242.12"/>
+ref=UNK soda=Stefano_SOLLIMA qcompere=UNK percol=UNK
+<Sync time="242.39"/>
+
+<Sync time="244.67"/>
+ref=UNK soda=UNK qcompere=Stefano_SOLLIMA percol=UNK
+</Turn>
+<Turn startTime="245.1" speaker="spk5" endTime="247.23">
+<Sync time="245.1"/>
+ref=Stefano_SOLLIMA soda=UNK qcompere=Stefano_SOLLIMA percol=UNKef=UNK soda=UNK qcompere=Stefano_SOLLIMA percol=UNK
+</Turn>
+<Turn startTime="247.23" speaker="spk1" endTime="254.44">
+<Sync time="247.23"/>
+empty
+</Turn>
+<Turn startTime="254.44" speaker="spk2" endTime="254.47">
+<Sync time="254.44"/>
+ref=UNK soda=UNK qcompere=UNK percol=Stefano_SOLLIMA
+</Turn>
+<Turn startTime="254.47" speaker="spk5" endTime="264.24">
+<Sync time="254.47"/>
+ref=UNK soda=UNK qcompere=Stefano_SOLLIMA percol=Stefano_SOLLIMA
+<Sync time="254.78"/>
+ref=Stefano_SOLLIMA soda=UNK qcompere=Stefano_SOLLIMA percol=Stefano_SOLLIMA
+<Sync time="255.28"/>
+ref=UNK soda=UNK qcompere=Stefano_SOLLIMA percol=Stefano_SOLLIMA
+<Sync time="255.36"/>
+ref=UNK soda=Stefano_SOLLIMA qcompere=Stefano_SOLLIMA percol=Stefano_SOLLIMA
+<Sync time="264.15"/>
+ref=UNK soda=Stefano_SOLLIMA qcompere=UNK percol=Stefano_SOLLIMA
+</Turn>
+<Turn startTime="264.24" speaker="spk2" endTime="264.48">
+<Sync time="264.24"/>
+ref=UNK soda=Stefano_SOLLIMA qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="264.48" speaker="spk1" endTime="320.24">
+<Sync time="264.48"/>
+empty
+</Turn>
+<Turn startTime="320.24" speaker="spk2" endTime="322.96">
+<Sync time="320.24"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jacques_LECARDI_NAL
+</Turn>
+</Section>
+</Episode>
+</Trans>

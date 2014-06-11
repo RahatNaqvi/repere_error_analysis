@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="1" version_date="140605">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Dominique STRAUSS-KAHN" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Fabrice LUCCHINI" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Fabrice LUCHINI" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk6" name="Christophe PERSON" type="unknown" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="483.23">
+<Turn startTime="0.0" speaker="spk1" endTime="272.32">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="272.32" speaker="spk2" endTime="272.39">
+<Sync time="272.32"/>
+ref=UNK soda=UNK qcompere=UNK percol=Dominique_STRAUSS-KAHN
+</Turn>
+<Turn startTime="272.39" speaker="spk3" endTime="280.45">
+<Sync time="272.39"/>
+ref=UNK soda=Dominique_STRAUSS-KAHN qcompere=UNK percol=Dominique_STRAUSS-KAHN
+<Sync time="272.41"/>
+ref=UNK soda=Dominique_STRAUSS-KAHN qcompere=Dominique_STRAUSS-KAHN percol=Dominique_STRAUSS-KAHN
+<Sync time="279.82"/>
+ref=UNK soda=UNK qcompere=Dominique_STRAUSS-KAHN percol=Dominique_STRAUSS-KAHN
+</Turn>
+<Turn startTime="280.45" speaker="spk2" endTime="280.51">
+<Sync time="280.45"/>
+ref=UNK soda=UNK qcompere=UNK percol=Dominique_STRAUSS-KAHN
+</Turn>
+<Turn startTime="280.51" speaker="spk1" endTime="413.76">
+<Sync time="280.51"/>
+empty
+</Turn>
+<Turn startTime="413.76" speaker="spk2" endTime="413.96">
+<Sync time="413.76"/>
+ref=UNK soda=Fabrice_LUCCHINI qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="413.96" speaker="spk4" endTime="418.4">
+<Sync time="413.96"/>
+ref=UNK soda=Fabrice_LUCCHINI qcompere=UNK percol=Fabrice_LUCCHINI
+<Sync time="414.05"/>
+ref=UNK soda=Fabrice_LUCHINI qcompere=Fabrice_LUCCHINI percol=Fabrice_LUCCHINI
+<Sync time="417.6"/>
+ref=UNK soda=UNK qcompere=Fabrice_LUCCHINI percol=Fabrice_LUCCHINI
+</Turn>
+<Turn startTime="418.4" speaker="spk2" endTime="418.48">
+<Sync time="418.4"/>
+ref=UNK soda=UNK qcompere=UNK percol=Fabrice_LUCCHINI
+</Turn>
+<Turn startTime="418.48" speaker="spk1" endTime="434.4">
+<Sync time="418.48"/>
+empty
+</Turn>
+<Turn startTime="434.4" speaker="spk2" endTime="434.53">
+<Sync time="434.4"/>
+ref=UNK soda=Fabrice_LUCCHINI qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="434.53" speaker="spk4" endTime="435.6">
+<Sync time="434.53"/>
+ref=UNK soda=Fabrice_LUCHINI qcompere=Fabrice_LUCCHINI percol=UNK
+</Turn>
+<Turn startTime="435.6" speaker="spk4" endTime="435.8">
+<Sync time="435.6"/>
+ref=UNK soda=UNK qcompere=Fabrice_LUCCHINI percol=UNK
+</Turn>
+<Turn startTime="435.8" speaker="spk4" endTime="436.3">
+<Sync time="435.8"/>
+ref=Fabrice_LUCHINI soda=UNK qcompere=Fabrice_LUCCHINI percol=UNK
+</Turn>
+<Turn startTime="436.3" speaker="spk4" endTime="436.45">
+<Sync time="436.3"/>
+ref=UNK soda=UNK qcompere=Fabrice_LUCCHINI percol=UNK
+</Turn>
+<Turn startTime="436.45" speaker="spk1" endTime="480.96">
+<Sync time="436.45"/>
+empty
+</Turn>
+<Turn startTime="480.96" speaker="spk2" endTime="480.97">
+<Sync time="480.96"/>
+ref=UNK soda=Christophe_PERSON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="480.97" speaker="spk6" endTime="482.38">
+<Sync time="480.97"/>
+ref=UNK soda=Christophe_PERSON qcompere=Christophe_PERSON percol=UNK
+</Turn>
+<Turn startTime="482.38" speaker="spk6" endTime="483.23">
+<Sync time="482.38"/>
+ref=UNK soda=UNK qcompere=Christophe_PERSON percol=UNK
+</Turn>
+</Section>
+</Episode>
+</Trans>

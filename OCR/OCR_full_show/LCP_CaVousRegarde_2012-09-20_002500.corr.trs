@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="1" version_date="140605">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Jean-Francois COPE" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Arnaud ARDOIN" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Bruno LE ROUX" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk6" name="Sandrine MAZETIER" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk7" name="Elisabeth GUIGOU" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk8" name="Marie-Noelle LIENEMANN" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk9" name="Jean-Christophe CAMBADELIS" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk10" name="Jerome GUEDJ" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk11" name="Pierre LELLOUCHE" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk12" name="Andre CHASSAIGNE" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk13" name="Florian PHILIPPOT" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk14" name="Florian PHILI PROISSANT" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk15" name="Henri STERDYNIAK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk16" name="Christophe BORGEL" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk17" name="Agnes VERDIER-MOLINIE" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk18" name="Florian PHI CROISSANCET" type="unknown" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="3175.25">
+<Turn startTime="0.0" speaker="spk1" endTime="60.6">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="60.6" speaker="spk2" endTime="60.68">
+<Sync time="60.6"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jean-Francois_COPE
+</Turn>
+<Turn startTime="60.68" speaker="spk3" endTime="65.92">
+<Sync time="60.68"/>
+ref=UNK soda=UNK qcompere=Jean-Francois_COPE percol=Jean-Francois_COPE
+<Sync time="60.96"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=Jean-Francois_COPE percol=Jean-Francois_COPE
+<Sync time="65.88"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=UNK percol=Jean-Francois_COPE
+</Turn>
+<Turn startTime="65.92" speaker="spk2" endTime="65.99">
+<Sync time="65.92"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="65.99" speaker="spk1" endTime="142.32">
+<Sync time="65.99"/>
+empty
+</Turn>
+<Turn startTime="142.32" speaker="spk2" endTime="142.4">
+<Sync time="142.32"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jean-Francois_COPE
+</Turn>
+<Turn startTime="142.4" speaker="spk3" endTime="148.8">
+<Sync time="142.4"/>
+ref=UNK soda=UNK qcompere=Jean-Francois_COPE percol=Jean-Francois_COPE
+<Sync time="142.56"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=Jean-Francois_COPE percol=Jean-Francois_COPE
+<Sync time="148.76"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=UNK percol=Jean-Francois_COPE
+</Turn>
+<Turn startTime="148.8" speaker="spk1" endTime="270.95">
+<Sync time="148.8"/>
+empty
+</Turn>
+<Turn startTime="270.95" speaker="spk2" endTime="271.05">
+<Sync time="270.95"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jean-Francois_COPE
+</Turn>
+<Turn startTime="271.05" speaker="spk3" endTime="276.03">
+<Sync time="271.05"/>
+ref=UNK soda=UNK qcompere=Jean-Francois_COPE percol=Jean-Francois_COPE
+<Sync time="271.44"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=Jean-Francois_COPE percol=Jean-Francois_COPE
+<Sync time="276"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=UNK percol=Jean-Francois_COPE
+</Turn>
+<Turn startTime="276.03" speaker="spk2" endTime="276.24">
+<Sync time="276.03"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="276.24" speaker="spk1" endTime="416.04">
+<Sync time="276.24"/>
+empty
+</Turn>
+<Turn startTime="416.04" speaker="spk2" endTime="416.13">
+<Sync time="416.04"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jean-Francois_COPE
+</Turn>
+<Turn startTime="416.13" speaker="spk3" endTime="422.99">
+<Sync time="416.13"/>
+ref=UNK soda=UNK qcompere=Jean-Francois_COPE percol=Jean-Francois_COPE
+<Sync time="416.4"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=Jean-Francois_COPE percol=Jean-Francois_COPE
+<Sync time="422.96"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=UNK percol=Jean-Francois_COPE
+</Turn>
+<Turn startTime="422.99" speaker="spk2" endTime="423.12">
+<Sync time="422.99"/>
+ref=UNK soda=Jean-Francois_COPE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="423.12" speaker="spk1" endTime="514.79">
+<Sync time="423.12"/>
+empty
+</Turn>
+<Turn startTime="514.79" speaker="spk2" endTime="515.1">
+<Sync time="514.79"/>
+ref=UNK soda=UNK qcompere=UNK percol=Arnaud_ARDOIN
+</Turn>
+<Turn startTime="515.1" speaker="spk4" endTime="523.44">
+<Sync time="515.1"/>
+ref=UNK soda=UNK qcompere=Arnaud_ARDOIN percol=Arnaud_ARDOIN
+<Sync time="515.52"/>
+ref=UNK soda=Arnaud_ARDOIN qcompere=Arnaud_ARDOIN percol=Arnaud_ARDOIN
+<Sync time="521.13"/>
+ref=UNK soda=Arnaud_ARDOIN qcompere=UNK percol=Arnaud_ARDOIN
+</Turn>
+<Turn startTime="523.44" speaker="spk2" endTime="523.51">
+<Sync time="523.44"/>
+ref=UNK soda=UNK qcompere=UNK percol=Arnaud_ARDOIN
+</Turn>
+<Turn startTime="523.51" speaker="spk1" endTime="696.88">
+<Sync time="523.51"/>
+empty
+</Turn>
+<Turn startTime="696.88" speaker="spk2" endTime="696.99">
+<Sync time="696.88"/>
+ref=UNK soda=UNK qcompere=UNK percol=Bruno_LE_ROUX
+</Turn>
+<Turn startTime="696.99" speaker="spk5" endTime="700.51">
+<Sync time="696.99"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="697.2"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=Bruno_LE_ROUX percol=Bruno_LE_ROUX
+<Sync time="700.5"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=Bruno_LE_ROUX
+</Turn>
+<Turn startTime="700.51" speaker="spk2" endTime="700.55">
+<Sync time="700.51"/>
+ref=UNK soda=Bruno_LE_ROUX qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="700.55" speaker="spk1" endTime="709.52">
+<Sync time="700.55"/>
+empty
+</Turn>
+<Turn startTime="709.52" speaker="spk2" endTime="709.63">
+<Sync time="709.52"/>
+ref=UNK soda=UNK qcompere=UNK percol=Sandrine_MAZETIER
+</Turn>
+<Turn startTime="709.63" speaker="spk6" endTime="714.96">
+<Sync time="709.63"/>
+ref=UNK soda=UNK qcompere=Sandrine_MAZETIER percol=Sandrine_MAZETIER
+<Sync time="709.92"/>
+ref=UNK soda=Sandrine_MAZETIER qcompere=Sandrine_MAZETIER percol=Sandrine_MAZETIER
+<Sync time="714.95"/>
+ref=UNK soda=Sandrine_MAZETIER qcompere=UNK percol=Sandrine_MAZETIER
+</Turn>
+<Turn startTime="714.96" speaker="spk2" endTime="715.2">
+<Sync time="714.96"/>
+ref=UNK soda=Sandrine_MAZETIER qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="715.2" speaker="spk1" endTime="720.88">
+<Sync time="715.2"/>
+empty
+</Turn>
+<Turn startTime="720.88" speaker="spk2" endTime="720.99">
+<Sync time="720.88"/>
+ref=UNK soda=UNK qcompere=UNK percol=Elisabeth_GUIGOU
+</Turn>
+<Turn startTime="720.99" speaker="spk7" endTime="727.15">
+<Sync time="720.99"/>
+ref=UNK soda=UNK qcompere=Elisabeth_GUIGOU percol=Elisabeth_GUIGOU
+<Sync time="721.44"/>
+ref=UNK soda=Elisabeth_GUIGOU qcompere=Elisabeth_GUIGOU percol=Elisabeth_GUIGOU
+<Sync time="727.14"/>
+ref=UNK soda=Elisabeth_GUIGOU qcompere=UNK percol=Elisabeth_GUIGOU
+</Turn>
+<Turn startTime="727.15" speaker="spk2" endTime="727.19">
+<Sync time="727.15"/>
+ref=UNK soda=Elisabeth_GUIGOU qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="727.19" speaker="spk1" endTime="734.4">
+<Sync time="727.19"/>
+empty
+</Turn>
+<Turn startTime="734.4" speaker="spk2" endTime="734.51">
+<Sync time="734.4"/>
+ref=UNK soda=UNK qcompere=UNK percol=Marie-Noelle_LIENEMANN
+</Turn>
+<Turn startTime="734.51" speaker="spk8" endTime="739.64">
+<Sync time="734.51"/>
+ref=UNK soda=UNK qcompere=Marie-Noelle_LIENEMANN percol=Marie-Noelle_LIENEMANN
+<Sync time="734.88"/>
+ref=UNK soda=Marie-Noelle_LIENEMANN qcompere=Marie-Noelle_LIENEMANN percol=Marie-Noelle_LIENEMANN
+<Sync time="739.63"/>
+ref=UNK soda=Marie-Noelle_LIENEMANN qcompere=UNK percol=Marie-Noelle_LIENEMANN
+</Turn>
+<Turn startTime="739.64" speaker="spk2" endTime="739.91">
+<Sync time="739.64"/>
+ref=UNK soda=Marie-Noelle_LIENEMANN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="739.91" speaker="spk1" endTime="753.36">
+<Sync time="739.91"/>
+empty
+</Turn>
+<Turn startTime="753.36" speaker="spk2" endTime="753.84">
+<Sync time="753.36"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jean-Christophe_CAMBADELIS
+</Turn>
+<Turn startTime="753.84" speaker="spk9" endTime="758.72">
+<Sync time="753.84"/>
+ref=UNK soda=Jean-Christophe_CAMBADELIS qcompere=UNK percol=Jean-Christophe_CAMBADELIS
+</Turn>
+<Turn startTime="758.72" speaker="spk2" endTime="758.87">
+<Sync time="758.72"/>
+ref=UNK soda=Jean-Christophe_CAMBADELIS qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="758.87" speaker="spk1" endTime="783.03">
+<Sync time="758.87"/>
+empty
+</Turn>
+<Turn startTime="783.03" speaker="spk2" endTime="783.36">
+<Sync time="783.03"/>
+ref=UNK soda=UNK qcompere=Jerome_GUEDJ percol=UNK
+</Turn>
+<Turn startTime="783.36" speaker="spk10" endTime="789.4">
+<Sync time="783.36"/>
+ref=UNK soda=Jerome_GUEDJ qcompere=Jerome_GUEDJ percol=UNK
+<Sync time="783.92"/>
+ref=UNK soda=Jerome_GUEDJ qcompere=Jerome_GUEDJ percol=Jerome_GUEDJ
+<Sync time="789.39"/>
+ref=UNK soda=Jerome_GUEDJ qcompere=UNK percol=Jerome_GUEDJ
+</Turn>
+<Turn startTime="789.4" speaker="spk2" endTime="789.6">
+<Sync time="789.4"/>
+ref=UNK soda=Jerome_GUEDJ qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="789.6" speaker="spk1" endTime="862.32">
+<Sync time="789.6"/>
+empty
+</Turn>
+<Turn startTime="862.32" speaker="spk2" endTime="862.43">
+<Sync time="862.32"/>
+ref=UNK soda=UNK qcompere=UNK percol=Pierre_LELLOUCHE
+</Turn>
+<Turn startTime="862.43" speaker="spk11" endTime="868.82">
+<Sync time="862.43"/>
+ref=UNK soda=UNK qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+<Sync time="862.8"/>
+ref=UNK soda=Pierre_LELLOUCHE qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+<Sync time="868.8"/>
+ref=UNK soda=UNK qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+</Turn>
+<Turn startTime="868.82" speaker="spk2" endTime="868.87">
+<Sync time="868.82"/>
+ref=UNK soda=UNK qcompere=UNK percol=Pierre_LELLOUCHE
+</Turn>
+<Turn startTime="868.87" speaker="spk1" endTime="1035.88">
+<Sync time="868.87"/>
+empty
+</Turn>
+<Turn startTime="1035.88" speaker="spk2" endTime="1036">
+<Sync time="1035.88"/>
+ref=UNK soda=UNK qcompere=UNK percol=Andre_CHASSAIGNE
+</Turn>
+<Turn startTime="1036" speaker="spk12" endTime="1043.95">
+<Sync time="1036"/>
+ref=UNK soda=UNK qcompere=Andre_CHASSAIGNE percol=Andre_CHASSAIGNE
+<Sync time="1036.56"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=Andre_CHASSAIGNE percol=Andre_CHASSAIGNE
+<Sync time="1043.92"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=UNK percol=Andre_CHASSAIGNE
+</Turn>
+<Turn startTime="1043.95" speaker="spk2" endTime="1044">
+<Sync time="1043.95"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1044" speaker="spk1" endTime="1143.44">
+<Sync time="1044"/>
+empty
+</Turn>
+<Turn startTime="1143.44" speaker="spk2" endTime="1143.56">
+<Sync time="1143.44"/>
+ref=UNK soda=UNK qcompere=UNK percol=Florian_PHILIPPOT
+</Turn>
+<Turn startTime="1143.56" speaker="spk13" endTime="1153.27">
+<Sync time="1143.56"/>
+ref=UNK soda=UNK qcompere=Florian_PHILIPPOT percol=Florian_PHILIPPOT
+<Sync time="1143.83"/>
+ref=UNK soda=Florian_PHILI_PROISSANT qcompere=Florian_PHILIPPOT percol=Florian_PHILIPPOT
+</Turn>
+<Turn startTime="1153.27" speaker="spk13" endTime="1153.28">
+<Sync time="1153.27"/>
+ref=UNK soda=Florian_PHILI_PROISSANT qcompere=Florian_PHILIPPOT percol=UNK
+</Turn>
+<Turn startTime="1153.28" speaker="spk2" endTime="1153.67">
+<Sync time="1153.28"/>
+ref=UNK soda=Florian_PHILI_PROISSANT qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1153.67" speaker="spk1" endTime="1246.11">
+<Sync time="1153.67"/>
+empty
+</Turn>
+<Turn startTime="1246.11" speaker="spk2" endTime="1246.29">
+<Sync time="1246.11"/>
+ref=UNK soda=UNK qcompere=UNK percol=Henri_STERDYNIAK
+</Turn>
+<Turn startTime="1246.29" speaker="spk15" endTime="1253.45">
+<Sync time="1246.29"/>
+ref=UNK soda=UNK qcompere=Henri_STERDYNIAK percol=Henri_STERDYNIAK
+<Sync time="1246.56"/>
+ref=UNK soda=Henri_STERDYNIAK qcompere=Henri_STERDYNIAK percol=Henri_STERDYNIAK
+<Sync time="1253.43"/>
+ref=UNK soda=Henri_STERDYNIAK qcompere=Henri_STERDYNIAK percol=UNK
+</Turn>
+<Turn startTime="1253.45" speaker="spk2" endTime="1253.76">
+<Sync time="1253.45"/>
+ref=UNK soda=Henri_STERDYNIAK qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1253.76" speaker="spk1" endTime="1378.88">
+<Sync time="1253.76"/>
+empty
+</Turn>
+<Turn startTime="1378.88" speaker="spk2" endTime="1379.05">
+<Sync time="1378.88"/>
+ref=UNK soda=UNK qcompere=UNK percol=Pierre_LELLOUCHE
+</Turn>
+<Turn startTime="1379.05" speaker="spk11" endTime="1384.21">
+<Sync time="1379.05"/>
+ref=UNK soda=UNK qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+<Sync time="1379.52"/>
+ref=UNK soda=Pierre_LELLOUCHE qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+<Sync time="1384.19"/>
+ref=UNK soda=Pierre_LELLOUCHE qcompere=Pierre_LELLOUCHE percol=UNK
+</Turn>
+<Turn startTime="1384.21" speaker="spk2" endTime="1384.31">
+<Sync time="1384.21"/>
+ref=UNK soda=Pierre_LELLOUCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1384.31" speaker="spk1" endTime="1481.96">
+<Sync time="1384.31"/>
+empty
+</Turn>
+<Turn startTime="1481.96" speaker="spk2" endTime="1482.1">
+<Sync time="1481.96"/>
+ref=UNK soda=UNK qcompere=UNK percol=Christophe_BORGEL
+</Turn>
+<Turn startTime="1482.1" speaker="spk16" endTime="1495.3">
+<Sync time="1482.1"/>
+ref=UNK soda=UNK qcompere=Christophe_BORGEL percol=Christophe_BORGEL
+<Sync time="1482.48"/>
+ref=UNK soda=Christophe_BOURISSANCEL qcompere=Christophe_BORGEL percol=Christophe_BORGEL
+</Turn>
+<Turn startTime="1495.3" speaker="spk2" endTime="1495.44">
+<Sync time="1495.3"/>
+ref=UNK soda=Christophe_BOURISSANCEL qcompere=UNK percol=Christophe_BORGEL
+<Sync time="1495.31"/>
+ref=UNK soda=Christophe_BOURISSANCEL qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1495.44" speaker="spk1" endTime="1641.52">
+<Sync time="1495.44"/>
+empty
+</Turn>
+<Turn startTime="1641.52" speaker="spk2" endTime="1641.66">
+<Sync time="1641.52"/>
+ref=UNK soda=UNK qcompere=UNK percol=Christophe_BORGEL
+</Turn>
+<Turn startTime="1641.66" speaker="spk16" endTime="1657.07">
+<Sync time="1641.66"/>
+ref=UNK soda=UNK qcompere=Christophe_BORGEL percol=Christophe_BORGEL
+<Sync time="1641.84"/>
+ref=UNK soda=Christophe_BOURISSANCEL qcompere=Christophe_BORGEL percol=Christophe_BORGEL
+</Turn>
+<Turn startTime="1657.07" speaker="spk2" endTime="1657.2">
+<Sync time="1657.07"/>
+ref=UNK soda=Christophe_BOURISSANCEL qcompere=Christophe_BORGEL percol=UNK
+<Sync time="1657.1"/>
+ref=UNK soda=Christophe_BOURISSANCEL qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1657.2" speaker="spk1" endTime="1776.28">
+<Sync time="1657.2"/>
+empty
+</Turn>
+<Turn startTime="1776.28" speaker="spk2" endTime="1776.43">
+<Sync time="1776.28"/>
+ref=UNK soda=UNK qcompere=UNK percol=Florian_PHILIPPOT
+</Turn>
+<Turn startTime="1776.43" speaker="spk13" endTime="1783.48">
+<Sync time="1776.43"/>
+ref=UNK soda=UNK qcompere=Florian_PHILIPPOT percol=Florian_PHILIPPOT
+<Sync time="1776.9"/>
+ref=Florian_PHILIPPOT soda=UNK qcompere=Florian_PHILIPPOT percol=Florian_PHILIPPOT
+<Sync time="1777.4"/>
+ref=UNK soda=UNK qcompere=Florian_PHILIPPOT percol=Florian_PHILIPPOT
+</Turn>
+<Turn startTime="1783.48" speaker="spk2" endTime="1783.5">
+<Sync time="1783.48"/>
+ref=UNK soda=UNK qcompere=Florian_PHILIPPOT percol=UNK
+</Turn>
+<Turn startTime="1783.5" speaker="spk1" endTime="1833.88">
+<Sync time="1783.5"/>
+empty
+</Turn>
+<Turn startTime="1833.88" speaker="spk2" endTime="1834.03">
+<Sync time="1833.88"/>
+ref=UNK soda=UNK qcompere=UNK percol=Henri_STERDYNIAK
+</Turn>
+<Turn startTime="1834.03" speaker="spk15" endTime="1844.67">
+<Sync time="1834.03"/>
+ref=UNK soda=UNK qcompere=Henri_STERDYNIAK percol=Henri_STERDYNIAK
+<Sync time="1834.08"/>
+ref=UNK soda=Henri_STERDYNIAK qcompere=Henri_STERDYNIAK percol=Henri_STERDYNIAK
+<Sync time="1835.82"/>
+ref=Henri_STERDYNIAK soda=Henri_STERDYNIAK qcompere=Henri_STERDYNIAK percol=Henri_STERDYNIAK
+<Sync time="1836.32"/>
+ref=UNK soda=Henri_STERDYNIAK qcompere=Henri_STERDYNIAK percol=Henri_STERDYNIAK
+</Turn>
+<Turn startTime="1844.67" speaker="spk2" endTime="1844.88">
+<Sync time="1844.67"/>
+ref=UNK soda=Henri_STERDYNIAK qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1844.88" speaker="spk1" endTime="1900.24">
+<Sync time="1844.88"/>
+empty
+</Turn>
+<Turn startTime="1900.24" speaker="spk2" endTime="1900.39">
+<Sync time="1900.24"/>
+ref=UNK soda=UNK qcompere=UNK percol=Pierre_LELLOUCHE
+</Turn>
+<Turn startTime="1900.39" speaker="spk11" endTime="1905.07">
+<Sync time="1900.39"/>
+ref=UNK soda=UNK qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+<Sync time="1900.8"/>
+ref=UNK soda=Pierre_LELLOUCHE qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+<Sync time="1903.86"/>
+ref=Pierre_LELLOUCHE soda=Pierre_LELLOUCHE qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+<Sync time="1904.36"/>
+ref=UNK soda=Pierre_LELLOUCHE qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+</Turn>
+<Turn startTime="1905.07" speaker="spk2" endTime="1905.11">
+<Sync time="1905.07"/>
+ref=UNK soda=Pierre_LELLOUCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1905.11" speaker="spk1" endTime="2006.6">
+<Sync time="1905.11"/>
+empty
+</Turn>
+<Turn startTime="2006.6" speaker="spk2" endTime="2006.76">
+<Sync time="2006.6"/>
+ref=UNK soda=UNK qcompere=UNK percol=Andre_CHASSAIGNE
+</Turn>
+<Turn startTime="2006.76" speaker="spk12" endTime="2012.8">
+<Sync time="2006.76"/>
+ref=UNK soda=UNK qcompere=Andre_CHASSAIGNE percol=Andre_CHASSAIGNE
+<Sync time="2007.12"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=Andre_CHASSAIGNE percol=Andre_CHASSAIGNE
+<Sync time="2012.76"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=Andre_CHASSAIGNE percol=UNK
+</Turn>
+<Turn startTime="2012.8" speaker="spk2" endTime="2012.88">
+<Sync time="2012.8"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="2012.88" speaker="spk1" endTime="2114">
+<Sync time="2012.88"/>
+empty
+</Turn>
+<Turn startTime="2114" speaker="spk2" endTime="2114.16">
+<Sync time="2114"/>
+ref=UNK soda=UNK qcompere=UNK percol=Agnes_VERDIER-MOLINIE
+</Turn>
+<Turn startTime="2114.16" speaker="spk17" endTime="2120.32">
+<Sync time="2114.16"/>
+ref=UNK soda=UNK qcompere=Agnes_VERDIER-MOLINIE percol=Agnes_VERDIER-MOLINIE
+<Sync time="2114.64"/>
+ref=UNK soda=Agnes_VERDIER-MOLINIE qcompere=Agnes_VERDIER-MOLINIE percol=Agnes_VERDIER-MOLINIE
+<Sync time="2120.28"/>
+ref=UNK soda=Agnes_VERDIER-MOLINIE qcompere=Agnes_VERDIER-MOLINIE percol=UNK
+</Turn>
+<Turn startTime="2120.32" speaker="spk2" endTime="2120.4">
+<Sync time="2120.32"/>
+ref=UNK soda=Agnes_VERDIER-MOLINIE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="2120.4" speaker="spk1" endTime="2299.76">
+<Sync time="2120.4"/>
+empty
+</Turn>
+<Turn startTime="2299.76" speaker="spk2" endTime="2299.97">
+<Sync time="2299.76"/>
+ref=UNK soda=UNK qcompere=UNK percol=Andre_CHASSAIGNE
+</Turn>
+<Turn startTime="2299.97" speaker="spk12" endTime="2306.6">
+<Sync time="2299.97"/>
+ref=UNK soda=UNK qcompere=Andre_CHASSAIGNE percol=Andre_CHASSAIGNE
+<Sync time="2300.4"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=Andre_CHASSAIGNE percol=Andre_CHASSAIGNE
+<Sync time="2306.55"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=Andre_CHASSAIGNE percol=UNK
+</Turn>
+<Turn startTime="2306.6" speaker="spk2" endTime="2306.63">
+<Sync time="2306.6"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="2306.63" speaker="spk1" endTime="2398.36">
+<Sync time="2306.63"/>
+empty
+</Turn>
+<Turn startTime="2398.36" speaker="spk2" endTime="2398.56">
+<Sync time="2398.36"/>
+ref=UNK soda=UNK qcompere=UNK percol=Florian_PHILIPPOT
+</Turn>
+<Turn startTime="2398.56" speaker="spk13" endTime="2398.57">
+<Sync time="2398.56"/>
+ref=UNK soda=Florian_PHI_CROISSANCET qcompere=UNK percol=Florian_PHILIPPOT
+</Turn>
+<Turn startTime="2398.57" speaker="spk13" endTime="2405.07">
+<Sync time="2398.57"/>
+ref=UNK soda=Florian_PHI_CROISSANCET qcompere=Florian_PHILIPPOT percol=Florian_PHILIPPOT
+</Turn>
+<Turn startTime="2405.07" speaker="spk13" endTime="2405.08">
+<Sync time="2405.07"/>
+ref=UNK soda=Florian_PHI_CROISSANCET qcompere=Florian_PHILIPPOT percol=UNK
+</Turn>
+<Turn startTime="2405.08" speaker="spk2" endTime="2405.28">
+<Sync time="2405.08"/>
+ref=UNK soda=Florian_PHI_CROISSANCET qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="2405.28" speaker="spk1" endTime="2567.48">
+<Sync time="2405.28"/>
+empty
+</Turn>
+<Turn startTime="2567.48" speaker="spk2" endTime="2567.7">
+<Sync time="2567.48"/>
+ref=UNK soda=UNK qcompere=UNK percol=Pierre_LELLOUCHE
+</Turn>
+<Turn startTime="2567.7" speaker="spk11" endTime="2573.07">
+<Sync time="2567.7"/>
+ref=UNK soda=UNK qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+<Sync time="2568"/>
+ref=UNK soda=Pierre_LELLOUCHE qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+<Sync time="2573.03"/>
+ref=UNK soda=UNK qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+</Turn>
+<Turn startTime="2573.07" speaker="spk2" endTime="2573.1">
+<Sync time="2573.07"/>
+ref=UNK soda=UNK qcompere=Pierre_LELLOUCHE percol=UNK
+</Turn>
+<Turn startTime="2573.1" speaker="spk1" endTime="2872.72">
+<Sync time="2573.1"/>
+empty
+</Turn>
+<Turn startTime="2872.72" speaker="spk2" endTime="2872.95">
+<Sync time="2872.72"/>
+ref=UNK soda=UNK qcompere=UNK percol=Andre_CHASSAIGNE
+</Turn>
+<Turn startTime="2872.95" speaker="spk12" endTime="2878.75">
+<Sync time="2872.95"/>
+ref=UNK soda=UNK qcompere=Andre_CHASSAIGNE percol=Andre_CHASSAIGNE
+<Sync time="2873.28"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=Andre_CHASSAIGNE percol=Andre_CHASSAIGNE
+<Sync time="2878.72"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=Andre_CHASSAIGNE percol=UNK
+</Turn>
+<Turn startTime="2878.75" speaker="spk2" endTime="2878.79">
+<Sync time="2878.75"/>
+ref=UNK soda=Andre_CHASSAIGNE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="2878.79" speaker="spk1" endTime="3029.72">
+<Sync time="2878.79"/>
+empty
+</Turn>
+<Turn startTime="3029.72" speaker="spk2" endTime="3029.96">
+<Sync time="3029.72"/>
+ref=UNK soda=UNK qcompere=UNK percol=Pierre_LELLOUCHE
+</Turn>
+<Turn startTime="3029.96" speaker="spk11" endTime="3034.8">
+<Sync time="3029.96"/>
+ref=UNK soda=UNK qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+<Sync time="3030.24"/>
+ref=UNK soda=Pierre_LELLOUCHE qcompere=Pierre_LELLOUCHE percol=Pierre_LELLOUCHE
+</Turn>
+<Turn startTime="3034.8" speaker="spk2" endTime="3034.83">
+<Sync time="3034.8"/>
+ref=UNK soda=UNK qcompere=Pierre_LELLOUCHE percol=UNK
+</Turn>
+<Turn startTime="3034.83" speaker="spk1" endTime="3169.44">
+<Sync time="3034.83"/>
+empty
+</Turn>
+<Turn startTime="3169.44" speaker="spk2" endTime="3169.64">
+<Sync time="3169.44"/>
+ref=UNK soda=UNK qcompere=UNK percol=Henri_STERDYNIAK
+</Turn>
+<Turn startTime="3169.64" speaker="spk15" endTime="3175.19">
+<Sync time="3169.64"/>
+ref=UNK soda=UNK qcompere=Henri_STERDYNIAK percol=Henri_STERDYNIAK
+<Sync time="3169.68"/>
+ref=UNK soda=Henri_STERDYNIAK qcompere=Henri_STERDYNIAK percol=Henri_STERDYNIAK
+<Sync time="3175.15"/>
+ref=UNK soda=Henri_STERDYNIAK qcompere=UNK percol=Henri_STERDYNIAK
+</Turn>
+<Turn startTime="3175.19" speaker="spk2" endTime="3175.25">
+<Sync time="3175.19"/>
+ref=UNK soda=UNK qcompere=UNK percol=Henri_STERDYNIAK
+</Turn>
+</Section>
+</Episode>
+</Trans>

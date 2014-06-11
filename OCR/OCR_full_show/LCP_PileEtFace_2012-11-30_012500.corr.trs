@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="1" version_date="140611">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Jean-Pierre GRATIEN" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Herve MARITON" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Patrick BLOCHE" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk6" name="Patrick BLOCHE§§Herve MARITON" type="unknown" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="1649.45">
+<Turn startTime="0.0" speaker="spk1" endTime="10.8">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="10.8" speaker="spk2" endTime="21.36">
+<Sync time="10.8"/>
+ref=UNK soda=Mathilde_DELAMOTTE qcompere=UNK percol=UNK
+<Sync time="13.19"/>
+
+<Sync time="13.92"/>
+ref=UNK soda=Christophe_MOUTON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="21.36" speaker="spk1" endTime="122.16">
+<Sync time="21.36"/>
+empty
+</Turn>
+<Turn startTime="122.16" speaker="spk2" endTime="122.48">
+<Sync time="122.16"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="122.48" speaker="spk3" endTime="125.63">
+<Sync time="122.48"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=UNK percol=Jean-Pierre_GRATIEN
+<Sync time="122.55"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=Jean-Pierre_GRATIEN percol=Jean-Pierre_GRATIEN
+<Sync time="125.04"/>
+ref=UNK soda=UNK qcompere=Jean-Pierre_GRATIEN percol=Jean-Pierre_GRATIENref=UNK soda=UNK qcompere=UNK percol=Jean-Pierre_GRATIE
+</Turn>
+<Turn startTime="125.63" speaker="spk1" endTime="196.32">
+<Sync time="125.63"/>
+empty
+</Turn>
+<Turn startTime="196.32" speaker="spk2" endTime="196.6">
+<Sync time="196.32"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="196.6" speaker="spk4" endTime="200.79">
+<Sync time="196.6"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=Herve_MARITON
+<Sync time="196.67"/>
+ref=UNK soda=Herve_MARITON qcompere=Herve_MARITON percol=Herve_MARITON
+<Sync time="200.4"/>
+ref=UNK soda=UNK qcompere=Herve_MARITON percol=Herve_MARITON
+</Turn>
+<Turn startTime="200.79" speaker="spk2" endTime="200.84">
+<Sync time="200.79"/>
+ref=UNK soda=UNK qcompere=UNK percol=Herve_MARITON
+</Turn>
+<Turn startTime="200.84" speaker="spk1" endTime="300">
+<Sync time="200.84"/>
+empty
+</Turn>
+<Turn startTime="300" speaker="spk2" endTime="300.32">
+<Sync time="300"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="300.32" speaker="spk5" endTime="305.22">
+<Sync time="300.32"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE
+<Sync time="300.39"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+<Sync time="304.8"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+</Turn>
+<Turn startTime="305.22" speaker="spk2" endTime="305.27">
+<Sync time="305.22"/>
+ref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE
+</Turn>
+<Turn startTime="305.27" speaker="spk1" endTime="355.92">
+<Sync time="305.27"/>
+empty
+</Turn>
+<Turn startTime="355.92" speaker="spk2" endTime="355.96">
+<Sync time="355.92"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="355.96" speaker="spk6" endTime="365.6">
+<Sync time="355.96"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="356.03"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="365.04"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="365.6" speaker="spk1" endTime="385.68">
+<Sync time="365.6"/>
+empty
+</Turn>
+<Turn startTime="385.68" speaker="spk2" endTime="386.08">
+<Sync time="385.68"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="386.08" speaker="spk4" endTime="390.5">
+<Sync time="386.08"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=Herve_MARITON
+<Sync time="386.15"/>
+ref=UNK soda=Herve_MARITON qcompere=Herve_MARITON percol=Herve_MARITON
+<Sync time="389.99"/>
+ref=UNK soda=UNK qcompere=Herve_MARITON percol=Herve_MARITON
+</Turn>
+<Turn startTime="390.5" speaker="spk2" endTime="390.56">
+<Sync time="390.5"/>
+ref=UNK soda=UNK qcompere=UNK percol=Herve_MARITON
+</Turn>
+<Turn startTime="390.56" speaker="spk1" endTime="441.04">
+<Sync time="390.56"/>
+empty
+</Turn>
+<Turn startTime="441.04" speaker="spk2" endTime="441.11">
+<Sync time="441.04"/>
+ref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+</Turn>
+<Turn startTime="441.11" speaker="spk6" endTime="449.23">
+<Sync time="441.11"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="441.12"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="448.55"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="449.23" speaker="spk1" endTime="503.76">
+<Sync time="449.23"/>
+empty
+</Turn>
+<Turn startTime="503.76" speaker="spk2" endTime="504.2">
+<Sync time="503.76"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+<Sync time="504"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="504.2" speaker="spk6" endTime="513.03">
+<Sync time="504.2"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="504.27"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="512.15"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="512.63"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="513.03" speaker="spk1" endTime="546.48">
+<Sync time="513.03"/>
+empty
+</Turn>
+<Turn startTime="546.48" speaker="spk2" endTime="546.91">
+<Sync time="546.48"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="546.91" speaker="spk5" endTime="552.02">
+<Sync time="546.91"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE
+<Sync time="546.99"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+<Sync time="551.75"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+</Turn>
+<Turn startTime="552.02" speaker="spk2" endTime="554.4">
+<Sync time="552.02"/>
+ref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE
+<Sync time="552.07"/>
+
+<Sync time="554.16"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="554.4" speaker="spk6" endTime="562.51">
+<Sync time="554.4"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="554.47"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="561.84"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="562.08"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+</Turn>
+<Turn startTime="562.51" speaker="spk2" endTime="562.55">
+<Sync time="562.51"/>
+ref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+</Turn>
+<Turn startTime="562.55" speaker="spk1" endTime="600.48">
+<Sync time="562.55"/>
+empty
+</Turn>
+<Turn startTime="600.48" speaker="spk2" endTime="600.64">
+<Sync time="600.48"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="600.64" endTime="600.71">
+<Sync time="600.64"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+</Turn>
+<Turn startTime="600.71" speaker="spk6" endTime="608.96">
+<Sync time="600.71"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="600.72"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="608.15"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="608.39"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="608.96" speaker="spk1" endTime="693.84">
+<Sync time="608.96"/>
+empty
+</Turn>
+<Turn startTime="693.84" speaker="spk2" endTime="694.2">
+<Sync time="693.84"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="694.2" speaker="spk5" endTime="700.82">
+<Sync time="694.2"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE
+<Sync time="694.27"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+<Sync time="700.55"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+</Turn>
+<Turn startTime="700.82" speaker="spk2" endTime="700.87">
+<Sync time="700.82"/>
+ref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE
+</Turn>
+<Turn startTime="700.87" speaker="spk1" endTime="775.2">
+<Sync time="700.87"/>
+empty
+</Turn>
+<Turn startTime="775.2" speaker="spk2" endTime="775.4">
+<Sync time="775.2"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="775.4" speaker="spk4" endTime="780.23">
+<Sync time="775.4"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=Herve_MARITON
+<Sync time="775.47"/>
+ref=UNK soda=Herve_MARITON qcompere=Herve_MARITON percol=Herve_MARITON
+<Sync time="779.75"/>
+ref=UNK soda=UNK qcompere=Herve_MARITON percol=Herve_MARITON
+</Turn>
+<Turn startTime="780.23" speaker="spk2" endTime="780.27">
+<Sync time="780.23"/>
+ref=UNK soda=UNK qcompere=UNK percol=Herve_MARITON
+</Turn>
+<Turn startTime="780.27" speaker="spk1" endTime="785.28">
+<Sync time="780.27"/>
+empty
+</Turn>
+<Turn startTime="785.28" speaker="spk2" endTime="785.56">
+<Sync time="785.28"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+<Sync time="785.52"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="785.56" speaker="spk6" endTime="794.6">
+<Sync time="785.56"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="785.63"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="793.67"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="793.91"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="794.6" speaker="spk1" endTime="873.6">
+<Sync time="794.6"/>
+empty
+</Turn>
+<Turn startTime="873.6" speaker="spk2" endTime="874.12">
+<Sync time="873.6"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+<Sync time="874.08"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="874.12" speaker="spk6" endTime="882.27">
+<Sync time="874.12"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="874.19"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="881.51"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="881.99"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="882.27" speaker="spk1" endTime="914.4">
+<Sync time="882.27"/>
+empty
+</Turn>
+<Turn startTime="914.4" speaker="spk2" endTime="914.6">
+<Sync time="914.4"/>
+ref=UNK soda=Patrick_BLOCHE§§Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="914.6" speaker="spk6" endTime="921.08">
+<Sync time="914.6"/>
+ref=UNK soda=Patrick_BLOCHE§§Herve_MARITON qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="914.67"/>
+ref=UNK soda=Patrick_BLOCHE§§Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="920.4"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="921.08" speaker="spk1" endTime="950.88">
+<Sync time="921.08"/>
+empty
+</Turn>
+<Turn startTime="950.88" speaker="spk2" endTime="951.28">
+<Sync time="950.88"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="951.28" speaker="spk5" endTime="956.88">
+<Sync time="951.28"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE
+<Sync time="951.37"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+<Sync time="956.39"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE percol=Patrick_BLOCHEref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCH
+</Turn>
+<Turn startTime="956.88" speaker="spk1" endTime="981.12">
+<Sync time="956.88"/>
+empty
+</Turn>
+<Turn startTime="981.12" speaker="spk2" endTime="981.56">
+<Sync time="981.12"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="981.56" endTime="981.6">
+<Sync time="981.56"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+</Turn>
+<Turn startTime="981.6" speaker="spk6" endTime="993.82">
+<Sync time="981.6"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="981.63"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="993.11"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="993.36"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+</Turn>
+<Turn startTime="993.82" speaker="spk2" endTime="993.88">
+<Sync time="993.82"/>
+ref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+</Turn>
+<Turn startTime="993.88" speaker="spk1" endTime="1043.52">
+<Sync time="993.88"/>
+empty
+</Turn>
+<Turn startTime="1043.52" speaker="spk2" endTime="1043.76">
+<Sync time="1043.52"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1043.76" speaker="spk6" endTime="1051.99">
+<Sync time="1043.76"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1043.83"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1051.2"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1051.44"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+</Turn>
+<Turn startTime="1051.99" speaker="spk2" endTime="1052.03">
+<Sync time="1051.99"/>
+ref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+</Turn>
+<Turn startTime="1052.03" speaker="spk1" endTime="1137.83">
+<Sync time="1052.03"/>
+empty
+</Turn>
+<Turn startTime="1137.83" speaker="spk2" endTime="1137.96">
+<Sync time="1137.83"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1137.96" endTime="1138.03">
+<Sync time="1137.96"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+</Turn>
+<Turn startTime="1138.03" speaker="spk6" endTime="1145.35">
+<Sync time="1138.03"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1138.08"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1144.8"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1145.03"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="1145.35" endTime="1147.04">
+<Sync time="1145.35"/>
+
+<Sync time="1146.72"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1147.04" speaker="spk4" endTime="1150.92">
+<Sync time="1147.04"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=Herve_MARITON
+<Sync time="1147.11"/>
+ref=UNK soda=Herve_MARITON qcompere=Herve_MARITON percol=Herve_MARITON
+<Sync time="1150.55"/>
+ref=UNK soda=UNK qcompere=Herve_MARITON percol=Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Herve_MARITO
+</Turn>
+<Turn startTime="1150.92" speaker="spk1" endTime="1205.52">
+<Sync time="1150.92"/>
+empty
+</Turn>
+<Turn startTime="1205.52" speaker="spk2" endTime="1205.96">
+<Sync time="1205.52"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1205.96" speaker="spk5" endTime="1211.03">
+<Sync time="1205.96"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE
+<Sync time="1206.03"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+<Sync time="1210.55"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE percol=Patrick_BLOCHEref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCH
+</Turn>
+<Turn startTime="1211.03" speaker="spk1" endTime="1220.4">
+<Sync time="1211.03"/>
+empty
+</Turn>
+<Turn startTime="1220.4" speaker="spk2" endTime="1220.68">
+<Sync time="1220.4"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+<Sync time="1220.64"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1220.68" speaker="spk6" endTime="1231.03">
+<Sync time="1220.68"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1220.75"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1230.22"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="1231.03" speaker="spk1" endTime="1292.4">
+<Sync time="1231.03"/>
+empty
+</Turn>
+<Turn startTime="1292.4" speaker="spk2" endTime="1292.8">
+<Sync time="1292.4"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1292.8" speaker="spk4" endTime="1298.95">
+<Sync time="1292.8"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=Herve_MARITON
+<Sync time="1292.87"/>
+ref=UNK soda=Herve_MARITON qcompere=Herve_MARITON percol=Herve_MARITON
+<Sync time="1298.4"/>
+ref=UNK soda=UNK qcompere=Herve_MARITON percol=Herve_MARITON
+</Turn>
+<Turn startTime="1298.95" speaker="spk2" endTime="1299">
+<Sync time="1298.95"/>
+ref=UNK soda=UNK qcompere=UNK percol=Herve_MARITON
+</Turn>
+<Turn startTime="1299" speaker="spk1" endTime="1356.72">
+<Sync time="1299"/>
+empty
+</Turn>
+<Turn startTime="1356.72" speaker="spk2" endTime="1356.96">
+<Sync time="1356.72"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1356.96" speaker="spk5" endTime="1363.34">
+<Sync time="1356.96"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE
+<Sync time="1357.03"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+<Sync time="1362.96"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+</Turn>
+<Turn startTime="1363.34" speaker="spk2" endTime="1363.4">
+<Sync time="1363.34"/>
+ref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE
+</Turn>
+<Turn startTime="1363.4" speaker="spk1" endTime="1373.28">
+<Sync time="1363.4"/>
+empty
+</Turn>
+<Turn startTime="1373.28" speaker="spk2" endTime="1373.84">
+<Sync time="1373.28"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+<Sync time="1373.76"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1373.84" speaker="spk6" endTime="1382.35">
+<Sync time="1373.84"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1373.93"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1381.68"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="1382.35" speaker="spk1" endTime="1449.12">
+<Sync time="1382.35"/>
+empty
+</Turn>
+<Turn startTime="1449.12" speaker="spk2" endTime="1449.44">
+<Sync time="1449.12"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1449.44" speaker="spk4" endTime="1454.82">
+<Sync time="1449.44"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=Herve_MARITON
+<Sync time="1449.51"/>
+ref=UNK soda=Herve_MARITON qcompere=Herve_MARITON percol=Herve_MARITON
+<Sync time="1454.4"/>
+ref=UNK soda=UNK qcompere=Herve_MARITON percol=Herve_MARITON
+</Turn>
+<Turn startTime="1454.82" speaker="spk2" endTime="1454.88">
+<Sync time="1454.82"/>
+ref=UNK soda=UNK qcompere=UNK percol=Herve_MARITON
+</Turn>
+<Turn startTime="1454.88" speaker="spk1" endTime="1534.8">
+<Sync time="1454.88"/>
+empty
+</Turn>
+<Turn startTime="1534.8" speaker="spk2" endTime="1535.36">
+<Sync time="1534.8"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1535.36" speaker="spk4" endTime="1541.26">
+<Sync time="1535.36"/>
+ref=UNK soda=Herve_MARITON qcompere=UNK percol=Herve_MARITON
+<Sync time="1535.43"/>
+ref=UNK soda=Herve_MARITON qcompere=Herve_MARITON percol=Herve_MARITON
+<Sync time="1540.8"/>
+ref=UNK soda=UNK qcompere=Herve_MARITON percol=Herve_MARITON
+</Turn>
+<Turn startTime="1541.26" speaker="spk2" endTime="1541.32">
+<Sync time="1541.26"/>
+ref=UNK soda=UNK qcompere=UNK percol=Herve_MARITON
+</Turn>
+<Turn startTime="1541.32" speaker="spk1" endTime="1546.32">
+<Sync time="1541.32"/>
+empty
+</Turn>
+<Turn startTime="1546.32" speaker="spk2" endTime="1546.52">
+<Sync time="1546.32"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1546.52" speaker="spk6" endTime="1554.88">
+<Sync time="1546.52"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1546.59"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1554"/>
+ref=UNK soda=Herve_MARITON qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1554.24"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+<Turn startTime="1554.88" speaker="spk1" endTime="1633.68">
+<Sync time="1554.88"/>
+empty
+</Turn>
+<Turn startTime="1633.68" speaker="spk2" endTime="1634.04">
+<Sync time="1633.68"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1634.04" speaker="spk5" endTime="1639.62">
+<Sync time="1634.04"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE
+<Sync time="1634.11"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+<Sync time="1637.42"/>
+ref=Patrick_BLOCHE soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+<Sync time="1637.92"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+<Sync time="1639.19"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE percol=Patrick_BLOCHE
+</Turn>
+<Turn startTime="1639.62" speaker="spk2" endTime="1642.24">
+<Sync time="1639.62"/>
+ref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE
+<Sync time="1639.68"/>
+
+<Sync time="1641.84"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1642.24" speaker="spk6" endTime="1649.45">
+<Sync time="1642.24"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1642.31"/>
+ref=UNK soda=Patrick_BLOCHE qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITON
+<Sync time="1648.56"/>
+ref=UNK soda=UNK qcompere=Patrick_BLOCHE§§Herve_MARITON percol=Patrick_BLOCHE§§Herve_MARITONref=UNK soda=UNK qcompere=UNK percol=Patrick_BLOCHE§§Herve_MARITO
+</Turn>
+</Section>
+</Episode>
+</Trans>

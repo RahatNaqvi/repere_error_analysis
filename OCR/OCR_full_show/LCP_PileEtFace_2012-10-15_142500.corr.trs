@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="" version="2" version_date="140611">
+<Speakers>
+<Speaker id="spk1" name="empty" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk2" name="UNK" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk3" name="Jean-Pierre GRATIEN" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk4" name="Bruno LE MAIRE" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk5" name="Francois PATRIAT" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk6" name="Bruno LE MAIRE§§Francois PATRIAT" type="unknown" dialect="native" accent="" scope="global"/>
+<Speaker id="spk7" name="Nicolas DUPONT-AIGNAN" check="no" dialect="native" accent="" scope="global"/>
+<Speaker id="spk8" name="Jean-Marc AYRAULT" check="no" dialect="native" accent="" scope="global"/>
+<Speaker id="spk9" name="Dominique STRAUSS-KHAN" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk10" name="Christophe JAKUBYSYN" check="no" dialect="native" accent="" scope="global"/>
+<Speaker id="spk11" name="Laurent WAUQUIEZ" check="no" dialect="native" accent="" scope="global"/>
+<Speaker id="spk12" name="Roselyne BACHELOT" check="no" dialect="native" accent="" scope="global"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="1934.37">
+<Turn startTime="0.0" speaker="spk1" endTime="13.44">
+<Sync time="0.0"/>
+empty
+</Turn>
+<Turn startTime="13.44" speaker="spk7" endTime="34.32">
+<Sync time="13.44"/>
+ref=UNK soda=Nicolas_DUPONT-AIGNAN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="34.32" speaker="spk1" endTime="66.95">
+<Sync time="34.32"/>
+empty
+</Turn>
+<Turn startTime="66.95" speaker="spk8" endTime="77.26">
+<Sync time="66.95"/>
+ref=UNK soda=Jean-Marc_AYRAULT qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="77.26" speaker="spk1" endTime="144">
+<Sync time="77.26"/>
+empty
+</Turn>
+<Turn startTime="144" speaker="spk7" endTime="157.18">
+<Sync time="144"/>
+ref=UNK soda=Nicolas_DUPONT-AIGNAN qcompere=UNK percol=UNK
+</Turn>
+<Turn speaker="spk9" startTime="157.18" endTime="169.91">
+<Sync time="157.18"/>
+
+<Sync time="157.44"/>
+ref=UNK soda=Dominique_STRAUSS-KAHN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="169.91" speaker="spk1" endTime="176.64">
+<Sync time="169.91"/>
+empty
+</Turn>
+<Turn startTime="176.64" speaker="spk2" endTime="179.28">
+<Sync time="176.64"/>
+ref=UNK soda=Dominique_STRAUSS-KAHN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="179.28" speaker="spk1" endTime="205.44">
+<Sync time="179.28"/>
+empty
+</Turn>
+<Turn startTime="205.44" speaker="spk2" endTime="224.87">
+<Sync time="205.44"/>
+ref=UNK soda=Lyne_BACMENT qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="224.87" speaker="spk1" endTime="251.28">
+<Sync time="224.87"/>
+empty
+</Turn>
+<Turn startTime="251.28" speaker="spk10" endTime="269.75">
+<Sync time="251.28"/>
+ref=UNK soda=Christophe_JAKUBYSZYN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="269.75" speaker="spk1" endTime="275.76">
+<Sync time="269.75"/>
+empty
+</Turn>
+<Turn startTime="275.76" speaker="spk11" endTime="284.88">
+<Sync time="275.76"/>
+ref=UNK soda=Laurent_WAUQUIEZ qcompere=UNK percol=UNK
+<Sync time="284.63"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="284.88" endTime="298.31">
+<Sync time="284.88"/>
+ref=UNK soda=Roselyne_BACHELOT qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="298.31" speaker="spk1" endTime="363.6">
+<Sync time="298.31"/>
+empty
+</Turn>
+<Turn startTime="363.6" speaker="spk2" endTime="386.07">
+<Sync time="363.6"/>
+ref=UNK soda=UNK qcompere=UNK percol=MARDI
+</Turn>
+<Turn startTime="386.07" speaker="spk1" endTime="411.32">
+<Sync time="386.07"/>
+empty
+</Turn>
+<Turn startTime="411.32" speaker="spk2" endTime="411.39">
+<Sync time="411.32"/>
+ref=UNK soda=UNK qcompere=UNK percol=Jean-Pierre_GRATIEN
+</Turn>
+<Turn startTime="411.39" speaker="spk3" endTime="414.39">
+<Sync time="411.39"/>
+ref=UNK soda=UNK qcompere=Jean-Pierre_GRATIEN percol=Jean-Pierre_GRATIEN
+<Sync time="411.84"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=Jean-Pierre_GRATIEN percol=Jean-Pierre_GRATIEN
+<Sync time="413.62"/>
+ref=Jean-Pierre_GRATIEN soda=Jean-Pierre_GRATIEN qcompere=Jean-Pierre_GRATIEN percol=Jean-Pierre_GRATIEN
+<Sync time="414.12"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=Jean-Pierre_GRATIEN percol=Jean-Pierre_GRATIEN
+<Sync time="414.34"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=UNK percol=Jean-Pierre_GRATIEN
+</Turn>
+<Turn startTime="414.39" speaker="spk2" endTime="414.48">
+<Sync time="414.39"/>
+ref=UNK soda=Jean-Pierre_GRATIEN qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="414.48" speaker="spk1" endTime="481.92">
+<Sync time="414.48"/>
+empty
+</Turn>
+<Turn startTime="481.92" speaker="spk2" endTime="482">
+<Sync time="481.92"/>
+ref=UNK soda=UNK qcompere=UNK percol=Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="482" speaker="spk4" endTime="488.35">
+<Sync time="482"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Bruno_LE_MAIRE
+<Sync time="482.4"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Bruno_LE_MAIRE
+<Sync time="483.91"/>
+ref=Bruno_LE_MAIRE soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Bruno_LE_MAIRE
+<Sync time="484.41"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Bruno_LE_MAIRE
+<Sync time="485.51"/>
+ref=Bruno_LE_MAIRE soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Bruno_LE_MAIRE
+<Sync time="486.01"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Bruno_LE_MAIRE
+<Sync time="488.31"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="488.35" speaker="spk2" endTime="488.64">
+<Sync time="488.35"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="488.64" speaker="spk1" endTime="575.91">
+<Sync time="488.64"/>
+empty
+</Turn>
+<Turn startTime="575.91" speaker="spk2" endTime="576.48">
+<Sync time="575.91"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT
+</Turn>
+<Turn startTime="576.48" speaker="spk5" endTime="583.75">
+<Sync time="576.48"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=Francois_PATRIAT
+<Sync time="577.63"/>
+ref=Francois_PATRIAT soda=Francois_PATRIAT qcompere=UNK percol=Francois_PATRIAT
+<Sync time="578.13"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=Francois_PATRIAT
+</Turn>
+<Turn startTime="583.75" speaker="spk2" endTime="583.9">
+<Sync time="583.75"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="583.9" speaker="spk1" endTime="637.67">
+<Sync time="583.9"/>
+empty
+</Turn>
+<Turn startTime="637.67" speaker="spk2" endTime="637.76">
+<Sync time="637.67"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="637.76" speaker="spk6" endTime="650.35">
+<Sync time="637.76"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="637.91"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="638.16"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="639.36"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="650.31"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="650.35" speaker="spk2" endTime="650.63">
+<Sync time="650.35"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="650.63" speaker="spk1" endTime="700.08">
+<Sync time="650.63"/>
+empty
+</Turn>
+<Turn startTime="700.08" speaker="spk2" endTime="700.17">
+<Sync time="700.08"/>
+ref=UNK soda=UNK qcompere=UNK percol=Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="700.17" speaker="spk4" endTime="705.39">
+<Sync time="700.17"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Bruno_LE_MAIRE
+<Sync time="700.56"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Bruno_LE_MAIRE
+<Sync time="702.4"/>
+ref=Bruno_LE_MAIRE soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Bruno_LE_MAIRE
+<Sync time="702.9"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Bruno_LE_MAIRE
+<Sync time="705.36"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="705.39" speaker="spk2" endTime="705.6">
+<Sync time="705.39"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="705.6" speaker="spk1" endTime="710.68">
+<Sync time="705.6"/>
+empty
+</Turn>
+<Turn startTime="710.68" speaker="spk2" endTime="710.77">
+<Sync time="710.68"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="710.77" speaker="spk6" endTime="717.84">
+<Sync time="710.77"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="710.88"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="711.12"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="717.84" speaker="spk6" endTime="721.6">
+<Sync time="717.84"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIR
+</Turn>
+<Turn startTime="721.6" speaker="spk2" endTime="721.91">
+<Sync time="721.6"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UNK
+<Sync time="721.67"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="721.91" speaker="spk1" endTime="784.64">
+<Sync time="721.91"/>
+empty
+</Turn>
+<Turn startTime="784.64" speaker="spk2" endTime="784.73">
+<Sync time="784.64"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="784.73" speaker="spk6" endTime="795.84">
+<Sync time="784.73"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="785.04"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="785.28"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIR
+</Turn>
+<Turn startTime="795.84" speaker="spk2" endTime="796.32">
+<Sync time="795.84"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="796.32" speaker="spk1" endTime="874.64">
+<Sync time="796.32"/>
+empty
+</Turn>
+<Turn startTime="874.64" speaker="spk2" endTime="874.74">
+<Sync time="874.64"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="874.74" speaker="spk6" endTime="889.64">
+<Sync time="874.74"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="874.8"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="875.04"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="888.96"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="889.61"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="889.64" speaker="spk2" endTime="889.92">
+<Sync time="889.64"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="889.92" speaker="spk1" endTime="928.64">
+<Sync time="889.92"/>
+empty
+</Turn>
+<Turn startTime="928.64" speaker="spk2" endTime="928.74">
+<Sync time="928.64"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="928.74" speaker="spk6" endTime="944.32">
+<Sync time="928.74"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="928.8"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="929.28"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIR
+</Turn>
+<Turn startTime="944.32" speaker="spk2" endTime="944.64">
+<Sync time="944.32"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UNK
+<Sync time="944.4"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="944.64" speaker="spk1" endTime="986.2">
+<Sync time="944.64"/>
+empty
+</Turn>
+<Turn startTime="986.2" speaker="spk2" endTime="986.3">
+<Sync time="986.2"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="986.3" speaker="spk4" endTime="1000.87">
+<Sync time="986.3"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="986.64"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="986.88"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="1000.79"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1000.86"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1000.87" speaker="spk2" endTime="1001.03">
+<Sync time="1000.87"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1001.03" speaker="spk1" endTime="1056.32">
+<Sync time="1001.03"/>
+empty
+</Turn>
+<Turn startTime="1056.32" speaker="spk2" endTime="1056.42">
+<Sync time="1056.32"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1056.42" speaker="spk6" endTime="1065.93">
+<Sync time="1056.42"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1056.72"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1056.96"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1065.34"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1065.93" speaker="spk6" endTime="1067.24">
+<Sync time="1065.93"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="1067.21"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1067.24" speaker="spk2" endTime="1067.51">
+<Sync time="1067.24"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1067.51" speaker="spk1" endTime="1163.4">
+<Sync time="1067.51"/>
+empty
+</Turn>
+<Turn startTime="1163.4" speaker="spk2" endTime="1163.51">
+<Sync time="1163.4"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1163.51" speaker="spk6" endTime="1169.58">
+<Sync time="1163.51"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1163.76"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1169.58" speaker="spk6" endTime="1175.03">
+<Sync time="1169.58"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UN
+<Sync time="1174.79"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1175.03" speaker="spk1" endTime="1265.96">
+<Sync time="1175.03"/>
+empty
+</Turn>
+<Turn startTime="1265.96" speaker="spk2" endTime="1266.08">
+<Sync time="1265.96"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1266.08" speaker="spk6" endTime="1285.2">
+<Sync time="1266.08"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1266.48"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+</Turn>
+<Turn startTime="1285.2" speaker="spk2" endTime="1285.44">
+<Sync time="1285.2"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1285.44" speaker="spk1" endTime="1351.76">
+<Sync time="1285.44"/>
+empty
+</Turn>
+<Turn startTime="1351.76" speaker="spk2" endTime="1351.88">
+<Sync time="1351.76"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1351.88" speaker="spk6" endTime="1358.83">
+<Sync time="1351.88"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1352.4"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1352.64"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1358.83" speaker="spk6" endTime="1361.96">
+<Sync time="1358.83"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIR
+</Turn>
+<Turn startTime="1361.96" speaker="spk2" endTime="1362.23">
+<Sync time="1361.96"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UNK
+<Sync time="1361.99"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1362.23" speaker="spk1" endTime="1390.92">
+<Sync time="1362.23"/>
+empty
+</Turn>
+<Turn startTime="1390.92" speaker="spk2" endTime="1391.04">
+<Sync time="1390.92"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1391.04" speaker="spk6" endTime="1398.27">
+<Sync time="1391.04"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1391.52"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1398.27" speaker="spk6" endTime="1410.88">
+<Sync time="1398.27"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+</Turn>
+<Turn startTime="1410.88" speaker="spk2" endTime="1411.2">
+<Sync time="1410.88"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UNK
+<Sync time="1410.96"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1411.2" speaker="spk1" endTime="1490.56">
+<Sync time="1411.2"/>
+empty
+</Turn>
+<Turn startTime="1490.56" speaker="spk2" endTime="1490.69">
+<Sync time="1490.56"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1490.69" speaker="spk6" endTime="1498.64">
+<Sync time="1490.69"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1490.88"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1491.12"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1498.64" speaker="spk6" endTime="1505.85">
+<Sync time="1498.64"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="1505.83"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=UNK
+</Turn>
+<Turn startTime="1505.85" speaker="spk2" endTime="1506.23">
+<Sync time="1505.85"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UNK
+<Sync time="1506"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1506.23" speaker="spk1" endTime="1536.28">
+<Sync time="1506.23"/>
+empty
+</Turn>
+<Turn startTime="1536.28" speaker="spk2" endTime="1536.41">
+<Sync time="1536.28"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1536.41" speaker="spk4" endTime="1560.53">
+<Sync time="1536.41"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1536.72"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1536.96"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="1560.47"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1560.52"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=UNK
+</Turn>
+<Turn startTime="1560.53" speaker="spk2" endTime="1560.72">
+<Sync time="1560.53"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1560.72" speaker="spk1" endTime="1613.08">
+<Sync time="1560.72"/>
+empty
+</Turn>
+<Turn startTime="1613.08" speaker="spk2" endTime="1613.21">
+<Sync time="1613.08"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1613.21" speaker="spk6" endTime="1622.88">
+<Sync time="1613.21"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1613.52"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1613.76"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1622.88" speaker="spk6" endTime="1625.01">
+<Sync time="1622.88"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="1625"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=UNK
+</Turn>
+<Turn startTime="1625.01" speaker="spk2" endTime="1625.03">
+<Sync time="1625.01"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1625.03" speaker="spk1" endTime="1671.88">
+<Sync time="1625.03"/>
+empty
+</Turn>
+<Turn startTime="1671.88" speaker="spk2" endTime="1672.02">
+<Sync time="1671.88"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1672.02" speaker="spk6" endTime="1679.37">
+<Sync time="1672.02"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1672.32"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1672.56"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1679.37" speaker="spk6" endTime="1698.14">
+<Sync time="1679.37"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="1698.11"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=UNK
+</Turn>
+<Turn startTime="1698.14" speaker="spk2" endTime="1698.24">
+<Sync time="1698.14"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1698.24" speaker="spk1" endTime="1769.36">
+<Sync time="1698.24"/>
+empty
+</Turn>
+<Turn startTime="1769.36" speaker="spk2" endTime="1769.5">
+<Sync time="1769.36"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1769.5" speaker="spk4" endTime="1773.65">
+<Sync time="1769.5"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1769.76"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1770"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1773.65" speaker="spk6" endTime="1775.73">
+<Sync time="1773.65"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="1775.72"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=UNK
+</Turn>
+<Turn startTime="1775.73" speaker="spk2" endTime="1776">
+<Sync time="1775.73"/>
+ref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UNK
+<Sync time="1775.75"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1776" speaker="spk1" endTime="1817.48">
+<Sync time="1776"/>
+empty
+</Turn>
+<Turn startTime="1817.48" speaker="spk2" endTime="1817.62">
+<Sync time="1817.48"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1817.62" speaker="spk6" endTime="1838.57">
+<Sync time="1817.62"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1817.76"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1818"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1838.57" speaker="spk6" endTime="1848.78">
+<Sync time="1838.57"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="1848.72"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1848.75"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=UNK
+</Turn>
+<Turn startTime="1848.78" speaker="spk2" endTime="1848.96">
+<Sync time="1848.78"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1848.96" speaker="spk1" endTime="1890.48">
+<Sync time="1848.96"/>
+empty
+</Turn>
+<Turn startTime="1890.48" speaker="spk2" endTime="1890.63">
+<Sync time="1890.48"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1890.63" speaker="spk6" endTime="1897.22">
+<Sync time="1890.63"/>
+ref=UNK soda=UNK qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1890.72"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1890.96"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1895.27"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1896.24"/>
+ref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1897.22" speaker="spk6" endTime="1900.59">
+<Sync time="1897.22"/>
+ref=Bruno_LE_MAIRE__Francois_PATRIAT soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIR
+<Sync time="1897.92"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1898.88"/>
+ref=UNK soda=Francois_AUBART qcompere=Bruno_LE_MAIRE percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+<Sync time="1900.55"/>
+ref=UNK soda=Francois_AUBART qcompere=Bruno_LE_MAIRE percol=UNK
+</Turn>
+<Turn startTime="1900.59" speaker="spk2" endTime="1900.79">
+<Sync time="1900.59"/>
+ref=UNK soda=Francois_AUBART qcompere=UNK percol=UNK
+</Turn>
+<Turn startTime="1900.79" speaker="spk1" endTime="1925.04">
+<Sync time="1900.79"/>
+empty
+</Turn>
+<Turn startTime="1925.04" speaker="spk2" endTime="1925.28">
+<Sync time="1925.04"/>
+ref=UNK soda=UNK qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRE
+</Turn>
+<Turn startTime="1925.28" speaker="spk6" endTime="1934.37">
+<Sync time="1925.28"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIREref=UNK soda=Francois_PATRIAT qcompere=UNK percol=Francois_PATRIAT§§Bruno_LE_MAIRref=UNK soda=Francois_PATRIAT qcompere=UNK percol=UN
+<Sync time="1934.16"/>
+ref=UNK soda=Bruno_LE_MAIRE qcompere=UNK percol=UNK
+</Turn>
+</Section>
+</Episode>
+</Trans>
