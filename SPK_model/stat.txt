@@ -1,0 +1,6 @@
+   systeme     dureeGlobal nbSessionGlobal     dureeRepere nbSessionRepere      dureeAutre nbSessionAutre
+      soda          660.38            5.84          123.65            0.95          536.74            4.88 
+   percol          534.88            5.41          256.08            2.62          278.80            2.79 
+-----------------------------------------------
+locuteur commun à 1 systemes : 710
+locuteur commun à 2 systemes : 346
