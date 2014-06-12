@@ -48,17 +48,27 @@ foreach my $arg (@ARGV) {
 print "-----------------------------------------------\n";
 
 my @commun = ();
-
+my %nbLoc=();
 foreach my $name (keys %dic) {
 	my $nb;
 	foreach my $sys (keys %{$dic{$name}}) {
+		$nbLoc{$sys}++;
 		$nb++;
 	}
 	$commun[$nb]++;
 	#print "$name $nb\n";
 }
+foreach my $s (keys %nbLoc) {
+	print "nombre de locuteur pour $s : $nbLoc{$s}\n";
+}
 
+print "-----------------------------------------------\n";
+
+my $nb = 0;
 for(my $k=1; $k < scalar(@commun); $k++) {
 	print "locuteur commun à $k systemes : $commun[$k]\n";
+	$nb+=$commun[$k];
 }
+
+print "nombre de locuteur différent : $nb\n";
 
