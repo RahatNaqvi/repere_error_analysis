@@ -1,0 +1,13 @@
+1 ligne par keyframe:
+$show#$kf#$typespeech#$speaker#$duree_seg#$duree_clu $labelPercol $labelQcompere $labelSoda
+BFMTV_BFMStory_2012-07-24_175800#715.628#simple#Olivier_TRUCHOT#36.087#635.392 cor cor cor
+
+$typespeech: simple ou overlap
+$speaker: peut contenir un "?" qui signifie que la kf est à moins de 250 ms d'une frontière de tour de parole dans la segmentation de reference.
+
+
+overlap#?Olivier_TRUCHOT: n'est pas un vrai overlap, c'est une frontière de tour de parole avec un autre locuteur
+simple#?Olivier_TRUCHOT: c'est une frontière de tour de parole avec un segment sans parole
+
+$duree_seg: la durée du segment de reference dans lequel se trouve la keyframe
+$duree_clu: la durée du cluster de locuteur de reference dans lequel se trouve la keyframe
