@@ -1,0 +1,9 @@
+format par ligne:
+$show#$speaker #nbkf #nbkf0cor #nbkf1cor #nbkf2cor #nbkf3cor #nbkfcorPercol #nbkfcorQcompere #nbkfcorSoda #duree_clusterref #role
+
+#nbkf0cor: nb de keyframes pour lesquelles aucun des systemes ne donne une réponse correcte
+#nbkf1cor: nb de keyframes pour lesquelles 1 seul systeme donne une réponse correcte
+#nbkf2cor: nb de keyframes pour lesquelles seuls 2 systemes donnent une réponse correcte
+#nbkf3cor: nb de keyframes pour lesquelles les 3 systèmes donnent une réponse correcte
+
+#nbkfcor$consortium: nb de keyframes correctes pour le systeme du $consortium 
