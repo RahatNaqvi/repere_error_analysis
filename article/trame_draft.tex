@@ -1,0 +1,138 @@
+\documentclass[utf8x]{article-hermes}
+% Created by Y. Lepage 08/10/2012
+
+% Merci de remplir
+% la date de soumission: JJ/MM/AAAA
+% le volume et le numéro de TAL auquel vous soumettez (p. ex. : 54-1): VV-NN
+% s'il s'agit de la première soumission (1) ou de la deuxième après premières relectures (2): R
+
+\submitted[JJ/MM/AAAA]{TAL~VV-NN}{R}
+
+\title[Titre court]{Identification des locuteurs dans les émissions TV: facilités et verrous}
+
+\author{Prénom$_1$ Nom$_1$\fup{*} \andauthor Prénom$_2$ Nom$_2$\fup{**}  } 
+
+\address{%
+\fup{*} Première affiliation\\
+\fup{**} Seconde affiliation
+}
+
+
+\abstract{
+Here comes the abstract.
+}
+
+
+\keywords{
+Keyword$_1$,
+Keyword$_2$,
+Keyword$_3$.
+}
+
+%\date{}
+\begin{document}
+
+\maketitlepage
+
+%%%%%%%% FAKE TEXT %%%%%%%%%%%%%%%
+\newcommand{\fakesentence}{Attention à ce que les figures et les tableaux ne débordent pas dans les marges. }
+\newcommand{\fakeparagraph}{
+\fakesentence
+\fakesentence
+\fakesentence
+\fakesentence
+\fakesentence
+\fakesentence
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Introduction}
+
+L'objet de l'étude est d'analyser, sur le corpus REPERE, les résultats de différents systèmes d'identification du locuteur, multimodaux, et de répondre aux questions suivantes: y-a-t-il des locuteurs plus difficiles à identifier que d'autres? si oui, quels sont les facteurs qui facilitent ou rendent difficiles l'identification? 
+On pourra étendre à la question: quelles sont les familles de système plus adaptées à identifier tel ou tel type de locuteurs.
+
+Le principe de l'étude est de faire toutes les analyses sur les systèmes supervisés, non-supervisés et monomodaux. Viendra ensuite le choix de ne présenter peut être que certains résultats...
+
+\section{Analyse par locuteur}
+
+Dans un premier temps d'analyse, on restreint l'analyse locuteur au locuteur dans une émission donnée, qu'on appelle dans la suite spkshow, puisque les propriétés associées à ce locuteur dépendent de l'émission (durée de parole, présence d'ocr, présence du nom, rôle...).
+
+\subsection{analyse des performances par spkshow et par système}
+CONTRIBUTEURS=Delphine,
+
+il s'agit d'analyser les distributions des spkshow par taux d'erreur sur les différents systèmes, et d'en tirer des classes, au vu de la distribution: définir les bornes des intervalles de taux d'erreur qui permettent de catégoriser, par exemple:
+-locuteur jamais reconnu
+-locuteur mal reconnu
+-locuteur moyennement reconnu
+-locuteur bien reconnu
+-locuteur très bien reconnu
+
+cette catégorisation des spkshow est donc faite par système.
+on peut ensuite s'intéresser au taux d'agreement inter-systèmes de ces catégories. les locuteurs jamais reconnus dans un système A sont ils ceux du système B etc...
+on peut également définir, à partir des catégories par systèmes, des catégories globales (ie cross-systems) de locuteurs:
+par exemple:
+
+-les locuteurs jamais reconnus dans tous les systèmes
+-les locuteurs bien reconnus au moins par 1 système
+-les locuteurs bien reconnus par la majorité des systèmes
+-les locuteurs bien reconnus par tous les systèmes
+
+chaque locuteur aura donc un "label" parmi ces catégories.
+
+attention, il faudra décider si on définit des catégories mutuellement exclusives de locuteurs, ou qui peuvent se recouvrir.
+L'objectif est d'associer à chacun des spkshow une catégorie qui fasse sens, et ensuite, de chercher des facteurs explicatifs à cette appartenance.
+
+\subsection{Prédiction des performances par locuteur}
+CONTRIBUTEURS=
+
+L'idée ensuite est d'essayer de prédire, si tel locuteur, suivant telles caractéristiques, sera bien reconnu ou pas (ie prédire le "label"' du locuteur).
+Les prédicteurs possibles sont par exemple, la durée de parole, le nombre de segments de parole, la présence de l'ocr, le rôle, la présence dans le dictionnaire etc...
+
+
+\subsection{Extension à l'analyse cross-show}
+CONTRIBUTEURS=
+
+Il s'agit de comparer les performances d'un même locuteur, présent dans différentes émissions. 
+
+\section{Analyse par tour de parole}
+Il s'agit d'analyser les performances de chaque tour de parole.
+
+\subsection{analyse des performances par segment}
+CONTRIBUTEURS=
+
+Une façon d'aborder le problème est de considérer, pour une émission donnée, la séquence des tours de parole avec leur label de locuteur, comme une suite de "mots" (le "mot" étant le tour d'un parole d'un locuteur donné), et de faire un alignement entre la suite de "mots" du test, et la suite de "mots" de la référence, qui permet d'associer à chaque tour de parole de la référence un label: 
+-C correct: le tour de parole du locuteur A a été reconnu comme le tour de parole du locuteur A
+-S substitution: le tour de parole du locuteur A a été reconnu comme le tour de parole du locuteur B
+-D deletion: le tour de parole du locuteur A n'a pas été détecté
+on peut faire cet alignement avec sclite et une option qui oblige à ce que les "mots" alignés aient un recouvrement temporel non-nul. le LNE aurait peut être un logiciel d'alignement plus exigeant sur la couverture temporel.
+
+il s'agit d'analyser la distribution des labels C,S,D  des segments par système, et sur l'ensemble des systèmes.
+On peut alors définir des catégories de segments cross-systems.
+Par exemple:
+-les segments jamais corrects
+(parmi eux: les segments toujours omis, les segments toujours confusion, les segments mixtes confusions/omissions)
+-les segments corrects au moins une fois
+-les segments corrects dans la majorité des systèmes
+-les segments corrects dans tous les systèmes
+chaque segment aura donc un "label" parmi ces catégories
+
+On peut faire cette analyse sur tous les segments, ou en excluant les segments d'overlap, puis spécifiquement sur les segments d'overlap.
+un travail préalable de filtrage des références sur l'overlap sera nécessaire: on supprimera peut etre les segments d'overlap courts correspondants à des backchannels ou des réponses anticipées.
+
+
+Pour les segments "jamais corrects", une analyse supplémentaire sera intéressante: parmi ces segments, combien viennent de locuteurs jamais reconnus, et combien viennent de locuteurs reconnus par ailleurs dans l'émission. Pour les segments jamais corrects de locuteurs reconnus par ailleurs, on analysera leur propriétés particulières.
+
+\subsection{Prédiction des performances par segment}
+CONTRIBUTEURS=
+
+comme pour l'analyse en spkshow, l'idée est d'essayer de prédire, si tel segment, suivant telles caractéristiques, sera bien reconnu ou pas (ie prédire les "labels" des segments). 
+
+
+
+\section{Conclusion}
+
+\acknowledgements{Les remerciements arrivent ici.}
+
+\bibliography{TAL_biblio_ex}
+
+\end{document}

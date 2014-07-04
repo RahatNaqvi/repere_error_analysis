@@ -1,0 +1,117 @@
+\documentclass[utf8x]{article-hermes}
+% Created by Y. Lepage 08/10/2012
+
+% Merci de remplir
+% la date de soumission: JJ/MM/AAAA
+% le volume et le numéro de TAL auquel vous soumettez (p. ex. : 54-1): VV-NN
+% s'il s'agit de la première soumission (1) ou de la deuxième après premières relectures (2): R
+
+\submitted[JJ/MM/AAAA]{TAL~VV-NN}{R}
+
+\title[Titre court]{Votre titre de première page}
+
+\author{Prénom$_1$ Nom$_1$\fup{*} \andauthor Prénom$_2$ Nom$_2$\fup{**}  } 
+
+\address{%
+\fup{*} Première affiliation\\
+\fup{**} Seconde affiliation
+}
+
+\resume{
+Le résumé est à écrire ici.
+}
+
+\abstract{
+Here comes the abstract.
+}
+
+\motscles{
+Mot-clé$_1$,
+mot-clé$_2$,
+mot-clé$_3$.
+}
+
+\keywords{
+Keyword$_1$,
+Keyword$_2$,
+Keyword$_3$.
+}
+
+%\date{}
+\begin{document}
+
+\maketitlepage
+
+%%%%%%%% FAKE TEXT %%%%%%%%%%%%%%%
+\newcommand{\fakesentence}{Attention à ce que les figures et les tableaux ne débordent pas dans les marges. }
+\newcommand{\fakeparagraph}{
+\fakesentence
+\fakesentence
+\fakesentence
+\fakesentence
+\fakesentence
+\fakesentence
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Introduction}
+
+En l'absence de spécification,
+latin1 est l'encodage par défaut.
+Pour un encodage autre que latin1,
+spécifier cet encodage en option de
+\verb$\documentclass$.
+Par exemple:
+\begin{quote}
+\begin{verbatim}
+  \documentclass[utf8x]{article-hermes}
+\end{verbatim}
+\end{quote}
+Les encodages reconnus sont
+\texttt{latin1}, \texttt{latin9}, \texttt{utf8} et \texttt{utf8x}.
+Vos fichiers, y compris la bibliographie, doivent tous être dans l'encodage spécifié.
+Ce modèle utilise \texttt{utf8x}.
+
+\fakeparagraph
+\cite{Chmielik_TAL_52,Virpioja_TAL_52}
+
+\section{Une section de l'article}
+
+\fakeparagraph
+\cite{Celata_TAL_52}
+
+\subsection{Première sous-section}
+
+\fakeparagraph
+\cite{Walther_TAL_52}
+
+\fakeparagraph
+\cite{Lavallee_TAL_52}
+
+\fakeparagraph
+
+\subsection{Deuxième sous-section}
+
+\fakeparagraph
+
+\fakeparagraph
+
+\fakeparagraph
+
+\subsection{Troisième sous-section}
+
+\fakeparagraph
+
+\fakeparagraph
+
+\fakeparagraph
+
+\section{Conclusion}
+
+\fakeparagraph
+
+\acknowledgements{Les remerciements arrivent ici.}
+
+\bibliography{TAL_biblio_ex}
+
+\end{document}
