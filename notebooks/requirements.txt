@@ -1,0 +1,17 @@
+scipy
+numpy
+pandas
+scikit-learn
+nltk
+networkx
+matplotlib
+ipython
+Jinja2
+pytz
+pyzmq
+tornado
+lxml
+nose
+pyannote.core[notebook]
+pyannote.parser
+pyannote.metrics
