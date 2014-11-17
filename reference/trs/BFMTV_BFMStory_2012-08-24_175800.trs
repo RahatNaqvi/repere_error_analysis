@@ -1,0 +1,3990 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_BFMStory_2012-08-24_175800" version="15" version_date="140306">
+<Speakers>
+<Speaker id="spk1" name="Alain_MARSCHALL" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Adrien_GINDRE" check="no" type="male" dialect="native" accent="R2" scope="local"/>
+<Speaker id="spk3" name="Jean-Luc_DELARUE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk4" name="Claire_FLEURY" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk5" name="Jean-Bernard_CADIER" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk6" name="Brune_DAUBRE" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk7" name="Wenche_Elisabeth_ARNTZEN" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk8" name="Christin_BJELLAND" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk9" name="speaker#9" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk10" name="Thomas_VOECKLER" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk11" name="Valerie_BERANGER" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk12" name="Florian_GAZAN" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk13" name="Francois_VIOT" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk14" name="Flavie_FLAMENT" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk15" name="speaker#15" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk16" name="Maxime_POULLAOUEC" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk17" name="Gerard_PORTE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk18" name="speaker#18" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk19" name="speaker#19" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk20" name="speaker#20" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk21" name="speaker#21" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk22" name="Annabelle_ROULEAU" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk23" name="Pierre_LESCURE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk24" name="Thomas_HUGUES" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk25" name="Thierry_MOREAU" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk26" name="Gilles_BORNSTEIN" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk27" name="Christophe_DECHAVANNE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk28" name="Kad_MERAD" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk29" name="Laurence_FERRARI" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk30" name="Catherine_NAY" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk31" name="Matthias_GURTLER" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk32" name="Jean-Pierre_ELKABBACH" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk33" name="Nicolas_VOLLAIRE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk34" name="Tiffanie_OSSWALT" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk35" name="Jeremy_BROSSARD" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk36" name="Olivier_FALORNI" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk37" name="Bruno_LE_MAIRE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk38" name="Philippe_VANDEL" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk39" name="Laurence_PIEAU" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk40" name="speaker#40" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="64.986">
+<Turn startTime="0" endTime="64.986">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="64.986" endTime="1652.072">
+<Turn startTime="64.986" endTime="145.012" speaker="spk1">
+<Sync time="64.986"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+bonsoir
+<Event desc="dis=rep" type="noise" extent="end"/>
+, bonsoir à toutes et tous bienvenus sur BFM TV si vous nous rejoignez maintenant vous êtes dans " BFM Story " 60 minutes comme tous les soirs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ au coeur de l'actualité et ce soir dans une grande partie de cette heure d'information nous reviendrons sur la mort
+<Sync time="78.074"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; 48 ans, mort de son cancer, c'était l'un des animateurs de télévision, de radio, producteur aussi les plus doués de sa génération 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="87.488"/>
+bien sûr le grand public se souvient 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de ses
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de ses émissions phares " ça se discute " notamment, on retiendra aussi ces dernières années sa descente aux enfers avec la drogue 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="96.006"/>
+et avec l'alcool, témoignage à suivre jusqu'à 19h
+<Event desc="19 heures" type="pronounce" extent="previous"/>
+ dans " BFM Story " . 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous reparlerons aussi de &lt;pers=Lance_ARMSTRONG&gt;*Lance Armstrong&lt;/pers&gt; le cycliste américain, déchéance de &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt; 
+<Sync time="108.614"/>
+qui doit laisser partir ses 7 tours de France &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt; est-ce que le fait d'arrêter les poursuites, il ne fera pas appel des accusations 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de dopage de l'agence américaine antidopage est-ce que c'est un aveu de culpabilité ? 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="122.505"/>
+nous en parlerons avec l'ancien médecin du tour de France et puis nous serons en direct Nice aussi à Nice où nous retrouverons &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; candidat pour la présidence de l'UMP 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="131.524"/>
+à Nice se tient en effet la réunion des amis de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; on veut défendre le bilan de l'ancien président, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça a un côté réunion association d'anciens combattants, non ? restez avec nous, nous sommes ensemble pour une heure.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="145.012" endTime="158.699">
+<Sync time="145.012"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="158.699" endTime="164.335">
+<Sync time="158.699"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ à 18h
+<Event desc="18 heures" type="pronounce" extent="previous"/>
+ c'est l'heure du journal préparé, présenté par &lt;pers=Adrien_GINDRE&gt;Adrien Gindre&lt;/pers&gt; bonsoir on reparle de la mort de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; &lt;pers=Adrien_GINDRE&gt;Adrien&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk2" startTime="164.335" endTime="181.066">
+<Sync time="164.335"/>
+on va y revenir 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ longuement toute cette soirée puisque l'ancien animateur, producteur s'est éteint cette nuit à l'âge de 48 ans il y a 9 mois
+<Sync time="171.153"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il avait lui-même révélé être atteint d'un cancer de l'estomac 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'ancien présentateur de " ça se discute " restera comme l'un des monuments de la télévision française, son portrait avec &lt;pers=Claire_FLEURY&gt;Claire Fleury&lt;/pers&gt;. 
+</Turn>
+<Turn startTime="181.066" endTime="181.962">
+<Sync time="181.066"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="181.962" endTime="188.242">
+<Sync time="181.962"/>
+et j'ai compris 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ très vite 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+que
+<Event desc="dis=rep" type="noise" extent="end"/>
+ que j'avais un cancer.
+</Turn>
+<Turn speaker="spk4" startTime="188.242" endTime="205.275">
+<Sync time="188.242"/>
+2 décembre 2011 &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; annonce sa maladie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le présentateur se retire alors de la télévision pour se soigner 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dernière déclaration publique d'un homme de médias au talent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="begin"/>
+très précoce.
+<Sync time="200.57"/>
+il a tout juste 28 ans quand il anime la matinale d'Europe 1.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="205.275" endTime="215.32">
+<Sync time="205.275"/>
+bonne journée, bon sondage, bonjour. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ il y a toujours une ambiance particulière parce qu'on sort de chez soi avant les autres, on réveille les gens, moi je trouve qu'il y a une ambiance géniale le matin, je vraiment j'adore.
+</Turn>
+<Turn speaker="spk4" startTime="215.32" endTime="286.983">
+<Sync time="215.32"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+&lt;pers=Jean-Luc_DELARUE&gt;Delarue&lt;/pers&gt; c'est un style un phrasé dont s'empare rapidement le petit écran à partir de 1991, il anime quotidiennement " la grande famille " 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="225.099"/>
+puis, il part pour le service public où il crée l'émission " ça se discute " 15 ans d'antenne tout de même. 
+<Event desc="dis=applaude" type="noise" extent="instantaneous"/>
+
+<Sync time="232.274"/>
+désormais le voilà également producteur, il devient alors l'une des personnalités les plus influentes et controversées du paf 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en créant des émissions populaires parfois racoleuses comme " c'est mon choix " .
+<Sync time="244.675"/>
+seulement, rapidement son image de gendre idéal est ternie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; multiplie les ennuis judiciaires plaintes de salariés de sa 
+<Event desc="b" type="noise" extent="begin"/>
+société Réservoir Prod 
+<Sync time="255.866"/>
+puis, dérapage en 2007 il insulte les hôtesses et stewards d'un avion Air France. en 2010
+<Event desc="b" type="noise" extent="end"/>
+ il est placé en garde à vue dans une affaire de stupéfiants. 
+<Sync time="266.015"/>
+déterminé à s'en sortir l'animateur entame alors une cure de désintoxication puis, une tournée de sensibilisation contre les méfaits de la drogue
+<Sync time="275.332"/>
+il tente ensuite un retour à la télévision seulement come-back de courte durée 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ malade &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; doit cesser de travailler il avait 48 ans.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="286.983" endTime="287.524">
+<Sync time="286.983"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="287.524" endTime="300.774">
+<Sync time="287.524"/>
+aux Etats-Unis une nouvelle fusillade a éclaté aujourd'hui elle est survenue près de l'Empire State Building on va tout de suite filer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à New-York retrouver le correspondant de BFM TV &lt;pers=Jean-Bernard_CADIER&gt;Jean-Bernard Cadier&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+. &lt;pers=Jean-Bernard_CADIER&gt;Jean-Bernard&lt;/pers&gt; que sait-on à l'heure actuelle du bilan et des circonstances de cette fusillade ?
+</Turn>
+<Turn startTime="300.774" endTime="301.878">
+<Sync time="300.774"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="301.878" endTime="370.443">
+<Sync time="301.878"/>
+alors le bilan s'élève à 2 morts et 9 blessés c'est un employé qui avait été licencié il y a un an qui est revenu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur les lieux de son entreprise pour tuer son ancien patron
+<Sync time="313.663"/>
+cet ancien employé a tué le patron de deux balles dans la tête ensuite il est parti 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur le trottoir, il se trouve que c'est devant l'Empire State Building mais c'est tout à fait par hasard 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="323.043"/>
+deux policiers qui ont été alertés ont essayé de l'interpeller c'est là qu'a commencé une fusillade et dans la fusillade l'employé a été 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tué
+<Sync time="332.63"/>
+9 passants ont été tués à ce moment-là et le maire de New-York qui vient de tenir une conférence de presse 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="338.678"/>
+dit qu'il est tout à fait possible 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que les passants 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ont été tués dans la fusillade
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ont été blessés dans la fusillade
+<Sync time="344.902"/>
+par des balles de la police ce qui serait évidemment 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ gênant pour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la police de New-York mais le maire précise que aucun de ces 9 blessés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="354.297"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ n'a une condition, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ n'a un état de santé qui mette leurs jours en danger 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce qui rassure les gens ici c'est que ça n'a rien à voir avec le terrorisme mais l'affaire a créé une très grande émotion l'Empire State Building 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="364.886"/>
+est évidemment l'endroit le plus visité de New-York avec des milliers de touristes tous les jours devant ce gratte-ciel.
+</Turn>
+<Turn startTime="370.443" endTime="372.79">
+<Sync time="370.443"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="372.79" endTime="377.341">
+<Sync time="372.79"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 2 morts donc et 9 blessés dans cette fusillade.
+</Turn>
+<Turn speaker="spk1" startTime="377.341" endTime="383.601">
+<Sync time="377.341"/>
+à Oslo la condamnation d'&lt;pers=Anders_BEHRING_BREIVIK&gt;Anders Behring Breivik&lt;/pers&gt; le forcené de la fusillade de l'île d'Utoya l'année dernière.
+</Turn>
+<Turn speaker="spk2" startTime="383.601" endTime="394.457">
+<Sync time="383.601"/>
+21 ans de prison pour lui il a été condamné ce matin à la peine maximale, il a été reconnu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ coupable de l'attentat à la bombe et de la fusillade ce qui avait tué 77 personnes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ au total en juillet 2011. &lt;pers=Brune_DAUBRE&gt;Brune Daubré&lt;/pers&gt;.
+</Turn>
+<Turn startTime="394.457" endTime="395.936">
+<Sync time="394.457"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="395.936" endTime="400.339">
+<Sync time="395.936"/>
+c'est le sourire aux lèvres qu'&lt;pers=Anders_BEHRING_BREIVIK&gt;Anders Behring Breivik&lt;/pers&gt; a écouté le verdict.
+</Turn>
+<Turn startTime="400.339" endTime="400.913">
+<Sync time="400.339"/>
+
+</Turn>
+<Turn speaker="spk7 spk40" startTime="400.913" endTime="408.902">
+<Sync time="400.913"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+21 ans de prison dont une peine de sûreté minimum de 10 ans.
+</Turn>
+<Turn speaker="spk6" startTime="408.902" endTime="441.876">
+<Sync time="408.902"/>
+une peine qui pourra être prolongée indéfiniment tant qu'il sera jugé dangereux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="413.624"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la cour estime qu'il a des troubles de la personnalité mais qu'ils ne sont pas assez graves pour le déclarer pénalement irresponsable 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="420.143"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une décision qui satisfait &lt;pers=Anders_BEHRING_BREIVIK&gt;Breivik&lt;/pers&gt; ce dernier craignait que l'internement psychiatrique ne discrédite ses actes
+<Sync time="426.492"/>
+comme lors de son procès qui s'est ouvert le 16 avril dernier, l'auteur du massacre d'Utoya est arrivé au tribunal en faisant un salut d'extrême droite
+<Sync time="434.815"/>
+il est ensuite resté calme et n'a affiché aucun signe de remords pendant toute l'audience, pour les familles des victimes c'est le soulagement.
+</Turn>
+<Turn speaker="spk8 spk9" startTime="441.876" endTime="453.843">
+<Sync time="441.876"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+nous voulions une condamnation unanime nous l'avons espérée et nous l'avons eue, nous en sommes très satisfaits, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous avons également réussi à obtenir la plus lourde peine possible selon le droit norvégien.
+</Turn>
+<Turn speaker="spk6" startTime="453.843" endTime="470.676">
+<Sync time="453.843"/>
+l'été dernier &lt;pers=Anders_BEHRING_BREIVIK&gt;Breivik&lt;/pers&gt; a tué 77 personnes, 8 dans un attentat à la bombe contre le siège du gouvernement et 69 autres à l'arme à feu lors d'un camp d'été de la jeunesse travailliste
+<Sync time="465.118"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ selon lui ces attaques étaient atroces mais nécessaires pour protéger son pays du multiculturalisme.
+</Turn>
+<Turn startTime="470.676" endTime="471.277">
+<Sync time="470.676"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="471.277" endTime="476.143">
+<Sync time="471.277"/>
+&lt;pers=Anders_BEHRING_BREIVIK&gt;Anders Behring Breivik&lt;/pers&gt; qui rejette la légitimité de la cour et annonce qu'il ne fera pas appel.
+</Turn>
+<Turn speaker="spk1" startTime="476.143" endTime="481.304">
+<Sync time="476.143"/>
+la déchéance de &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt;, il perd ses 7 titres du tour de France.
+</Turn>
+<Turn speaker="spk2" startTime="481.304" endTime="495.133">
+<Sync time="481.304"/>
+et tout cela pour dopage, l'américain 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ annonce qu'il tire un trait sur son palmarès, il renonce en fait à poursuivre son bras de fer judiciaire contre l'agence américaine antidopage. écoutez, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la réaction du français &lt;pers=Thomas_VOECKLER&gt;Thomas Voeckler&lt;/pers&gt;, le meilleur grimpeur du tour 2012.
+</Turn>
+<Turn startTime="495.133" endTime="495.859">
+<Sync time="495.133"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="495.859" endTime="514.962">
+<Sync time="495.859"/>
+j'ai couru avec lui dans le peloton c'était 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on était concurrent 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+pas de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ pas avec les mêmes objectifs parce que j'ai jamais eu la prétention 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de gagner le tour de France ou de pouvoir lutter avec lui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur un plan sportif donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="508.17"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ parfois je pense à me, je peux pas trop commenter parce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ça me
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ça me fait ni chaud ni froid en fait voilà.
+</Turn>
+<Turn speaker="spk2" startTime="514.962" endTime="530.91">
+<Sync time="514.962"/>
+la politique et les universités d'été du PS à la Rochelle c'est parti, c'est pour tout le week-end 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ après 10 ans passés dans l'opposition cette année les ministres socialistes vont défiler, on va en parler tout de suite 
+<Sync time="524.466"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec l'envoyé spécial de BFM TV &lt;pers=Valerie_BERANGER&gt;Valérie Béranger&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Valerie_BERANGER&gt;Valérie&lt;/pers&gt; climat forcément un peu particulier, différent cette année ?
+</Turn>
+<Turn startTime="530.91" endTime="531.982">
+<Sync time="530.91"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="531.982" endTime="601.547">
+<Sync time="531.982"/>
+oui absolument &amp;hein parce que jusqu'à présent eh bien l'université d'été de la Rochelle cela servait
+<Sync time="537.249"/>
+pour les socialistes à quand même franchement taper 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur la droite et bien cette année avec la victoire certains se disent carrément déboussolés. alors &lt;pers=Martine_AUBRY&gt;Martine Aubry&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et bien fait un petit rappel à l'ordre elle a rappelé ce qu'elle considère être sa grande priorité.
+<Sync time="552.173"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et bien c'est tout simplement qu'il faut absolument serrer les coudes, s'afficher solidaires sans faille 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ vis-à-vis de l'action gouvernementale en face et bien l'aile gauche du PS 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ne l'entend pas de la même oreille
+<Sync time="564.592"/>
+souhaite plus de débats sur le traité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ européen mais aussi sur un rôle plus critique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ du parti socialiste ce qui agace considérablement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dit-on l'Élysée
+<Sync time="574.775"/>
+finalement pour les journalistes aujourd'hui eh bien le seul petit piment c'était &lt;pers=Olivier_FALORNI&gt;Olivier Falorni&lt;/pers&gt; vous savez ce dissident 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="580.41"/>
+PS qui est toujours persona non grata 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ici, qui s'est quand même accordé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et bien dans la rochelle une petite conférence de presse &amp;hein quitte à être le chouchou 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des médias et qui n'exclut pas ma foi et bien
+<Sync time="592.899"/>
+de venir faire un saut ici sur l'esplanade avant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la fin de la session, bref, la méthode vous rappellera celle d'une certaine &lt;pers=Segolene_ROYAL&gt;Ségolène Royale&lt;/pers&gt;, sa pire ennemie.
+</Turn>
+<Turn speaker="spk2" startTime="601.547" endTime="619.315">
+<Sync time="601.547"/>
+&lt;pers=Valerie_BERANGER&gt;Valérie Béranger&lt;/pers&gt; en direct de la Rochelle avec &lt;pers=Clement_BRISSON&gt;Clément Brisson&lt;/pers&gt; merci beaucoup. et puis autre actualité politique du week-end 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce sont les amis de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; qui se retrouvent à Nice autour
+<Sync time="611.549"/>
+de &lt;pers=Christian_ESTROSI&gt;Christian Estrosi&lt;/pers&gt; le maire de la ville 
+<Event desc="r" type="noise" extent="instantaneous"/>
+. certains voudraient un retour de l'ancien chef de l'état. et tout de suite " BFM Story " avec vous &lt;pers=Alain_MARSCHALL&gt;Alain&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk1" startTime="619.315" endTime="692.276">
+<Sync time="619.315"/>
+puisque vous parlez de la réunion des amis de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; nous serons en direct de Nice tout à l'heure à 18h35
+<Event desc="18 heures 35" type="pronounce" extent="previous"/>
+ nous serons avec &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; candidat à la présidence de l'UMP 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il sera donc en direct de la Riviera 
+<Sync time="628.46"/>
+avec nous. on va revenir tout au long de ce " BFM Story " en direct jusqu'à 19h
+<Event desc="19 heures" type="pronounce" extent="previous"/>
+sur la disparition de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; mort à 48 ans d'un cancer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="636.305"/>
+c'était on le présente aujourd'hui comme l'un des meilleurs animateurs radio et télé de sa génération. malheureusement
+<Sync time="641.868"/>
+pour &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ses dernières sorties publiques médiatiques que nous avons tous en mémoire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ étaient surtout liées au faits divers à ses affaires de drogue, à ses affaires de santé
+<Sync time="652.121"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on va parler de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; ce soir avec &lt;pers=Francois_VIOT&gt;François Viot&lt;/pers&gt; qui est le directeur de la rédaction de Télé câble sat bonsoir 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ merci d'être avec nous, nous serons
+<Sync time="659.028"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nous serons en duplex aussi avec &lt;pers=Flavie_FLAMENT&gt;Flavie Flament&lt;/pers&gt; animatrice radio RTL, elle est avec nous parce que c'est à elle que
+<Sync time="664.988"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; a donné sa première chance, il avait cru 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ au talent de &lt;pers=Flavie_FLAMENT&gt;Flavie Flament&lt;/pers&gt; et elle était toute jeune et il avait décidé de la lancer dans le grand bain de la télévision
+<Sync time="672.431"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis nous sommes en direct aussi avec &lt;pers=Florian_GAZAN&gt;Florian Gazan&lt;/pers&gt; 
+<Sync time="675.185"/>
+je sais pas s'il était avec nous &lt;pers=Florian_GAZAN&gt;Florian Gazan&lt;/pers&gt;, animateur radio sur Fun radio qui était vraiment
+<Sync time="679.972"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un proche de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ son ami, ils avaient commencé ensemble dans les au début des années 80, c'était l'aventure Canal 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'était le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'était 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l'aventure
+<Event desc="dis=rep" type="noise" extent="end"/>
+, l'aventure Europe 1 bien sûr, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ il est avec nous &lt;pers=Florian_GAZAN&gt;Florian Gazan&lt;/pers&gt; ?
+</Turn>
+<Turn speaker="spk12" startTime="692.276" endTime="692.960">
+<Sync time="692.276"/>
+oui, bonsoir.
+</Turn>
+<Turn speaker="spk2" startTime="692.960" endTime="701.28">
+<Sync time="692.960"/>
+je vous pose la question, bonsoir merci d'être avec nous &lt;pers=Florian_GAZAN&gt;Florian Gazan&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je voulais savoir 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ puisque vous êtes un proche de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; vous vous étiez préparé à son décès ?
+</Turn>
+<Turn startTime="701.28" endTime="702.121">
+<Sync time="701.28"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="702.121" endTime="730.155">
+<Sync time="702.121"/>
+&amp;ben 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+ oui évidemment parce que bon moi je 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ça fait
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, ça fait 5 ans en fait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+que je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ que je m'étais un peu éloigné de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt; parce que j'étais parti de Réservoir Prod en très bons termes avec lui d'ailleurs et chacun avait pris son chemin mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="713.687"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ évidemment 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on a encore beaucoup 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de relations en commun et je voilà je savais que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;ben qu'il était très malade et voilà on s'attendait malheureusement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à l'inéluctable et puis chaque jour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui passait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="725.892"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on savait qu'on s'en rapprochait de toute manière vu la gravité 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de ce qu'il avait.
+</Turn>
+<Turn speaker="spk1" startTime="730.155" endTime="751.955">
+<Sync time="730.155"/>
+&amp;hm 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on a entendu aujourd'hui un concert de louanges effectivement sur ses qualités d'animateur, de producteur 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les gens en qui il a cru, qu'il a lancé à l'antenne
+<Sync time="738.584"/>
+moi je voudrais qu'on parle de l'homme. vous vous étiez certes éloignés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais pour le grand public malheureusement ce sont ces dernières affaires qui l'ont rattrapé les affaires de drogue, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la une des faits divers est-ce qu'il s'était coupé du monde, est-ce qu'il s'était isolé &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; ? 
+</Turn>
+<Turn startTime="751.955" endTime="753.074">
+<Sync time="751.955"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="753.074" endTime="806.156">
+<Sync time="753.074"/>
+mais c'était quelqu'un de toute manière de très 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quelque part 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de très seul, de très secret, de très timide 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il était finalement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ enfin moi tel que je l'ai connu il était un peu aux antipodes de l'image qu'il renvoyait c'est souvent 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le cas de
+<Sync time="766.264"/>
+de ces personnages 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je dis personnage parce que c'était un personnage, c'était quelqu'un 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de complètement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ fascinant 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'était
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'était un personnage 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de roman, de film et
+<Sync time="775.47"/>
+il était 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ finalement assez 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="778.289"/>
+assez solitaire, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+assez assez
+<Event desc="dis=rep" type="noise" extent="end"/>
+ assez caché, assez rentré, on savait qu'il avait voilà 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il avait
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+il avait
+<Event desc="dis=rev" type="noise" extent="end"/>
+, il avait des failles, il avait des choses sans doute à régler 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+avec
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ avec son passé, avec lui-même et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="788.312"/>
+et il était vraiment je pense 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et c'est peut-être aussi pour ça finalement 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+que que
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="792.706"/>
+qu'il aimait autant écouter les gens parce que 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ quand il le faisait dans les émissions, il le faisait vraiment avec 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ une sincérité 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la plus totale possible et je pense qu'
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il avait envie 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+des
+<Event desc="dis=rev" type="noise" extent="end"/>
+ d'écouter 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les autres 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et d'apprendre des autres peut-être pour apprendre sur lui-même avant tout quoi
+</Turn>
+<Turn speaker="spk1" startTime="806.156" endTime="819.024">
+<Sync time="806.156"/>
+oui &lt;pers=Florian_GAZAN&gt;Florian&lt;/pers&gt; quand vous entendez aujourd'hui le concert de louanges, l'un des animateurs les plus doués de sa génération à la télévision ou à la radio, est-ce qu'on est 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+dans le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans les louanges dans le superlatif de circonstance ou c'était vraiment l'un des meilleurs de sa génération ?
+</Turn>
+<Turn speaker="spk12" startTime="819.024" endTime="873.577">
+<Sync time="819.024"/>
+&amp;bah c'était évidemment 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l'un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ l'un des meilleurs de sa génération en tout cas il a je pense qu'il fait partie 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de ces
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de ces animateurs 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui a beaucoup changé la télévision 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans la façon de l'animer, dans la façon de la produire aussi parce que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avant il y avait pas tant que ça finalement d'animateur producteur
+<Sync time="833.117"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de jeunes voilà 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de jeunes animateurs qui ont pris un peu leur destin en main et pas uniquement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="838.315"/>
+par rapport à l'antenne
+<Sync time="839.711"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+il avait
+<Event desc="dis=rev" type="noise" extent="end"/>
+ c'était un énorme bosseur &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt; 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il faut
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il faut pas oublier ça il était 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="844.303"/>
+il était d'une exigence incroyable enfin il me fait penser 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="847.903"/>
+quelque part parce que je l'ai connu aussi un peu à &lt;pers=Claude_FRANCOIS&gt;Claude François&lt;/pers&gt; c'était des gens comme ça très exigeants 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais du coup 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="853.674"/>
+très durs, très généreux, très tout en fait c'était des gens 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="857.066"/>
+&lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt; était 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+un m(ec)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ quelqu'un d'excessif mais à tout point de vue 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pour le pour le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pour le bien et sans doute pour le moins bien 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="863.001"/>
+je l'ai autant adoré que détesté par moments mais c'était pas un problème parce que il avait quelque chose de fascinant et que &amp;ah qu'on avait envie de le suivre, je l'aurais suivi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je serais parti à la guerre avec lui, avec un canif quoi.
+</Turn>
+<Turn speaker="spk1" startTime="873.577" endTime="888.677">
+<Sync time="873.577"/>
+&amp;hm merci &lt;pers=Florian_GAZAN&gt;Florian Gazan&lt;/pers&gt;, merci d'avoir témoigné en direct sur BFM TV merci d'avoir été avec nous. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Francois_VIOT&gt;François Viot&lt;/pers&gt; directeur de la rédaction Télé Câble Sat. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ j'imagine que tous les journaux télé le vôtre en particulier 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+vont
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vont bouleverser 
+<Sync time="884.171"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ leur une pour les prochaines semaines et consacreront leur choix 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ bien sûr
+</Turn>
+<Turn speaker="spk13" startTime="888.677" endTime="894.236">
+<Sync time="888.677"/>
+oui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ bien sûr parce que c'était vraiment un des grands de la télé mais 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je rebondis sur ce que disait &lt;pers=Florian_GAZAN&gt;Florian Gazan&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="894.236" endTime="894.727">
+<Sync time="894.236"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="894.727" endTime="969.933">
+<Sync time="894.727"/>
+c'était un des meilleurs mais il savait s'entourer des meilleurs de sa génération c'est
+<Sync time="899.676"/>
+&lt;pers=Jean-Luc_DELARUE&gt;Delarue&lt;/pers&gt; c'était une éponge, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il était comme ça un capteur de tendances 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="905.091"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il avait des intuitions géniales 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais il savait surtout écouter son équipe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 
+<Sync time="910.285"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il y a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il y a deux personnages 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans &lt;pers=Jean-Luc_DELARUE&gt;Delarue&lt;/pers&gt; deux facettes moi
+<Sync time="913.52"/>
+bon 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ un peu oui mais bon
+<Sync time="917.124"/>
+moi je suis pas de sa garde rapprochée comme &lt;pers=Florian_GAZAN&gt;Florian Gazan&lt;/pers&gt; mais bon 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+moi je con(serve)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je conserve deux images de lui
+<Sync time="922.521"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la première c'était 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en 86, ils présentaient &amp;hum sa toute première émission 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec &lt;pers=Olivier_DORANGEON&gt;Olivier Dorangeon&lt;/pers&gt; sur TF6 c'était 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ " la Tour Eiffel " je m'en souviens 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="932.189"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ j'ai vu 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un gars normal qui s'approchait de moi voilà, on a parlé de cinéma, de la fête parce qu'il aimait beaucoup faire la fête
+<Sync time="937.983"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis la deuxième image 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et &amp;ben c'est plus de 10 ans plus tard à l'Olympia là il avait loué
+<Sync time="943.223"/>
+tout l'Olympia pour lui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il était à son apogée, " Réservoir Prod " était 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vraiment la boîte de tous les succès 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+<Sync time="949.816"/>
+et il est arrivé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en limousine, vitres teintées, il s'est pas mélangé à la foule 
+<Sync time="955.813"/>
+au dernier étage de l'Olympia il a regardé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le parterre il y avait tout le gratin du paf 
+<Sync time="960.97"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;ah c'est un peu " Gatsby le magnifique " ou " le Parrain " ben c'est ça les deux facettes de &lt;pers=Jean-Luc_DELARUE&gt;Delarue&lt;/pers&gt; c'est 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le gars normal et puis l'homme en costume de lumière le &lt;pers=Claude_FRANCOIS&gt;Claude François&lt;/pers&gt; comme disait &lt;pers=Florian_GAZAN&gt;Florian Gazan&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk1" startTime="969.933" endTime="985.089">
+<Sync time="969.933"/>
+&lt;pers=Flavie_FLAMENT&gt;Flavie Flament&lt;/pers&gt; est en direct avec nous, bonsoir &lt;pers=Flavie_FLAMENT&gt;Flavie Flament&lt;/pers&gt; merci d'être avec nous, animatrice radio RTL vous êtes en direct d'RTL 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="976.527"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ a cru en vous, vous étiez tout jeune et vous dites vous-même 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il a cru en moi 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+il m'a
+<Event desc="dis=rev" type="noise" extent="end"/>
+ il a pas hésité à me lancer dans le grand bain donc finalement vous le remerciez encore aujourd'hui.
+</Turn>
+<Turn startTime="985.089" endTime="986.23">
+<Sync time="985.089"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="986.23" endTime="1017.877">
+<Sync time="986.23"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ non seulement je remercie 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt; mais vous savez 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je suis extrêmement triste aussi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+comme
+<Event desc="dis=rep" type="noise" extent="end"/>
+ comme tout le monde aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="993.693"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de cette 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ triste et terrible nouvelle 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je remercie &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt; je lui suis surtout extrêmement reconnaissante de tout ce qu'il a bien voulu m'apporter car 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ bénéficier 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1003.409"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ des conseils de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt;, travailler avec lui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et effectivement être plongée dans le grand bain de la télévision avec 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ avec 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ les primes du samedi soir sur TF1 tel que star à domicile 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'était une école 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ merveilleuse et c'était une chance de rencontrer un professionnel tel que lui.
+</Turn>
+<Turn speaker="spk1" startTime="1017.877" endTime="1032.163">
+<Sync time="1017.877"/>
+oui mais vous étiez aussi l'un des témoins privilégiés peut-être des excès de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; mais comme il s'agissait de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1023.69"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ surtout on ne disait rien il y avait une omerta, une complaisance vis-à-vis de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pas faire de vagues parce que c'était la toute-puissance on ne pouvait rien lui reprocher &lt;pers=Flavie_FLAMENT&gt;Flavie Flament&lt;/pers&gt; ? 
+</Turn>
+<Turn startTime="1032.163" endTime="1033.282">
+<Sync time="1032.163"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="1033.282" endTime="1099.348">
+<Sync time="1033.282"/>
+non c'est surtout que moi je n'avais rien à lui reprocher donc si vous voulez parler de ça avec moi, je ne suis pas la bonne personne. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'abord l'image que je garde de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt; c'était un très grand professionnel 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qui a véritablement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1043.083"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ révolutionné 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la télévision je pense que il y a eu une ère &lt;pers=Jean-Luc_DELARUE&gt;Delarue&lt;/pers&gt;, les années 90 et puis après 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les années
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les années 2000 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je pense que c'est une des 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1051.084"/>
+personnes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et des seules personnes qui a compris un jour que il fallait faire parler les anonymes et non pas parler à leur
+<Sync time="1056.545"/>
+place, mais leur donner la liberté d'expression sur ses plateaux. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je pense que c'est la raison de sa popularité, après 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on parle de tous les visages de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt; moi je n'en retiens qu'un c'est celui d'une personne certes complexe 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mais une 
+<Sync time="1068.792"/>
+personne terriblement attachante avec des failles, j'entendais &lt;pers=Florian_GAZAN&gt;Florian Gazan&lt;/pers&gt; parler aussi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'une personne parfois dans la solitude 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt; c'était tout ça à la fois 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+mais
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mais c'était quelqu'un d'extrêmement charismatique 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et je tiens personnellement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1083.214"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et je ne veux d'ailleurs pas faire autrement à en garder 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une image 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je dirais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ inoubliable 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et intacte et je trouve qu'il n'a pas été raté 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ malheureusement je
+<Sync time="1094.23"/>
+pense que les médias ne l'ont pas épargné 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et ce n'est pas du tout le &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt; que je connaissais personnellement. 
+</Turn>
+<Turn speaker="spk1" startTime="1099.348" endTime="1104.507">
+<Sync time="1099.348"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous avez entendu &lt;pers=Flavie_FLAMENT&gt;Flavie Flament&lt;/pers&gt; dit les médias ne l'ont épargnés, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ merci &lt;pers=Flavie_FLAMENT&gt;Flavie Flament&lt;/pers&gt;, merci d'avoir été en direct avec nous, merci.
+</Turn>
+<Turn speaker="spk13" startTime="1104.507" endTime="1115.408">
+<Sync time="1104.507"/>
+mais 
+<Event desc="dis=re" type="noise" extent="begin"/>
+elle
+<Event desc="dis=re" type="noise" extent="end"/>
+ elle a raison 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les médias ont brulé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce qu'ils ont adoré &amp;hein c'est-à-dire que on l'a porté au pinacle, c'était le gendre idéal et puis bon dès qu'il y a eu
+</Turn>
+<Turn speaker="spk1" startTime="1115.408" endTime="1118.315">
+<Sync time="1115.408"/>
+c'est le rôle des médias de dire quand 
+<Event desc="bc" type="noise" extent="begin"/>
+ça va bien et quand ça ne va pas bien aussi.
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="1118.315" endTime="1153.397">
+<Sync time="1118.315"/>
+alors c'est vrai qu'aussi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; a été rattrapé par ses vieux démons 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on le sait, il s'est exprimé là-dessus, il avait des fêlures le divorce de ses parents qu'il a 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1127.747"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+très
+<Event desc="dis=rep" type="noise" extent="end"/>
+ très mal supporté, une grand-mère 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rev" type="noise" extent="end"/>
+ qu'il vénérait et enfin
+<Sync time="1132.349"/>
+tout ça ça l'a rattrapé ce côté excessif mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1135.374"/>
+c'était quelqu'un 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on l'a peu dit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans ces témoignages c'est quelqu'un d'extrêmement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1140.11"/>
+sensible, fragile 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et bon peut-être que toutes ces addictions c'était en partie aussi pour ça &amp;hein parce que c'est un métier où on est 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ très exposé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a la pression, la pression de la presse 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ la pression de l'audience, l'audimat. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1153.397" endTime="1177.958">
+<Sync time="1153.397"/>
+oui &lt;pers=Francois_VIOT&gt;François Viot&lt;/pers&gt; je posais la question à &lt;pers=Flavie_FLAMENT&gt;Flavie Flament&lt;/pers&gt; elle me dit comptez pas sur moi pour dire quoi que ce soit, est-ce que il y a eu une omerta 
+<Sync time="1158.965"/>
+autour de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; parce que vous le rappeliez vous-même à une époque il était 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1162.879"/>
+tout puissant et surtout il ne fallait rien dire sur &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; même si 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1166.95"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le Paris médiatique connaissait paraît-il ses excès
+<Sync time="1171.709"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ses failles et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et parfois 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+justement ce que ça pouvait avoir de 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ ? 
+</Turn>
+<Turn speaker="spk13" startTime="1177.958" endTime="1180.680">
+<Sync time="1177.958"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ l'omerta non, il a eu quand même sa part &amp;hein.
+</Turn>
+<Turn speaker="spk1" startTime="1180.680" endTime="1181.842">
+<Sync time="1180.680"/>
+sur la fin, 
+<Event desc="bc" type="noise" extent="begin"/>
+sur la fin.
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="1181.842" endTime="1184.167">
+<Sync time="1181.842"/>
+oui non, les voleurs de patates des guignols 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1184.167" endTime="1186.556">
+<Sync time="1184.167"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+ça n'a rien à voir, c'est des histoires de contrat du service public.
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="1186.556" endTime="1195.71">
+<Sync time="1186.556"/>
+producteur oui 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'est ça c'est vrai 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis quand même les images dans la presse qu'on a vues 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à l'heure du laitier où 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il est
+<Event desc="dis=rep" type="noise" extent="end"/>
+, il est embarqué donc c'est non je pense pas qu'il est 
+</Turn>
+<Turn speaker="spk1" startTime="1195.71" endTime="1205.723">
+<Sync time="1195.71"/>
+c'était la chute, on était au 
+<Event desc="bc" type="noise" extent="begin"/>
+moment
+<Event desc="bc" type="noise" extent="end"/>
+ de la chute 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+lorsqu'il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ lorsqu'il allait bien mais que dans des dîners parisiens on vous disait &amp;ah ben tiens chez &lt;pers=Jean-Luc_DELARUE&gt;Delarue&lt;/pers&gt; c'était encore une drôle de fête etc.
+<Event desc="et cetera" type="pronounce" extent="previous"/>
+. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y avait un petit cénacle qui était au courant.
+</Turn>
+<Turn speaker="spk13" startTime="1205.723" endTime="1206.795">
+<Sync time="1205.723"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors ça oui.
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1206.795" endTime="1208.528">
+<Sync time="1206.795"/>
+pas étalé 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+dans le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ dans la presse
+</Turn>
+<Turn speaker="spk13" startTime="1208.528" endTime="1225.29">
+<Sync time="1208.528"/>
+c'est vrai la presse people était probablement moins développée 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à l'époque mais bon 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Jean-Luc_DELARUE&gt;
+<Event desc="dis=rep" type="noise" extent="begin"/>
+De(larue)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ Delarue&lt;/pers&gt; il a
+<Sync time="1214.179"/>
+il a il a il a porté 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le flanc aux critiques aussi &amp;hein 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+il a
+<Event desc="dis=rev" type="noise" extent="end"/>
+ il était faut pas non plus en faire 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le gendre idéal 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c'était
+<Event desc="dis=rev" type="noise" extent="end"/>
+ il avait un côté ange et démon 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ en même temps.
+</Turn>
+<Turn speaker="spk1" startTime="1225.29" endTime="1231.022">
+<Sync time="1225.29"/>
+est-ce que vous le saurez 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ l'écrire ça 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans les journaux télés ou vous ne garderez que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les talents de l'animateur et du producteur ? 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="1231.022" endTime="1244.928">
+<Sync time="1231.022"/>
+moi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je décrirais les deux mais on sera surtout nous attachés puisqu'on va venir à peu près 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une quinzaine de jour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+après
+<Event desc="dis=rep" type="noise" extent="end"/>
+ après 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce ce
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce décès 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à l'homme qui a, comme le disais &lt;pers=Flavie_FLAMENT&gt;Flavie Flament&lt;/pers&gt;, donné la parole aux gens parce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est lui qui a
+</Turn>
+<Turn speaker="spk1" startTime="1244.928" endTime="1246.351">
+<Sync time="1244.928"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+et qui a vraiment révolutionné la télévision
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="1246.351" endTime="1254.021">
+<Sync time="1246.351"/>
+qui a vraiment révolutionné la télévision à sa façon de présenter 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'était quand même bon on l'a accusé là encore d'être quelquefois un peu trash mais 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1254.021" endTime="1255.006">
+<Sync time="1254.021"/>
+faire du voyeurisme 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk13" startTime="1255.006" endTime="1280.848">
+<Sync time="1255.006"/>
+oui mais &amp;ben quand on voit 
+<Event desc="bc" type="noise" extent="begin"/>
+ce qu'il se passe aujourd'hui
+<Event desc="bc" type="noise" extent="end"/>
+ non mais c'était d'une manière quand même assez élégante il avait toujours 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je sais pas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans " ça se discute " moi je me souviens 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de moment où 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1267.345"/>
+il avait une façon 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1269.388"/>
+élégante je dirais oui effectivement d'aborder les choses, même les sujets 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les plus
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les plus graves, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et à la fin 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ son émission là " raison de famille " qu'on a beaucoup critiqué 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ je trouvais aussi qu'il avait trouvé le ton juste.
+</Turn>
+<Turn speaker="spk1" startTime="1280.848" endTime="1306.197">
+<Sync time="1280.848"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ merci &lt;pers=Francois_VIOT&gt;François Viot&lt;/pers&gt; merci d'avoir été avec nous directeur de la rédaction de Télé Cable Sat 
+<Sync time="1284.258"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'avoir été en direct. on reparlera de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; tout à l'heure à 18h40
+<Event desc="18 heures 40" type="pronounce" extent="previous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1288.361"/>
+avec un de ses amis &lt;pers=Nicolas_VOLLAIRE&gt;Nicolas Vollaire&lt;/pers&gt; et la directrice de la rédaction du magazine Closer &lt;pers=Laurence_PIEAU&gt;Laurence Pieau&lt;/pers&gt; qui était une des dernières à avoir eu une longue interview 
+<Sync time="1295.314"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt;. on va faire un point sur le trafic beaucoup d'entre vous sont sur la route, c'est le retour des vacances à 18h19
+<Event desc="18 heures 19" type="pronounce" extent="previous"/>
+ on va retrouver &lt;pers=Maxime_POULLAOUEC&gt;Maxime 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ *Poullaouec&lt;/pers&gt; en direct de Rosny-sous-Bois en Seine Saint-Denis Maxime
+</Turn>
+<Turn startTime="1306.197" endTime="1307.113">
+<Sync time="1306.197"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="1307.113" endTime="1318.295">
+<Sync time="1307.113"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+l'info trafic avec green-accres.com
+<Event desc="green accres point COM" type="pronounce" extent="previous"/>
+ moteur de recherches immobilières sur internet.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="1318.295" endTime="1373.108">
+<Sync time="1318.295"/>
+cette soirée est classée orange dans le sens des retours en Ile-de-France et dans le sud-est, ça se confirme à l'
+<Sync time="1323.655"/>
+approche de Paris, vous êtes bien ralenti sur l'A12 entre Guyancourt et Rocancourt 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1327.915"/>
+sur l'A10 entre Janvry et Wissous et sur l'A6 d'Evry jusqu'à Viry-Châtillon, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous êtes également nombreux sur la nationale 118 de Clamart jusqu'au pont de Sèvres
+<Sync time="1335.967"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour quitter Paris ça n'avance pas sur l'A6 entre Chilly-Mazarin et *Savigny-sur-Orge, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça n'avance pas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ non plus sur l'A3 entre la porte de Bagnolet et Rosny-Sous-Bois 
+<Sync time="1345.239"/>
+à cause d'un accident. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en région centre sur l'A10 en direction de Paris le secteur de Tours est bien compliqué ce soir, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et difficultés aussi en Vallée-du-Rhône sur l'A7
+<Sync time="1354.004"/>
+pour remonter vers Lyon entre Orange et Lyon compter 2h50
+<Event desc="2 heures 50" type="pronounce" extent="previous"/>
+ contre 1h50
+<Event desc="1 heure 50" type="pronounce" extent="previous"/>
+ habituellement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ principale difficulté entre Orange et Montélimar puis entre Vienne et Chasse-sur-Rhône 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1363.313"/>
+le Tunnel de Fourvière à Lyon est aussi bien chargé, enfin Languedoc-Roussillon sur l'A9 en direction d'Orange 10km
+<Event desc="10 kilomètres" type="pronounce" extent="previous"/>
+ de ra() ralentissements 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sont recensés ce soir au niveau de Montpellier. 
+</Turn>
+<Turn speaker="spk16" startTime="1373.108" endTime="1385.524">
+<Sync time="1373.108"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+c'était l'info trafic avec green-accres.com
+<Event desc="green accres point COM" type="pronounce" extent="previous"/>
+ moteur de recherches immobilières sur internet.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1385.524" endTime="1397.778">
+<Sync time="1385.524"/>
+" BFM Story " on va continuer notre voyage au coeur de l'actualité en revenant sur la chute de &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt;, le grand coureur américain. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ bonsoir &lt;pers=Gerard_PORTE&gt;Gérard Porte&lt;/pers&gt; vous êtes l'ancien médecin du tour de France, vous avez été médecin du tour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de quand à quand ? 
+</Turn>
+<Turn speaker="spk17" startTime="1397.778" endTime="1408.725">
+<Sync time="1397.778"/>
+&amp;ah pendant 39 ans enfin 39 ans sur le tour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'abord comme infirmier, ensuite comme médecin puis ensuite comme responsable 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc de 72 à jusqu'à 2010.
+</Turn>
+<Turn speaker="spk1" startTime="1408.725" endTime="1413.009">
+<Sync time="1408.725"/>
+oui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on va écouter la réaction de &lt;pers=Thomas_VOECKLER&gt;Thomas Voeckler&lt;/pers&gt; 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le dernier meilleur grimpeur. 
+</Turn>
+<Turn speaker="spk17" startTime="1413.009" endTime="1413.822">
+<Sync time="1413.009"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+absolument
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1413.822" endTime="1417.925">
+<Sync time="1413.822"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à propos de la chute de &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt;, la chute finale comme on dit, écoutez.
+</Turn>
+<Turn startTime="1417.925" endTime="1418.947">
+<Sync time="1417.925"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1418.947" endTime="1438.099">
+<Sync time="1418.947"/>
+j'ai couru avec lui dans le peloton c'était 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on était concurrent 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pas
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pas avec les mêmes objectifs parce que j'ai jamais eu la prétention 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de gagner le tour de France ou de pouvoir lutter avec lui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur un plan sportif donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1431.186"/>
+&amp;bah franchement ça me, je peux pas trop commenter parce que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ça me
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ça me fait ni chaud, ni froid en fait voilà.
+</Turn>
+<Turn speaker="spk1" startTime="1438.099" endTime="1462.264">
+<Sync time="1438.099"/>
+à 40 ans &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt; qui a cessé le combat il a annoncé qu'il renonçait à contester les accusations de dopage et les poursuites lancées contre lui par l'agence américaine antidopage. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je suis blanc mais j'en ai assez de me battre 
+<Sync time="1447.591"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est ce qu'a dit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt; du coup on va lui enlever en tout cas c'est l'union cycliste internationale qui devra en dernier décider on va lui enlever toutes ses victoires du tour. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il dit qu'il est blanc comme neige, est-ce qu'on a affaire 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à un innocent à une erreur judiciaire internationale si je puis dire ?
+</Turn>
+<Turn speaker="spk17" startTime="1462.264" endTime="1482.308">
+<Sync time="1462.264"/>
+bien difficile 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de répondre à cette question mais il a passé de nombreux contrôles tout au long de sa carrière dès sa première victoire dans le tour en 99, il a passé des contrôles, il était contrôlé tous les jours en tant que maillot jaune 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1474.814"/>
+et ça de 99 à 2005 sur toutes ses victoires 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et il a jamais été contrôlé positif donc il n'a jamais été sanctionné par la fédération internationale.
+</Turn>
+<Turn speaker="spk1" startTime="1482.308" endTime="1486.952">
+<Sync time="1482.308"/>
+il y a des témoignages qui l'ont accablé d'anciens coéquipiers 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ on a parlé de transfusions, de prises d'EPO.
+</Turn>
+<Turn speaker="spk17" startTime="1486.952" endTime="1511.583">
+<Sync time="1486.952"/>
+c'est vrai que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ça repose essentiellement sur 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c(es)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ des témoignages d'anciens équipiers 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1491.804"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pourquoi ces anciens équipiers n'ont-ils pas parlé 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ au moment où ils étaient dans l'équipe avec lui en disant attendez dans cette équipe-là 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a des pratiques anormales on arrête tout de suite. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ils ont attendu d'être condamnés eux-mêmes pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1503.382"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dénoncer &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt; donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un sujet qui pose question et on a jamais eu de preuve de positivité absolue de &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt; sur le tour de France.
+</Turn>
+<Turn speaker="spk1" startTime="1511.583" endTime="1514.785">
+<Sync time="1511.583"/>
+donc finalement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il renonce pourquoi selon vous &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt; ?
+</Turn>
+<Turn speaker="spk17" startTime="1514.785" endTime="1522.331">
+<Sync time="1514.785"/>
+je crois qu'il est usé psychologiquement par toutes 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ces
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ces campagnes qui ont eu lieu contre lui de manière répétitive. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1522.331" endTime="1524.661">
+<Sync time="1522.331"/>
+vous le défendez ce soir ? vous avez envie de le défendre ou pas ?
+</Turn>
+<Turn speaker="spk17" startTime="1524.661" endTime="1564.424">
+<Sync time="1524.661"/>
+j'ai pas de preuve 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+qu'il est
+<Event desc="dis=rev" type="noise" extent="end"/>
+ qu'il ait été positif et il s'est conduit comme un grand champion comme on a connu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Eddy_MERCKX&gt;Merckx&lt;/pers&gt; comme on a connu &lt;pers=Bernard_HINAULT&gt;Hinault&lt;/pers&gt; c'était vraiment un patron dans le peloton, c'était vraiment un beau champion 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1535.114"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ n'oublions pas qu'il a été 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ très jeune champion du monde, un des plus jeunes 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+à 20
+<Event desc="dis=rev" type="noise" extent="end"/>
+ à l'âge de 20 ans il était absolument méconnu à l'époque. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il a eu un cancer du testicule, il s'en est sorti 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il a été 3 ans sans courir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1546.436"/>
+il est revenu et là il a gagné le tour et ensuite il a enchaîné 7 tours de France de suite ce que personne n'avait jamais fait donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour moi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il est plus un exemple qu'un personnage condamnable parce que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1557.295"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il a su se sortir d'un cancer, il a su donner l'exemple à des tas de gens 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui ont espoir contre cette maladie 
+</Turn>
+<Turn speaker="spk1" startTime="1564.424" endTime="1577.343">
+<Sync time="1564.424"/>
+c'est intéressant ce que vous dites Docteur &lt;pers=Gerard_PORTE&gt;Porte&lt;/pers&gt; parce que vous êtes médecin, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+vous
+<Event desc="dis=rep" type="noise" extent="end"/>
+ vous venez de me dire il est un exemple plus qu'un personnage condamnable, le médecin sportif que vous êtes à aucun moment ne s'est dit 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est pas possible, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce type marche pas à l'eau claire comme on dit 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il y 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ a quelque chose.
+</Turn>
+<Turn speaker="spk17" startTime="1577.343" endTime="1602.101">
+<Sync time="1577.343"/>
+c'est vrai que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je ne me
+<Event desc="dis=rep" type="noise" extent="end"/>
+, je ne me le suis jamais dit mais je me suis jamais posé la question non plus pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Bernard_HINAULT&gt;Bernard Hinault&lt;/pers&gt; pour &lt;pers=Bernard_THEVENET&gt;Bernard Thévenet&lt;/pers&gt; pour 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1586.403"/>
+&lt;pers=Eddy_MERCKX&gt;Eddy Merckx&lt;/pers&gt; 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de tout temps on a eu des dominateurs dans le peloton 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des grands champions 
+<Sync time="1592.567"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et lui en était un et il n'a pas gagné que des tours de France 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et pour moi il est plus un exemple en effet 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+que
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+que
+<Event desc="dis=rev" type="noise" extent="end"/>
+ qu'un personnage actuellement condamnable.
+</Turn>
+<Turn speaker="spk1" startTime="1602.101" endTime="1604.913">
+<Sync time="1602.101"/>
+et donc 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+vous
+<Event desc="dis=rev" type="noise" extent="end"/>
+ parce que vous ne vouliez pas le voir ou pas savoir ? 
+</Turn>
+<Turn startTime="1604.913" endTime="1605.279">
+<Sync time="1604.913"/>
+
+</Turn>
+<Turn speaker="spk17" startTime="1605.279" endTime="1616.879">
+<Sync time="1605.279"/>
+on a pas eu de preuve il était contrôlé, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les organismes internationaux 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ qui font les contrôles anti-dopage l'ont contrôlé tous les jours où il était maillot jaune il n'a jamais été 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+con(damné)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ condamné pour positivité.
+</Turn>
+<Turn speaker="spk1" startTime="1616.879" endTime="1620.747">
+<Sync time="1616.879"/>
+merci &lt;pers=Gerard_PORTE&gt;Gérard Porte&lt;/pers&gt; ancien médecin du tour de France, merci d'être venu parler en toute franchise &amp;hein.
+</Turn>
+<Turn speaker="spk17" startTime="1620.747" endTime="1621.82">
+<Sync time="1620.747"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+absolument
+<Event desc="dis=rep" type="noise" extent="end"/>
+ absolument. 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1621.82" endTime="1652.072">
+<Sync time="1621.82"/>
+à propos de &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt; " BFM Story " continue juste après le journal 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1625.618"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on revient parler de la disparition 
+<Event desc="musique" type="noise" extent="begin"/>
+de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; mort à 48 ans des suites d'un cancer. quel souvenir garder de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; ? l'animateur télévision le plus doué de sa génération 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1634.905"/>
+la descente aux enfers dans la drogue ensuite pour l'homme &lt;pers=Jean-Luc_DELARUE&gt;Delarue&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis nous serons en direct de Nice 
+<Sync time="1641.18"/>
+c'est l'association des amis de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; qui se réunit à Nice, réunion d'anciens combattants mais pour défendre le bilan, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un bilan , quel bilan ? puisqu'il a été battu par les français &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; aux élections.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1652.072" endTime="1883.003">
+<Turn startTime="1652.072" endTime="1883.003">
+<Sync time="1652.072"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="1883.003" endTime="3158.98">
+<Turn startTime="1883.003" endTime="1905.986" speaker="spk1">
+<Sync time="1883.003"/>
+on va reprendre ensemble le fil de l'actualité c'est l'heure du journal avec la disparition de l'un des animateurs préférés des français &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; il s'est éteint des suites d'un cancer il avait 48 ans.
+<Sync time="1892.399"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on le présente comme l'un des animateurs les plus doués de sa génération et &lt;pers=Jean-Luc_DELARUE&gt;Delarue&lt;/pers&gt; dont le nom est associé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1897.754"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ aux émissions telles que " ça se discute " , " c'est mon choix " , " toute une histoire " émissions dans lesquelles il aimait donner la parole aux anonymes, d'où les réactions recueillies aujourd'hui par &lt;pers=Pierre_CAILLE&gt;Pierre Caillé&lt;/pers&gt;.
+</Turn>
+<Turn startTime="1905.986" endTime="1906.799">
+<Sync time="1905.986"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1906.799" endTime="1911.082">
+<Sync time="1906.799"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est triste
+<Event desc="dis=rep" type="noise" extent="end"/>
+, c'est triste, très triste si jeune en plus.
+</Turn>
+<Turn speaker="spk19" startTime="1911.082" endTime="1917.893">
+<Sync time="1911.082"/>
+&amp;bah 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est malheureux, c'est dommage &amp;bah 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il s'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il s'est bien battu quand même pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour les jeunes pour éviter la drogue 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est déjà bien, c'est bien ce qu'il a fait. 
+</Turn>
+<Turn speaker="spk20" startTime="1917.893" endTime="1924.673">
+<Sync time="1917.893"/>
+je suis assez déçue ce 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ j'aimais bien cet homme, j'aimais bien son émission, j'aimais bien cet homme.
+</Turn>
+<Turn speaker="spk21" startTime="1924.673" endTime="1934.142">
+<Sync time="1924.673"/>
+j'aimais beaucoup son émission &amp;ouais 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ dommage qu'il ait eu des problèmes 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de drogue je dirais mais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quelque part ça n'a pas changé sa personnalité 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ j'appréciais le personnage.
+</Turn>
+<Turn speaker="spk1" startTime="1934.142" endTime="1944.843">
+<Sync time="1934.142"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; s'était mis en retrait de la télévision depuis ses affaires de drogue, l'annonce de son cancer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ retour sur le parcours d'un enfant de la télé devenu l'une de ses icônes, l'une de ses vedettes avec &lt;pers=Annabelle_ROULEAU&gt;Annabelle Rouleau&lt;/pers&gt;.
+</Turn>
+<Turn startTime="1944.843" endTime="1946.22">
+<Sync time="1944.843"/>
+
+</Turn>
+<Turn speaker="spk22" startTime="1946.22" endTime="1956.272">
+<Sync time="1946.22"/>
+c'est tout jeune à 22 ans que &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; fait ses débuts à la télévision, puis il anime occasionnellement les " enfants du rock " et à 27 ans on lui confie la présentation de " la grande famille " .
+</Turn>
+<Turn speaker="spk23" startTime="1956.272" endTime="1969.272">
+<Sync time="1956.272"/>
+c'est sans doute 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l'un des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ l'un des garçons qui nous a le plus sidéré 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ par 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rev" type="noise" extent="end"/>
+ son accomplissement déjà 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ lorsqu'il s'est pointé à Canal alors qu'il devait avoir 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+ 25 ans, 26 ans. 
+</Turn>
+<Turn speaker="spk22" startTime="1969.272" endTime="1979.645">
+<Sync time="1969.272"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ cette émission quotidienne diffusée à la mi-journée le fait connaître auprès du grand public 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'autant qu'au même moment il prend la tête de la matinale sur Europe 1. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en deux saisons cette tranche gagne trois cent mille auditeurs. 
+</Turn>
+<Turn speaker="spk24" startTime="1979.645" endTime="1989.345">
+<Sync time="1979.645"/>
+et là je peux vous dire que c'était une source d'inspiration parce que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'était un débit de mitraillette, c'était 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+du
+<Event desc="dis=rep" type="noise" extent="end"/>
+ du rythme, c'était de l'enthousiasme, c'était de la curiosité. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ je démarrais toutes mes journées avec lui.
+</Turn>
+<Turn speaker="spk22" startTime="1989.345" endTime="2003.105">
+<Sync time="1989.345"/>
+France 2 lui propose alors le contrat qu'il attendait, 
+<Event desc="b" type="noise" extent="begin"/>
+animateur et producteur il crée Réservoir Prod en 94 et lance " ça se discute ". cette émission est la première du genre, elle s'inspire de la télévision américaine et lance le témoignage en France.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk25" startTime="2003.105" endTime="2016.138">
+<Sync time="2003.105"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ à l'époque il était 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il était en avance sur tout le monde 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ aussi bien parce qu'il était jeune 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans ce qu'il faisait et qu'il était très brillant, très vivace et très rapide 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et aussi parce que le genre qu'il créait était 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+au(ssi)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ aussi assez novateur pour la télévision de l'époque &amp;hein.
+</Turn>
+<Turn speaker="spk22" startTime="2016.138" endTime="2028.736">
+<Sync time="2016.138"/>
+" ça se discute " restera 15 ans à l'antenne, il devient un boulimique de production, 6 émissions en 6 ans. Réservoir Prod embauche alors 250 permanents, &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; est passé maître dans l'art du témoignage. 
+</Turn>
+<Turn speaker="spk26" startTime="2028.736" endTime="2041.703">
+<Sync time="2028.736"/>
+c'est l'homme qui a fait parler des milliers de français, c'est l'homme qui a compris que chacun
+<Sync time="2032.299"/>
+quel qu'il soit avait une part de vie, une part d'expérience, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une part de réalité à raconter 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ cette part là et &amp;ben témoignait de la globalité de la société française.
+</Turn>
+<Turn speaker="spk22" startTime="2041.703" endTime="2055.416">
+<Sync time="2041.703"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+en 2006 c'est à nouveau le carton plein avec " toute une histoire " et en 2011 nouveau concept avec " réunion de famille " 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais après 2 mois de diffusion &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; arrête la présentation, on ne reverra plus le surdoué de la télé à l'écran.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2055.416" endTime="2066.399">
+<Sync time="2055.416"/>
+et tout au long de la journée sur BFM Tv les réactions se sont multipliées pour saluer la mémoire de l'homme de télévision, du producteur, du révélateur de talents, florilège 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ compilé par &lt;pers=Sophie_HEBRARD&gt;Sophie Hebrard&lt;/pers&gt;.
+</Turn>
+<Turn startTime="2066.399" endTime="2067.208">
+<Sync time="2066.399"/>
+
+</Turn>
+<Turn speaker="spk27" startTime="2067.208" endTime="2081.589">
+<Sync time="2067.208"/>
+c'était un type brillant c'était très drôle, c'était un type 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ cynique mais surtout envers lui-même
+<Sync time="2072.309"/>
+et aussi aussi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un peu givré parfois donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+comme
+<Event desc="dis=rep" type="noise" extent="end"/>
+ comme on l'est tous parce que ce métier mais c'est un type que je que j'aimais beaucoup et qui me faisait beaucoup rire.
+</Turn>
+<Turn speaker="spk28" startTime="2081.589" endTime="2091.52">
+<Sync time="2081.589"/>
+son énergie, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sa
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sa pêche, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+son
+<Event desc="dis=rep" type="noise" extent="end"/>
+ son intelligence 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="2085.942"/>
+sa bienveillance aussi avec nous enfin bon bref 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un grand un grand un grand
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un grand monsieur 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je pense de la télé
+</Turn>
+<Turn startTime="2091.52" endTime="2111.967" speaker="spk29">
+<Sync time="2091.52"/>
+c'était quelqu'un qui était extrêmement humain très attentif à ses salariés 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Réservoir Prod c'était vraiment 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="2096.848"/>
+il les aimait tous les gens qui travaillaient à Réservoir Prod, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc voilà c'était quelqu'un de fidèle en amitié 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui était toujours là dans les bons, les mauvais moments
+<Sync time="2104.056"/>
+et il avait un génie mais de très 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ c'est à dire quand il nous passait la parole pour les flashs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on faisait des parties de ping-pong absolument géniales et j'en garde un grand souvenir.
+</Turn>
+<Turn speaker="spk30" startTime="2111.967" endTime="2128.142">
+<Sync time="2111.967"/>
+on changeait d'époque avec lui, la radio changeait d'époque et après il y a eu beaucoup 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'animateurs 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui l'ont
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui l'ont imité mais lui il créait un
+<Sync time="2120.662"/>
+style nouveau et c'est quelqu'un qui a 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ lancé un style d'animateur 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+qui appartenait
+<Event desc="dis=rev" type="noise" extent="end"/>
+ qui n'appartenait qu'à lui.
+</Turn>
+<Turn speaker="spk31" startTime="2128.142" endTime="2142.209">
+<Sync time="2128.142"/>
+ça a été 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le maître finalement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de la définition de témoignage 
+<Sync time="2133.188"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+du
+<Event desc="dis=rep" type="noise" extent="end"/>
+ du 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ il faisait il arrivait à faire parler 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ses invités 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tous anonymes sur les thèmes les plus 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ compliqués ou intimes.
+</Turn>
+<Turn speaker="spk32" startTime="2142.209" endTime="2158.694">
+<Sync time="2142.209"/>
+les succès 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l'ont
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'ont brulé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est un univers, et &lt;pers=Christophe_DECHAVANNE&gt;Christophe Dechavanne&lt;/pers&gt; ou &lt;pers=Michel_DRUCKER&gt;Michel Drucker&lt;/pers&gt; peuvent le dire, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ quand on le maîtrise pas assez c'est un univers 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui dévore,
+<Sync time="2154.714"/>
+qui avale, qui consume 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ses
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ses enfants.
+</Turn>
+<Turn speaker="spk33" startTime="2158.694" endTime="2183.941">
+<Sync time="2158.694"/>
+la première fois qu'on s'est rencontré 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il m'a posé des questions pendant une demi-heure sur moi sur ma vie d'où je venais ce
+<Sync time="2163.888"/>
+que j'avais fait et puis même ma vie personnelle, est-ce que j'étais marié, est-ce que j'avais des enfants 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ enfin c'était assez incroyable j'avais l'impression d'être interviewé alors que c'était moi qui venait pour l'interviewer pour la première fois
+<Sync time="2173.23"/>
+et &amp;ouais c'est cette écoute là et surtout cette compassion 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ pour les gens
+<Sync time="2177.671"/>
+qui était réelle et que j'ai vue qui fait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'il était
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'il était autant
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qu'il était autant apprécié du public.
+</Turn>
+<Turn speaker="spk1" startTime="2183.941" endTime="2222.304">
+<Sync time="2183.941"/>
+et &lt;pers=Nicolas_VOLLAIRE&gt;Nicolas Vollaire&lt;/pers&gt; que vous venez de voir à l'instant il sera en direct avec nous tout à l'heure dans moins de 10 minutes 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans " BFM Story " pour reparler de la mémoire de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; avec &lt;pers=Laurence_PIEAU&gt;Laurence Pieau&lt;/pers&gt; la directrice du magazine Closer. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2194.593"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Anders_BEHRING_BREIVIK&gt;Anders Behring Breivik&lt;/pers&gt; va passer les vingt et une prochaines années de sa vie en prison c'est le tueur d'Oslo et de l'île d'Utoya il a été reconnu coupable aujourd'hui reconnu surtout responsable de ses actes de la tuerie de juillet 2011, 77 personnes avaient trouvé la mort
+<Sync time="2207.794"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Anders_BEHRING_BREIVIK&gt;Breivik&lt;/pers&gt; avait toujours affirmé avoir planifié ce massacre au nom d'un idéal de pureté européenne menacé par la mondialisation et par l'Islam 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Tiffanie_OSSWALT&gt;Tiffanie Osswalt&lt;/pers&gt; vous êtes pour BFM Tv en direct d'Oslo, question qu'on se pose dans quelles conditions &lt;pers=Anders_BEHRING_BREIVIK&gt;Breivik&lt;/pers&gt; va-t-il être incarcéré ?
+</Turn>
+<Turn startTime="2222.304" endTime="2225.894">
+<Sync time="2222.304"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk34" startTime="2225.894" endTime="2279.898">
+<Sync time="2225.894"/>
+et bien &lt;pers=Anders_BEHRING_BREIVIK&gt;Anders Behring Breivik&lt;/pers&gt; passera 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les prochaines années de sa vie dans une prison d'Ila à une douzaine de kilomètres au nord de la capitale Oslo 
+<Sync time="2236.651"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il sera placé sous le régime de particulièrement haute sécurité et donc totalement isolé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de tous les autres détenus. il disposera 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à lui seul de 3 cellules de 8m²
+<Event desc="8 mètres carré" type="pronounce" extent="previous"/>
+ chacune, l'une pour dormir, l'autre pour faire du sport
+<Sync time="2250.852"/>
+la troisième équipée 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'un ordinateur sans accès à internet 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il a déjà indiqué par le biais de son avocat qu'il comptait passer ses journées
+<Sync time="2259.112"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à écrire il fera paraître peut-être une autobiographie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ au premier semestre 2013 a précisé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ son avocat. ses conditions de détention qui font un peu polémique une partie de la population norvégienne 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+estime
+<Event desc="dis=rep" type="noise" extent="end"/>
+
+<Sync time="2271.744"/>
+estime qu'elles sont trop clémentes mais ce qui compte pour les familles 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est que &lt;pers=Anders_BEHRING_BREIVIK&gt;Breivik&lt;/pers&gt; soit totalement exclu de la société jusqu'à la fin de ses jours.
+</Turn>
+<Turn speaker="spk1" startTime="2279.898" endTime="2338.021">
+<Sync time="2279.898"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ &lt;pers=Tiffanie_OSSWALT&gt;Tiffanie Osswalt&lt;/pers&gt; en direct 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+d'Ol()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ d'Oslo pour BFM Tv. dans 3 minutes on parlera politique nous serons en direct de Nice 
+<Sync time="2285.946"/>
+où se réunissent ce soir et demain l'association 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des amis de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2289.874"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les cadres de l'UMP veulent défendre l'action de l'ancien président de la République son bilan, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+s'a-t-il de fait
+<Event desc="dis=rev" type="noise" extent="end"/>
+ s'agit-il de faire de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; un recours à l'UMP, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il a d'ailleurs déjeuné aujourd'hui avec des cadres du parti
+<Sync time="2300.124"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ vous voyez les images du Cap Nègre la résidence de &lt;pers=Carla_BRUNI-SARKOZY&gt;Carla Bruni Sarkozy&lt;/pers&gt; l'épouse de l'ancien chef de l'état nous serons donc à 18h38
+<Event desc="18 heures 38" type="pronounce" extent="previous"/>
+ en direct avec &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pendant ce temps,
+<Sync time="2310.313"/>
+la famille socialiste est elle réunie à La Rochelle pour les traditionnelles universités d'été. la grande absente
+<Sync time="2317.444"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de ces journées de travaux &lt;pers=Segolene_ROYAL&gt;Ségolène Royale&lt;/pers&gt; est en déplacement au Cap où elle assiste 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à l'internationale socialiste mais il est évident que la défaite face à &lt;pers=Olivier_FALORNI&gt;Olivier Falorni&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2326.447"/>
+a pesé lourd dans le choix de l'éloignement. &lt;pers=Jeremy_BROSSARD&gt;Jérémy Brossard&lt;/pers&gt; vous êtes à La Rochelle pour BFM Tv 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Olivier_FALORNI&gt;Olivier Falorni&lt;/pers&gt; qui lui bien qu'exclu du PS est bel et bien présent sur place. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk35" startTime="2338.021" endTime="2383.991">
+<Sync time="2338.021"/>
+&amp;ah oui il a même eu droit à une arrivée 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de rock star tout à l'heure alors ce n'était pas ici &amp;hein sur le lieu même de 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'université d'été du parti socialiste c'était à quelques centaines de mètres d'ici sur le port il avait 
+<Sync time="2347.34"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ convié la presse alors pas une provocation a-t-il 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ expliqué parce que je suis ici chez moi a-t-il lancé aux journalistes. 
+<Sync time="2354.159"/>
+alors il a expliqué qu'il était un petit peu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ frustré finalement de ne pas être ici rappelons qu'il avait organisé ces universités pendant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 8 ans et qu'il ne pensait pas réintégrer le parti socialiste en ce 
+<Sync time="2364.891"/>
+rasant le matin, alors il a été interrogé aussi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour savoir s'il avait gardé des contacts au plus haut sommet de l'état on se souvient du tweet de soutien 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de &lt;pers=Valerie_TRIERWEILER&gt;Valérie Trierweiler&lt;/pers&gt; la compagne de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; il est resté assez évasif il a expliqué 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2376.223"/>
+que c'était de l'ordre du privé mais qu'il gardait beaucoup d'amis et notamment parmi les ministres qu'il verrait ici 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ écoutez il est au micro de &lt;pers=Tanguy_DE_LANLAY&gt;Tanguy de Lanlay&lt;/pers&gt;.
+</Turn>
+<Turn startTime="2383.991" endTime="2384.717">
+<Sync time="2383.991"/>
+
+</Turn>
+<Turn speaker="spk36" startTime="2384.717" endTime="2408.371">
+<Sync time="2384.717"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+j'en ai rencontré beaucoup et pourtant je n'ai fait que 200 mètres à peu près 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mais j'en rencontrerai beaucoup des militants 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et des responsables politiques 
+<Sync time="2394.488"/>
+il y aura bien sûr des ministres vous savez 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on est pas engagé comme je l'ai été pendant des années, je l'ai dit aux côtés de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; sans avoir créé des liens en particuliers avec tous ceux et ils étaient pas nombreux qui l'ont soutenu lorsqu'on l'appelait monsieur 3%.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk35" startTime="2408.371" endTime="2432.208">
+<Sync time="2408.371"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ voilà &lt;pers=Segolene_ROYAL&gt;Ségolène Royale&lt;/pers&gt; grande absente ici à La Rochelle mais ses 
+<Sync time="2412.405"/>
+proches entretiennent la flamme ils se retrouveront dans une demi-heure maintenant au musée Maritime ici sur 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le port de La Rochelle il y aura des ministres notamment il y aura &lt;pers=Dominique_BERTINOTTI&gt;Dominique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ Bertinotti&lt;/pers&gt;, &lt;pers=Najat_VALLAUD-BELKACEM&gt;Najat Vallaud-Belkacem&lt;/pers&gt; ou encore &lt;pers=Guillaume_GAROT&gt;Guillaume Garot&lt;/pers&gt; voilà une manière
+<Sync time="2425.157"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de dire que si &lt;pers=Segolene_ROYAL&gt;Ségolène Royal&lt;/pers&gt; est absente de La Rochelle et bien elle reste un personnage incontournable au sein du parti socialiste.
+</Turn>
+<Turn speaker="spk1" startTime="2432.208" endTime="2452.105">
+<Sync time="2432.208"/>
+&lt;pers=Jeremy_BROSSARD&gt;Jérémy Brossard&lt;/pers&gt; à La Rochelle pour BFM Tv pour terminer ce journal la chute finale de &lt;pers=Lance_ARMSTRONG&gt;Lance Armstrong&lt;/pers&gt; le cycliste américain a renoncé à
+<Sync time="2439.023"/>
+faire appel des accusations de dopage qui le poursuivent depuis des années maintenant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ du coup l'agence américaine de lutte contre le dopage a décidé de le déposséder de toutes ses victoires et donc les 7 tours de France, la décision finale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ revient maintenant à l'union cycliste internationale.
+</Turn>
+<Turn startTime="2452.105" endTime="2459.698">
+<Sync time="2452.105"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2459.698" endTime="2472.357">
+<Sync time="2459.698"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ on va filer à Nice retrouver &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; en direct pour BFM Tv, Nice où se réunit dans le très beau cadre
+<Sync time="2465.538"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de Cimiez l'association des amis de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;, il fait beau et chaud pour une réunion d'anciens combattants Monsieur &lt;pers=Bruno_LE_MAIRE&gt;Le Maire&lt;/pers&gt; ? 
+</Turn>
+<Turn startTime="2472.357" endTime="2475.06">
+<Sync time="2472.357"/>
+
+</Turn>
+<Turn speaker="spk37" startTime="2475.06" endTime="2475.888">
+<Sync time="2475.06"/>
+pardon j'ai
+</Turn>
+<Turn startTime="2475.888" endTime="2476.42">
+<Sync time="2475.888"/>
+
+</Turn>
+<Turn speaker="spk37" startTime="2476.42" endTime="2478.269">
+<Sync time="2476.42"/>
+la liaison est pas bonne pour tout vous dire.
+</Turn>
+<Turn speaker="spk1" startTime="2478.269" endTime="2486.781">
+<Sync time="2478.269"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je je vous
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je vous demande, je vous dis vous êtes dans un cadre magnifique mais pour faire une réunion d'anciens combattants politiques 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2483.943"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à la mémoire d'un général battu Monsieur &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; ?
+</Turn>
+<Turn startTime="2486.781" endTime="2489.895">
+<Sync time="2486.781"/>
+
+</Turn>
+<Turn speaker="spk37" startTime="2489.895" endTime="2490.972">
+<Sync time="2489.895"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pardon ?
+</Turn>
+<Turn speaker="spk1" startTime="2490.972" endTime="2491.721">
+<Sync time="2490.972"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &amp;bah décidément
+</Turn>
+<Turn speaker="spk37" startTime="2491.721" endTime="2493.011">
+<Sync time="2491.721"/>
+problème de liaison là malheureusement.
+</Turn>
+<Turn speaker="spk1" startTime="2493.011" endTime="2505.339">
+<Sync time="2493.011"/>
+alors 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je vais
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je vais réessayer, alors je vais la poser tout doucement en espérant que vous la compreniez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2496.722"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est-ce qu'on assiste à Nice
+<Sync time="2498.566"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à une réunion d'anciens combattants à la mémoire d'un général battu lors de la dernière bataille électorale ? 
+</Turn>
+<Turn startTime="2505.339" endTime="2506.022">
+<Sync time="2505.339"/>
+
+</Turn>
+<Turn speaker="spk37" startTime="2506.022" endTime="2508.319">
+<Sync time="2506.022"/>
+ça y est j'arrive à capter votre question c'est bien.
+</Turn>
+<Turn startTime="2508.319" endTime="2508.685">
+<Sync time="2508.319"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk37" startTime="2508.685" endTime="2541.284">
+<Sync time="2508.685"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ non je crois que c'est surtout 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un geste de reconnaissance
+<Sync time="2512.017"/>
+à l'égard de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; vous avez des députés qui sont présents, vous avez d'anciens ministres 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2517.331"/>
+et on vient tous témoigner du travail que nous avons fait avec &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; dont nous sommes fiers
+<Sync time="2522.169"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ moi j'ai été son ministre pendant 4 ans, son ministre des affaires européennes puis son ministre de l'agriculture 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2527.473"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je suis très fier du travail qu'on a fait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à la fois pour renforcer l'union politique européenne
+<Sync time="2532.209"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et en même temps pour 
+<Event desc="bc" type="noise" extent="begin"/>
+servir
+<Event desc="bc" type="noise" extent="end"/>
+ les agriculteurs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je crois que c'est bon 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à ce moment de la rentrée de dire oui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2537.744"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nous sommes tous fiers du travail que nous avons fait avec l'ancien président de la République.
+</Turn>
+<Turn speaker="spk1" startTime="2541.284" endTime="2558.624">
+<Sync time="2541.284"/>
+oui mais &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; ça paraît 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+assez
+<Event desc="dis=rep" type="noise" extent="end"/>
+ assez paradoxal alors que l'UMP a un Congrès 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2546.399"/>
+que les français vous ont dit non à la présidentielle, non aux législatives 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de vouloir défendre le bilan de quelqu'un
+<Sync time="2552.747"/>
+qui finalement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+vous a fait
+<Event desc="dis=rev" type="noise" extent="end"/>
+ a été battu plutôt que de se projeter sur l'avenir avec de nouvelles idées &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt;.
+</Turn>
+<Turn startTime="2558.624" endTime="2560.949">
+<Sync time="2558.624"/>
+
+</Turn>
+<Turn speaker="spk37" startTime="2560.949" endTime="2604.008">
+<Sync time="2560.949"/>
+je crois pas que ce soit paradoxal
+<Sync time="2562.498"/>
+vous savez je crois qu'une famille politique c'est une famille qui a une histoire
+<Sync time="2565.488"/>
+qui respecte son histoire et je crois qu'il faut que nous respections et 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que nous considérions positivement
+<Sync time="2571.097"/>
+les 5 années du mandat de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et c'est en même temps une famille qui doit construire son avenir.
+<Sync time="2576.794"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ moi je veux participer à la construction de cet avenir de l'UMP 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2580.689"/>
+en portant effectivement un renouveau de nos idées, un renouveau de nos pratiques, un renouveau 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2585.037"/>
+du fonctionnement de notre parti pour 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ laisser plus la place aux militants, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais les deux ne sont absolument pas incompatibles 
+<Event desc="r" type="noise" extent="instantaneous"/>
+.
+<Sync time="2591.182"/>
+il faut être respectueux de notre histoire et en même temps 
+<Event desc="bc" type="noise" extent="begin"/>
+capable
+<Event desc="bc" type="noise" extent="end"/>
+ de se projeter dans l'avenir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2595.655"/>
+mais ça se sera les échéances de novembre, les échéances de la campagne pour la présidence de l'UMP 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est pas
+<Sync time="2600.641"/>
+le rôle et le sens de la réunion autour des amis de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; aujourd'hui
+</Turn>
+<Turn speaker="spk1" startTime="2604.008" endTime="2616.083">
+<Sync time="2604.008"/>
+d'accord moi je voudrais comprendre &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; il existe toujours dans la vie politique parce que 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ il s'est retiré il n'a plus parlé sauf 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sur
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sur la Syrie il a fait une incursion dans l'actualité internationale donc 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est-ce qu'il reste un recours pour vous ?
+</Turn>
+<Turn startTime="2616.083" endTime="2618.596">
+<Sync time="2616.083"/>
+
+</Turn>
+<Turn speaker="spk37" startTime="2618.596" endTime="2657.445">
+<Sync time="2618.596"/>
+je crois qu'il reste en tout cas une référence pour beaucoup d'entre nous 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ au sein de l'UMP
+<Sync time="2623.06"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je pense que il a eu raison 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de marquer que sur la Syrie
+<Sync time="2627.607"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'action du gouvernement, l'action de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; qui avait pourtant la présidence du conseil de sécurité des Nations-Unies 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2633.618"/>
+n'était pas à la hauteur de ce qu'on pouvait attendre de la France 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2636.631"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a des massacres en Syrie une situation dramatique
+<Sync time="2640.166"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et une France qui a la présidence du conseil de sécurité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et qui n'intervient pas suffisamment pour faire cesser les combats et trouver
+<Sync time="2646.33"/>
+une issue politique, je crois que un homme de l'expérience de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2650.674"/>
+qui a su affronter des crises internationales importantes, il est normal qu'il intervienne, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il est normal qu'il dise ce qu'il a à dire sur le sujet.
+</Turn>
+<Turn speaker="spk1" startTime="2657.445" endTime="2661.382">
+<Sync time="2657.445"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+est-ce
+<Event desc="dis=rep" type="noise" extent="end"/>
+ est-ce qu'il viendra pour le café 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ demain &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; à Nice ?
+</Turn>
+<Turn startTime="2661.382" endTime="2664.284">
+<Sync time="2661.382"/>
+
+</Turn>
+<Turn speaker="spk37" startTime="2664.284" endTime="2699.356">
+<Sync time="2664.284"/>
+une fois encore la question est pas de savoir si &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; est un recours ou pas c'est pas à nous de le définir
+<Sync time="2669.006"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est à lui-même
+<Sync time="2670.716"/>
+de dire quel rôle il veut occuper au sein de notre famille politique quelle place il entend occuper 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2675.951"/>
+dans la vie politique nationale, c'est lui et lui seul qui peut le déterminer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2680.747"/>
+nous notre responsabilité c'est deux choses, c'est de reconnaître la qualité du travail que nous avons fait avec lui
+<Sync time="2686.245"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la fierté que nous avons de ce que nous avons accompli avec lui et en même temps commencer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à préparer les prochaines échéances électorales, les élections 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ municipales de 2014 et mettre notre famille politique en ordre de bataille 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour gagner ces élections.
+</Turn>
+<Turn speaker="spk1" startTime="2699.356" endTime="2733.683">
+<Sync time="2699.356"/>
+merci &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; merci d'avoir été en direct 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ avec nous de 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ Nice, du très beau cadre des 
+<Sync time="2704.161"/>
+de Cimiez, des Arènes de Cimiez où il fait toujours très beau. merci &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt;. on va reparler de la mort de &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt;, 48 ans 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2709.877"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'un des animateurs, producteurs 
+<Sync time="2712.613"/>
+radio télé, les plus doués de sa génération, il a été vaincu par 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le cancer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2717.206"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on va en parler avec quelqu'un qui le connaît bien c'est le rédacteur en chef adjoint de Tv Magazine &lt;pers=Nicolas_VOLLAIRE&gt;Nicolas Vollaire&lt;/pers&gt;
+<Sync time="2722.104"/>
+merci d'être avec nous, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+vous êtes aussi
+<Event desc="dis=rev" type="noise" extent="end"/>
+ vous étiez
+<Sync time="2725.038"/>
+l'un 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de ses
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de ses plus proches amis 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avant d'écouter la réaction de &lt;pers=Philippe_VANDEL&gt;Philippe Vandel&lt;/pers&gt; on discutait aussi avec &lt;pers=Laurence_PIEAU&gt;Laurence Pieau&lt;/pers&gt; la directrice de la rédaction du magazine Closer vous étiez préparé à sa disparition ?
+</Turn>
+<Turn startTime="2733.683" endTime="2734.353">
+<Sync time="2733.683"/>
+
+</Turn>
+<Turn speaker="spk33" startTime="2734.353" endTime="2735.888">
+<Sync time="2734.353"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ hélas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2735.888" endTime="2739.603">
+<Sync time="2735.888"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+vous saviez 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'il allait
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qu'il allait mourir
+<Event desc="bc" type="noise" extent="end"/>
+ autant en parler clairement 
+<Event desc="bc" type="noise" extent="begin"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans les semaines.
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk33" startTime="2739.603" endTime="2763.71">
+<Sync time="2739.603"/>
+non on savait pas forcément qu'il allait mourir on sait que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les nouvelles étaient pas bonnes depuis 2, 3 semaines à peu près mais &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc&lt;/pers&gt; c'était un tel combattant que moi je l'ai vu au plus bas même il y a 2, 3 mois alors qu'il se mariait au mois de mai 
+<Sync time="2750.998"/>
+je lui ai dit mais 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+comment
+<Event desc="dis=rep" type="noise" extent="end"/>
+ comment tu vas réussir à le faire il m'a dit 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+non
+<Event desc="dis=rep" type="noise" extent="end"/>
+ non je vais le faire, je vais me marier et lors de son mariage voilà 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il était là il était présent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc on espère toujours 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+mais
+<Event desc="dis=rep" type="noise" extent="end"/>
+ mais c'est vrai que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les nouvelles des derniers jours 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+n'étaient pas
+<Event desc="dis=rep" type="noise" extent="end"/>
+ n'étaient pas rassurantes.
+</Turn>
+<Turn speaker="spk1" startTime="2763.71" endTime="2769.874">
+<Sync time="2763.71"/>
+une réaction celle de &lt;pers=Philippe_VANDEL&gt;Philippe Vandel&lt;/pers&gt; l'homme de télévision qui a côtoyé &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; à Canal Plus on l'écoute.
+</Turn>
+<Turn startTime="2769.874" endTime="2771.274">
+<Sync time="2769.874"/>
+
+</Turn>
+<Turn speaker="spk38" startTime="2771.274" endTime="2800.691">
+<Sync time="2771.274"/>
+croyable c'était
+<Sync time="2772.906"/>
+une capacité de travail phénoménale
+<Sync time="2775.771"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tous les gens qui pensent que la télé
+<Sync time="2777.952"/>
+c'est avoir une belle gueule
+<Sync time="2779.662"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ s'asseoir
+<Sync time="2781.117"/>
+et raconter 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des bêtises écrites par quelqu'un d'autre c'est faux, il travaillait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+tout le temps tout le temps
+<Event desc="dis=rep" type="noise" extent="end"/>
+ tout le temps
+<Sync time="2787.332"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ du matin au soir, la nuit je connaissais pas mais il arrivait, il bossait
+<Sync time="2792.429"/>
+il faisait quelque chose que j'avais jamais vu avant
+<Sync time="2794.643"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on faisait la " grande famille " c'était 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de midi et demi
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de 12h30
+<Event desc="12 heures 30" type="pronounce" extent="previous"/>
+ à 13h30
+<Event desc="13 heures 30" type="pronounce" extent="previous"/>
+
+<Sync time="2798.449"/>
+après " la grande famille " il montait dans son bureau
+</Turn>
+<Turn startTime="2800.691" endTime="2801.216">
+<Sync time="2800.691"/>
+
+</Turn>
+<Turn speaker="spk33" startTime="2801.216" endTime="2807.978">
+<Sync time="2801.216"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et tout seul il visionnait l'émission qu'il venait de faire c'est quand même hyper humiliant en ne notant que ce qui n'allait pas.
+</Turn>
+<Turn startTime="2807.978" endTime="2809.239">
+<Sync time="2807.978"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2809.239" endTime="2818.565">
+<Sync time="2809.239"/>
+c'est le travailleur acharné &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'était sa puissance de travail qui l'a emmené 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2814.4"/>
+là où il est arrivé, c'est-à-dire à être l'un 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des hommes les plus populaires de la télévision ?
+</Turn>
+<Turn speaker="spk33" startTime="2818.565" endTime="2837.046">
+<Sync time="2818.565"/>
+&amp;hm oui il a une puissance de travail phénoménale en tant qu'animateur en tant que producteur et ce qui était impressionnant c'est qu'il était vraiment d'une précision
+<Sync time="2825.981"/>
+terrible quoi 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ il laissait rien passer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il avait
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il avait tout calculé, tout vu chaque émission même les dans les dizaines d'émissions qu'il produisait pour de multiples chaînes 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ je sais qu'il avait un oeil partout sur tout.
+</Turn>
+<Turn speaker="spk1" startTime="2837.046" endTime="2858.258">
+<Sync time="2837.046"/>
+oui &lt;pers=Laurence_PIEAU&gt;Laurence Pieau&lt;/pers&gt; 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ bonsoir vous êtes directrice 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de la rédaction du magazine Closer, magazine people qui a souvent été attaqué d'ailleurs &amp;hein par les vedettes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2844.538"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que vous avez 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ fait des incursions dans la vie privée. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous avez été l'un des derniers magazines, c'est peut-être le dernier d'ailleurs à avoir un long entretien avec &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; il y a quelques mois 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ que vous disait-il dans cet entretien quel homme aviez vous 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en face 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de vous à Closer.
+</Turn>
+<Turn speaker="spk39" startTime="2858.258" endTime="2895.632">
+<Sync time="2858.258"/>
+alors précisément en fait on a, moi je le connaissais pas du tout &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+jusqu'en
+<Event desc="dis=rev" type="noise" extent="end"/>
+ jusqu'à l'annonce de sa maladie, jusqu'en novembre 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+2000 2012
+<Event desc="dis=rev" type="noise" extent="end"/>
+, 2011 pardon 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2866.755"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en fait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ la rumeur, l'information de sa maladie commençait à courir les rédactions
+<Sync time="2872.74"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ de cette information on ne savait pas quoi faire très franchement on n'était pas 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on avait pas envie de la sortir et puis il nous a appelé
+<Sync time="2881.077"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il a dit écoutez je préfère vous le dire moi-même parce que de toute façon je vais l'annoncer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donc je vais vous dire précisément ce que j'ai 
+<Sync time="2887.716"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et puis on va travailler ensemble je parlerai qu'à deux magazines dont le vôtre et on va travailler ensemble et
+<Sync time="2893.676"/>
+à partir de ce moment-là effectivement
+</Turn>
+<Turn startTime="2895.632" endTime="2896.159">
+<Sync time="2895.632"/>
+
+</Turn>
+<Turn speaker="spk39" startTime="2896.159" endTime="2987.307">
+<Sync time="2896.159"/>
+on a travaillé ensemble, on a 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ qui est sorti simultanément quasiment au moment de sa conférence de presse 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans lequel qu'on avait
+<Sync time="2903.674"/>
+&amp;hum on s'en servait de ces infos et on relatait sa maladie 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ on a reçu beaucoup de courrier 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à la rédaction 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ auquel il a tenu personnellement à répondre c'est-à-dire que je suis venue lui porter 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le courrier chez lui
+<Sync time="2914.574"/>
+et il a sélectionné 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les mails, les témoignages auxquels il voulait répondre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et il a
+<Sync time="2920.604"/>
+peser ses mots c'était déjà difficile parce qu'il était malade, fatigué 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ il a été interrompu plusieurs fois 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2926.25"/>
+il y a répondu personnellement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et on a continué à lui faire parvenir ce courrier 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2931.042"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on a continué
+<Event desc="dis=rep" type="noise" extent="end"/>
+, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on a continué à se parler moi ce qui m'a vraiment frappé chez lui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2935.362"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est qu'il faisait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ une vraie volonté de transparence 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+autour de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ autour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de cette maladie moi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+quand
+<Event desc="dis=rep" type="noise" extent="end"/>
+ quand je suis allée à son domicile encore une fois je le connaissais absolument pas auparavant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il m'a reçue dans sa chambre, il m'a montré 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="2948.385"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ la table avec ses médicaments 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+qui jouxtait sa
+<Event desc="dis=rev" type="noise" extent="end"/>
+ qui jouxtait son lit 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je le revois encore regardant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2956.306"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ allant sur des forums qui parlaient de sa maladie et de la maladie en générale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et répondre 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+aux
+<Event desc="dis=rep" type="noise" extent="end"/>
+ aux internautes personnellement sans dire
+<Sync time="2964.545"/>
+qui il était 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ y'avait une vraie volonté 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de ne rien cacher je sais pas si vous vous rappelez une de ses dernières apparitions publiques il s'était rendu à un vernissage 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+<Sync time="2973.189"/>
+au côté de &lt;pers=Karl_LAGERFELD&gt;Karl Lagerfeld&lt;/pers&gt; il avait une petite cicatrice sur la joue me semble-t-il 
+<Event desc="id=hes" type="noise" extent="begin"/>
+euh
+<Event desc="id=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+y
+<Event desc="dis=rep" type="noise" extent="end"/>
+ y voilà il a raconté qu'il avait trébuché il aurait pu dire n'importe quoi d'autre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il avait une vraie volonté 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de parler 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ effectivement de cette maladie.
+</Turn>
+<Turn speaker="spk1" startTime="2987.307" endTime="2993.309">
+<Sync time="2987.307"/>
+d'accord de parler de cette maladie 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pas
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pas de la mettre en scène pour pouvoir se protéger jusqu'
+<Event desc="dis=rep" type="noise" extent="begin"/>
+au
+<Event desc="dis=rep" type="noise" extent="end"/>
+ au dernier moment &lt;pers=Nicolas_VOLLAIRE&gt;Nicolas Vollaire&lt;/pers&gt; ?
+</Turn>
+<Turn speaker="spk33" startTime="2993.309" endTime="3028.212">
+<Sync time="2993.309"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+non non
+<Event desc="dis=rep" type="noise" extent="end"/>
+ non pas du tout pour la mettre en scène 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Laurence_PIEAU&gt;Laurence&lt;/pers&gt; avait raison et c'est vrai que 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ce cet
+<Event desc="dis=rev" type="noise" extent="end"/>
+ cette transparence en fait il l'a eu à la fin, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ il l'a eu à partir du moment où il a été arrêté par la police
+<Sync time="3001.815"/>
+à son domicile 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+en
+<Event desc="bc" type="noise" extent="end"/>
+ à la fin de l'année 2010 et là il a décidé de parler, lorsqu'il est parti faire sa cure de désintoxication 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3008.236"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ pour sa dépendance à la drogue et à l'alcool, il a décidé de s'ouvrir de ne plus être dans le mensonge, de ne plus être dans le
+<Sync time="3014.511"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans tout ce qu'on cache 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+comme
+<Event desc="dis=rep" type="noise" extent="end"/>
+ comme c'est le cas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des des des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des dépendants la plupart du temps
+<Sync time="3018.711"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et il avait décidé d'être le plus transparent possible 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et ce que dit &lt;pers=Laurence_PIEAU&gt;Laurence&lt;/pers&gt; c'est vrai, nous on avait sorti 4 ou 5 couvertures notamment de lui et sa femme 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et à chaque fois il a tenu à remercier tous les gens
+</Turn>
+<Turn speaker="spk1" startTime="3028.212" endTime="3039.668">
+<Sync time="3028.212"/>
+est-ce qu'il a été surprotégé &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; à travers toutes ces affaires de drogue qui paraît-il étaient connues 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+du
+<Event desc="dis=rep" type="noise" extent="end"/>
+ du Paris médiatique ? surprotégé pour ne pas écorner l'image 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de l'animateur préféré des français &lt;pers=Laurence_PIEAU&gt;Laurence Pieau&lt;/pers&gt; ?
+</Turn>
+<Turn startTime="3039.668" endTime="3040.528">
+<Sync time="3039.668"/>
+
+</Turn>
+<Turn speaker="spk39" startTime="3040.528" endTime="3053.779">
+<Sync time="3040.528"/>
+non je crois pas non 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il est allé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il a choisi de parler à Closer alors qu'on avait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on avait publié les photos il nous l'a reproché d'ailleurs &amp;hein beaucoup 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on avait publié les photos 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de son arrestation 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+.
+</Turn>
+<Turn speaker="spk1" startTime="3053.779" endTime="3061.294">
+<Sync time="3053.779"/>
+avant les photos de l'arrestation je vous parle 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des années de gloire où on disait il y a une omerta sur &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; faut surtout pas que ça se sache, c'est vrai ou pas ?
+</Turn>
+<Turn speaker="spk39" startTime="3061.294" endTime="3075.13">
+<Sync time="3061.294"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ écoutez de la ho() honnêtement de la part de la presse people 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je pense pas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on a relaté ce qu'on pouvait relater aussi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est-à-dire 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce qui juridiquement était ce qu'il était possible 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de relater 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sans être attaqué aussi. 
+</Turn>
+<Turn speaker="spk1" startTime="3075.13" endTime="3085.349">
+<Sync time="3075.13"/>
+oui &lt;pers=Laurence_PIEAU&gt;Laurence Pieau&lt;/pers&gt; merci d'avoir été en direct avec &lt;pers=Nicolas_VOLLAIRE&gt;
+<Event desc="dis=rep" type="noise" extent="begin"/>
+Nico(las)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ Nicolas Vollaire&lt;/pers&gt; c'était un homme seul &lt;pers=Jean-Luc_DELARUE&gt;Jean-Luc Delarue&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3080.185"/>
+vous arriviez vous ses amis à lui faire entendre raison sur ses addictions, sur ses excès ou pas ?
+</Turn>
+<Turn speaker="spk33" startTime="3085.349" endTime="3132.617">
+<Sync time="3085.349"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il a eu deux périodes celle d'avant l'arrêt
+<Sync time="3088.801"/>
+et celle d'après, et celle d'avant il avait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+beaucoup beaucoup
+<Event desc="dis=rep" type="noise" extent="end"/>
+ beaucoup d'amis
+<Sync time="3092.391"/>
+comme on dit souvent de faux-amis, un entourage 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3094.743"/>
+dans lesquels 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il a il a
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il a fait un ménage terrible pour ne plus garder 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+que
+<Event desc="dis=rep" type="noise" extent="end"/>
+ que quelques proches, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+quelques
+<Event desc="dis=rep" type="noise" extent="end"/>
+ quelques amis 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais
+<Sync time="3101.618"/>
+à l'époque, notamment 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à l'époque où il était au plus haut de son addiction 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'était
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'était quasi impossible même ses plus proches amis 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ même sa famille
+<Sync time="3109.255"/>
+c'était compliqué et 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+il avait
+<Event desc="dis=rev" type="noise" extent="end"/>
+ il se battait aussi pour la garde 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de son fils qu'il s'était séparé avec son ex compagne vous imaginez bien que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est pas facile devant un juge 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3117.285"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de dire je veux garder mon fils alors 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'on est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qu'on est addict à la cocaïne et à l'alcool 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="3122.16"/>
+donc c'était 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+très
+<Event desc="dis=rep" type="noise" extent="end"/>
+ très compliqué c'est à la fin au moment où il a cru qu'il allait tout perdre c'est-à-dire la femme de sa vie, la garde de son fils, sa société 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ses émissions qu'il a dit voilà maintenant stop je vais prendre un nouveau départ.
+</Turn>
+<Turn speaker="spk1" startTime="3132.617" endTime="3138.176">
+<Sync time="3132.617"/>
+en 20 secondes que va devenir 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+Réservoir Prod
+<Event desc="dis=rep" type="noise" extent="end"/>
+, Réservoir prod c'était &lt;pers=Jean-Luc_DELARUE&gt;Delarue&lt;/pers&gt; ça va continuer, les émissions vont continuer à être produites ?
+</Turn>
+<Turn speaker="spk33" startTime="3138.176" endTime="3138.505">
+<Sync time="3138.176"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3138.505" endTime="3139.545">
+<Sync time="3138.505"/>
+il avait su bien s'entourer ?
+</Turn>
+<Turn speaker="spk33" startTime="3139.545" endTime="3151.214">
+<Sync time="3139.545"/>
+oui il avait su bien s'entourer et quand il était parti pour son tour de France de prévention des drogues il avait laissé ça à son adjoint qui s'appelle &lt;pers=Jean-Baptiste_CLAVERIE&gt;Jean-Baptiste Claverie&lt;/pers&gt; qui est un type qui a beaucoup de talent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et ça fait déjà plus d'un an qu'il s'était mis en retrait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de sa société.
+</Turn>
+<Turn speaker="spk1" startTime="3151.214" endTime="3158.98">
+<Sync time="3151.214"/>
+merci &lt;pers=Nicolas_VOLLAIRE&gt;Nicolas Vollaire&lt;/pers&gt; merci à &lt;pers=Laurence_PIEAU&gt;Laurence Pieau&lt;/pers&gt; 18h50
+<Event desc="18 heures 50" type="pronounce" extent="previous"/>
+fin de " BFM Story " c'est l'heure de 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la météo
+<Event desc="dis=rep" type="noise" extent="end"/>
+, la météo des plages aussi avec &lt;pers=Christophe_PERSON&gt;Christophe Person&lt;/pers&gt; .
+</Turn>
+</Section>
+<Section type="nontrans" startTime="3158.98" endTime="3600.024">
+<Turn startTime="3158.98" endTime="3600.024">
+<Sync time="3158.98"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

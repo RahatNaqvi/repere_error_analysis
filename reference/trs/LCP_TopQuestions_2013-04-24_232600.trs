@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Yann" audio_filename="LCP_TopQuestions_2013-04-24_232600" version="9" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Claude_BARTOLONE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk2" name="Jean_GLAVANY" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk3" name="Laurent_FABIUS" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk4" name="Luc_CHATEL" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="Christiane_TAUBIRA" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="843.0">
+<Turn startTime="0" endTime="843.0">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="843.0" endTime="1213.090">
+<Turn startTime="843.0" endTime="845.353" speaker="spk1">
+<Sync time="843.0"/>
+la parole est à monsieur &lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk2" startTime="845.353" endTime="849.893">
+<Sync time="845.353"/>
+monsieur le ministre des affaires étrangères, hier, à 7h20
+<Event desc="7 heures 20" type="pronounce" extent="previous"/>
+ du matin
+</Turn>
+<Turn startTime="849.893" endTime="850.599">
+<Sync time="849.893"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="850.599" endTime="853.478">
+<Sync time="850.599"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une explosion d'une violence inouïe
+</Turn>
+<Turn startTime="853.478" endTime="854.05">
+<Sync time="853.478"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="854.05" endTime="858.969">
+<Sync time="854.05"/>
+a ravagé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+les
+<Event desc="dis=hes" type="noise" extent="end"/>
+ locaux 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+de
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la chancellerie française, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à Tripoli, en Libye
+</Turn>
+<Turn startTime="858.969" endTime="859.776">
+<Sync time="858.969"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="859.776" endTime="876.761">
+<Sync time="859.776"/>
+mes premières pensées 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, comme j'imagine ceux de tous mes collègues, sont évidemment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+à l'adresse des deux blessés, les deux gendarmes français qui étaient 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+sur place et qui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ont payé dans leur chair,
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="872.322"/>
+de blessures graves pour l'un d'entre eux, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les conséquences terribles de cet attentat.
+</Turn>
+<Turn startTime="876.761" endTime="877.45">
+<Sync time="876.761"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="877.45" endTime="891.187">
+<Sync time="877.45"/>
+avec mon collègue &lt;pers=Jacques_MYARD&gt;Jacques Myard&lt;/pers&gt;, nous étions sur place depuis dimanche 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+pour des contacts 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ avec les autorités libyennes, dans ce pays 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+en pleine 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ reconstruction 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, qui fait face à de nombreux défis difficiles, dont,
+</Turn>
+<Turn startTime="891.187" endTime="891.709">
+<Sync time="891.187"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="891.709" endTime="893.67">
+<Sync time="891.709"/>
+évidemment, celui de la sécurité.
+</Turn>
+<Turn startTime="893.67" endTime="894.215">
+<Sync time="893.67"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="894.215" endTime="895.806">
+<Sync time="894.215"/>
+ vous vous êtes rendus sur place
+</Turn>
+<Turn startTime="895.806" endTime="896.308">
+<Sync time="895.806"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="896.308" endTime="900.813">
+<Sync time="896.308"/>
+avec beaucoup de réactivité, hier après-midi, avec notre collègue &lt;pers=Pouria_AMIRSHAHI&gt;Pouria Amirshahi&lt;/pers&gt;.
+</Turn>
+<Turn startTime="900.813" endTime="901.371">
+<Sync time="900.813"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="901.371" endTime="903.397">
+<Sync time="901.371"/>
+vous avez pu constater, comme nous, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="903.397" endTime="903.972">
+<Sync time="903.397"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="903.972" endTime="911.728">
+<Sync time="903.972"/>
+le drame que représente cette explosion, le drame pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+la communauté française que nous 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ avons 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ longuement rencontrée les uns et les autres.
+</Turn>
+<Turn startTime="911.728" endTime="912.349">
+<Sync time="911.728"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="912.349" endTime="919.662">
+<Sync time="912.349"/>
+je voudrais, monsieur le ministre, vous interroger très simplement sur 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le jugement que vous portez sur cet acte terroriste
+</Turn>
+<Turn startTime="919.662" endTime="920.172">
+<Sync time="919.662"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="920.172" endTime="924.706">
+<Sync time="920.172"/>
+l'analyse que vous en faites et les conséquences que le gouvernement français compte en tirer.
+</Turn>
+<Turn startTime="924.706" endTime="925.664">
+<Sync time="924.706"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="925.664" endTime="933.55">
+<Sync time="925.664"/>
+monsieur le député, mesdames et messieurs les députés, c'est vrai que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ hier matin, il y a eu une explosion terrible et à 10 minutes près, 10 minutes !
+</Turn>
+<Turn startTime="933.55" endTime="934.186">
+<Sync time="933.55"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="934.186" endTime="936.070">
+<Sync time="934.186"/>
+ça aurait été un véritable carnage
+</Turn>
+<Turn startTime="936.070" endTime="936.57">
+<Sync time="936.070"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="936.57" endTime="953.809">
+<Sync time="936.57"/>
+car 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il n'y avait que les deux gendarmes mobiles en faction 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+. l'un d'entre eux était totalement indemne, même s'il était 
+<Event desc="r" type="noise" extent="instantaneous"/>
+choqué.
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="945.331"/>
+l'autre a été opéré 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ hier après-midi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'un traumatisme crânien et nous avons rapatrié les deux gendarmes, ce matin. et bien évidemment
+</Turn>
+<Turn startTime="953.809" endTime="954.310">
+<Sync time="953.809"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="954.310" endTime="962.134">
+<Sync time="954.310"/>
+nos pensées vont vers eux de même que nos pensées vont 
+<Event desc="r" type="noise" extent="instantaneous"/>
+vers les blessés libyens qui se trouvaient 
+<Event desc="r" type="noise" extent="instantaneous"/>
+dans 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la zone autour
+</Turn>
+<Turn startTime="962.134" endTime="962.647">
+<Sync time="962.134"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="962.647" endTime="976.843">
+<Sync time="962.647"/>
+mais je le répète : à 10 minutes près, 10 minutes près ! c'étaient des dizaines de cadavres. car lorsque *on s'est rendu sur place, vous y étiez la vieille, j'y étais moi-même hier après-midi. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'ambassade est complètement soufflée, il n'en reste absolument rien
+</Turn>
+<Turn startTime="976.843" endTime="977.464">
+<Sync time="976.843"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="977.464" endTime="988.791">
+<Sync time="977.464"/>
+alors il y a une enquête qui est diligentée par 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les libyens qui ont été très réactifs.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a aussi un juge 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ du 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+parquet
+<Event desc="dis=hes" type="noise" extent="end"/>
+, un juge antiterroriste de Paris, qui est arrivé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ hier, dans la nuit,
+</Turn>
+<Turn startTime="988.791" endTime="989.331">
+<Sync time="988.791"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="989.331" endTime="992.756">
+<Sync time="989.331"/>
+en même temps que *un certain nombre de personnes du GIGN
+</Turn>
+<Turn startTime="992.756" endTime="993.204">
+<Sync time="992.756"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="993.204" endTime="999.111">
+<Sync time="993.204"/>
+nous *avons pris les dispositions qu'on doit prendre dans ce genre de situation pour à la fois renforcer la sécurité sur place et puis
+</Turn>
+<Turn startTime="999.111" endTime="999.607">
+<Sync time="999.111"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="999.607" endTime="1004.484">
+<Sync time="999.607"/>
+dans 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'ensemble 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de nos installations de la zone
+</Turn>
+<Turn startTime="1004.484" endTime="1005.675">
+<Sync time="1004.484"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1005.675" endTime="1010.684">
+<Sync time="1005.675"/>
+une question se pose, mais nous sommes incapables, à l'heure actuelle, de donner la réponse : qui ?
+</Turn>
+<Turn startTime="1010.684" endTime="1011.478">
+<Sync time="1010.684"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1011.478" endTime="1023.233">
+<Sync time="1011.478"/>
+alors il y a deux grandes familles de réponses, qui d'ailleurs ne sont pas exclusives l'une de l'autre, on peut dire, mais c'est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1018.727"/>
+compte tenu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de la difficulté de rétablir la sécurité en Libye, contre la Libye.
+</Turn>
+<Turn startTime="1023.233" endTime="1023.767">
+<Sync time="1023.233"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1023.767" endTime="1029.524">
+<Sync time="1023.767"/>
+d'autres peuvent dire : « mais c'est à cause de l'engagement français dans différents pays, contre le terrorisme, et en particulier au Mali. »
+</Turn>
+<Turn startTime="1029.524" endTime="1030.028">
+<Sync time="1029.524"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1030.028" endTime="1036.232">
+<Sync time="1030.028"/>
+quelle que soit la réponse, nous devons, mesdames et messieurs les députés, et j'en suis sûr que vous en serez tous d'accord,
+</Turn>
+<Turn startTime="1036.232" endTime="1036.72">
+<Sync time="1036.232"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1036.72" endTime="1040.045">
+<Sync time="1036.72"/>
+puisque les terroristes qui ont commis cet acte
+</Turn>
+<Turn startTime="1040.045" endTime="1040.576">
+<Sync time="1040.045"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1040.576" endTime="1043.565">
+<Sync time="1040.576"/>
+veulent porter 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+at(teinte)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ atteinte à la sécurité de la France,
+</Turn>
+<Turn startTime="1043.565" endTime="1044.067">
+<Sync time="1043.565"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1044.067" endTime="1061.233">
+<Sync time="1044.067"/>
+porter atteinte à la sécurité de la Libye, porter atteinte à l'amitié entre la France et la Libye, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1049.466"/>
+la réponse sans concession de la France doit être 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ : oui pour renforcer la sécurité de la France,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ oui pour contribuer à la sécurité de la Libye,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ oui pour rapprocher encore davantage la Libye et la France.
+</Turn>
+<Turn startTime="1061.233" endTime="1063.433">
+<Sync time="1061.233"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1063.433" endTime="1065.407">
+<Sync time="1063.433"/>
+la parole est à monsieur &lt;pers=Luc_CHATEL&gt;Luc Chatel&lt;/pers&gt;.
+</Turn>
+<Turn startTime="1065.407" endTime="1066.296">
+<Sync time="1065.407"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1066.296" endTime="1069.198">
+<Sync time="1066.296"/>
+merci monsieur le président. monsieur le premier ministre
+</Turn>
+<Turn startTime="1069.198" endTime="1069.703">
+<Sync time="1069.198"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1069.703" endTime="1072.74">
+<Sync time="1069.703"/>
+c'est bien votre quinquennat que je vais évoquer
+</Turn>
+<Turn startTime="1072.74" endTime="1073.242">
+<Sync time="1072.74"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1073.242" endTime="1078.064">
+<Sync time="1073.242"/>
+en vous parlant de justice pour tous 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et en interrogeant madame le garde des sceaux.
+</Turn>
+<Turn startTime="1078.064" endTime="1078.696">
+<Sync time="1078.064"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1078.696" endTime="1085.32">
+<Sync time="1078.696"/>
+madame la ministre, le projet de loi sur la transparence de la vie publique a été adopté 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ce matin par le conseil des ministres
+</Turn>
+<Turn startTime="1085.32" endTime="1085.948">
+<Sync time="1085.32"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1085.948" endTime="1097.182">
+<Sync time="1085.948"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ précise que toute personne dépositaire de l'autorité publique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+exerce sa mission 
+<Event desc="r" type="noise" extent="instantaneous"/>
+avec, je cite : « dignité, probité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et impartialité .»
+</Turn>
+<Turn startTime="1097.182" endTime="1097.809">
+<Sync time="1097.182"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1097.809" endTime="1100.908">
+<Sync time="1097.809"/>
+j'imagine donc que cela doit d'abord s'appliquer
+</Turn>
+<Turn startTime="1100.908" endTime="1101.384">
+<Sync time="1100.908"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1101.384" endTime="1106.503">
+<Sync time="1101.384"/>
+à ceux qui disent le droit 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et qui rendent la justice au nom du peuple français
+</Turn>
+<Turn startTime="1106.503" endTime="1107.103">
+<Sync time="1106.503"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1107.103" endTime="1110.401">
+<Sync time="1107.103"/>
+et non d'une idéologie partisane ou syndicale.
+</Turn>
+<Turn startTime="1110.401" endTime="1111.016">
+<Sync time="1110.401"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1111.016" endTime="1113.736">
+<Sync time="1111.016"/>
+alors, que faut-il penser, madame la ministre,
+</Turn>
+<Turn startTime="1113.736" endTime="1114.293">
+<Sync time="1113.736"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1114.293" endTime="1116.642">
+<Sync time="1114.293"/>
+de la révélation du site Atlantico
+</Turn>
+<Turn startTime="1116.642" endTime="1117.199">
+<Sync time="1116.642"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1117.199" endTime="1119.33">
+<Sync time="1117.199"/>
+sur l'existence, je cite :
+</Turn>
+<Turn startTime="1119.33" endTime="1119.801">
+<Sync time="1119.33"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1119.801" endTime="1121.279">
+<Sync time="1119.801"/>
+d' " un mur des cons
+</Turn>
+<Turn startTime="1121.279" endTime="1121.894">
+<Sync time="1121.279"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1121.894" endTime="1124.36">
+<Sync time="1121.894"/>
+rassemblant ", 
+<Event desc="r" type="noise" extent="instantaneous"/>
+rassurez-vous il y en a
+<Event desc="b" type="noise" extent="begin"/>
+ chez vous,
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="1124.36" endTime="1125.006">
+<Sync time="1124.36"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1125.006" endTime="1137.716">
+<Sync time="1125.006"/>
+" rassemblant des personnalités politiques, magistrats, policiers, journalistes, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ intellectuels et même, mes chers collègues, et même 
+<Event desc="r" type="noise" extent="instantaneous"/>
+des parents de victimes " 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="1137.716" endTime="1138.535">
+<Sync time="1137.716"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1138.535" endTime="1146.063">
+<Sync time="1138.535"/>
+un mur qui ressemble à une véritable liste noire, futur tableau de chasse 
+<Event desc="r" type="noise" extent="instantaneous"/>
+du syndicat de la magistrature
+</Turn>
+<Turn startTime="1146.063" endTime="1147.013">
+<Sync time="1146.063"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1147.013" endTime="1150.503">
+<Sync time="1147.013"/>
+madame la ministre, nous sommes là face à une faute
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1150.503" endTime="1151.271">
+<Sync time="1150.503"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1151.271" endTime="1167.148">
+<Sync time="1151.271"/>
+au regard de l'injure publique constatée. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+mais nous sommes surtout là face à une grave remise en cause 
+<Event desc="r" type="noise" extent="instantaneous"/>
+de l'impartialité de la justice
+<Sync time="1159.018"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+est-ce que les magistrats qui ont élaboré cette liste 
+<Event desc="r" type="noise" extent="instantaneous"/>
+seront, demain, en mesure 
+<Event desc="r" type="noise" extent="instantaneous"/>
+de rendre la justice en toute impartialité ?
+</Turn>
+<Turn startTime="1167.148" endTime="1167.78">
+<Sync time="1167.148"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1167.78" endTime="1187.247">
+<Sync time="1167.78"/>
+est-ce que les coupables désignés par avance sur ce mur 
+<Event desc="r" type="noise" extent="instantaneous"/>
+auront droit à une justice équitable ? 
+<Event desc="r" type="noise" extent="instantaneous"/>
+alors madame la garde des sceaux, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+allez-vous condamner ces actes devant la représentation nationale ?
+<Sync time="1178.934"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+allez-vous saisir le conseil supérieur de la magistrature 
+<Event desc="r" type="noise" extent="instantaneous"/>
+pour engager les sanctions administratives ? 
+<Event desc="r" type="noise" extent="instantaneous"/>
+allez-vous saisir le procureur de la république 
+<Event desc="r" type="noise" extent="instantaneous"/>
+pour injure
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1187.247" endTime="1190.647">
+<Sync time="1187.247"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1190.647" endTime="1195.048">
+<Sync time="1190.647"/>
+&lt;pers=Christiane_TAUBIRA&gt;Taubira&lt;/pers&gt;, garde des sceaux, ministre de la justice.
+<Sync time="1193.806"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1195.048" endTime="1199.021">
+<Sync time="1195.048"/>
+monsieur le président, mesdames messieurs les députés, monsieur le ministre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Luc_CHATEL&gt;Luc Chatel&lt;/pers&gt;
+</Turn>
+<Turn startTime="1199.021" endTime="1199.601">
+<Sync time="1199.021"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1199.601" endTime="1199.933">
+<Sync time="1199.601"/>
+vous
+</Turn>
+<Turn startTime="1199.933" endTime="1200.587">
+<Sync time="1199.933"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1200.587" endTime="1207.134">
+<Sync time="1200.587"/>
+vous savez, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ parfaitement donc, que ce mur 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+est
+<Event desc="dis=rev" type="noise" extent="end"/>
+ se trouve dans le local d'un syndicat de la magistrature
+</Turn>
+<Turn startTime="1207.134" endTime="1209.019">
+<Sync time="1207.134"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1209.019" endTime="1210.182">
+<Sync time="1209.019"/>
+attendez ! écoutez
+</Turn>
+<Turn speaker="spk5 spk1" startTime="1210.182" endTime="1210.713">
+<Sync time="1210.182"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1210.713" endTime="1213.090">
+<Sync time="1210.713"/>
+est un syndicat qui est en cause
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1213.090" endTime="1332.888">
+<Turn startTime="1213.090" endTime="1332.888">
+<Sync time="1213.090"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_RuthElkrief_2012-09-20_190040" version="15" version_date="140319">
+<Speakers>
+<Speaker id="spk1" name="Ruth_ELKRIEF" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Rachid_M_BARKI" check="no" type="male" dialect="native" accent="R2" scope="local"/>
+<Speaker id="spk3" name="Veronique_FEVRE" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk4" name="Vincent_PEILLON" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="speaker#5" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="Bernadette_GROISON" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk7" name="Jean-Francois_COPE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk8" name="Jean-Pierre_MERCIER" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk9" name="Inconnu_056" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk10" name="Florence_SACHOT" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk11" name="Johanne_PORTAL" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk12" name="Gildas_LEARD" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk13" name="Valerie_TRIERWEILER" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="1719.969">
+<Turn startTime="0" endTime="1719.969">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="1719.969" endTime="2103.221">
+<Turn startTime="1719.969" endTime="1741.548" speaker="spk1">
+<Sync time="1719.969"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+
+<Sync time="1721.138"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ voilà, nous nous retrouvons donc en direct du ministère du travail 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et du dialogue social 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ avant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le journal de &lt;pers=Rachid_M_BARKI&gt;Rachid M'Barki&lt;/pers&gt;. je continuerai 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à dialoguer avec 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Michel_SAPIN&gt;Michel Sapin&lt;/pers&gt; sur les mesures que le gouvernement prévoit pour lutter contre le chômage
+<Sync time="1734.778"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et justement, on va en parler avec vous &lt;pers=Rachid_M_BARKI&gt;Rachid&lt;/pers&gt; &amp;hein 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+. &lt;pers=Vincent_PEILLON&gt;Vincent Peillon&lt;/pers&gt; annoncé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la création de 40 mille postes de professeurs l'année prochaine.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1741.548" endTime="1751.413">
+<Sync time="1741.548"/>
+oui, dès l'année prochaine 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et un peu plus de la moitié de ces postes sera 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'ailleurs 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un peu plus
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un peu plus de la moitié de ceux qui seront embauchés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le sera pour remplacer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les départs en retraite. &lt;pers=Veronique_FEVRE&gt;Véronique Fèvre&lt;/pers&gt;.
+</Turn>
+<Turn startTime="1751.413" endTime="1752.984">
+<Sync time="1751.413"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1752.984" endTime="1759.885">
+<Sync time="1752.984"/>
+
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'austérité ça n'est pas pour l'éducation nationale. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ quand les autres se serrent la ceinture, 
+<Event desc="b" type="noise" extent="begin"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le ministère, lui, recrute.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1759.885" endTime="1765.394">
+<Sync time="1759.885"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+nous allons avoir à recruter près de 40 mille professeurs. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et donc mon gros problème c'est
+</Turn>
+<Turn speaker="spk4 spk5" startTime="1765.394" endTime="1766.459">
+<Sync time="1765.394"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1766.459" endTime="1767.743">
+<Sync time="1766.459"/>
+pour la rentrée 2013 ?
+</Turn>
+<Turn speaker="spk4" startTime="1767.743" endTime="1770.88">
+<Sync time="1767.743"/>
+dans les années, là, 
+<Event desc="bc" type="noise" extent="begin"/>
+qui viennent,
+<Event desc="bc" type="noise" extent="end"/>
+ il faut les trouver. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1770.88" endTime="1802.587">
+<Sync time="1770.88"/>
+mais attention, sur les 40 mille postes, 22 mille sont des remplacements, des départs en retraite 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ reste donc en réalité 18 mille nouveaux postes.
+<Sync time="1778.486"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est un peu plus que les 12 mille prévus 
+<Event desc="b" type="noise" extent="begin"/>
+chaque année. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a donc une légère accélération du rythme des embauches. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ toutefois, on ignore encore les détails : 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ comment vont se répartir ces recrutements ?
+<Sync time="1788.724"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur les concours de novembre prochain ou novembre 2013 ? 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ toutes ces questions sont renvoyées par le ministère à la présentation du budget, la semaine prochaine. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les syndicats, eux, sont plutôt bienveillants 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais mettent en garde le ministère sur le manque d'attractivité du métier.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1802.587" endTime="1821.168">
+<Sync time="1802.587"/>
+cette année, nous l'avons bien vu, il y a des concours où nous avons manqué de candidats, 17 à 20 pour cent de chute sur certains concours.
+<Sync time="1809.362"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est énorme et si nous ne mettons pas en place des dispositifs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour aider les étudiants 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à préparer ces concours et à les réussir, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous allons avoir du mal à recruter ces jeunes dont nous avons vraiment besoin de la maternelle au lycée
+</Turn>
+<Turn speaker="spk3" startTime="1821.168" endTime="1827.909">
+<Sync time="1821.168"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+une attractivité qui passe aussi par une meilleure rémunération. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un dossier qui n'est pas à l'ordre du jour pour &lt;pers=Vincent_PEILLON&gt;Vincent Peillon&lt;/pers&gt;.
+</Turn>
+<Turn startTime="1827.909" endTime="1829.232">
+<Sync time="1827.909"/>
+
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1829.232" endTime="1834.155">
+<Sync time="1829.232"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et réaction immédiate de l'UMP avec &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; qui crie au scandale budgétaire. écoutez.
+</Turn>
+<Turn startTime="1834.155" endTime="1834.698">
+<Sync time="1834.155"/>
+
+<Event desc="b-" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="1834.698" endTime="1864.227">
+<Sync time="1834.698"/>
+je viens d'apprendre que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Vincent_PEILLON&gt;Vincent Peillon&lt;/pers&gt; annonçait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 40 mille postes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de professeurs supplémentaires en 2013.
+<Sync time="1842.692"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je demande donc maintenant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ officiellement à &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; de siffler la fin de la récréation. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ premièrement, nous n'avons pas le premier euro pour financer cela. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1851.679"/>
+deuxièmement, je demande à &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; de dire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ quels sont donc les postes des autres administrations 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'il va supprimer 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour financer un tel niveau de recrutement ? 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il est en train de ruiner notre pays.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1864.227" endTime="1892.97">
+<Sync time="1864.227"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; " dit n'importe quoi et ne sait pas compter " , c'est ce qu'à déclarer il y a quelques minutes sur BFM TV, &lt;pers=Michel_SAPIN&gt;Michel Sapin&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ " le budget existe " 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ même ajouté le ministre 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ du travail.
+<Sync time="1873.718"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une délégation de salariés de PSA reçue pendant 1h
+<Event desc="1 heure" type="pronounce" extent="previous"/>
+ aujourd'hui à l'Élysée. &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; 
+<Event desc="b" type="noise" extent="begin"/>
+ne s'est certes pas engagé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur un gel du plan social annoncé au mois de juillet 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1883.323"/>
+en revanche, le chef de l'état a promis une négociation tripartite 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ entre la direction, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les syndicats et l'état. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ écoutez le délégué CGT 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de PSA Aulnay.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="1892.97" endTime="1893.751">
+<Sync time="1892.97"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="1893.751" endTime="1916.099">
+<Sync time="1893.751"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+on lui a demandé très clairement d'établir 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+très
+<Event desc="dis=rep" type="noise" extent="end"/>
+ très rapidement un calendrier de négociations tripartites. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce sur quoi il s'est engagé. là où on a obtenu aucun engagement de la part du chef de l'état 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1904.745"/>
+c'est qui s'engage sérieusement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à faire en sorte que le plan de licenciement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ soit gelé le temps de la négociation. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça veut dire que pour nous, ça c'est inacceptable. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est inacceptable parce que on peut pas négocier le couteau sous la gorge 
+<Event desc="r" type="noise" extent="instantaneous"/>
+.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1916.099" endTime="1958.479">
+<Sync time="1916.099"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ voilà, des syndicats qui avaient demandé aux salariés de faire grève aujourd'hui et surtout de manifester aux abords de l'Élysée. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1921.371"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ils 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ étaient environ 800 selon en tout cas l'intersyndicale, 
+<Event desc="b-" type="noise" extent="instantaneous"/>
+très encadrés par les policiers 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais aussi très remontés. ils n'ont pas vraiment pu approcher 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de l'Élysée et sont repartis dans le calme.
+<Sync time="1931.95"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="end"/>
+ demain est considéré comme une journée à haut risque pour les intérêts français dans certains pays. une vingtaine de pays en tout. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ambassades, consulats et écoles françaises y seront fermés.
+<Sync time="1941.814"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est d'ailleurs déjà le cas depuis hier en Tunisie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et même si le gouvernement tunisien a décidé tout à l'heure d'interdire les manifestations de ce vendredi,
+<Sync time="1949.838"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les expatriés français ont quand même beaucoup de craintes. reportage 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Johanne_PORTAL&gt;Johanne Portal&lt;/pers&gt; avec &lt;pers=Francois_PITREL&gt;François Pitrel&lt;/pers&gt;, envoyés spéciaux de BFM TV en Tu(nisie), à Tu(nisie) en Tunisie.
+</Turn>
+<Turn startTime="1958.479" endTime="1960.552">
+<Sync time="1958.479"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1960.552" endTime="1962.217">
+<Sync time="1960.552"/>
+pourquoi 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ faut prendre ça ?
+</Turn>
+<Turn speaker="spk10" startTime="1962.217" endTime="1963.654">
+<Sync time="1962.217"/>
+pour mettre ta pâte.
+</Turn>
+<Turn speaker="spk11" startTime="1963.654" endTime="1970.627">
+<Sync time="1963.654"/>
+pas d'école pour &lt;pers=Chloe_BFMTV_RuthElkrief_2012-09-20_190040&gt;Chloé&lt;/pers&gt;. à la place, c'est atelier cuisine. sa maman 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ a dû lui expliquer pourquoi il n'y avait pas classe aujourd'hui.
+</Turn>
+<Turn speaker="spk10" startTime="1970.627" endTime="1982.89">
+<Sync time="1970.627"/>
+j'ai déjà commencé à 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+lui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ lui demander pourquoi ton école est fermée ? " y'a des méchants qui vont la brûler. " moi 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j'ai
+<Event desc="dis=rep" type="noise" extent="end"/>
+ j'ai expliqué 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le coup des dessins 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui d'habitude font rire mais qu'en ce moment, on sait très bien que ça ne fait pas rire ici en Tunisie. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="1982.89" endTime="1993.002">
+<Sync time="1982.89"/>
+pire, pour &lt;pers=Florence_BFMTV_RuthElkrief_2012-09-20_190040&gt;Florence&lt;/pers&gt;, installée en Tunisie depuis 5 ans, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ces caricatures risquent de déstabiliser un peu plus le pays, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une semaine après les attaques violentes contre l'ambassade américaine.
+</Turn>
+<Turn startTime="1993.002" endTime="1994.423">
+<Sync time="1993.002"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1994.423" endTime="2004.698">
+<Sync time="1994.423"/>
+c'était vraiment pas le bon moment du tout. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, j'étais vraiment en colère quoi parce que quand on voit ce qu'il s'est passé 8 jours avant juste quelques jours après sortir, c'est du marketing.
+</Turn>
+<Turn startTime="2004.698" endTime="2005.820">
+<Sync time="2004.698"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="2005.820" endTime="2015.085">
+<Sync time="2005.820"/>
+à La Marsa où vivent de nombreux expatriés, ce commerçant français aussi est en colère. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il a carrément lancé une pétition 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour que Charlie Hebdo ne ressorte pas en kiosque ce vendredi.
+</Turn>
+<Turn speaker="spk12" startTime="2015.085" endTime="2031.644">
+<Sync time="2015.085"/>
+il y a un mal qui *a *été fait mais je pense que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ si la France a l'intelligence de l'interdire, ça peut calmer les choses
+<Sync time="2021.105"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et c'est vrai que là j'en appelle 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à la diplomatie française ou aux dirigeants français de faire une action et d'empêcher cette deuxième sortie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pour
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pour pouvoir calmer les choses.
+</Turn>
+<Turn speaker="spk11" startTime="2031.644" endTime="2045.743">
+<Sync time="2031.644"/>
+avec cette affaire des caricatures, la communauté française entre crainte et agacement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ espère surtout qu'il n'y aura pas de débordements ce vendredi, jour de prière dans les pays musulmans 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour que dès lundi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les établissements scolaires français du pays accueillent normalement les élèves.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="2045.743" endTime="2046.519">
+<Sync time="2045.743"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2046.519" endTime="2074.527">
+<Sync time="2046.519"/>
+Al-Qaïda au Maghreb islamique menace de tuer les otages français enlevés au Niger. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le groupe terroriste reproche en fait à Paris d'avoir appelé à envahir le nord du Mali 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tombé depuis 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quelques mois aux *mains des islamistes, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le quai d'Orsay s'est refusé 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ pour le moment à commenter 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ces menaces.
+<Sync time="2061.205"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Valerie_TRIERWEILER&gt;Valérie Trierweiler&lt;/pers&gt; devient ambassadrice de la fondation &lt;pers=Danielle_MITTERRAND&gt;Danielle Mitterrand&lt;/pers&gt;. la compagne de 
+<Event desc="b" type="noise" extent="begin"/>
+&lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ a inauguré aujourd'hui une vente aux enchères au profit de la fondation 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et elle a dit vouloir défendre les valeurs de l'ancienne première dame. écoutez.
+</Turn>
+<Turn speaker="spk13" startTime="2074.527" endTime="2103.221">
+<Sync time="2074.527"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ je *vais essayer de le faire du mieux possible. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il ne s'agit pas de se substituer
+<Sync time="2080.372"/>
+à la mémoire de &lt;pers=Danielle_MITTERRAND&gt;Danielle Mitterrand&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il ne s'agit pas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de me mesurer à &lt;pers=Danielle_MITTERRAND&gt;Danielle Mitterrand&lt;/pers&gt;, ni même de me comparer. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il s'agit seulement de porter ses valeurs, les valeurs qu'elle incarnait. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="2090.892"/>
+c'était une grande dame pour qui le mot engagement avait un sens, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour qui le mot liberté avait un sens et j'y suis très sensible à ce mot là 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et au fait qu'elle ait associée celui de France et *celui de liberté.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="2103.221" endTime="3782.040">
+<Turn startTime="2103.221" endTime="3782.040">
+<Sync time="2103.221"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

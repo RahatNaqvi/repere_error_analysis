@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_CultureEtVous_2012-12-17_064700" version="14" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Roselyne_DUBOIS" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Damien_GOURLET" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk3" name="Claire_FLEURY" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk4" name="speaker#4" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk5" name="Hugh_JACKMAN" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="speaker#6" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk7" name="speaker#7" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk8" name="Michel_HAZANAVICIUS" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="789.995">
+<Turn startTime="0" endTime="789.995">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="789.995" endTime="938.001">
+<Turn startTime="789.995" endTime="805.66" speaker="spk1">
+<Sync time="789.995"/>
+avec cette 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ d'abord cette nouvelle consécration 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ pour &lt;pers=Omar_SY&gt;Omar Sy&lt;/pers&gt;, l'acteur qui va découvrir ce soir sa statue, statue 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ de cire au musée Grévin et regardez comment ça se passe en amont comment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="798.872"/>
+on fabrique cette merveille, 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ séance de calibrage, la statue devrait être installée 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans la salle des colonnes 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et ça c'est bien.
+</Turn>
+<Turn speaker="spk2" startTime="805.66" endTime="819.326">
+<Sync time="805.66"/>
+
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ oui parce qu'il sera tout près de &lt;pers=Nicolas_CAGE&gt;Nicolas Cage&lt;/pers&gt;, de &lt;pers=George_CLOONEY&gt;George Clooney&lt;/pers&gt;, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de &lt;pers=Charlie_CHAPLIN&gt;Charlie Chaplin&lt;/pers&gt;. ils pourront parler cinéma 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="begin"/>
+&lt;pers=Elisabeth_WINDSOR&gt;Elisabeth 2&lt;/pers&gt; n'est pas loin non plus voilà.
+<Event desc="b" type="noise" extent="end"/>
+ voisinage prestigieux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour &lt;pers=Omar_SY&gt;Omar Sy&lt;/pers&gt; qui donc accède à la consécration, il aura sa statue chez Grévin.
+</Turn>
+<Turn speaker="spk1" startTime="819.326" endTime="820.819">
+<Sync time="819.326"/>
+des heures de pose le pauvre quand mê(me).
+</Turn>
+<Turn speaker="spk2" startTime="820.819" endTime="826.08">
+<Sync time="820.819"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+du boulot
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;hein ? on entendra pas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce rire fameux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ rendu célèbre par le film " intouchables " évidemment 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="826.08" endTime="840.271">
+<Sync time="826.08"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ aller " culture
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et vous " à présent,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ on fait dans la nouveauté, nouveau rôle pour 
+<Event desc="b" type="noise" extent="instantaneous"/>
+&lt;pers=Michel_HAZANAVICIUS&gt;Michel Hazanavicius&lt;/pers&gt; qui aura 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ peut-être lui aussi sa statue bientôt, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une nouvelle étoile sur Hollywood Boulevard et puis 2 petits nouveaux chez les Rolling Stones, c'était
+<Sync time="837.069"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ambiance hier au 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ concert. 
+<Event desc="b" type="noise" extent="begin"/>
+&lt;pers=Claire_FLEURY&gt;Claire Fleury&lt;/pers&gt;, &lt;pers=Yoann_PARISET&gt;Yoann Pariset&lt;/pers&gt;. 
+</Turn>
+<Turn startTime="840.271" endTime="846.051">
+<Sync time="840.271"/>
+
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="846.051" endTime="855.63">
+<Sync time="846.051"/>
+clap de fin 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour leur dernier concert aux États-Unis, les Stones ont tout fait pour marquer les esprits 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à grand renfort d'invités prestigieux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Bruce_SPRINGSTEEN&gt;Bruce Springsteen&lt;/pers&gt;
+</Turn>
+<Turn startTime="855.63" endTime="857.680">
+<Sync time="855.63"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="857.680" endTime="860.144">
+<Sync time="857.680"/>
+et plus surprenant, &lt;pers=Stefani_GERMANOTTA&gt;Lady Gaga&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="860.144" endTime="861.529">
+<Sync time="860.144"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="861.529" endTime="865.105">
+<Sync time="861.529"/>
+ qui avait préparé une chorégraphie disons 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ bien à elle.
+</Turn>
+<Turn startTime="865.105" endTime="871.604">
+<Sync time="865.105"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="871.604" endTime="872.876">
+<Sync time="871.604"/>
+inauguration.
+</Turn>
+<Turn startTime="872.876" endTime="875.370">
+<Sync time="872.876"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="875.370" endTime="882.023">
+<Sync time="875.370"/>
+après sa nomination aux Golden Globes pour son rôle dans les " misérables ", &lt;pers=Hugh_JACKMAN&gt;Hugh Jackman&lt;/pers&gt; découvre son étoile sur le 
+<Event desc="en" type="language" extent="begin"/>
+Walk of Fame
+<Event desc="en" type="language" extent="end"/>
+.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="882.023" endTime="883.520">
+<Sync time="882.023"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="883.520" endTime="891.533">
+<Sync time="883.520"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+et il a beau être très exactement la 2487ème
+<Event desc="deux mille quatre cent quatre vingt septième" type="pronounce" extent="previous"/>
+star à avoir son bout de trottoir, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il ne s'en remet toujours pas.
+</Turn>
+<Turn speaker="spk5" startTime="891.533" endTime="892.137">
+<Sync time="891.533"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5 spk6" startTime="892.137" endTime="895.908">
+<Sync time="892.137"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+je prends ma retraite, il faut finir au sommet et là je peux vraiment pas faire mieux.
+</Turn>
+<Turn startTime="895.908" endTime="897.252">
+<Sync time="895.908"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="897.252" endTime="898.846">
+<Sync time="897.252"/>
+un sacré festival.
+</Turn>
+<Turn startTime="898.846" endTime="900.114">
+<Sync time="898.846"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="900.114" endTime="907.419">
+<Sync time="900.114"/>
+le cinéma, &lt;pers=Michel_HAZANAVICIUS&gt;Michel Hazanavicius&lt;/pers&gt; adore ça 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors pour " retour de flamme ", un festival qui mélange spectacle
+</Turn>
+<Turn startTime="907.419" endTime="908.322">
+<Sync time="907.419"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="908.322" endTime="912.658">
+<Sync time="908.322"/>
+et découverte de films rares, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il s'est improvisé choriste.
+</Turn>
+<Turn startTime="912.658" endTime="916.1">
+<Sync time="912.658"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="916.1" endTime="918.466">
+<Sync time="916.1"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+mais aussi, expert en bruitages
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="918.466" endTime="921.364">
+<Sync time="918.466"/>
+voici la machine à bruit de 1912.
+</Turn>
+<Turn speaker="spk3" startTime="921.364" endTime="924.318">
+<Sync time="921.364"/>
+attention, objet on ne peut plus physique.
+</Turn>
+<Turn startTime="924.318" endTime="926.28">
+<Sync time="924.318"/>
+
+<Event desc="musique" type="noise" extent="end"/>
+ 
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="926.28" endTime="930.41">
+<Sync time="926.28"/>
+
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="musique" type="noise" extent="begin"/>
+&amp;ouais mais 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j(e) suis j(e) suis
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je suis une bête, ça va 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je m'en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je m'en suis sorti
+</Turn>
+<Turn speaker="spk3" startTime="930.41" endTime="935.04">
+<Sync time="930.41"/>
+et de façon exceptionnelle, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tant de talent d'ailleurs, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça s'applaudit.
+</Turn>
+<Turn startTime="935.04" endTime="938.001">
+<Sync time="935.04"/>
+
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="938.001" endTime="1257.480">
+<Turn startTime="938.001" endTime="1257.480">
+<Sync time="938.001"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

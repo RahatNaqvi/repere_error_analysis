@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Vervisch_Ménard" audio_filename="LCP_CaVousRegarde_2012-09-19_002500" version="12" version_date="140310">
+<Speakers>
+<Speaker id="spk1" name="Arnaud_ARDOIN" check="no" dialect="native" accent="R1" scope="local" type="male"/>
+<Speaker id="spk2" name="Jean_LEONETTI" check="no" dialect="native" accent="R4" scope="local" type="male"/>
+<Speaker id="spk3" name="Franck_RIESTER" check="no" dialect="native" accent="R4" scope="local" type="male"/>
+<Speaker id="spk4" name="Guillaume_PELTIER" check="no" dialect="native" accent="R4" scope="local" type="male"/>
+<Speaker id="spk5" name="Christine_CLERC" check="no" dialect="native" accent="R4" scope="local" type="female"/>
+<Speaker id="spk6" name="Germain_ANDRIEUX" check="no" dialect="native" accent="R3" scope="local" type="male"/>
+<Speaker id="spk7" name="Xavier_BERTRAND" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk8" name="Nathalie_KOSCIUSKO-MORIZET" check="no" dialect="native" accent="R5" scope="local" type="female"/>
+<Speaker id="spk9" name="Jean-Francois_COPE" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk10" name="Francois_FILLON" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk11" name="Henri_GUAINO" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="327.677">
+<Turn startTime="0" endTime="327.677">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="327.677" endTime="625.812">
+<Turn speaker="spk1" startTime="327.677" endTime="398.315">
+<Sync time="327.677"/>
+bonsoir à tous, ravi de vous retrouver dans "ça vous regarde". regardez cette 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ image un peu originale. alors, pas celle ci, parce que c'est &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui est au siège de l'UMP, mais l'autre,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ regardez 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, c'est &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; avec une petite cagette orange qui va déposer
+<Sync time="339.229"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, ses parrainages. c'est une image 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à la fois originale et unique
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans l'histoire de la droite en France. on va parler ce soir, vous l'aurez compris
+<Event desc="r" type="noise" extent="instantaneous"/>
+ évidemment de cette bataille pour la présidence, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à l'UMP.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est un duel hein, sans véritable surprise entre &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt;
+<Sync time="353.836"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt;. on en parle ce soir, c'est une bataille de chiffres, une bataille de parrainages
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une bataille de personnalités. c'est pas vraiment une bataille d'idées, certains le déplorent. on va en parler, évidemment, dans quelques instants.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et on parlera de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;, parce que il est le chouchou 
+<Sync time="367.581"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+des sympatisants 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans les sondages, le sondage LH2, les sympatisants disent que c'est lui,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en 2017, qui sera là. 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il reviendra, peut être,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on va en parler, évidemment, dans quelques instants. je vous indique ce site
+<Sync time="378.355"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ lcp.fr
+<Event desc="LCP point FR" type="pronounce" extent="previous"/>
+ et le jdd.fr
+<Event desc="JDD point FR" type="pronounce" extent="previous"/>
+ sur lequel vous posez chaque soir vos questions et, ce soir,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ vous avez été nombreux,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je fais monter le suspense, à répondre à : « qui des deux entre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; et &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; », je retourne la feuille,
+<Sync time="389.79"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+« est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le meilleur
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des deux ? » 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a un sondage JDD, vous allez le découvrir
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans quelques instants. quatre invités sont avec moi. d'abord &lt;pers=Jean_LEONETTI&gt;Jean Leonetti&lt;/pers&gt;. bonsoir.
+</Turn>
+<Turn speaker="spk2" startTime="398.315" endTime="398.897">
+<Sync time="398.315"/>
+bon(soir)
+</Turn>
+<Turn speaker="spk1" startTime="398.897" endTime="415.442">
+<Sync time="398.897"/>
+(mer)ci d'avoir répondu à notre invitation. député 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ UMP, ancien ministre en charge des affaires européennes.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+vous appartenez
+<Event desc="dis=rev" type="noise" extent="end"/>
+ vous avez créé ce courant humaniste, on en parlera peut être,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et vous défendez et vous êtes aux côtés de &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; 
+<Event desc="b" type="noise" extent="instantaneous"/>
+dans cette bataille. on écoutera vos arguments.
+<Sync time="412.207"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+merci d'être là. face à vous, &lt;pers=Franck_RIESTER&gt;Franck Riester&lt;/pers&gt;, bonsoir.
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="415.442" endTime="416.051">
+<Sync time="415.442"/>
+bons(oir)
+</Turn>
+<Turn speaker="spk1" startTime="416.051" endTime="423.992">
+<Sync time="416.051"/>
+député UMP 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de Seine et Marne. vous, vous défendez &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt;. je rappelle que vous avez été directeur de campagne
+<Event desc="r" type="noise" extent="instantaneous"/>
+ aux élections européennes 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en 2009. merci d'être là.
+</Turn>
+<Turn speaker="spk1 spk3" startTime="423.992" endTime="425.047">
+<Sync time="423.992"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="425.047" endTime="430.525">
+<Sync time="425.047"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pour
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+pour défendre, évidemment, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ votre candidat. et puis avec nous sur ce plateau, &lt;pers=Guillaume_PELTIER&gt;Guillaume Peltier&lt;/pers&gt;. bonsoir.
+</Turn>
+<Turn speaker="spk4 spk1" startTime="430.525" endTime="431.353">
+<Sync time="430.525"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="431.353" endTime="459.105">
+<Sync time="431.353"/>
+secrétaire national 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à l'UMP. 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, vous lancez votre courant. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ "la droite forte", 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j(e)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je vous cite : « qui a fondation 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ non négociable, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est le "sarkozisme" ». 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on reviendra évidemment sur ce courant.
+<Sync time="442.454"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ vous affichez une neutralité, mais certains disent dans les couloirs, quand on creuse un peu le sujet, que vous vous êtes finalement plus proche de &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt;
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que de &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt;. on *écoutera évidemment 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+vos
+<Event desc="dis=rep" type="noise" extent="end"/>
+ vos arguments. je rappelle, vous étiez le monsieur sondages dans cette campagne présidentielle
+<Sync time="455.431"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+aux côtés de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;. puis enfin avec nous, &lt;pers=Christine_CLERC&gt;Christine Clerc&lt;/pers&gt;. bonsoir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="459.105" endTime="459.616">
+<Sync time="459.105"/>
+ bon(soir).
+</Turn>
+<Turn speaker="spk1" startTime="459.616" endTime="501.1">
+<Sync time="459.616"/>
+(vou)s êtes journaliste, éditorialiste.
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on se souvient de votre carnet intime de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;, c'était 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en 2009.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on écoutera votre point de vue, parce qu'il se passe quand même quelque chose à droite, c'est la première fois
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'il y a déjà un début de démocratisation pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="473.839"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+désigner, nommer 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le président de ce parti. parce que avant c'était, voilà, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça fait trente ans, on dit un élu comme ça, et qu'on connaît le nom du candidat, 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ça faisait trente ans que ça durait.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ là, les choses semblent 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ évoluer, on va en parler dans quelques instants.
+<Sync time="486.426"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+regardez 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce sujet. je vous présente 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+mes
+<Event desc="dis=rep" type="noise" extent="end"/>
+ mes sentinelles 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ citoyennes juste après.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sujet de &lt;pers=Germain_ANDRIEUX&gt;Germain Andrieux &lt;/pers&gt; qui revient tout simplement sur cette bataille entre 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les deux hommes.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sans compter quelques ténors qui ont essayé de jouer les trouble-fêtes. regardez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce sujet.
+</Turn>
+<Turn startTime="501.1" endTime="503.201">
+<Sync time="501.1"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="503.201" endTime="530.689">
+<Sync time="503.201"/>
+&lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; et &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt;, côte à côte.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'était début 2012. autrement dit, il y a une éternité.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tous les deux sont aujourd'hui candidats pour la présidence du parti, pour le moment.
+<Sync time="514.313"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+mais pour être sur la ligne de départ, une condition obligatoire, 7924 parrainages.
+<Sync time="520.171"/>
+une formalité pour &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt;, &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; ou encore &lt;pers=Xavier_BERTRAND&gt;Xavier Bertrand&lt;/pers&gt;,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais le troisième homme qualifié
+<Event desc="r" type="noise" extent="instantaneous"/>
+ a finalement jeté l'éponge sans renoncer à 2017.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="530.689" endTime="535.455">
+<Sync time="530.689"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+je serai candidat 
+<Event desc="b" type="noise" extent="instantaneous"/>
+à la primaire pour l'élection présidentielle 2017,
+</Turn>
+<Turn startTime="535.455" endTime="536.469">
+<Sync time="535.455"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="536.469" endTime="541.145">
+<Sync time="536.469"/>
+et donc, c'est la raison pour laquelle,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ je ne me lance pas dans la compétition pour la présidence de l'UMP.
+</Turn>
+<Turn startTime="541.145" endTime="543.128">
+<Sync time="541.145"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="543.128" endTime="556.043">
+<Sync time="543.128"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+le défi des parrainages : une mission impossible pour tous les autres prétendants. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+&lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt;, &lt;pers=Henri_GUAINO&gt;Henri Guaino&lt;/pers&gt; ou encore &lt;pers=Nathalie_KOSCIUSKO-MORIZET&gt;Nathalie Kosciusko-Morizet&lt;/pers&gt;, tous ont été recalés.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le duel est donc confirmé et contesté.
+</Turn>
+<Turn startTime="556.043" endTime="556.806">
+<Sync time="556.043"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="556.806" endTime="558.897">
+<Sync time="556.806"/>
+je pense que le duel est porteur 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de risques.
+</Turn>
+<Turn startTime="558.897" endTime="559.397">
+<Sync time="558.897"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8 spk9" startTime="559.397" endTime="561.005">
+<Sync time="559.397"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="561.005" endTime="565.638">
+<Sync time="561.005"/>
+un excès de testostérone risque de stériliser le débat des idées dans cette campagne et ça serait vraiment dommage.
+</Turn>
+<Turn startTime="565.638" endTime="567.218">
+<Sync time="565.638"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="567.218" endTime="584.173">
+<Sync time="567.218"/>
+pas vraiment de débat d'idées, mais un choc des personnalités. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+pas question pour le moment de refonder l'UMP ou de faire un droit d'inventaire,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Francois_COPE&gt;Jean-François Copé&lt;/pers&gt; ou &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt;,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tous les deux se disent "sarkosiste" et, quels que soient les sondages, leur objectif est identique :
+<Sync time="581.668"/>
+séduire avant tout les militants.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="584.173" endTime="586.826">
+<Sync time="584.173"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+le principe, c'est que c'est pas une élection de baron
+</Turn>
+<Turn startTime="586.826" endTime="587.544">
+<Sync time="586.826"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="587.544" endTime="594.725">
+<Sync time="587.544"/>
+c'est une élection confiée aux militants. c'est les militants qui vont choisir le président de l'UMP.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et c'est un suffrage universel direct.
+</Turn>
+<Turn speaker="spk10" startTime="594.725" endTime="599.927">
+<Sync time="594.725"/>
+je suis pas plus favori qu'un autre. 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je suis un candidat parmi les candidats et un militant parmi les militants.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="599.927" endTime="601.508">
+<Sync time="599.927"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="601.508" endTime="605.875">
+<Sync time="601.508"/>
+le duel agace. du coup, &lt;pers=Henri_GUAINO&gt;Henri Guaino&lt;/pers&gt; dénonce un dysfonctionnement démocratique. 
+</Turn>
+<Turn speaker="spk11" startTime="605.875" endTime="611.672">
+<Sync time="605.875"/>
+mais enfin
+<Event desc="musique" type="noise" extent="end"/>
+, 
+<Event desc="b" type="noise" extent="begin"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est invraisemblable, c'est pas de la démocratie, voilà, c'est quelque
+<Event desc="r" type="noise" extent="instantaneous"/>
+ démocratie qui est quelque part entre,
+</Turn>
+<Turn startTime="611.672" endTime="612.257">
+<Sync time="611.672"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="612.257" endTime="615.853">
+<Sync time="612.257"/>
+je l'ai dit déjà, entre la Corée du Nord et celle de Cuba, voilà !
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="615.853" endTime="616.643">
+<Sync time="615.853"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="616.643" endTime="624.116">
+<Sync time="616.643"/>
+les militants ont rendez-vous le 18 novembre pour choisir 
+<Event desc="musique" type="noise" extent="end"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ leur nouveau président
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et à l'UMP c'est déjà une révolution.
+</Turn>
+<Turn startTime="624.116" endTime="625.812">
+<Sync time="624.116"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="625.812" endTime="1498.536">
+<Turn startTime="625.812" endTime="1498.536">
+<Sync time="625.812"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

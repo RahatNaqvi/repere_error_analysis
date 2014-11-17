@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Vervisch_Ménard" audio_filename="BFMTV_CultureEtVous_2012-10-16_064700" version="13" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Christophe_DELAY" check="no" dialect="native" accent="R1" scope="local" type="male"/>
+<Speaker id="spk2" name="Pascale_DE_LA_TOUR_DU_PIN" check="no" dialect="native" accent="R1" scope="local" type="female"/>
+<Speaker id="spk3" name="Philippe_DUFREIGNE" check="no" dialect="native" accent="R3" scope="local" type="male"/>
+<Speaker id="spk4" name="Bertrand_TAVERNIER" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk5" name="Thierry_FREMAUX" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk6" name="Claude_LELOUCH" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk7" name="Geraldine_NAKACHE" check="no" dialect="native" accent="R5" scope="local" type="female"/>
+<Speaker id="spk8" name="speaker#8" check="no" dialect="native" accent="R3" scope="local" type="female"/>
+<Speaker id="spk9" name="speaker#9" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk10" name="speaker#10" check="no" dialect="native" accent="R5" scope="local" type="female"/>
+<Speaker id="spk11" name="Inconnu_010" check="no" dialect="native" accent="R5" scope="local" type="female"/>
+<Speaker id="spk12" name="Mick_JAGGER" check="no" type="male" dialect="nonnative" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="330.492">
+<Turn startTime="0" endTime="330.492">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="330.492" endTime="453.623">
+<Turn speaker="spk1" startTime="330.492" endTime="335.911">
+<Sync time="330.492"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+"culture et vous", beaucoup de choses ce matin. le cinéma à l'honneur à Lyon avec le festival "lumière" et les "stones" qui remonteront bien sur scène.
+</Turn>
+<Turn speaker="spk2" startTime="335.911" endTime="338.982">
+<Sync time="335.911"/>
+
+<Event desc="rire" type="noise" extent="begin"/>
+ et nous avons un rappeur américain,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui était à Paris (hier).
+</Turn>
+<Turn speaker="spk1" startTime="338.982" endTime="339.591">
+<Sync time="338.982"/>
+comment il s'appelle ?
+</Turn>
+<Turn speaker="spk2" startTime="339.591" endTime="340.295">
+<Sync time="339.591"/>
+cinquante cent
+</Turn>
+<Turn speaker="spk1" startTime="340.295" endTime="340.801">
+<Sync time="340.295"/>
+non !
+</Turn>
+<Turn speaker="spk2" startTime="340.801" endTime="342.844">
+<Sync time="340.801"/>
+non ? cent cinquante cent
+</Turn>
+<Turn speaker="spk1" startTime="342.844" endTime="344.204">
+<Sync time="342.844"/>
+fifty cent !
+</Turn>
+<Turn speaker="spk1 spk2" startTime="344.204" endTime="346.301">
+<Sync time="344.204"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="346.301" endTime="348.692">
+<Sync time="346.301"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+cinquante centimes, non ! fifty cent.
+</Turn>
+<Turn speaker="spk2" startTime="348.692" endTime="350.195">
+<Sync time="348.692"/>
+ça vaut pas cinquante centimes, non ? c'est pas ça ? 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="350.195" endTime="350.688">
+<Sync time="350.195"/>
+dur
+</Turn>
+<Turn startTime="350.688" endTime="351.351">
+<Sync time="350.688"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="351.351" endTime="351.899">
+<Sync time="351.351"/>
+&lt;pers=Philippe_DUFREIGNE&gt;Dufreigne&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk2" startTime="351.899" endTime="352.509">
+<Sync time="351.899"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="352.509" endTime="354.785">
+<Sync time="352.509"/>
+
+<Event desc="rire" type="noise" extent="end"/>
+ 
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="354.785" endTime="359.673">
+<Sync time="354.785"/>
+et c'est parti pour une semaine de cinéma.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ hier soir, à Lyon, c'était le coup d'envoi du festival "lumière".
+</Turn>
+<Turn speaker="spk4" startTime="359.673" endTime="364.418">
+<Sync time="359.673"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+un festival de partage, un festival de passion, un festival d'amour.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="364.418" endTime="367.236">
+<Sync time="364.418"/>
+l'amour des grands classiques du septième art.
+</Turn>
+<Turn speaker="spk5" startTime="367.236" endTime="373.543">
+<Sync time="367.236"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+le cinéma du passé, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parfois est soumis à des considérations un peu péjoratives. on dit
+<Event desc="r" type="noise" extent="instantaneous"/>
+ : « des vieux films ».
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="373.543" endTime="376.364">
+<Sync time="373.543"/>
+et bien ici, paroles d'experts, ce n'est pas le cas.
+</Turn>
+<Turn speaker="spk6" startTime="376.364" endTime="384.076">
+<Sync time="376.364"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+vous savez, il y a deux sortes de films. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il y a des films qu'on a envie de voir et puis il y a ceux qu'on a envie de revoir. voilà. et ici, il y a que des films qu'on a envie de revoir.
+</Turn>
+<Turn speaker="spk7" startTime="384.076" endTime="388.808">
+<Sync time="384.076"/>
+c'est parce que ces films là existent 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qu'on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qu'on a voulu aussi nous tous un peu faire du cinéma, je pense.
+</Turn>
+<Turn startTime="388.808" endTime="391.528" speaker="spk8">
+<Sync time="388.808"/>
+pensez à réserver.
+</Turn>
+<Turn speaker="spk3" startTime="391.528" endTime="395.625">
+<Sync time="391.528"/>
+ils l'avaient dit, mais comme on n'y croyait plus vraiment, on n'y avait pas prêté attention.
+</Turn>
+<Turn speaker="spk12 spk9" startTime="395.625" endTime="398.827">
+<Sync time="395.625"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+définitivement plus tard cette année, on sera sur scène, &amp;ouais.
+</Turn>
+<Turn speaker="spk3" startTime="398.827" endTime="416.209">
+<Sync time="398.827"/>
+c'était vrai, les "Rolling Stones" viennent d'annoncer sur les réseaux sociaux, quatre concerts d'ici la fin de l'année.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les 25 et 29 novembre à Londres, les 13 et 15 décembre dans le New Jersey aux États-Unis.
+<Sync time="408.991"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+un spectacle baptisé "50 ans et ce n'est pas fini".
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans un clip rendu public hier, ils annoncent également des surprises.
+</Turn>
+<Turn speaker="spk12 spk9" startTime="416.209" endTime="419.187">
+<Sync time="416.209"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+il y a peut être des amis qui viendront. on se voit là-bas.
+</Turn>
+<Turn startTime="419.187" endTime="421.997" speaker="spk8">
+<Sync time="419.187"/>
+la folie "fifty cent"
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="421.997" endTime="425.505">
+<Sync time="421.997"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+hier soir à Paris, ils venaient tous pour voir
+</Turn>
+<Turn startTime="425.505" endTime="427.265">
+<Sync time="425.505"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="427.265" endTime="428.664">
+<Sync time="427.265"/>
+pour ceux qui l'ignoraient encore
+</Turn>
+<Turn speaker="spk10" startTime="428.664" endTime="434.182">
+<Sync time="428.664"/>
+c'est un rappeur mondial. il a vendu 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+mi(llions)
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des millions d'albums. j'adore depuis toute petite et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ voilà. 
+</Turn>
+<Turn speaker="spk3" startTime="434.182" endTime="443.555">
+<Sync time="434.182"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+voilà comment un rappeur crée l'événement, alors qu'il vient pour promouvoir une ligne de casques audio. si si ! son nouvel album, ce ne sera qu'en 2013
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais les fans sont prêts à tout pour leur idole.
+</Turn>
+<Turn speaker="spk11" startTime="443.555" endTime="446.495">
+<Sync time="443.555"/>
+il est vrai, il est magique, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il est tout, quoi !
+</Turn>
+<Turn speaker="spk3" startTime="446.495" endTime="450.321">
+<Sync time="446.495"/>
+et quand on vous dit que les fans sont prêtes à tout,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est vraiment prêtes à tout.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="450.321" endTime="453.623">
+<Sync time="450.321"/>
+
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="453.623" endTime="2174.472">
+<Turn startTime="453.623" endTime="2174.472">
+<Sync time="453.623"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

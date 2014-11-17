@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Yann" audio_filename="BFMTV_CultureEtVous_2012-10-23_064700" version="6" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Philippe_DUFREIGNE" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk2" name="Raphael_HAROCHE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk3" name="speaker#3" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk4" name="Pascal_LEGITIMUS" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="Muriel_ROBIN" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="Jean_DUJARDIN" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk7" name="Pierre_RICHARD" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="463.0">
+<Turn startTime="0" endTime="463.0">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="463.0" endTime="563.106">
+<Turn startTime="463.0" endTime="469.415">
+<Sync time="463.0"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="469.415" endTime="471.958">
+<Sync time="469.415"/>
+on l'avait vu s'essayer au théâtre et au cinéma,
+</Turn>
+<Turn speaker="spk2" startTime="471.958" endTime="475.735">
+<Sync time="471.958"/>
+&amp;bah je suis pas acteur quoi puis 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si j'ai pas envie d'être acteur.
+</Turn>
+<Turn startTime="475.735" endTime="476.602">
+<Sync time="475.735"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="476.602" endTime="479.151">
+<Sync time="476.602"/>
+il m'a 
+<Event desc="rire" type="noise" extent="begin"/>
+fallu un peu de temps pour le découvrir
+<Event desc="rire" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="479.151" endTime="486.288">
+<Sync time="479.151"/>
+&lt;pers=Raphael_HAROCHE&gt;Raphaël&lt;/pers&gt; revient donc avec "super Walter", un sixième album 
+<Event desc="en" type="language" extent="begin"/>
+punchy
+<Event desc="en" type="language" extent="end"/>
+, plus exigeant et dont beaucoup de titres parlent d'amour, souvent torturé.
+</Turn>
+<Turn speaker="spk2" startTime="486.288" endTime="489.883">
+<Sync time="486.288"/>
+oui, l'amour c'est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c' il faut en être digne, ça se mérite, c'est un truc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="489.883" endTime="490.515">
+<Sync time="489.883"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="490.515" endTime="491.591">
+<Sync time="490.515"/>
+je sais pas, c'est un
+</Turn>
+<Turn startTime="491.591" endTime="492.214">
+<Sync time="491.591"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="492.214" endTime="500.285">
+<Sync time="492.214"/>
+c'est presque un combat quotidien. &amp;ouais je trouve ça, bien-sûr. 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ c'est ce qui m'intéresse le plus quoi. en fait, c'est un disque qui parle de moi, quoi. en gros, je me regarde le nombril en disant
+</Turn>
+<Turn startTime="500.285" endTime="500.896">
+<Sync time="500.285"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="500.896" endTime="502.892">
+<Sync time="500.896"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+j(e) j(e)
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je sais pas de quoi parler d'autre, tu vois ?
+</Turn>
+<Turn startTime="502.892" endTime="503.437">
+<Sync time="502.892"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="503.437" endTime="504.47">
+<Sync time="503.437"/>
+ça s'améliore.
+</Turn>
+<Turn startTime="504.47" endTime="507.394">
+<Sync time="504.47"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="507.394" endTime="524.914">
+<Sync time="507.394"/>
+on l'avait dit, "astérix" démarrait mal. les premiers chiffres n'étaient pas encourageants. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'était sans compter sur le week-end qui a été très bon : 
+<Event desc="r" type="noise" extent="instantaneous"/>
+plus d'un million de spectateurs ont été recensés entre mercredi et dimanche soir.
+<Sync time="517.476"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+un score équivalent à celui du "petit nicolas" qui a terminé sa course à plus de 5 millions 700 mille entrées. de bon augure avant les vacances de la Toussaint.
+</Turn>
+<Turn startTime="524.914" endTime="525.445">
+<Sync time="524.914"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="525.445" endTime="526.814">
+<Sync time="525.445"/>
+c'est l'humoriste du moment.
+</Turn>
+<Turn startTime="526.814" endTime="528.013">
+<Sync time="526.814"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="528.013" endTime="529.552">
+<Sync time="528.013"/>
+il y a des signes qui ne trompent pas.
+</Turn>
+<Turn speaker="spk4" startTime="529.552" endTime="532.85">
+<Sync time="529.552"/>
+est-ce qu'il est drôle ? &amp;bah écoutez 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, en général, un humoriste qui
+</Turn>
+<Turn startTime="532.85" endTime="533.382">
+<Sync time="532.85"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="533.382" endTime="534.973">
+<Sync time="533.382"/>
+qui a pignon sur rue depuis un petit bout de temps.
+</Turn>
+<Turn speaker="spk1" startTime="534.973" endTime="542.451">
+<Sync time="534.973"/>
+mais oui, c'est pour ça qu'&lt;pers=Alex_LUTZ&gt;Alex Lutz&lt;/pers&gt; démarrait au Grand Point-Virgule une nouvelle mouture de son spectacle et que les stars étaient, hier soir, présentes pour le soutenir.
+</Turn>
+<Turn speaker="spk5" startTime="542.451" endTime="547.015">
+<Sync time="542.451"/>
+moi, j'adore. j'aime beaucoup ce garçon, il a beaucoup de talent, il en a eu depuis très longtemps, il en a eu très jeune.
+</Turn>
+<Turn speaker="spk6" startTime="547.015" endTime="551.497">
+<Sync time="547.015"/>
+je l'avais rencontré quand 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il jouait au Point-Virgule 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans le Marais.
+</Turn>
+<Turn speaker="spk1" startTime="551.497" endTime="555.971">
+<Sync time="551.497"/>
+et désormais c'est au Grand Point-Virgule qu'il donne son spectacle et, parole d'expert,
+</Turn>
+<Turn speaker="spk7" startTime="555.971" endTime="560.312">
+<Sync time="555.971"/>
+je fais un tri quand-même, et lui 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+il est bien dans le bon
+<Event desc="dis=rev" type="noise" extent="end"/>
+ il est bien dans le top, là, 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="560.312" endTime="562.321">
+<Sync time="560.312"/>
+après tout ça, vous savez ce qu'il vous reste à faire.
+</Turn>
+<Turn startTime="562.321" endTime="563.106">
+<Sync time="562.321"/>
+
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="563.106" endTime="1580.808">
+<Turn startTime="563.106" endTime="1580.808">
+<Sync time="563.106"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

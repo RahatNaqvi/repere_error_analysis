@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Gwendo" audio_filename="BFMTV_CultureEtVous_2012-10-08_064700" version="9" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Claire_FLEURY" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk2" name="speaker#2" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk3" name="Ben_AFFLECK" check="no" type="male" dialect="nonnative" accent="R5" scope="local"/>
+<Speaker id="spk4" name="speaker#4" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="speaker#6" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="442.025">
+<Turn startTime="0" endTime="442.025">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="442.025" endTime="539.997">
+<Turn startTime="442.025" endTime="447.116">
+<Sync time="442.025"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="447.116" endTime="449.261">
+<Sync time="447.116"/>
+et revoilà la Compagnie Créole !
+</Turn>
+<Turn startTime="449.261" endTime="449.931">
+<Sync time="449.261"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="449.931" endTime="457.964">
+<Sync time="449.931"/>
+après deux ans d'absence ils reviennent avec un nouvel album, enfin nouveau, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à moitié seulement car ils ont réenregistré leurs tubes avec des invités.
+</Turn>
+<Turn startTime="457.964" endTime="460.672">
+<Sync time="457.964"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="460.672" endTime="466.08">
+<Sync time="460.672"/>
+&lt;pers=Hugues_AUFRAY&gt;Hugues Aufray&lt;/pers&gt; donc, mais aussi &lt;pers=Patrick_SEBASTIEN&gt;Patrick Sébastien&lt;/pers&gt; ou encore le &lt;pers=Colonel_REYEL&gt;Colonel Reyel&lt;/pers&gt;.
+</Turn>
+<Turn startTime="466.08" endTime="467.919">
+<Sync time="466.08"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="467.919" endTime="471.887">
+<Sync time="467.919"/>
+il y en a donc pour tous les goûts, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et comme on dit,
+</Turn>
+<Turn startTime="471.887" endTime="475.103">
+<Sync time="471.887"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="475.103" endTime="476.003">
+<Sync time="475.103"/>
+quel homme !
+</Turn>
+<Turn startTime="476.003" endTime="478.404">
+<Sync time="476.003"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="478.404" endTime="481.211">
+<Sync time="478.404"/>
+teint resplendissant, allure athlétique,
+</Turn>
+<Turn startTime="481.211" endTime="482.066">
+<Sync time="481.211"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="482.066" endTime="485.009">
+<Sync time="482.066"/>
+et pourtant &lt;pers=Ben_AFFLECK&gt;Ben Affleck&lt;/pers&gt; souffre, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le martyre.
+</Turn>
+<Turn speaker="spk3" startTime="485.009" endTime="485.361">
+<Sync time="485.009"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3 spk4" startTime="485.361" endTime="496.923">
+<Sync time="485.361"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+j'ai plus de voix, en fait je suis malade mais ne vous inquiétez pas je ne suis pas contagieux, du moins c'est ce que ma femme m'a dit. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en fait elle me dit ça tout le temps et à chaque fois je me retrouve 3 jours plus tard en train de vomir pendant des heures.
+</Turn>
+<Turn speaker="spk1" startTime="496.923" endTime="510.114">
+<Sync time="496.923"/>
+&amp;eh bien merci pour les détails mais faudrait peut-être se soigner. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ car il doit assurer la promotion d' " argo " son troisième film. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un film qui nous plonge dans l'Iran de 1979 et doit sortir chez nous le 7 novembre.
+</Turn>
+<Turn startTime="510.114" endTime="511.328">
+<Sync time="510.114"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="511.328" endTime="512.774">
+<Sync time="511.328"/>
+un vrai phénomène.
+</Turn>
+<Turn startTime="512.774" endTime="514.419">
+<Sync time="512.774"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="514.419" endTime="518.206">
+<Sync time="514.419"/>
+50000 sud-coréens en transe pour cet homme.
+</Turn>
+<Turn startTime="518.206" endTime="520.599">
+<Sync time="518.206"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="520.599" endTime="532.577">
+<Sync time="520.599"/>
+&lt;pers=Jae-Sang_PARK&gt;Psy&lt;/pers&gt; chanteur sud-coréen est en train de conquérir, le monde. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ clip vu plus de 360 millions de fois, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ chanson deuxième des ventes aux États-Unis, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et même &lt;pers=Britney_SPEARS&gt;Britney Spears&lt;/pers&gt; est tombée sous le charme.
+</Turn>
+<Turn speaker="spk6" startTime="532.577" endTime="533.527">
+<Sync time="532.577"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="533.527" endTime="534.366">
+<Sync time="533.527"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="534.366" endTime="539.393">
+<Sync time="534.366"/>
+&amp;eh oui, impossible de résister à cet air disons, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ endiablé.
+</Turn>
+<Turn startTime="539.393" endTime="539.997">
+<Sync time="539.393"/>
+
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="539.997" endTime="3968.424">
+<Turn startTime="539.997" endTime="3968.424">
+<Sync time="539.997"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
