@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="BFMTV_CultureEtVous_2012-05-14_065040" version="6" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Pascale_DE_LA_TOUR_DU_PIN" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Christophe_DELAY" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk3" name="Philippe_DUFREIGNE" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk4" name="Beth_DITTO" check="no" type="female" dialect="nonnative" accent="R5" scope="local"/>
+<Speaker id="spk5" name="speaker#5" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk6" name="speaker#6" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk7" name="Felicity_HUFFMAN" check="no" type="female" dialect="nonnative" accent="R5" scope="local"/>
+<Speaker id="spk8" name="speaker#8" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk9" name="Mathieu_LADEVEZE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="84.954">
+<Turn startTime="0" endTime="84.954">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="84.954" endTime="194.146">
+<Turn startTime="84.954" endTime="85.587">
+<Sync time="84.954"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="85.587" endTime="90.214">
+<Sync time="85.587"/>
+bien alors donc le showbiz avec la sortie aujourd'hui du nouvel album 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de Gossip 
+<Event desc="en" type="language" extent="begin"/>
+*joyful
+<Event desc="en" type="language" extent="end"/>
+
+</Turn>
+<Turn startTime="90.214" endTime="91.131">
+<Sync time="90.214"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="91.131" endTime="91.441">
+<Sync time="91.131"/>
+
+<Event desc="en" type="language" extent="begin"/>
+toy
+<Event desc="en" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="91.441" endTime="91.71">
+<Sync time="91.441"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="91.71" endTime="91.964">
+<Sync time="91.71"/>
+
+<Event desc="en" type="language" extent="begin"/>
+joy
+<Event desc="en" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="91.964" endTime="92.518">
+<Sync time="91.964"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="92.518" endTime="95.651">
+<Sync time="92.518"/>
+
+<Event desc="en" type="language" extent="begin"/>
+noise
+<Event desc="en" type="language" extent="end"/>
+. 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ le dernier épisode de 
+<Event desc="en" type="language" extent="begin"/>
+desperate housewives
+<Event desc="en" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="95.651" endTime="96.363">
+<Sync time="95.651"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="96.363" endTime="97.281">
+<Sync time="96.363"/>
+(É)tats-unis, oui
+</Turn>
+<Turn startTime="97.281" endTime="97.698">
+<Sync time="97.281"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="97.698" endTime="98.357">
+<Sync time="97.698"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ il a suivi la
+</Turn>
+<Turn speaker="spk2 spk1" startTime="98.357" endTime="98.737">
+<Sync time="98.357"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="98.737" endTime="106.047">
+<Sync time="98.737"/>
+tous les épisodes, &amp;hein, surtout Bree. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et une autre sortie musicale aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le nouvel album de &lt;pers=Mathieu_LADEVEZE&gt;Barcella&lt;/pers&gt; un jeune *artiste français !
+</Turn>
+<Turn speaker="spk2" startTime="106.047" endTime="106.728">
+<Sync time="106.047"/>
+&lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt;
+</Turn>
+<Turn startTime="106.728" endTime="113.769">
+<Sync time="106.728"/>
+
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="musique" type="noise" extent="end"/>
+ 
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="113.769" endTime="130.523">
+<Sync time="113.769"/>
+leur précédent disque s'était écoulé à 300 mille exemplaires, retour attendu donc, que celui de Gossip, toujours emmené par &lt;pers=Beth_DITTO&gt;Beth Ditto&lt;/pers&gt;, forte et fière de l'être, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le groupe sort aujourd'hui 
+<Event desc="en" type="language" extent="begin"/>
+joyful noise
+<Event desc="en" type="language" extent="end"/>
+, comprenez un bruit joyeux, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un disque qui se veut plus éclectique,
+<Sync time="128.15"/>
+plus proche aussi de la pop internationale
+</Turn>
+<Turn startTime="130.523" endTime="133.694">
+<Sync time="130.523"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="133.694" endTime="138.687">
+<Sync time="133.694"/>
+bon en revanche pour le côté glamour évidemment on vous rassure, l'emblématique chanteuse n'a pas changé.
+</Turn>
+<Turn startTime="138.687" endTime="139.51">
+<Sync time="138.687"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="139.51" endTime="139.874">
+<Sync time="139.51"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4 spk5" startTime="139.874" endTime="140.997">
+<Sync time="139.874"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+c'est pas grave on continue
+</Turn>
+<Turn startTime="140.997" endTime="142.152">
+<Sync time="140.997"/>
+
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="142.152" endTime="143.102">
+<Sync time="142.152"/>
+au revoir.
+</Turn>
+<Turn startTime="143.102" endTime="144.399">
+<Sync time="143.102"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="144.399" endTime="157.916">
+<Sync time="144.399"/>
+la nuit dernière les américains ont dit au revoir à 
+<Event desc="en" type="language" extent="begin"/>
+Desperate Housewives
+<Event desc="en" type="language" extent="end"/>
+, ABC a diffusé le dernier épisode de la série après huit saisons, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour les actrices c'était l'occasion d'évoquer leurs meilleurs moments, et Lynette s'étonnera toujours de sa popularité internationale
+</Turn>
+<Turn startTime="157.916" endTime="158.343">
+<Sync time="157.916"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="158.343" endTime="159.356">
+<Sync time="158.343"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="159.356" endTime="159.846">
+<Sync time="159.356"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="159.846" endTime="162.773">
+<Sync time="159.846"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+j'étais en Turquie dans une toute petite ville, et là j'ai entendu
+</Turn>
+<Turn speaker="spk7" startTime="162.773" endTime="163.28">
+<Sync time="162.773"/>
+Lynette !
+</Turn>
+<Turn speaker="spk7 spk8" startTime="163.28" endTime="167.6">
+<Sync time="163.28"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+j'ai regardé partout en me disant quoi ! il s'est vraiment passé des choses incroyables.
+</Turn>
+<Turn speaker="spk7" startTime="167.6" endTime="168.723">
+<Sync time="167.6"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="168.723" endTime="170.432">
+<Sync time="168.723"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+attention, nouveau talent.
+</Turn>
+<Turn startTime="170.432" endTime="171.73">
+<Sync time="170.432"/>
+
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="171.73" endTime="174.867">
+<Sync time="171.73"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+excusez ma chère demoiselle si je vous importune, mais
+</Turn>
+<Turn speaker="spk3" startTime="174.867" endTime="186.092">
+<Sync time="174.867"/>
+un clin d'oeil pour un jeune talent qui sort son disque, Charabia, aujourd'hui, il s'appelle &lt;pers=Mathieu_LADEVEZE&gt;Barcella&lt;/pers&gt;, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ auteur, compositeur, interprète originaire de Reims. il propose une musique entre balade, hip-hop et chanson rigolote.
+</Turn>
+<Turn speaker="spk9" startTime="186.092" endTime="194.146">
+<Sync time="186.092"/>
+et je suppose ma douce que votre sang est une sève, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui ne se marie point avec des ambiances trop feutrées, sachez que j'aime fuir la réalité.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="194.146" endTime="419.112">
+<Turn startTime="194.146" endTime="419.112">
+<Sync time="194.146"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

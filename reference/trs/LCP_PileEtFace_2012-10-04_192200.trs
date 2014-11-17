@@ -1,0 +1,3252 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="LCP_PileEtFace_2012-10-04_192200" version="6" version_date="140312">
+<Speakers>
+<Speaker id="spk1" name="Jean-Pierre_GRATIEN" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Jean-Marie_LE_GUEN" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk3" name="Bernard_ACCOYER" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="597.51">
+<Turn startTime="0" endTime="597.51">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="597.51" endTime="2249.354">
+<Turn startTime="597.51" endTime="611.624" speaker="spk1">
+<Sync time="597.51"/>
+projet contre projet, idée contre idée, bienvenue dans " pile et face " avec côté pile cette semaine l'ancien président de l'assemblée nationale et député UMP 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de Haute-Savoie &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt;, côté face le député socialiste de Paris
+</Turn>
+<Turn startTime="611.624" endTime="612.004">
+<Sync time="611.624"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="612.004" endTime="620.47">
+<Sync time="612.004"/>
+&lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt;. mercredi prochain sera présenté en conseil des ministres le projet de financement de la sécurité sociale.
+</Turn>
+<Turn startTime="620.47" endTime="620.865">
+<Sync time="620.470"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="620.865" endTime="640.817">
+<Sync time="620.865"/>
+au menu davantage de taxes que d'économies pour tenter de combler le déficit de la sécu, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais au-delà d'un raisonnement purement comptable, en quoi réside véritablement le changement concernant la politique
+<Sync time="634.615"/>
+de santé du gouvernement Ayrault. &amp;eh bien messieurs vous allez avoir trente minutes pour en débattre,
+</Turn>
+<Turn startTime="640.817" endTime="642.352">
+<Sync time="640.817"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="642.352" endTime="661.171">
+<Sync time="642.352"/>
+la pièce tombe sur face. autrement dit c'est vous &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt; qui allez entamer ce débat, c'est vous &lt;pers=Bernard_ACCOYER&gt;Bernard 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+Acc(yer)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ Accoyer&lt;/pers&gt; 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui allez le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui allez le conclure. 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt; je regardais les chiffres, l'évolution des chiffres, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et plus exactement du déficit de la sécurité sociale 2009
+<Sync time="656.63"/>
+20,3
+<Event desc="20 virgule 3" type="pronounce" extent="previous"/>
+ milliards de déficit, 2010 23,9
+<Event desc="23 virgule 9" type="pronounce" extent="previous"/>
+ milliards de déficit,
+</Turn>
+<Turn startTime="661.171" endTime="661.583">
+<Sync time="661.171"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="661.583" endTime="670.206">
+<Sync time="661.583"/>
+2011 17,4
+<Event desc="17 virgule 4" type="pronounce" extent="previous"/>
+ milliards de déficit et alors 2012 13,3
+<Event desc="13 virgule 3" type="pronounce" extent="previous"/>
+ milliards de déficit. on a envie de dire ça va mieux, concernant les comptes de la sécurité sociale.
+</Turn>
+<Turn startTime="670.206" endTime="670.602">
+<Sync time="670.206"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="670.602" endTime="682.912">
+<Sync time="670.602"/>
+est-ce que c'est le cas et est-ce que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le gouvernement précédent, le gouvernement de &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ a bien fait son travail en la matière, comme semble l'indiquer les chiffres. ça va mieux, semble-t-il, ce déficit.
+</Turn>
+<Turn startTime="682.912" endTime="683.782">
+<Sync time="682.912"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="683.782" endTime="692.674">
+<Sync time="683.782"/>
+oui, ça va mieux mais on part de très très loin 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des chiffres comme ceux-là 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 13 milliards d'euros de déficit, c'est effectivement tout à fait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ colossal.
+</Turn>
+<Turn startTime="692.674" endTime="693.276">
+<Sync time="692.674"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="693.276" endTime="699.773">
+<Sync time="693.276"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ néanmoins nous héritons de cette situation et le projet de loi que le gouvernement présentera la semaine prochaine
+</Turn>
+<Turn speaker="spk1" startTime="699.773" endTime="700.121">
+<Sync time="699.773"/>
+&amp;ouais
+</Turn>
+<Turn speaker="spk2" startTime="700.121" endTime="701.963">
+<Sync time="700.121"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ a vocation à
+</Turn>
+<Turn startTime="701.963" endTime="702.422">
+<Sync time="701.963"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="702.422" endTime="712.768">
+<Sync time="702.422"/>
+deux objectifs : un objectif social, c'est dans une période qui est extrêmement difficile, on voit les problèmes du chômage 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on voit aussi des difficultés en terme de pouvoir d'achat 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="712.768" endTime="713.401">
+<Sync time="712.768"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="713.401" endTime="718.116">
+<Sync time="713.401"/>
+telle que, la situation économique de notre pays 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ est aujourd'hui décrite.
+</Turn>
+<Turn startTime="718.116" endTime="718.496">
+<Sync time="718.116"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="718.496" endTime="733.958">
+<Sync time="718.496"/>
+et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nous avons fait le choix 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de ne pas couper dans les dépenses sociales mais d'
+<Event desc="dis=rep" type="noise" extent="begin"/>
+au
+<Event desc="dis=rep" type="noise" extent="end"/>
+ *au contraire de faire en sorte que le filet de notre protection sociale continue à exister dans cette période de crise. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous le faisons pour des raisons sociales, évidemment, un filet de sécurité,
+<Sync time="733.23"/>
+de protection,
+</Turn>
+<Turn startTime="733.958" endTime="734.338">
+<Sync time="733.958"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="734.338" endTime="757.724">
+<Sync time="734.338"/>
+des français. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais nous le faisons aussi pour des raisons économiques. c'est que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+*c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est le rôle aussi de la sécurité sociale de jouer dans cette période de crise un rôle d'amortisseur. 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+*en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en quelque sorte on fait en sorte que le pouvoir d'achat des français soit 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ par ce biais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="749.225"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sauvegardé. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et que donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la machine économique ne s'étouffe pas. et donc dans un projet de budget, je termine
+</Turn>
+<Turn speaker="spk1 spk2" startTime="757.724" endTime="758.547">
+<Sync time="757.724"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="758.547" endTime="762.43">
+<Sync time="758.547"/>
+où nous faisons 10 milliards d'euros d'économies sur le budget de l'état,
+</Turn>
+<Turn speaker="spk1" startTime="762.43" endTime="762.762">
+<Sync time="762.43"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="762.762" endTime="774.028">
+<Sync time="762.762"/>
+nous avons décidé de faire en sorte que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le coup de frein ne soit pas sur le budget social de la nation. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est une marque de ce gouvernement, son choix de politique *sociale, son choix de politique économique.
+</Turn>
+<Turn speaker="spk1" startTime="774.028" endTime="774.534">
+<Sync time="774.028"/>
+&amp;hm
+</Turn>
+<Turn startTime="774.534" endTime="775.151">
+<Sync time="774.534"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="775.151" endTime="776.006">
+<Sync time="775.151"/>
+&lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt;
+</Turn>
+<Turn startTime="776.006" endTime="776.497">
+<Sync time="776.006"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="776.497" endTime="781.086">
+<Sync time="776.497"/>
+vous l'avez ressenti comme ça 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ce
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ce projet de loi de financement de la sécurité sociale tel qu'on le connaît aujourd'hui ?
+</Turn>
+<Turn startTime="781.086" endTime="781.529">
+<Sync time="781.086"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="781.529" endTime="782.114">
+<Sync time="781.529"/>
+non d'abord
+</Turn>
+<Turn speaker="spk1" startTime="782.114" endTime="784.076">
+<Sync time="782.114"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+filet de sécurité
+<Event desc="bc" type="noise" extent="end"/>
+ maintenu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="784.076" endTime="785.31">
+<Sync time="784.076"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="785.31" endTime="796.463">
+<Sync time="785.31"/>
+(sur)tout il faut surtout regarder l'avenir. parce que 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+la
+<Event desc="dis=rev" type="noise" extent="end"/>
+ l'action d'un gouvernement, y compris l'action sociale, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est de préparer le meilleur avenir possible pour les français, pour leurs enfants.
+</Turn>
+<Turn startTime="796.463" endTime="796.954">
+<Sync time="796.463"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="796.954" endTime="807.951">
+<Sync time="796.954"/>
+et tel n'est pas je crois 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le résultat 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ du projet de budget de la sécurité sociale tel qu'il nous est présenté. mais qu'il sera peut-être modifié,
+</Turn>
+<Turn startTime="807.951" endTime="808.331">
+<Sync time="807.951"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="808.331" endTime="810.936">
+<Sync time="808.331"/>
+au cours des discussions 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parlementaires
+</Turn>
+<Turn speaker="spk1 spk3" startTime="810.936" endTime="811.464">
+<Sync time="810.936"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn startTime="811.464" endTime="811.955">
+<Sync time="811.464"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="811.955" endTime="814.154">
+<Sync time="811.955"/>
+puisque le déficit va augmenter. 
+</Turn>
+<Turn startTime="814.154" endTime="815.135">
+<Sync time="814.154"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="815.135" endTime="824.859">
+<Sync time="815.135"/>
+puisque le déficit prévisionnel est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'environ 16 milliards d'euros pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les trois branches, je dirais même les quatre. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais il se trouve que la branche
+</Turn>
+<Turn startTime="824.859" endTime="825.397">
+<Sync time="824.859"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="825.397" endTime="833.166">
+<Sync time="825.397"/>
+maladies professionnelles et accidents du travail sera bénéficiaire, en 2013. en tout cas c'est ce qui est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ anticipé.
+</Turn>
+<Turn startTime="833.166" endTime="833.672">
+<Sync time="833.166"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="833.672" endTime="841.457">
+<Sync time="833.672"/>
+pour autant, les déficits se creusent, et ce sont nos enfants, nos petits-enfants 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui donc vont financer les prestations
+</Turn>
+<Turn startTime="841.457" endTime="841.837">
+<Sync time="841.457"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="841.837" endTime="868.837">
+<Sync time="841.837"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui vont être 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ données 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à notre génération, aujourd'hui. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça me paraît, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et ça ne date pas d'aujourd'hui, ça j'en conviens volontiers, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais ça me paraît quelque chose de très inquiétant, puisque dans le même temps 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la dette
+<Sync time="856.408"/>
+de l'état continue d'augmenter, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et que la dette sociale continue elle aussi de courir de plus en plus fort. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est une préoccupation majeure. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je m'étonne d'autant plus de ce choix du gouvernement, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que la cour des comptes
+</Turn>
+<Turn startTime="868.837" endTime="869.233">
+<Sync time="868.837"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="869.233" endTime="870.926">
+<Sync time="869.233"/>
+a fait une recommandation ;
+</Turn>
+<Turn startTime="870.926" endTime="871.67">
+<Sync time="870.926"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="871.67" endTime="881.937">
+<Sync time="871.67"/>
+cette recommandation était de fixer 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un objectif national de dépenses 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de l'axe
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de l'assurance maladie, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est-à-dire la hausse des dépenses d'une année 
+<Event desc="bc" type="noise" extent="begin"/>
+sur l'autre
+<Event desc="bc" type="noise" extent="end"/>
+,
+</Turn>
+<Turn startTime="881.937" endTime="882.428">
+<Sync time="881.937"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="882.428" endTime="894.48">
+<Sync time="882.428"/>
+qui est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ fixée par la cour des comptes à 2,4%
+<Event desc="2 virgule 4 %" type="pronounce" extent="previous"/>
+. or le gouvernement fait le choix de mettre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ un objectif de dépenses de 2,7%
+<Event desc="2 virgule 7 %" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn startTime="894.48" endTime="894.844">
+<Sync time="894.48"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="894.844" endTime="898.258">
+<Sync time="894.844"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je comprends vraiment pas du tout 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="898.258" endTime="900.98">
+<Sync time="898.258"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="900.98" endTime="904.16">
+<Sync time="900.98"/>
+on le fait sur le dos de nos enfants et de nos petits-enfants.
+</Turn>
+<Turn startTime="904.16" endTime="904.904">
+<Sync time="904.16"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="904.904" endTime="918.583">
+<Sync time="904.904"/>
+&lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt; a raison de vouloir se projeter dans l'avenir et de pas regarder le passé fût-il récent. puisque effectivement les 5 dernières années c'est plus de cent milliards d'euros de déficit qui ont été 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ transmis par 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la majorité à laquelle appartenait
+</Turn>
+<Turn speaker="spk3 spk2" startTime="918.583" endTime="919.569">
+<Sync time="918.583"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="919.569" endTime="923.351">
+<Sync time="919.569"/>
+(expli)quer que la courbe était dans la bonne direction, jusqu'à cette 
+<Event desc="bc" type="noise" extent="begin"/>
+année depuis
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3 spk2" startTime="923.351" endTime="930.092">
+<Sync time="923.351"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="930.092" endTime="937.592">
+<Sync time="930.092"/>
+crise n'est pas terminée, je sais bien que Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; avait expliqué le contraire pendant la campagne mais objectivement il faut 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+nous
+<Event desc="dis=rev" type="noise" extent="end"/>
+ reconnaître que la crise n'est pas terminée je crois que les français le savent.
+</Turn>
+<Turn startTime="937.592" endTime="938.13">
+<Sync time="937.592"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="938.13" endTime="970.792">
+<Sync time="938.13"/>
+donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a eu explosion 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de la dette 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+mais je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ moi non plus je ne vais pas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ passer mon temps 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ parler 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ du passé même s'il est très récent et même si aujourd'hui ce passé n'est pas effacé, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est un héritage qui
+<Sync time="952.953"/>
+pèse sur nous. alors nous avons fait le choix 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ effectivement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'un ONDAM c'est-à-dire la dépense de santé &amp;hein 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ remboursée par la sécurité sociale, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en progression de 2,7
+<Event desc="2 virgule 7" type="pronounce" extent="previous"/>
+, ce qui est supérieur à ce qu'avait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="967.817"/>
+prévu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ *la majorité précédente.
+</Turn>
+<Turn speaker="spk1" startTime="970.792" endTime="971.688">
+<Sync time="970.792"/>
+pourquoi ce choix ?
+</Turn>
+<Turn speaker="spk2" startTime="971.688" endTime="972.28">
+<Sync time="971.688"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ voilà.
+</Turn>
+<Turn speaker="spk3" startTime="972.28" endTime="973.736">
+<Sync time="972.28"/>
+et recommander la cour des 
+<Event desc="b" type="noise" extent="begin"/>
+comptes
+<Event desc="b" type="noise" extent="end"/>
+.
+</Turn>
+<Turn speaker="spk2" startTime="973.736" endTime="975.935">
+<Sync time="973.736"/>
+et recommandé par la cour des comptes 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ j'en conviens.
+</Turn>
+<Turn startTime="975.935" endTime="976.363">
+<Sync time="975.935"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="976.363" endTime="983.721">
+<Sync time="976.363"/>
+nous avons fait ce choix parce que nous estimons que nous sommes dans une situation 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ très difficile du point de vue de notre offre de soins.
+</Turn>
+<Turn startTime="983.721" endTime="984.132">
+<Sync time="983.721"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="984.132" endTime="994.656">
+<Sync time="984.132"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la situation des hôpitaux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ est aujourd'hui très difficile avec des déficits qui se sont accumulés, 600 millions d'euros, en gros 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui ont été 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ accumulés 
+</Turn>
+<Turn startTime="994.656" endTime="995.479">
+<Sync time="994.656"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="995.479" endTime="1009.322">
+<Sync time="995.479"/>
+d'une part, et deuxièmement, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ chacun en convient 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a des problèmes de désertification médicale, il y a de très sérieux problèmes d'organisation de notre système de soins qui n'ont pas été résolus. et donc
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il faut que nous investissions dans notre système de santé.
+</Turn>
+<Turn startTime="1009.322" endTime="1009.767">
+<Sync time="1009.322"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1009.767" endTime="1014.957">
+<Sync time="1009.767"/>
+et donc si nous avons pris une part supérieure, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de 0,2
+<Event desc="zéro deux" type="pronounce" extent="previous"/>
+ ou de 0,3
+<Event desc="zéro trois" type="pronounce" extent="previous"/>
+ point su(périeure)
+</Turn>
+<Turn startTime="1014.957" endTime="1015.59">
+<Sync time="1014.957"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1015.59" endTime="1017.631">
+<Sync time="1015.59"/>
+(su)périeure, c'est parce que nous croyons au plan
+</Turn>
+<Turn startTime="1017.631" endTime="1018.043">
+<Sync time="1017.631"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1018.043" endTime="1024.261">
+<Sync time="1018.043"/>
+de notre système de santé, c'est que nous avons besoin d'investir pour moderniser ou pour remettre à flot, je pense 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+des
+<Event desc="dis=rev" type="noise" extent="end"/>
+ aux hôpitaux.
+</Turn>
+<Turn startTime="1024.261" endTime="1024.72">
+<Sync time="1024.261"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1024.72" endTime="1050.983">
+<Sync time="1024.72"/>
+investir pour transformer notre système de santé et faire qu'il soit véritablement accessible. lutter contre la désertification médicale. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et parce que nous pensons aussi que la dépense de santé est particulièrement pourvoyeuse d'emplois, d'aménagement du territoire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et que dans une période aussi
+<Sync time="1039.375"/>
+difficile pour l'activité économique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous pensons que la santé est une dépense vertueuse. nous pensons 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce n'est pas un coût, comme malheureusement souvent la droite veut 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le faire croire.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1050.983" endTime="1052.771">
+<Sync time="1050.983"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1052.771" endTime="1053.983">
+<Sync time="1052.771"/>
+de santé, c'est ça ?
+</Turn>
+<Turn speaker="spk2" startTime="1053.983" endTime="1054.844">
+<Sync time="1053.983"/>
+c'est que de
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1054.844" endTime="1055.651">
+<Sync time="1054.844"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1055.651" endTime="1056.505">
+<Sync time="1055.651"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+(in)vestir
+<Event desc="b" type="noise" extent="end"/>
+ sur notre
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1056.505" endTime="1057.376">
+<Sync time="1056.505"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1057.376" endTime="1062.043">
+<Sync time="1057.376"/>
+(exac)tement c'est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la volonté d'indiquer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que, au plan économique, je parle pas du plan sanitaire ou du
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1062.043" endTime="1062.455">
+<Sync time="1062.043"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1062.455" endTime="1071.626">
+<Sync time="1062.455"/>
+mais au plan économique, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la santé est un facteur de croissance vertueux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui est très important et non pas une charge comme toujours veut le faire croire la droite.
+</Turn>
+<Turn startTime="1071.626" endTime="1072.101">
+<Sync time="1071.626"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1072.101" endTime="1078.952">
+<Sync time="1072.101"/>
+&amp;ben 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est encore une fois je m'en réfère à la cour des comptes présidée par un ancien député prestigieux et socialiste.
+</Turn>
+<Turn speaker="spk1" startTime="1078.952" endTime="1079.823">
+<Sync time="1078.952"/>
+s'appelle &lt;pers=Didier_MIGAUD&gt;Didier Migaud&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk3" startTime="1079.823" endTime="1088.588">
+<Sync time="1079.823"/>
+qui est 
+<Event desc="bc" type="noise" extent="begin"/>
+&lt;pers=Didier_MIGAUD&gt;Didier Migaud&lt;/pers&gt;
+<Event desc="bc" type="noise" extent="end"/>
+, et qui dans son rapport, multiplie l'utilisation 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de l'expression " coût de la santé " 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1088.588" endTime="1089.743">
+<Sync time="1088.588"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1089.743" endTime="1095.25">
+<Sync time="1089.743"/>
+c'est largement partagé. 
+<Event desc="bc" type="noise" extent="begin"/>
+quant à la cour des comptes
+<Event desc="bc" type="noise" extent="end"/>
+ elle a pas l'habitude 
+<Event desc="bc" type="noise" extent="begin"/>
+de parler
+<Event desc="bc" type="noise" extent="end"/>
+ des petits oiseaux 
+<Event desc="bc" type="noise" extent="begin"/>
+&amp;hein elle parle plutôt 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1095.25" endTime="1096.168">
+<Sync time="1095.25"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1096.168" endTime="1109.172">
+<Sync time="1096.168"/>
+puisque c'est le mot idéologie venons-en à ce terme. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ effectivement l'idéologie voudrait faire croire que, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que ce sont des dépenses sociales, évidemment généreuses, évidemment destinées à ceux de nos compatriotes
+</Turn>
+<Turn startTime="1109.172" endTime="1109.6">
+<Sync time="1109.172"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1109.6" endTime="1112.416">
+<Sync time="1109.6"/>
+qui en ont à 99% le plus besoin.
+</Turn>
+<Turn startTime="1112.416" endTime="1112.796">
+<Sync time="1112.416"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1112.796" endTime="1124.88">
+<Sync time="1112.796"/>
+ça 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ne
+<Event desc="dis=rev" type="noise" extent="end"/>
+ mériterait de ne pas être suivi aussi attentivement que les autres dépenses. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais nos enfants, nos petits-enfants qui vont payer cette dette, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça sera quand même 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la même chose que les autres dépenses. mais je voudrais
+</Turn>
+<Turn startTime="1124.88" endTime="1125.371">
+<Sync time="1124.88"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1125.371" endTime="1131.969">
+<Sync time="1125.371"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ revenir sur ce qu'a dit &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt;, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ lorsqu'il dit on fait 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+un s()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ un choix qui est un choix
+</Turn>
+<Turn startTime="1131.969" endTime="1132.681">
+<Sync time="1131.969"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1132.681" endTime="1142.119">
+<Sync time="1132.681"/>
+d'essayer de faire face aux difficultés 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sociales du moment. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en augmentant davantage les dépenses 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de 
+<Event desc="bc" type="noise" extent="begin"/>
+santé
+<Event desc="bc" type="noise" extent="end"/>
+ que le recommande la cour des comptes.
+</Turn>
+<Turn speaker="spk1" startTime="1142.119" endTime="1142.499">
+<Sync time="1142.119"/>
+&amp;ouais
+</Turn>
+<Turn startTime="1142.499" endTime="1142.831">
+<Sync time="1142.499"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1142.831" endTime="1145.306">
+<Sync time="1142.831"/>
+et dans le même temps il n'est pas interdit
+</Turn>
+<Turn startTime="1145.306" endTime="1145.686">
+<Sync time="1145.306"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1145.686" endTime="1152.648">
+<Sync time="1145.686"/>
+de poursuivre les réformes structurelles de l'hôpital. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ or ces réformes structurelles de l'hôpital, qui sont le seul moyen
+</Turn>
+<Turn startTime="1152.648" endTime="1153.028">
+<Sync time="1152.648"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1153.028" endTime="1158.234">
+<Sync time="1153.028"/>
+de maîtriser le premier poste de dépenses de l'assurance maladie qui est l'hospitalisation,
+</Turn>
+<Turn startTime="1158.234" endTime="1158.63">
+<Sync time="1158.234"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1158.63" endTime="1163.424">
+<Sync time="1158.63"/>
+ces réformes structurelles vous les abandonnez. personnellement je le regrette beaucoup.
+</Turn>
+<Turn startTime="1163.424" endTime="1163.978">
+<Sync time="1163.424"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1163.978" endTime="1166.858">
+<Sync time="1163.978"/>
+pourquoi abandonner la convergence tarifaire ?
+</Turn>
+<Turn startTime="1166.858" endTime="1167.301">
+<Sync time="1166.858"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1167.301" endTime="1182.182">
+<Sync time="1167.301"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ au nom de quoi abandonner la convergence tarifaire ? 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur quelle base 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'hôpital pourra-t-il faire évoluer ses pratiques, qui sont d'ailleurs de grande qualité, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et généralement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ remarquables. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si on enlève ce repère, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1182.182" endTime="1183.052">
+<Sync time="1182.182"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1183.052" endTime="1184.112">
+<Sync time="1183.052"/>
+(ra)ppeler ce que c'est que la 
+<Event desc="bc" type="noise" extent="begin"/>
+convergence
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1184.112" endTime="1184.777">
+<Sync time="1184.112"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1184.777" endTime="1187.546">
+<Sync time="1184.777"/>
+tarifaire c'est 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tout simplement que les mêmes soins,
+</Turn>
+<Turn startTime="1187.546" endTime="1188.179">
+<Sync time="1187.546"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1188.179" endTime="1190.078">
+<Sync time="1188.179"/>
+administrés dans un hôpital,
+</Turn>
+<Turn startTime="1190.078" endTime="1190.474">
+<Sync time="1190.078"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1190.474" endTime="1195.664">
+<Sync time="1190.474"/>
+reviennent 27% plus cher que les mêmes soins administrés dans un établissement
+</Turn>
+<Turn startTime="1195.664" endTime="1196.155">
+<Sync time="1195.664"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1196.155" endTime="1204.244">
+<Sync time="1196.155"/>
+privé. 
+<Event desc="bc" type="noise" extent="begin"/>
+alors
+<Event desc="bc" type="noise" extent="end"/>
+ je ne suis pas de ceux qui disent que l'hôpital 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+et l'hospita(lisation)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ public et *l'hospitalisation privée c'est la même chose. il y a des charges particulières
+</Turn>
+<Turn speaker="spk2" startTime="1204.244" endTime="1204.845">
+<Sync time="1204.244"/>
+pense que vous avez
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1204.845" endTime="1205.383">
+<Sync time="1204.845"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1205.383" endTime="1217.912">
+<Sync time="1205.383"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de permanence
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de permanence des soins, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'enseignement, de recherche qui sont spécifiques à beaucoup d'établissements 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ publics. 
+<Event desc="bc" type="noise" extent="begin"/>
+toutefois
+<Event desc="bc" type="noise" extent="end"/>
+, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ lorsque l'on opère en secteur hospitalier public
+</Turn>
+<Turn startTime="1217.912" endTime="1218.529">
+<Sync time="1217.912"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1218.529" endTime="1234.527">
+<Sync time="1218.529"/>
+une gastrectomie, c'est-à-dire enlever 
+<Event desc="bc" type="noise" extent="begin"/>
+l'estomac
+<Event desc="bc" type="noise" extent="end"/>
+. ou qu'on le fait dans un établissement hospitalier privé, c'est pareil. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc il n'y a pas de raison que ça coûte plus cher 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans un établissement que dans l'autre. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc c'est cette réforme structurelle,
+<Sync time="1233.103"/>
+qui exige, c'est vrai, du courage,
+</Turn>
+<Turn startTime="1234.527" endTime="1235.176">
+<Sync time="1234.527"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1235.176" endTime="1239.163">
+<Sync time="1235.176"/>
+qui est difficile à conduire, que vous abandonnez. personnellement je le regrette.
+</Turn>
+<Turn startTime="1239.163" endTime="1240.793">
+<Sync time="1239.163"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1240.793" endTime="1255.625">
+<Sync time="1240.793"/>
+évidemment il faut continuer à réformer notre système de santé car il n'y a pas plus mobile 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ au regard 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de l'évolution des pathologies, au regard de l'évolution de la science et de l'art médical, il faut bouger, il faut sans arrêt transformer notre
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1255.625" endTime="1255.995">
+<Sync time="1255.625"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1255.995" endTime="1257.404">
+<Sync time="1255.995"/>
+faut moderniser notre système de s(anté)
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1257.404" endTime="1258.749">
+<Sync time="1257.404"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1258.749" endTime="1259.176">
+<Sync time="1258.749"/>
+charge des aff(aires)
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1259.176" endTime="1259.762">
+<Sync time="1259.176"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1259.762" endTime="1260.363">
+<Sync time="1259.762"/>
+&lt;pers=Marisol_TOURAINE&gt;Marisol Touraine&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1260.363" endTime="1260.616">
+<Sync time="1260.363"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1260.616" endTime="1264.588">
+<Sync time="1260.616"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+faut
+<Event desc="b" type="noise" extent="end"/>
+ le moderniser, pour ça il faut investir, et pour ça il faut réformer.
+</Turn>
+<Turn startTime="1264.588" endTime="1264.968">
+<Sync time="1264.588"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1264.968" endTime="1269.098">
+<Sync time="1264.968"/>
+mais certainement pas les réformes telles que vous les avez menées depuis cinq ans, alors exc(usez)
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1269.098" endTime="1269.794">
+<Sync time="1269.098"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1269.794" endTime="1273.212">
+<Sync time="1269.794"/>
+*nous nous excusons de ne pas aller dans le même sens des réformes.
+</Turn>
+<Turn startTime="1273.212" endTime="1273.703">
+<Sync time="1273.212"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1273.703" endTime="1274.289">
+<Sync time="1273.703"/>
+c'est-à-dire
+</Turn>
+<Turn startTime="1274.289" endTime="1274.732">
+<Sync time="1274.289"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1274.732" endTime="1285.981">
+<Sync time="1274.732"/>
+que, ce que vous venez de décrire, ça a été d'une part l'imposition de la logique comptable à l'hôpital. on voulait faire de l'hôpital public une entreprise. l'important c'était le résultat financier.
+</Turn>
+<Turn startTime="1285.981" endTime="1287.104">
+<Sync time="1285.981"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1287.104" endTime="1297.262">
+<Sync time="1287.104"/>
+nous pensons autrement. nous pensons que il faut bien gérer, mais que l'hôpital doit d'abord donner satisfaction aux besoins de santé de la population. et nous pensons,
+</Turn>
+<Turn startTime="1297.262" endTime="1297.816">
+<Sync time="1297.262"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1297.816" endTime="1299.019">
+<Sync time="1297.816"/>
+que l'hôpital public,
+</Turn>
+<Turn startTime="1299.019" endTime="1299.51">
+<Sync time="1299.019"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1299.51" endTime="1303.213">
+<Sync time="1299.51"/>
+n'est pas, ne fait pas du tout le même métier que les cliniques privées.
+</Turn>
+<Turn startTime="1303.213" endTime="1303.862">
+<Sync time="1303.213"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1303.862" endTime="1320.333">
+<Sync time="1303.862"/>
+les cliniques privées c'est vrai, vous avez raison de le dire, ont largement profité des tarifs que vous leur avez accordés. mais l'hôpital public ne soigne ni les mêmes maladies, en règle générale, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ni les mêmes malades, en règle générale, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que les cliniques privées. qui se
+<Sync time="1318.418"/>
+focalisent sur certains actes,
+</Turn>
+<Turn startTime="1320.333" endTime="1320.76">
+<Sync time="1320.333"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1320.76" endTime="1352.282">
+<Sync time="1320.76"/>
+les plus techniques, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les plus rémunérateurs, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui abandonnent, par exemple très largement les disciplines médicales par rapport aux disciplines chirurgicales. et dans les actes chirurgicaux prennent des actes ponctuels avec une population 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui est
+<Sync time="1335.37"/>
+autant que possible, j'allais dire une population moyenne, moyenne supérieure, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais on évite évidemment plutôt les personnes âgées. 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+est-ce qu'il y a
+<Event desc="dis=rep" type="noise" extent="end"/>
+, est-ce qu'il y a par exemple dans notre dans les cliniques privées, aujourd'hui, un chiffre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je m'adresse pas à vous &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt; parce que je pense pas que, il est normal
+<Sync time="1350.193"/>
+que vous ne l'ayez pas mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je le pose aux cliniques privées :
+</Turn>
+<Turn startTime="1352.282" endTime="1352.662">
+<Sync time="1352.282"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1352.662" endTime="1353.516">
+<Sync time="1352.662"/>
+quelle est la part
+</Turn>
+<Turn startTime="1353.516" endTime="1353.975">
+<Sync time="1353.516"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1353.975" endTime="1359.956">
+<Sync time="1353.975"/>
+des personnes de plus de 80 ans présentes dans les cliniques privées ? je parle pas des EPAD, je parle des cliniques privées qui font des soins médicaux.
+</Turn>
+<Turn speaker="spk1" startTime="1359.956" endTime="1360.24">
+<Sync time="1359.956"/>
+&amp;ouais
+</Turn>
+<Turn speaker="spk2" startTime="1360.24" endTime="1360.774">
+<Sync time="1360.24"/>
+très peu.
+</Turn>
+<Turn startTime="1360.774" endTime="1361.201">
+<Sync time="1360.774"/>
+&amp;ouais
+</Turn>
+<Turn speaker="spk2" startTime="1361.201" endTime="1363.516">
+<Sync time="1361.201"/>
+toutes les personnes âgées se font soigner
+</Turn>
+<Turn startTime="1363.516" endTime="1364.276">
+<Sync time="1363.516"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1364.276" endTime="1369.893">
+<Sync time="1364.276"/>
+à l'hôpital public. pourquoi ? parce que tout le monde sait que c'est beaucoup plus compliqué 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ même, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ un soin quelcon(que)
+</Turn>
+<Turn startTime="1369.893" endTime="1370.858">
+<Sync time="1369.893"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1370.858" endTime="1374.956">
+<Sync time="1370.858"/>
+un bras cassé. un bras cassé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour une personne de 40 ans, 
+</Turn>
+<Turn startTime="1374.956" endTime="1375.621">
+<Sync time="1374.956"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1375.621" endTime="1379.292">
+<Sync time="1375.621"/>
+ou un bras cassé pour une personne de 80 ans, c'est pas du tout la même chose.
+</Turn>
+<Turn speaker="spk3" startTime="1379.292" endTime="1379.656">
+<Sync time="1379.292"/>
+je ne suis
+</Turn>
+<Turn speaker="spk2" startTime="1379.656" endTime="1400.423">
+<Sync time="1379.656"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+&amp;eh bien
+<Event desc="bc" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les tarifs sont calculés à peu de choses près de la même façon et les cliniques privées ont très largement sélectionné quelque part leurs malades. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc nous nous disons 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nous ne sommes pas contre les cliniques privées,
+<Sync time="1390.955"/>
+elles peuvent faire des soins. simplement nous ne sommes pas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour avoir l'hypocrisie de dire que les tarifs doivent être les mêmes. ça c'est une politique d'asphyxie du service 
+<Event desc="bc" type="noise" extent="begin"/>
+public
+<Event desc="bc" type="noise" extent="end"/>
+.
+</Turn>
+<Turn speaker="spk3" startTime="1400.423" endTime="1407.227">
+<Sync time="1400.423"/>
+c'est parce que vous faites 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ un gros méli-mélo, entre toutes les missions de l'hôpital public que je ne nie pas.
+</Turn>
+<Turn startTime="1407.227" endTime="1407.607">
+<Sync time="1407.227"/>
+
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1407.607" endTime="1408.841">
+<Sync time="1407.607"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn startTime="1408.841" endTime="1409.205">
+<Sync time="1408.841"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1409.205" endTime="1416.01">
+<Sync time="1409.205"/>
+encore une fois. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais la convergence tarifaire, sur des actes qui sont techniquement les mêmes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est du bon sens. &amp;moui
+</Turn>
+<Turn startTime="1416.01" endTime="1416.659">
+<Sync time="1416.01"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1416.659" endTime="1417.434">
+<Sync time="1416.659"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ne
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ne nous a(rrêtons)
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1417.434" endTime="1419.317">
+<Sync time="1417.434"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1419.317" endTime="1420.346">
+<Sync time="1419.317"/>
+mais ça je suis pas d'accord avec
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1420.346" endTime="1421.643">
+<Sync time="1420.346"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1421.643" endTime="1422.245">
+<Sync time="1421.643"/>
+sais pas quel
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1422.245" endTime="1423.384">
+<Sync time="1422.245"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1423.384" endTime="1424.065">
+<Sync time="1423.384"/>
+(per)sonnes âgées
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1424.065" endTime="1424.856">
+<Sync time="1424.065"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1424.856" endTime="1425.347">
+<Sync time="1424.856"/>
+des pauvres
+</Turn>
+<Turn speaker="spk3" startTime="1425.347" endTime="1428.638">
+<Sync time="1425.347"/>
+je ne sais, mais je suis pas d'accord, je ne sais pas dans quel monde vous a(vez)
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1428.638" endTime="1432.246">
+<Sync time="1428.638"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1432.246" endTime="1437.547">
+<Sync time="1432.246"/>
+passe pas comme ça, en tout cas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les établissements que je connais ça ne se passe pas du tout comme ça. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a
+</Turn>
+<Turn startTime="1437.547" endTime="1437.958">
+<Sync time="1437.547"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1437.958" endTime="1441.297">
+<Sync time="1437.958"/>
+d'ailleurs il faut bien le reconnaître, on entend beaucoup parler de la situation
+</Turn>
+<Turn startTime="1441.297" endTime="1441.629">
+<Sync time="1441.297"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1441.629" endTime="1478.331">
+<Sync time="1441.629"/>
+difficile des hôpitaux, parce qu'il n'y a pas eu de réformes de structures suffisantes dans les hôpitaux publics. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais on est en train d'asphyxier l'hospitalisation privée ; qui assure pourtant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une part très importante de la chirurgie dans le pays. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et dans tout système,
+<Sync time="1455.803"/>
+il faut de l'émulation, et il y a besoin d'avoir 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des points de repère. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et la convergence tarifaire, c'est-à-dire de rétribuer au même prix les choses strictement identiques 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans le secteur hospitalier et dans le secteur privé, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est une *une économie de 14 milliards par an, qui pourrait
+<Sync time="1470.356"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ être atteinte. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc je trouve que c'est dommage de balayer une réforme de structure. 
+<Event desc="bc" type="noise" extent="begin"/>
+mais ça me fait penser
+<Event desc="bc" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="begin"/>
+à une autre
+<Event desc="bc" type="noise" extent="end"/>
+ réforme de structure 
+<Event desc="bc" type="noise" extent="begin"/>
+à laquelle
+<Event desc="bc" type="noise" extent="end"/>
+ la gauche s'était opposée
+</Turn>
+<Turn speaker="spk1" startTime="1478.331" endTime="1478.742">
+<Sync time="1478.331"/>
+allez-y
+</Turn>
+<Turn speaker="spk3" startTime="1478.742" endTime="1481.733">
+<Sync time="1478.742"/>
+et &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt; siégeait déjà avec moi dans cette assemblée.
+</Turn>
+<Turn startTime="1481.733" endTime="1482.144">
+<Sync time="1481.733"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1482.144" endTime="1503.117">
+<Sync time="1482.144"/>
+c'était simplement le fait, &amp;oh que vous aviez hurlé à l'époque, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de faire un budget pour la sécurité sociale. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est-à-dire d'établir un ONDAM. 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ce que ce que
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ce dont nous sommes en train de discuter, c'est-à-dire de dire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;ben on va commencer à regarder combien
+<Sync time="1496.867"/>
+coûtent les dépenses de santé chaque année. il y aura des objectifs de dépenses, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui 
+<Event desc="bc" type="noise" extent="begin"/>
+seront
+<Event desc="bc" type="noise" extent="end"/>
+ fixés chaque année.
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1503.117" endTime="1506.582">
+<Sync time="1503.117"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1506.582" endTime="1508.244">
+<Sync time="1506.582"/>
+parle des comptes de la sécurité sociale et
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1508.244" endTime="1511.772">
+<Sync time="1508.244"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1511.772" endTime="1519.765">
+<Sync time="1511.772"/>
+avait 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+cette
+<Event desc="dis=rep" type="noise" extent="end"/>
+ cette sorte de rêve vis-à-vis des réalités, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c'est d'un
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de distance vis-à-vis des réalités. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ oui bien entendu qu'il y a des comptes.
+</Turn>
+<Turn speaker="spk1" startTime="1519.765" endTime="1520.208">
+<Sync time="1519.765"/>
+&amp;ouais
+</Turn>
+<Turn speaker="spk3" startTime="1520.208" endTime="1527.92">
+<Sync time="1520.208"/>
+mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ comment voulez-vous vous soigner, comment voulez-vous vous alimenter, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si vous ne tenez pas compte de votre budget ? et un état 
+</Turn>
+<Turn startTime="1527.92" endTime="1528.917">
+<Sync time="1527.92"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1528.917" endTime="1529.787">
+<Sync time="1528.917"/>
+&amp;eh bien un état,
+</Turn>
+<Turn startTime="1529.787" endTime="1530.341">
+<Sync time="1529.787"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1530.341" endTime="1538.738">
+<Sync time="1530.341"/>
+c'est comme une famille. vous ne pouvez pas indéfiniment dépenser plus que vous n'avez de recettes. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc, si on veut garder à la France,
+</Turn>
+<Turn speaker="spk1" startTime="1538.738" endTime="1539.134">
+<Sync time="1538.738"/>
+&amp;hm
+</Turn>
+<Turn speaker="spk3" startTime="1539.134" endTime="1543.175">
+<Sync time="1539.134"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sa capacité de protéger les plus faibles, c'est-à-dire, et nous sommes
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1543.175" endTime="1546.561">
+<Sync time="1543.175"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1546.561" endTime="1549.014">
+<Sync time="1546.561"/>
+d'accord, &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt; 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+avec
+<Event desc="dis=rep" type="noise" extent="end"/>
+ avec 
+<Event desc="bc" type="noise" extent="begin"/>
+moi sur
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1549.014" endTime="1549.916">
+<Sync time="1549.014"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1549.916" endTime="1576.59">
+<Sync time="1549.916"/>
+c'est-à-dire préserver 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ notre système de protection sociale à la française, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous ne pouvons pas le laisser dériver financièrement davantage. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ bien sûr que tout n'a pas été fait jusqu'à présent. parce que c'est très difficile, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais casser
+<Sync time="1564.368"/>
+ce qui était en ordre de marche pour améliorer la tendance, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça fait quand même trois années de suite que nous respectons 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'objectif national de dépenses d'assurance maladie. c'est la première fois ! depuis qu'
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en 1996
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1576.59" endTime="1580.72">
+<Sync time="1576.59"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1580.72" endTime="1581.986">
+<Sync time="1580.720"/>
+(sécuri)té sociale. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc re(connaissons)
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1581.986" endTime="1584.375">
+<Sync time="1581.986"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1584.375" endTime="1584.723">
+<Sync time="1584.375"/>
+connu
+</Turn>
+<Turn speaker="spk3" startTime="1584.723" endTime="1593.112">
+<Sync time="1584.723"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+reconnaissons à la droite
+<Event desc="bc" type="noise" extent="end"/>
+ et au centre d'avoir mis en place un dispositif 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui permette de maîtriser des dérapages, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc de pérenniser la sécurité sociale.
+</Turn>
+<Turn speaker="spk1" startTime="1593.112" endTime="1594.014">
+<Sync time="1593.112"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+alors
+<Event desc="bc" type="noise" extent="end"/>
+ &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk2" startTime="1594.014" endTime="1603.772">
+<Sync time="1594.014"/>
+je vais pas rappeler que sur les déficits c'est parce qu'ils ont explosé en 2008 et 2009 que aujourd'hui il y a un petit mieux. mais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ n'oublions pas que l'explosion elle a eu lieu sous la présidence de Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sar(kozy)&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1603.772" endTime="1604.061">
+<Sync time="1603.772"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1604.061" endTime="1604.911">
+<Sync time="1604.061"/>
+les objectifs ont é(té)
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1604.911" endTime="1606.288">
+<Sync time="1604.911"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1606.288" endTime="1609.5">
+<Sync time="1606.288"/>
+trente milliards. on est passé entre 2007 on était à
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1609.5" endTime="1610.354">
+<Sync time="1609.5"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1610.354" endTime="1611.894">
+<Sync time="1610.354"/>
+trente milliards. il y a toujours la crise.
+</Turn>
+<Turn startTime="1611.894" endTime="1612.364">
+<Sync time="1611.894"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1612.364" endTime="1615.529">
+<Sync time="1612.364"/>
+mais on est dans cette situation là. bien. je n'y reviens pas.
+</Turn>
+<Turn startTime="1615.529" endTime="1615.877">
+<Sync time="1615.529"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1615.877" endTime="1620.185">
+<Sync time="1615.877"/>
+mais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ maintenant 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je reviens sur la question dite de l'ONDAM, de la gestion.
+</Turn>
+<Turn startTime="1620.185" endTime="1620.58">
+<Sync time="1620.185"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1620.58" endTime="1623.013">
+<Sync time="1620.580"/>
+ça fait, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la réforme à laquelle vous parlez et
+</Turn>
+<Turn startTime="1623.013" endTime="1623.899">
+<Sync time="1623.013"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1623.899" endTime="1636.564">
+<Sync time="1623.899"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+i(nexact)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ inexact de dire à l'époque que la gauche s'était opposée, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'était en 96, ça nous ramène maintenant quand même à 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 15 ans. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et depuis la gauche a gouverné et elle n'a pas remis en cause à aucun moment l'ONDAM 
+<Event desc="bc" type="noise" extent="begin"/>
+puisqu'elle l'avait
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1636.564" endTime="1637.389">
+<Sync time="1636.564"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1637.389" endTime="1641.376">
+<Sync time="1637.389"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+(a)ttendez,
+<Event desc="bc" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+elle l'avait
+<Event desc="dis=rep" type="noise" extent="end"/>
+ elle l'avait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ approuvé selon certaines limites parce que
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1641.376" endTime="1642.405">
+<Sync time="1641.376"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1642.405" endTime="1643.07">
+<Sync time="1642.405"/>
+l'approuve sans voter.
+</Turn>
+<Turn speaker="spk2" startTime="1643.07" endTime="1647.896">
+<Sync time="1643.07"/>
+&amp;nan c'était l'ensemble de la réforme vous saviez très bien que la réforme, c'était la réforme Juppé, vous avez pas osé dire de quoi il s'a(git)
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1647.896" endTime="1649.7">
+<Sync time="1647.896"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1649.7" endTime="1652.691">
+<Sync time="1649.7"/>
+coûté 
+<Event desc="bc" type="noise" extent="begin"/>
+d'ailleurs
+<Event desc="bc" type="noise" extent="end"/>
+ à la majorité une partie de sa défaite de
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1652.691" endTime="1653.482">
+<Sync time="1652.691"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1653.482" endTime="1653.878">
+<Sync time="1653.482"/>
+c'est
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1653.878" endTime="1656.109">
+<Sync time="1653.878"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1656.109" endTime="1656.995">
+<Sync time="1656.109"/>
+(mille) neuf cent quatre (vingt) (quinze)
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1656.995" endTime="1659.78">
+<Sync time="1656.995"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1659.78" endTime="1729.16">
+<Sync time="1659.78"/>
+et des millions de français dans la rue, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+cette fa(çon)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ cette façon 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de réformer a été 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ plebiscitée par les français. 
+<Event desc="b" type="noise" extent="begin"/>
+donc
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ je passe là-dessus parce que c'est de l'histoire maintenant. mais nous sommes nous 
+<Event desc="b" type="noise" extent="begin"/>
+tout simplement et là nous avons une divergence
+<Event desc="b" type="noise" extent="end"/>
+, c'est que vous avez voulu
+<Sync time="1674.743"/>
+pas vous d'ailleurs &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt; parce que sur le fond 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je pense que vous n'étiez pas totalement convaincu, je vous l'accorde. mais, Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; a instauré l'hôpital-entreprise, il a *marginalisé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la pensée médicale, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous savez combien les médecins ont été
+<Sync time="1689.132"/>
+profondément choqués de voir leur place minorée à l'intérieur du fonctionnement de l'hôpital. ou des cliniques d'ailleurs. au profit de gens 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui nous racontaient 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qu'ils allaient remettre les compteurs à zéro, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qu'ils étaient des excellents gestionnaires, on est allé chercher 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1703.917"/>
+des gens qui avaient des compétences 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ extérieures au monde de l'hôpital, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et qui n'ont pas donné de résultats significatifs. je rappelle que les hôpitaux dont vous avez eu la responsabilité de gestion ont eu 600 millions d'euros de déficit, ça n'apparaît pas d'ailleurs dans les comptes de la sécurité sociale, si j'ose dire.
+<Sync time="1718.606"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est les hôpitaux qui portent la dette et c'est pas la sécurité sociale qui la 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ consolide comme on dirait en termes comptables ou en termes économiques. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nous sommes dans une situation où nous nous voulons faire avancer
+</Turn>
+<Turn startTime="1729.16" endTime="1730.014">
+<Sync time="1729.16"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1730.014" endTime="1739.674">
+<Sync time="1730.014"/>
+la réforme des hôpitaux. nous pensons que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce qui doit faire avancer la réforme des hôpitaux, c'est un projet médical. c'est s'adapter 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+à l()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ aux besoins de la population, popula(tion)
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1739.674" endTime="1740.719">
+<Sync time="1739.674"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1740.719" endTime="1742.048">
+<Sync time="1740.719"/>
+(en)gorger les hôpitaux pu(blics)
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1742.048" endTime="1743.792">
+<Sync time="1742.048"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1743.792" endTime="1759.46">
+<Sync time="1743.792"/>
+par exemple dans les urgences en faisant en sorte 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'il y ait une médecine de premier recours, une médecine de ville comme on dit, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui fonctionne, ou avec une permanence des soins qui fonctionne. je rappelle que la première des choses que vous avez faite en 2003 ça a été de supprimer
+<Sync time="1757.602"/>
+les obligations de permanence de soins
+</Turn>
+<Turn startTime="1759.46" endTime="1760.315">
+<Sync time="1759.46"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1760.315" endTime="1762.324">
+<Sync time="1760.315"/>
+qu'avait mis en place le conseil de l'ordre des médecins.
+</Turn>
+<Turn startTime="1762.324" endTime="1763.021">
+<Sync time="1762.324"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1763.021" endTime="1783.334">
+<Sync time="1763.021"/>
+tout ça 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour faire plaisir à un moment donné 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ou à y
+<Event desc="dis=rev" type="noise" extent="end"/>
+ à une clientèle électorale et pour aboutir à une désorganisation de notre système de soins. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et comme notre système de soins en ville est très désorganisé, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;eh bien l'hôpital et les urgences de l'hôpital c'est une sorte
+<Sync time="1777.052"/>
+la voiture-balai de notre système de santé. et tout ceci 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vient compliquer la vie de l'hôpital et coûter cher d'ailleurs au final.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1783.334" endTime="1785.856">
+<Sync time="1783.334"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1785.856" endTime="1787.138">
+<Sync time="1785.856"/>
+de soins, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à domi(cile)
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1787.138" endTime="1788.641">
+<Sync time="1787.138"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1788.641" endTime="1799.205">
+<Sync time="1788.641"/>
+de permanence des soins, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ plus de soins en ville, ça évitera 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que on se concentre sur l'hôpital, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ou plus exactement qu'on fasse aboutir à l'hôpital 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des cas qui auraient pu être traités d'une façon
+</Turn>
+<Turn startTime="1799.205" endTime="1799.648">
+<Sync time="1799.205"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1799.648" endTime="1803.809">
+<Sync time="1799.648"/>
+plus précoce, de meilleure qualité et moins cher. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ voilà, ça se sont des ré(formes)
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1803.809" endTime="1807.639">
+<Sync time="1803.809"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1807.639" endTime="1810.202">
+<Sync time="1807.639"/>
+qui est mis en oeuvre, déjà, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et depuis longtemps.
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1810.202" endTime="1812.275">
+<Sync time="1810.202"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1812.275" endTime="1816.041">
+<Sync time="1812.275"/>
+(pro)blème est que on se heurte aussi 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+en
+<Event desc="dis=rev" type="noise" extent="end"/>
+ dans le même temps à des difficultés
+</Turn>
+<Turn startTime="1816.041" endTime="1816.737">
+<Sync time="1816.041"/>
+
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1816.737" endTime="1817.354">
+<Sync time="1816.737"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1817.354" endTime="1818.335">
+<Sync time="1817.354"/>
+vous aviez fait le même diagnos(tic)
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1818.335" endTime="1819.379">
+<Sync time="1818.335"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1819.379" endTime="1819.965">
+<Sync time="1819.379"/>
+de la majori(té)
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1819.965" endTime="1820.788">
+<Sync time="1819.965"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1820.788" endTime="1821.658">
+<Sync time="1820.788"/>
+n'ont plus le même âge
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1821.658" endTime="1822.37">
+<Sync time="1821.658"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1822.37" endTime="1823.019">
+<Sync time="1822.37"/>
+sur la m(oyen)
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1823.019" endTime="1823.731">
+<Sync time="1823.019"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1823.731" endTime="1833.12">
+<Sync time="1823.731"/>
+le système a changé, les jeunes médecins ont d'autres priorités, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et c'est très difficile d'organiser désormais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la permanence des soins 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1833.12" endTime="1836.791">
+<Sync time="1833.12"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1836.791" endTime="1837.646">
+<Sync time="1836.791"/>
+(fé)minisation
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1837.646" endTime="1839.798">
+<Sync time="1837.646"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1839.798" endTime="1847.789">
+<Sync time="1839.798"/>
+qualité des soins mais en disponibilité des professionnels au cours de la vie. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et ça ce sont des problèmes qui sont devant nous. mais venons-en si vous le voulez bien plus
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1847.789" endTime="1850.178">
+<Sync time="1847.789"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1850.178" endTime="1850.606">
+<Sync time="1850.178"/>
+traitée.
+</Turn>
+<Turn speaker="spk3" startTime="1850.606" endTime="1851.302">
+<Sync time="1850.606"/>
+mais qui s'aggrave
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1851.302" endTime="1853.755">
+<Sync time="1851.302"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1853.755" endTime="1856.002">
+<Sync time="1853.755"/>
+s'il n'y avait pas une autre politique mise en place.
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1856.002" endTime="1860.78">
+<Sync time="1856.002"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1860.78" endTime="1862.537">
+<Sync time="1860.78"/>
+0,4%
+<Event desc="zéro quatre %" type="pronounce" extent="previous"/>
+ d'ONDAM supplémentaire
+</Turn>
+<Turn speaker="spk1" startTime="1862.537" endTime="1862.885">
+<Sync time="1862.537"/>
+&amp;ouais
+</Turn>
+<Turn speaker="spk2" startTime="1862.885" endTime="1871.938">
+<Sync time="1862.885"/>
+c'est de 
+<Event desc="bc" type="noise" extent="begin"/>
+mettre
+<Event desc="bc" type="noise" extent="end"/>
+ de l'argent sur 
+<Event desc="bc" type="noise" extent="begin"/>
+cette permanence des soins
+<Event desc="bc" type="noise" extent="end"/>
+. c'est de mettre 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de sur la proximité des soins. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et pour ça il faut effectivement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;eh bien lutter contre les désertifi(cations)
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1871.938" endTime="1873.725">
+<Sync time="1871.938"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1873.725" endTime="1874.405">
+<Sync time="1873.725"/>
+&lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk2" startTime="1874.405" endTime="1874.864">
+<Sync time="1874.405"/>
+alors je m'arr(ête)
+</Turn>
+<Turn speaker="spk1" startTime="1874.864" endTime="1876.304">
+<Sync time="1874.864"/>
+donc 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on va
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on va le laisser vous répondre.
+</Turn>
+<Turn speaker="spk3" startTime="1876.304" endTime="1879.975">
+<Sync time="1876.304"/>
+bon 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ faudrait pas croire que rien n'a été fait
+</Turn>
+<Turn startTime="1879.975" endTime="1880.402">
+<Sync time="1879.975"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1880.402" endTime="1907.411">
+<Sync time="1880.402"/>
+pour organiser la permanence des soins. parce que bon an mal an elle fonctionne. elle ne fonctionne pas assez bien, il y a des zones où ça n'est pas satisfaisant, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais elle fonctionne. mais il faudra aller plus loin, ça c'est 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+in(évitable)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ inévitable compte-tenu de l'évolution sociologique
+<Sync time="1895.345"/>
+du pays, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et des professions de santé et de la nécessité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'une meilleure 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+coor(dination)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ coordination des soins. mais revenons-en 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ au sujet qui nous occupe même si j'aurais voulu parler 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des retraites et j'aimerais qu'on en parle un tout petit peu
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1907.411" endTime="1911.019">
+<Sync time="1907.411"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1911.019" endTime="1911.604">
+<Sync time="1911.019"/>
+pour les retraites.
+</Turn>
+<Turn startTime="1911.604" endTime="1912.269">
+<Sync time="1911.604"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1912.269" endTime="1915.544">
+<Sync time="1912.269"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1915.544" endTime="1916.588">
+<Sync time="1915.544"/>
+aimable aujourd'hui.
+</Turn>
+<Turn startTime="1916.588" endTime="1916.984">
+<Sync time="1916.588"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1916.984" endTime="1919.8">
+<Sync time="1916.984"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ non mais parlons des recettes nouvelles, que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="1919.8" endTime="1920.228">
+<Sync time="1919.8"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1920.228" endTime="1937.182">
+<Sync time="1920.228"/>
+le gouvernement a 
+<Event desc="bc" type="noise" extent="begin"/>
+imaginé
+<Event desc="bc" type="noise" extent="end"/>
+ pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ couvrir 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la hausse qui n'est pas maîtrisée des dépenses telle qu'elle aurait voulu, elle aurait souhaité et l'a écrit et recommandé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la cour des comptes. c'est une avalanche de nouveaux prélèvements
+<Sync time="1934.824"/>
+une avalanche de nouvelles taxes, 
+<Event desc="bc" type="noise" extent="begin"/>
+parce que
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="1937.182" endTime="1937.752">
+<Sync time="1937.182"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1937.752" endTime="1939.097">
+<Sync time="1937.752"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+les
+<Event desc="bc" type="noise" extent="end"/>
+ cigarettes, la bière ?
+</Turn>
+<Turn speaker="spk3" startTime="1939.097" endTime="1939.524">
+<Sync time="1939.097"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1939.524" endTime="1940.204">
+<Sync time="1939.524"/>
+et puis une ta(xe)
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1940.204" endTime="1944.762">
+<Sync time="1940.204"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1944.762" endTime="1945.775">
+<Sync time="1944.762"/>
+aussi les retraités
+</Turn>
+<Turn startTime="1945.775" endTime="1946.661">
+<Sync time="1945.775"/>
+
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1946.661" endTime="1949.003">
+<Sync time="1946.661"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1949.003" endTime="1949.905">
+<Sync time="1949.003"/>
+taxe qui est la ta(xe)
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1949.905" endTime="1951.25">
+<Sync time="1949.905"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1951.25" endTime="1952.531">
+<Sync time="1951.25"/>
+taxe qui a été votée par la
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1952.531" endTime="1953.765">
+<Sync time="1952.531"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn startTime="1953.765" endTime="1954.873">
+<Sync time="1953.765"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1954.873" endTime="1957.041">
+<Sync time="1954.873"/>
+qui vont être mis à contribution, je ne
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1957.041" endTime="1957.642">
+<Sync time="1957.041"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1957.642" endTime="1959.763">
+<Sync time="1957.642"/>
+je ne suis pas sûr. de 0,15%
+<Event desc="zéro quinze %" type="pronounce" extent="previous"/>
+, c'est
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1959.763" endTime="1960.206">
+<Sync time="1959.763"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1960.206" endTime="1960.538">
+<Sync time="1960.206"/>
+15
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1960.538" endTime="1960.76">
+<Sync time="1960.538"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1960.76" endTime="1962.548">
+<Sync time="1960.76"/>
+de 0,30%
+<Event desc="zéro trente %" type="pronounce" extent="previous"/>
+ l'année prochaine. oui
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1962.548" endTime="1966.678">
+<Sync time="1962.548"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1966.678" endTime="1971.852">
+<Sync time="1966.678"/>
+sous prétexte que le taux marginal de départ n'est pas important, ça compte pas. &amp;eh bien quand
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1971.852" endTime="1972.865">
+<Sync time="1971.852"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1972.865" endTime="1973.229">
+<Sync time="1972.865"/>
+par mois
+</Turn>
+<Turn speaker="spk3" startTime="1973.229" endTime="1976.124">
+<Sync time="1973.229"/>
+beaucoup 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de taux marginaux ça fait des
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1976.124" endTime="1976.852">
+<Sync time="1976.124"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1976.852" endTime="1978.814">
+<Sync time="1976.852"/>
+(retrai)tés imposables paieront vous dites 2 euros
+</Turn>
+<Turn speaker="spk2" startTime="1978.814" endTime="1979.637">
+<Sync time="1978.814"/>
+deux euros par mois
+</Turn>
+<Turn speaker="spk1" startTime="1979.637" endTime="1980.46">
+<Sync time="1979.637"/>
+par mois, de plus.
+</Turn>
+<Turn speaker="spk3" startTime="1980.46" endTime="1981.020">
+<Sync time="1980.46"/>
+il y a la taxe
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1981.020" endTime="1982.327">
+<Sync time="1981.020"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1982.327" endTime="1983.641">
+<Sync time="1982.327"/>
+future réforme sur la dépendan(ce)
+</Turn>
+<Turn speaker="spk3" startTime="1983.641" endTime="1984.717">
+<Sync time="1983.641"/>
+il y a la *taxe, oui bon
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1984.717" endTime="1985.208">
+<Sync time="1984.717"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1985.208" endTime="1985.814">
+<Sync time="1985.208"/>
+pas cette année,
+</Turn>
+<Turn speaker="spk1" startTime="1985.814" endTime="1986.131">
+<Sync time="1985.814"/>
+on verra
+</Turn>
+<Turn speaker="spk3" startTime="1986.131" endTime="1986.869">
+<Sync time="1986.131"/>
+pas cette année.
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1986.869" endTime="1987.645">
+<Sync time="1986.869"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1987.645" endTime="1990.778">
+<Sync time="1987.645"/>
+&amp;nan vous avez dit que c'était à l'année prochaine, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la dépendance, cette année c'est pour
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1990.778" endTime="1991.553">
+<Sync time="1990.778"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1991.553" endTime="1993.737">
+<Sync time="1991.553"/>
+mais le financement de la dépendance parce qu'aujourd'hui la
+</Turn>
+<Turn speaker="spk2 spk3" startTime="1993.737" endTime="1997.946">
+<Sync time="1993.737"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1997.946" endTime="1998.753">
+<Sync time="1997.946"/>
+mon cher 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3 spk2" startTime="1998.753" endTime="2000.604">
+<Sync time="1998.753"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2000.604" endTime="2001.759">
+<Sync time="2000.604"/>
+&amp;ah &amp;ah &amp;ah &amp;ah &amp;ah &amp;ah
+</Turn>
+<Turn startTime="2001.759" endTime="2003.072">
+<Sync time="2001.759"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2003.072" endTime="2043.967">
+<Sync time="2003.072"/>
+et l'auto-entrepreneur, vous allez maintenant taxer les auto-entrepreneurs, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+vous travaill(ez)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ vous taxez, vous augmentez les prélèvements 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sociaux, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur les indépendants, les travailleurs 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ indépendants. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est une multiplication 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+
+<Sync time="2017.816"/>
+de taxes nouvelles. sur les ruptures conventionnelles pourtant ça marche pas mal les ruptures conventionnelles, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;eh bien 
+<Event desc="b" type="noise" extent="begin"/>
+on en augmente
+<Event desc="b" type="noise" extent="end"/>
+ le coût. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ peu importe que la priorité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ soit d'améliorer la compétitivité des entreprises, de favoriser l'emploi, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il faut trouver de l'argent parce qu'on se fiche
+<Sync time="2032.411"/>
+des objectifs qui sont trop élevés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors *on taxe les français, on pressure les français, et je ne reviendrai pas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que ça n'est pas le lieu, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur les 20 milliards d'impôts supplémentaires. mais tout ça 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est sont les mêmes qui payent.
+</Turn>
+<Turn speaker="spk1" startTime="2043.967" endTime="2044.321">
+<Sync time="2043.967"/>
+alors
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2044.321" endTime="2045.634">
+<Sync time="2044.321"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2045.634" endTime="2063.456">
+<Sync time="2045.634"/>
+que c'est dans la case 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ cotisations sociales, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que il ne faut pas les payer, comme on doit payer les impôts. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en réalité c'est toujours pareil avec la gauche et les socialistes. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on prélève, on prélève et on dépense toujours tout. alors 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on a 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des explications généreuses, on dit oui
+<Sync time="2060.619"/>
+c'est difficile, quand on *augmente davantage 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les dépenses
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2063.456" endTime="2064.991">
+<Sync time="2063.456"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2064.991" endTime="2066.922">
+<Sync time="2064.991"/>
+une fois ce sont nos enfants et nos pe(tits)
+</Turn>
+<Turn speaker="spk3 spk1" startTime="2066.922" endTime="2068.742">
+<Sync time="2066.922"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2068.742" endTime="2069.929">
+<Sync time="2068.742"/>
+conclusion à &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk2" startTime="2069.929" endTime="2079.834">
+<Sync time="2069.929"/>
+&amp;ben pour que les déficits soient amortis il faut évidemment 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+à
+<Event desc="dis=rev" type="noise" extent="end"/>
+ faire appel à la solidarité. et la solidarité dans l'équité, c'est-à-dire que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ par exemple, la fameuse journée de Pentecôte payée par les salariés,
+</Turn>
+<Turn startTime="2079.834" endTime="2080.42">
+<Sync time="2079.834"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2080.42" endTime="2082.253">
+<Sync time="2080.42"/>
+par les entreprises à 0,1%
+<Event desc="zéro un %" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn startTime="2082.253" endTime="2082.762">
+<Sync time="2082.253"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2082.762" endTime="2097.448">
+<Sync time="2082.762"/>
+elle ne touchait pas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ d'autres professionnels. les indépendants 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, les retraités. ce n'était pas juste. il a fallu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'était 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+u(ne)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ un opportunisme. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc il faut bien, pour des raisons d'équité le faire. c'est ce que nous faisons. nous assumons l'idée de l'équité fiscale.
+</Turn>
+<Turn startTime="2097.448" endTime="2097.748">
+<Sync time="2097.448"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2097.748" endTime="2108.03">
+<Sync time="2097.748"/>
+nous ne sommes pas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ cette politique où on fait des petits cadeaux fiscaux. nous voulons une politique fiscale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui soit la plus juste possible. elle est parfois dure pour les plus riches aujourd'hui, je le concède.
+</Turn>
+<Turn startTime="2108.03" endTime="2108.537">
+<Sync time="2108.03"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2108.537" endTime="2121.059">
+<Sync time="2108.537"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+elle est d(ure)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ elle peut être rugueuse pour les plus riches aujourd'hui. c'est une différence. vous les avez très largement aidés, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les cinq dernières années, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ nous les mettons à contribution. mais les plus riches, ce sont ceux qui gagnent plus de 100 mille euros par an.
+</Turn>
+<Turn startTime="2121.059" endTime="2121.55">
+<Sync time="2121.059"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2121.55" endTime="2131.323">
+<Sync time="2121.55"/>
+ce ne sont pas les classes moyennes. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce ne sont pas les plus pauvres, ce ne sont pas les salariés de notre pays. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est une petite minorité qui est mise à contribution dans cette période de crise de façon exceptionnelle.
+</Turn>
+<Turn startTime="2131.323" endTime="2132.209">
+<Sync time="2131.323"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2132.209" endTime="2135.096">
+<Sync time="2132.209"/>
+voilà, je crois que, pour 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+les ro()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ les autres taxes
+</Turn>
+<Turn startTime="2135.096" endTime="2135.579">
+<Sync time="2135.096"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2135.579" endTime="2136.639">
+<Sync time="2135.579"/>
+taxe sur le tabac,
+</Turn>
+<Turn startTime="2136.639" endTime="2137.051">
+<Sync time="2136.639"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2137.051" endTime="2138.76">
+<Sync time="2137.051"/>
+elle a été votée par Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt;.
+</Turn>
+<Turn startTime="2138.76" endTime="2139.171">
+<Sync time="2138.76"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2139.171" endTime="2175.342">
+<Sync time="2139.171"/>
+taxe 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur la bière ? elle ne l'était pas. nous assumons, y compris pour des raisons de santé publique, il faut qu'il y ait un équilibre qui se fasse. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ voilà 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est comme cela, on ne peut pas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la la la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la maladie ne peut pas être toujours celle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="2153.766"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ comment dirais-je, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui récupère 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les mauvais comportement induits 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quand l'industrie de la bière, aujourd'hui on voit par exemple ce que ça donne dans notre jeunesse, 
+<Event desc="bc" type="noise" extent="begin"/>
+vous êtes
+<Event desc="bc" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je veux pas être plus long, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais il est 
+<Event desc="bc" type="noise" extent="begin"/>
+logique aussi
+<Event desc="bc" type="noise" extent="end"/>
+ que ceux qui quelque part profitent d'un certain
+<Sync time="2168.611"/>
+nombre de dérives comportementales, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;eh bien soient taxés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de façon équitable pour subvenir
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2175.342" endTime="2176.545">
+<Sync time="2175.342"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2176.545" endTime="2178.602">
+<Sync time="2176.545"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+vous répondez
+<Event desc="bc" type="noise" extent="end"/>
+ ? trente secondes c'est votre conclusion.
+</Turn>
+<Turn speaker="spk3" startTime="2178.602" endTime="2182.083">
+<Sync time="2178.602"/>
+ oui, un petit peu plus que trente secondes, parce que la conclusion de Monsieur &lt;pers=Jean-Marie_LE_GUEN&gt;Le Guen&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk3 spk1" startTime="2182.083" endTime="2183.27">
+<Sync time="2182.083"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2183.27" endTime="2185.659">
+<Sync time="2183.27"/>
+parle déjà à l'oreillette 
+<Event desc="bc" type="noise" extent="begin"/>
+en me disant : non pas plus
+<Event desc="bc" type="noise" extent="end"/>
+. allez-y.
+</Turn>
+<Turn startTime="2185.659" endTime="2186.371">
+<Sync time="2185.659"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2186.371" endTime="2186.893">
+<Sync time="2186.371"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="2186.893" endTime="2187.922">
+<Sync time="2186.893"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2187.922" endTime="2207.031">
+<Sync time="2187.922"/>
+ce qui se passe 
+<Event desc="bc" type="noise" extent="begin"/>
+aujourd'hui c'est
+<Event desc="bc" type="noise" extent="end"/>
+ simplement l'abandon d'un cap. comme ça a été l'abandon du cap sur la retraite à soixante ans. on abandonne les réformes structurelles qui exigent du courage. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et dans les seize milliards de déficit l'année prochaine, qu'on met sur nos petits-enfants, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y aura deux à trois
+<Sync time="2202.569"/>
+milliards parce qu'on a abandonné 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la réforme structurelle sur les retraites. il y aura
+</Turn>
+<Turn startTime="2207.031" endTime="2207.474">
+<Sync time="2207.031"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2207.474" endTime="2235.566">
+<Sync time="2207.474"/>
+des centaines de millions, et probablement plus, parce qu'on abandonne la réforme structurelle sur l'hôpital. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et il y aura derrière des français qui payeront toujours plus de taxes et toujours plus d'impôts 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en réalité une facilité démagogique ou bien 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ allez on va dire
+<Sync time="2221.768"/>
+pseudo-généreuse 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui me paraît particulièrement préoccupante pour l'avenir du pays. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et cet ONDAM est à l'image, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ces ta(xes)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ce budget de la sécurité sociale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est à l'image de ce qui se fait sur le budget de l'état. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les français ne vont pas tarder à s'en apercevoir.
+</Turn>
+<Turn speaker="spk1" startTime="2235.566" endTime="2249.354">
+<Sync time="2235.566"/>
+c'était le mot de la fin. merci, grand merci à tous les deux d'avoir participé 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à ce " pile et face ", le projet de loi de financement de la sécurité sociale c'est mercredi prochain 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en conseil des ministres et le prochain " pile et face " est la semaine prochaine, à la même place, et à la même heure. à bientôt. 
+</Turn>
+</Section>
+<Section type="nontrans" startTime="2249.354" endTime="2596.512">
+<Turn startTime="2249.354" endTime="2596.512">
+<Sync time="2249.354"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

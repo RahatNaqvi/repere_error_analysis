@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="LCP_LCPInfo13h30_2012-05-03_132700" version="11" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Brigitte_BOUCHER" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Marie_LABAT" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk3" name="Francois_HOLLANDE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk4" name="Nicolas_SARKOZY" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="David_PUJADAS" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="Jean-Baptiste_PREDALI" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk7" name="Florian_PHILIPPOT" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk8" name="Jean-Luc_MELENCHON" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk9" name="Dominique_WOLTON" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk10" name="Inconnu_001" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk11" name="Inconnu_002" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk12" name="Aurelien_ROMANO" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk13" name="Inconnu_004" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk14" name="Inconnu_009" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk15" name="Jean-Francois_COPE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk16" name="Valerie_ROSSO-DEBORD" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk17" name="Jean-Marc_AYRAULT" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk18" name="Martine_AUBRY" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk19" name="Benoit_HAMON" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk20" name="Florence_MURACCIOLE" check="no" type="female" dialect="native" accent="R2" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="94.502">
+<Turn startTime="0" endTime="94.502">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="94.502" endTime="1045.034">
+<Turn speaker="spk1" startTime="94.502" endTime="141.795">
+<Sync time="94.502"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+bonjour à tous et bienvenue dans votre édition de la mi-journée sur LCP nous sommes le jeudi 3 mai voici les titres : 
+<Sync time="100.222"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ débat très vif et très tendu entre &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; et &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; hier soir, un face à face 
+<Sync time="105.877"/>
+où les finalistes de la course à l'Élysée ont rendu coup pour coup. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ils se sont opposés avec virulence sur la dette, l'immigration 
+<Sync time="112.152"/>
+ou le style de présidence devant près de 18 millions de téléspectateurs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="116.277"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans ce journal l'avis de &lt;pers=Dominique_WOLTON&gt;Dominique Wolton&lt;/pers&gt; le directeur de l'institut des sciences de la communication du CNRS spécialiste des médias est notre invité.
+<Sync time="124.063"/>
+les réactions politiques ont été nombreuses après ce débat le Front National a une fois de plus renvoyé dos à dos les deux prétendants à l'Élysée pour l'extrême gauche et les écologistes
+<Sync time="132.831"/>
+le favori &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; est conforté.
+<Sync time="135.485"/>
+enfin &lt;pers=Florence_MURACCIOLE&gt;Florence Muracciole&lt;/pers&gt; nous rejoindra pour la revue de presse. elle nous livrera 
+<Sync time="139.779"/>
+sa lecture des hebdos.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="141.795" endTime="143.634">
+<Sync time="141.795"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="143.634" endTime="157.976">
+<Sync time="143.634"/>
+opposition frontale entre &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; et &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; hier à la télévision le débat d'entre deux tours a été d'une rare agressivité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="152.208"/>
+pendant un peu moins de 3h
+<Event desc="3 heures" type="pronounce" extent="previous"/>
+ les prétendants à l'Élysée ont tenté de se démarquer 
+<Sync time="156.418"/>
+avec pugnacité. &lt;pers=Marie_LABAT&gt;Marie Labat&lt;/pers&gt;.
+</Turn>
+<Turn startTime="157.976" endTime="158.849">
+<Sync time="157.976"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="158.849" endTime="184.424">
+<Sync time="158.849"/>
+inutile de chercher les formules de politesse et d'amabilité, sur ce plateau il n'y en a pas eu
+<Sync time="163.818"/>
+hier les deux finalistes dans la course effrénée à la présidentielle ont abattu leurs dernières cartes
+<Sync time="169.556"/>
+à gauche &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; a alors voulu conforter sa stature de présidentiable
+<Sync time="173.91"/>
+à droite &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; a tenté de rattraper son retard d'outsider.
+<Sync time="178.177"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à peine le débat commencé donc que déjà la première salve
+<Sync time="181.575"/>
+les deux hommes vont se disputer la position de rassembleur.
+</Turn>
+<Turn startTime="184.424" endTime="185.182">
+<Sync time="184.424"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="185.182" endTime="188.239">
+<Sync time="185.182"/>
+je veux être aussi le président du rassemblement.
+</Turn>
+<Turn startTime="188.239" endTime="189.013">
+<Sync time="188.239"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="189.013" endTime="189.791">
+<Sync time="189.013"/>
+pendant
+</Turn>
+<Turn startTime="189.791" endTime="190.184">
+<Sync time="189.791"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="190.184" endTime="192.201">
+<Sync time="190.184"/>
+trop d'années les français ont été opposés
+</Turn>
+<Turn startTime="192.201" endTime="192.6">
+<Sync time="192.201"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="192.6" endTime="195.326">
+<Sync time="192.6"/>
+systématiquement les uns par rapport aux autres, divisés.
+</Turn>
+<Turn speaker="spk4" startTime="195.326" endTime="197.669">
+<Sync time="195.326"/>
+le rassemblement c'est un très beau mot, c'est une très belle idée.
+</Turn>
+<Turn startTime="197.669" endTime="199.083">
+<Sync time="197.669"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="199.083" endTime="200.344">
+<Sync time="199.083"/>
+mais il faut y mettre des faits.
+</Turn>
+<Turn startTime="200.344" endTime="201.628">
+<Sync time="200.344"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="201.628" endTime="203.875">
+<Sync time="201.628"/>
+le rassemblement c'est quand on parle au peuple de France
+</Turn>
+<Turn startTime="203.875" endTime="204.4">
+<Sync time="203.875"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="204.4" endTime="207.046">
+<Sync time="204.4"/>
+à tous les français, je ne suis pas l'homme d'un parti. 
+</Turn>
+<Turn speaker="spk2" startTime="207.046" endTime="219.983">
+<Sync time="207.046"/>
+les thèmes s'enchaînent : emploi, comptes publics, éducation ou encore immigration
+<Sync time="211.587"/>
+bon nombre de sujets sont abordés mais avec une même rengaine : les candidats ne sont jamais d'accord, sur les idées bien sûr, mais aussi sur les chiffres.
+</Turn>
+<Turn speaker="spk4" startTime="219.983" endTime="228.105">
+<Sync time="219.983"/>
+le déficit depuis 2007 a augmenté non pas de 600 milliards mais de 500 milliards. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ première erreur. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="228.105" endTime="236.307">
+<Sync time="228.105"/>
+première erreur la dette, 500 milliards, c'est une erreur monsieur &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt;
+<Sync time="232.827"/>
+et une erreur de 100 milliards 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ça pose question.
+</Turn>
+<Turn speaker="spk3" startTime="236.307" endTime="237.25">
+<Sync time="236.307"/>
+le chiffre était 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="237.25" endTime="244.369">
+<Sync time="237.25"/>
+demain
+<Sync time="237.918"/>
+tous les journalistes 
+<Event desc="bc" type="noise" extent="begin"/>
+pourront confirmer demain
+<Event desc="bc" type="noise" extent="end"/>
+. que dit le 
+<Sync time="241.216"/>
+rapport de la cour des comptes ? il y a aucun doute si 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+, c'est 500 milliards.
+</Turn>
+<Turn speaker="spk2" startTime="244.369" endTime="255.672">
+<Sync time="244.369"/>
+entre arguments de fond et répliques acerbes &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; et &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; s'accusent
+<Sync time="249.143"/>
+à l'un les déjeuners secrets à l'Hôtel Bristol, à l'autre d'avoir connu la vie privée de &lt;pers=Dominique_STRAUSS-KAHN&gt;DSK&lt;/pers&gt;.
+<Sync time="254.24"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les reproches ne manquent pas.
+</Turn>
+<Turn speaker="spk3 spk4" startTime="255.672" endTime="258.384">
+<Sync time="255.672"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="258.384" endTime="262.533">
+<Sync time="258.384"/>
+Monsieur &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ laissez moi ter(miner), 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ laissez-moi, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ laissez moi 
+</Turn>
+<Turn speaker="spk4 spk5" startTime="262.533" endTime="265.043">
+<Sync time="262.533"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="265.043" endTime="265.63">
+<Sync time="265.043"/>
+s'il vous plaît
+</Turn>
+<Turn speaker="spk3 spk4" startTime="265.63" endTime="281.602">
+<Sync time="265.63"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Sync time="277.938"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="281.602" endTime="292.918">
+<Sync time="281.602"/>
+alors même si le débat aura été sans concession, impossible à l'issue d'y voir qui en ressort nettement vainqueur 
+<Sync time="287.755"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les deux candidats s'accordent pourtant sur une chose
+<Sync time="290.518"/>
+ce sont les français qui décideront.
+</Turn>
+<Turn speaker="spk1" startTime="292.918" endTime="310.154">
+<Sync time="292.918"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et ce face à face a été suivi par près de 18 millions de téléspectateurs sur 7 chaînes, un petit peu moins que celui de 2007 entre &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; et &lt;pers=Segolene_ROYAL&gt;Ségolène Royal&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="301.755"/>
+qui avait rassemblé plus de 20 millions de personnes. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Baptiste_PREDALI&gt;Jean-Baptiste Prédali&lt;/pers&gt; bonjour
+<Sync time="306.65"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce qui vous a le plus frappé hier c'est l'intensité de ce débat.
+</Turn>
+<Turn speaker="spk6" startTime="310.154" endTime="320.712">
+<Sync time="310.154"/>
+ben oui âpre, dur, tendu &amp;hein ce sont les adjectifs qui reviennent mais c'est vrai 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="313.988"/>
+pendant près de 3h
+<Event desc="3 heures" type="pronounce" extent="previous"/>
+ &amp;hein jamais la tension n'est retombée 
+<Event desc="r" type="noise" extent="instantaneous"/>
+. alors c'est ce qu'il faut je crois retenir c'est ces tensions continues
+</Turn>
+<Turn startTime="320.712" endTime="321.178">
+<Sync time="320.712"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="321.178" endTime="341.557">
+<Sync time="321.178"/>
+dans la bataille des chiffres, dans les attaques directes et parfois même dans les invectives 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="325.565"/>
+au fond il y a jamais eu de relâchement, jamais de ces moments vous savez d'humour ou presque de décontraction 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="329.699"/>
+qui peuvent parsemer les débats même très importants 
+<Event desc="r" type="noise" extent="instantaneous"/>
+.
+<Sync time="331.879"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et là, le côté face à face unique
+<Sync time="334.861"/>
+au fond induisait une sorte de montée aux extrêmes permanente des deux côtés 
+<Event desc="r" type="noise" extent="instantaneous"/>
+, et puis le but de chacun &amp;ben c'est clair c'était de ne rien lâcher
+</Turn>
+<Turn speaker="spk1" startTime="341.557" endTime="344.56">
+<Sync time="341.557"/>
+a-t-on appris sur 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les candidats notamment sur leur tempérament ? 
+</Turn>
+<Turn speaker="spk6" startTime="344.56" endTime="386.639">
+<Sync time="344.56"/>
+&amp;ben alors deux hommes, même âge et même pugnacité alors c'était une découverte pour l'un des deux &amp;hein pour &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; pour ne pas le nommer &amp;hein 
+<Event desc="r" type="noise" extent="instantaneous"/>
+. mais ce qui est frappant en fait c'est le mélange. c'est tous les deux au fond
+<Sync time="353.9"/>
+d'hommes politiques traditionnels et d'enfants de la télé.
+<Sync time="356.375"/>
+alors enfant de la télé et bien les petites phrases, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ la façon d'interrompre l'interlo(cuteur) 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+son
+<Event desc="dis=rep" type="noise" extent="end"/>
+ son concurrent, son interlocuteur 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="363.069"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et puis quand même des moments de, moi ce que j'appellerais, un moment de pure rhétorique par exemple 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la sortie de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; 15 ou 16 fois de la répétition de " moi président "
+<Sync time="372.648"/>
+c'est ce qu'on appelle une anaphore 
+<Event desc="toux en fond" type="noise" extent="instantaneous"/>
+ en rhétorique la répétition de la même formule en début de phrase 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="376.894"/>
+ce qui au fond était à la fois une critique en creux &amp;hein 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ du quinquennat de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ sur le style de présidence et donc une affirmation pour lui également.
+</Turn>
+<Turn speaker="spk1" startTime="386.639" endTime="388.519">
+<Sync time="386.639"/>
+et qu'est-ce que ça peut changer dans les urnes ? 
+</Turn>
+<Turn speaker="spk6" startTime="388.519" endTime="416.279">
+<Sync time="388.519"/>
+mais d'abord il faut rappeler une évidence c'est que ces débats ne change pas grand-chose voire rien du tout en terme de votes &amp;hein c'est historique 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="395.055"/>
+ce quand même le débat plutôt tourné autour des propositions de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; ce qui est quand même là aussi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ intéressant et ce qui a renforcé l'impression que le challenger hier soir c'était plutôt &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;
+<Sync time="404.876"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis, pour un tel débat on peut quand même risquer une hypothèse même quand il y a pas de vainqueur incontestable 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est que face à un président sortant, ne pas perdre ce débat, c'est déjà quand même presque le gagner.
+</Turn>
+<Turn speaker="spk1" startTime="416.279" endTime="433.874">
+<Sync time="416.279"/>
+merci &lt;pers=Jean-Baptiste_PREDALI&gt;Jean-Baptiste 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ Prédali&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+. je vous le disais en titre, les réactions ont été nombreuses après le débat. si le front de gauche 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donne une large 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ avance à &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; dans ce duel 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="426.917"/>
+le front national par la voix de &lt;pers=Florian_PHILIPPOT&gt;Florian Philippot&lt;/pers&gt; a renvoyé dos à dos les candidats et dénoncé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="431.807"/>
+leur récupération politique, écoutez
+</Turn>
+<Turn speaker="spk7" startTime="433.874" endTime="440.816">
+<Sync time="433.874"/>
+j'aimerais qu'on remette de la sincérité et de l'honnêteté en politique. voilà, que la gauche cesse d'aller voir les travailleurs quelques jours avant l'élection en faisant
+</Turn>
+<Turn speaker="spk1 spk7" startTime="440.816" endTime="442.156">
+<Sync time="440.816"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="442.156" endTime="443.5">
+<Sync time="442.156"/>
+c'est le Front National le chevalier 
+</Turn>
+<Turn speaker="spk7 spk1" startTime="443.5" endTime="446.785">
+<Sync time="443.5"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="446.785" endTime="463.228">
+<Sync time="446.785"/>
+alors qu'il en a encore fait plus que &lt;pers=Lionel_JOSPIN&gt;Jospin&lt;/pers&gt;. il y a un problème de sincérité aujourd'hui vraiment en politique et il faut remettre de l'honnêteté 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="453.083"/>
+cesser le cynisme électoraliste, c'est ça l'enjeu essentiel aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+.
+<Sync time="456.959"/>
+ma candidate n'est plus là, je le regrette mais nous serons une force d'avenir et notamment dès les législatives avec le rassemblement 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ bleu marine
+</Turn>
+<Turn speaker="spk8" startTime="463.228" endTime="465.383">
+<Sync time="463.228"/>
+&lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; a plié en quatre &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;
+</Turn>
+<Turn startTime="465.383" endTime="466.207">
+<Sync time="465.383"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="466.207" endTime="472.678">
+<Sync time="466.207"/>
+qui était fébrile, peu sûr de lui
+<Sync time="468.648"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ se prenant les pieds 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans le tapis des chiffres
+</Turn>
+<Turn startTime="472.678" endTime="473.203">
+<Sync time="472.678"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="473.203" endTime="474.264">
+<Sync time="473.203"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="474.264" endTime="475.137">
+<Sync time="474.264"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="475.137" endTime="491.228">
+<Sync time="475.137"/>
+déclamant des absurdités du genre il y a plus d'immigration illégale que légale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="479.782"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ chiffrant à 10 pourcent 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ l'augmentation du pouvoir d'achat des fonctionnaires. je vais pas vous saouler avec tout ça mais 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="485.333"/>
+il y avait un aspect pitoyable 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="487.673"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de la réplique de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk1" startTime="491.228" endTime="492.831">
+<Sync time="491.228"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Dominique_WOLTON&gt;Dominique Wolton&lt;/pers&gt;, bonjour
+</Turn>
+<Turn speaker="spk9" startTime="492.831" endTime="493.275">
+<Sync time="492.831"/>
+bonjour
+</Turn>
+<Turn speaker="spk1" startTime="493.275" endTime="500.599">
+<Sync time="493.275"/>
+vous êtes directeur de l'institut des sciences de la communication du CNRS, spécialiste des médias 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="498.219"/>
+vous avez regardé ce débat, qu'en avez-vous pensé ?
+</Turn>
+<Turn startTime="500.599" endTime="501.708">
+<Sync time="500.599"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="501.708" endTime="570.708">
+<Sync time="501.708"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je répète ce qui a été dit, ça va être de ce point de vue assez vrai, tendu, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ fort, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ du contenu
+<Sync time="506.864"/>
+aucune respiration 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="508.362"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; a eu du mal à démarrer si je puis dire et après on n'a pas pu l'arrêter 
+<Event desc="r" type="noise" extent="instantaneous"/>
+.
+<Sync time="512.911"/>
+en fait, c'est vrai que formellement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="514.404"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; n'a pas réussi à mordre 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ quelque part c'est &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; qui s'est imposé comme étant évidemment capable d'autorité, de 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="521.506"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ d'intelligence, de critiques etc.
+<Event desc="et cetera" type="pronounce" extent="previous"/>
+. ce qui a frappé moi je trouve je pense c'est que on l'a vu d'autres fois, notamment sous &lt;pers=Valery_GISCARD_D_ESTAING&gt;Giscard d'Estaing&lt;/pers&gt; c'est qu'il y a une espèce de saturation concernant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="528.823"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; et on a limite, quoi qu'il dise, actuellement ça ne passe pas sauf ceux naturellement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui sont
+<Event desc="dis=rep" type="noise" extent="end"/>
+
+<Sync time="533.601"/>
+qui sont convaincus parce qu'il y avait une petite marge de manoeuvre supplémentaire à l'égard 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;, une forme de curiosité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+.
+<Sync time="538.774"/>
+le style &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="540.205"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on le connaît avec ses forces et faiblesses, il était très tendu, très irrité
+<Sync time="543.969"/>
+et de ce point de vue-là, je pense qu'au bout d'un moment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="546.074"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ça a rattrapé, ça a retrouvé les dizaines de fois où il a toujours été comme ça 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="549.9"/>
+et là je pense que il y avait un handicap de &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; qu'il n'a pas réussi à lever, c'est-à-dire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="553.643"/>
+fatigué, énervé, tendu
+<Sync time="555.773"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ par rapport à &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; qui cette fois-ci 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+a n'a
+<Event desc="dis=rev" type="noise" extent="end"/>
+ il savait très bien qu'il était attendu sur le côté mou ou pas mou 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="561.613"/>
+là, manifestement, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il a tenu la distance, c'est ça. moi ce qui me frappe c'est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+quand
+<Event desc="dis=rep" type="noise" extent="end"/>
+ quand il y a une perte de confiance à l'égard d'un acteur politique, c'est plus compliqué la confiance que ce soit, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est pas un problème de gauche et de droite
+</Turn>
+<Turn startTime="570.708" endTime="571.367">
+<Sync time="570.708"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="571.367" endTime="574.601">
+<Sync time="571.367"/>
+c'est que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça décroche et ça ne se rattrape pas facilement
+</Turn>
+<Turn startTime="574.601" endTime="575.019">
+<Sync time="574.601"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="575.019" endTime="576.691">
+<Sync time="575.019"/>
+et voilà on a 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="576.691" endTime="581.943">
+<Sync time="576.691"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ il y avait beaucoup d'agressivité 
+<Event desc="bc" type="noise" extent="begin"/>
+dans ce débat
+<Event desc="bc" type="noise" extent="end"/>
+, est-ce que finalement, ça ne nuit pas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+au
+<Event desc="dis=rep" type="noise" extent="end"/>
+ au message
+<Sync time="580.872"/>
+des deux candidats ?
+</Turn>
+<Turn speaker="spk9" startTime="581.943" endTime="620.245">
+<Sync time="581.943"/>
+non parce que ils ont quand même beaucoup parlé sur le contenu. alors j'ajoute quand même que c'est quand même hélas &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; qui en a dit le plus &amp;hein incohérent, menteur, irresponsable. c'est hallucinant, il ne connaît pas l'Europe, il a tort 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ calomniateur, petit calomniateur 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="593.61"/>
+
+<Event desc="pf" type="noise" extent="instantaneous"/>
+ je veux dire, il en a dit 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+beaucoup
+<Event desc="dis=rep" type="noise" extent="end"/>
+ beaucoup. et l'intelligence de &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; est de ne pas répondre, d'esquiver et de montrer que bon.
+<Sync time="598.609"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais non ça n'a pas nui au débat
+<Sync time="600.589"/>
+parce que ils n'ont quand même 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ils n'ont
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ils ont beaucoup débattu sur le fond 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="604.178"/>
+il y a eu plus de 140 chiffres cités
+<Sync time="606.453"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec plus d'erreurs du coté de &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; parce que il en avait cité davantage 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="609.813"/>
+mais si vous voulez là, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est l()
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est le prix à payer 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de la s()
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de la situation actuelle où en fait on est dans une situation économique difficile donc par conséquent, on peut pas dire n'importe quoi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+, non pas que les autres fois on dise n'importe quoi mais là c'était particulièrement serré 
+<Event desc="r" type="noise" extent="instantaneous"/>
+. mais alors ce qui était frappant surtout
+</Turn>
+<Turn speaker="spk1" startTime="620.245" endTime="622.342">
+<Sync time="620.245"/>
+ce sont des tactiques de communication ? 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="622.342" endTime="631.0">
+<Sync time="622.342"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ils avaient envie de dire un certain nombre de choses puis après il y a une dynamique 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de situation oui
+<Sync time="626.189"/>
+mais si vous voulez, ce qu'il faut redire c'est que c'est, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+quand il y a
+<Event desc="dis=rev" type="noise" extent="end"/>
+ quand j'ai entendu certains commentaires : " c'est un cirque, c'est du spectacle, non ! "
+</Turn>
+<Turn startTime="631.0" endTime="631.354">
+<Sync time="631.0"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="631.354" endTime="679.488">
+<Sync time="631.354"/>
+c'est le coeur de la démocratie et de la communication politique, c'est un débat impossible à faire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="635.084"/>
+tous ceux qui critiquent extrêmement facilement, j'ai envie de leur dire faites en le quart
+<Sync time="638.195"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a une tension, un risque politique, un risque humain, une tension psychologique qui est extraordinaire. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est jamais un show, c'est pas un spectacle 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="645.023"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ils
+<Event desc="dis=rev" type="noise" extent="end"/>
+ si je puis dire les uns, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+l'un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ l'un et l'autre n'ont pas de bouée 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de sauvetage
+<Sync time="649.286"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et c'est ce qu'il y a de plus difficile 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ une élection au suffrage universel direct avec des émissions comme ça, en direct.
+<Sync time="654.813"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc par conséquent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est un moment de dramaturgie au sens fort du terme où
+<Sync time="658.356"/>
+tous les deux prennent le maximum de risques. et vous et moi, spectateurs, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="661.446"/>
+même si nous ne changeons pas d'avis, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+et c'est
+<Event desc="dis=rev" type="noise" extent="end"/>
+ et l'important de ce débat n'est pas sur le
+<Sync time="665.409"/>
+pourcentage de gens qui changent d'avis ou pas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+, c'est que nous regardons les hommes dans leur vérité totale, dans leurs forces, leurs faiblesses 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="671.129"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et notre regard est relativement impitoyable en même temps qu'il est humain. autrement dit, on est au coeur de la politique c'est-à la politique, c'est des affaires d'hommes avec leurs forces et leurs faiblesses.
+</Turn>
+<Turn speaker="spk1" startTime="679.488" endTime="682.412">
+<Sync time="679.488"/>
+ mais est-ce que tout ça, ça manque pas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un peu de spontanéité ?
+</Turn>
+<Turn speaker="spk9" startTime="682.412" endTime="746.49">
+<Sync time="682.412"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais attendez mais il y a de la spontanéité puisque par définition dans une interlocution, on ne sait pas ce que l'autre va dire donc par conséquent même si on a préparé quelque chose 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on est obligé de tenir compte du contexte. vous savez, la communication verbale,
+<Sync time="691.777"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ orale
+<Sync time="692.68"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ deux personnes face à face, c'est ce qu'il y a de plus difficile dans la vie, on le sait dans nos vies privées, personnelles, professionnelles 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="696.901"/>
+et &amp;bah c'est la même chose quand on est dans une dans une présidentielle et c'est encore pire parce que l'enjeu est considérable 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="701.376"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc c'est pas préparé, bien sûr certaines choses sont préparées mais il y a le risque du direct
+<Sync time="705.152"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a le risque des interactions
+<Sync time="706.703"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a le risque 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des hauts et des bas qu'on a bien senti au bout d'un moment parce qu'il y a de la fatigue 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc par conséquent, pour moi, c'est un exercice d'une extrême difficulté qui n'est pas de la forme 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="714.409"/>
+qui n'est pas de la comm, comme on le dit facilement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="716.464"/>
+et de ce point de vue-là, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ j'ai entendu plusieurs commentaires depuis hier disant : " oui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est que du spectacle la télé mais l'essentiel était sur les tweets et sur la vérification ". non ! 
+<Sync time="724.225"/>
+parce que ces hommes sont sans chiffres
+<Sync time="725.996"/>
+et prennent le risque et c'est très facile derrière d'aller voir en cinq minutes si c'est réussi ou pas réussi
+<Sync time="730.167"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le risque si vous voulez c'est les hommes politiques qui le prennent 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et j'ai envie de dire plus il y a de médias, plus il y a d'interactions, plus il y a d'internet,
+<Sync time="735.344"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ plus il faut se rendre compte que le plus difficile c'est pas d'être là à commenter, critiquer, gloser, c'est 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="739.648"/>
+comment ces deux-là vont-ils être capables 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de dire quelque chose
+<Sync time="742.68"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ voilà et donc là je pense qu'hier on était dans un bon exercice 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de démocratie.
+</Turn>
+<Turn speaker="spk1" startTime="746.49" endTime="767.466">
+<Sync time="746.49"/>
+merci &lt;pers=Dominique_WOLTON&gt;Dominique Wolton&lt;/pers&gt;, directeur de l'institut des sciences de la communication 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="750.374"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ au CNRS 
+<Event desc="r" type="noise" extent="instantaneous"/>
+. dans les QG
+<Sync time="753.237"/>
+les sympathisants n'ont rien raté de l'intervention télévisée de leur candidat 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="756.883"/>
+à droite, les militants sont galvanisés par la prestation de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="760.817"/>
+à gauche, on retient son souffle pour mieux laisser éclater sa joie, reportage d'&lt;pers=Aurelien_ROMANO&gt;Aurélien Romano&lt;/pers&gt;
+<Sync time="765.973"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et de &lt;pers=Thibaud_LE_FLOCH&gt;Thibault le Floch&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk10" startTime="767.466" endTime="770.182">
+<Sync time="767.466"/>
+ça va ? alors ça y est vous êtes prête ?
+</Turn>
+<Turn speaker="spk11" startTime="770.182" endTime="774.196">
+<Sync time="770.182"/>
+mais oui, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+on il y a que y
+<Event desc="dis=rev" type="noise" extent="end"/>
+ il reste plus qu'à lancer internet et c'est bon
+</Turn>
+<Turn speaker="spk12" startTime="774.196" endTime="792.458">
+<Sync time="774.196"/>
+et c'est bon pour la riposte, entre ordinateur et casse-croûte, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les militants UMP sont sûrs de leur champion, soutenu par les élus, la salle est survoltée
+<Sync time="786.121"/>
+atmosphère plus prudente au PS, les militants écoutent le débat, se rassurant petit à petit sur la prestation de leur champion
+</Turn>
+<Turn speaker="spk13" startTime="792.458" endTime="795.6">
+<Sync time="792.458"/>
+on criera à la fin, on est discipliné, on écoute &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; et puis après on criera
+</Turn>
+<Turn speaker="spk12" startTime="795.6" endTime="811.776">
+<Sync time="795.6"/>
+pendant ce temps, les ténors socialistes posent, eux, rassemblés dans le bureau de &lt;pers=Martine_AUBRY&gt;Martine Aubry&lt;/pers&gt;
+<Sync time="800.294"/>
+à l'UMP les tweets fusent, et les militants applaudissent chaque bonnes phrase de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;. 
+<Event desc="applaude" type="noise" extent="instantaneous"/>
+ pourtant sous cette confiance apparente, certains sont plus circonspects
+</Turn>
+<Turn speaker="spk3" startTime="811.776" endTime="814.226">
+<Sync time="811.776"/>
+tout même si y en avait sur les 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="814.226" endTime="816.346">
+<Sync time="814.226"/>
+toujours espoir 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="816.346" endTime="830.084">
+<Sync time="816.346"/>
+au PS, les militants reprennent petit à petit confiance et laissent 
+<Event desc="b" type="noise" extent="begin"/>
+éclater leur joie. à l'UMP non plus, aucun doute sur le vainqueur et chaque camp compte ses points
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="830.084" endTime="839.272">
+<Sync time="830.084"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ sur le fond, on peut pas dire qu'il y ait eu affrontement, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je n'ai entendu à aucun moment &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ assumer une position claire sur les grands sujets
+</Turn>
+<Turn speaker="spk16" startTime="839.272" endTime="844.32">
+<Sync time="839.272"/>
+si la surprise c'est que je ne pensais pas que &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; était à ce point aussi faible techniquement
+</Turn>
+<Turn speaker="spk17" startTime="844.32" endTime="849.996">
+<Sync time="844.32"/>
+ce soir, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; a été conforté 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans sa stature 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans sa capacité à diriger l'état.
+</Turn>
+<Turn speaker="spk18" startTime="849.996" endTime="853.712">
+<Sync time="849.996"/>
+je dirais qu'il a présidé le débat voilà, comme il présidera la France
+</Turn>
+<Turn speaker="spk19" startTime="853.712" endTime="864.335">
+<Sync time="853.712"/>
+c'est &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; qui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ a maîtrisé les dossiers de bout en bout
+<Sync time="858.37"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ a su 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ résister à l'agressivité qui était celle régulièrement de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk12" startTime="864.335" endTime="869.854">
+<Sync time="864.335"/>
+pour tous, le débat a donc été historique. verdict le 6 mai
+</Turn>
+<Turn speaker="spk1" startTime="869.854" endTime="891.521">
+<Sync time="869.854"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt; avait dit qu'il se prononcerait après ce débat télévisé, ce matin s'est tenu une réunion à huit clos du comité stratégique du modem 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="877.657"/>
+en début d'après-midi, le conseil national du parti va se réunir et c'est à l'issue de ce rendez-vous 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="882.273"/>
+que la décision de &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt; devrait tomber. selon son entourage, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il ne devrait pas donner de consigne de vote mais plutôt livrer un avis personnel.
+</Turn>
+<Turn speaker="spk1" startTime="891.521" endTime="896.005">
+<Sync time="891.521"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Florence_MURACCIOLE&gt;Florence Muracciole&lt;/pers&gt; nous a rejoint sur ce plateau pour la revue de presse. bonjour &lt;pers=Florence_MURACCIOLE&gt;Florence&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk20" startTime="896.005" endTime="896.67">
+<Sync time="896.005"/>
+bonjour &lt;pers=Brigitte_BOUCHER&gt;Brigitte&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk1" startTime="896.67" endTime="901.11">
+<Sync time="896.67"/>
+alors on commence avec 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à la une des hebdos &lt;pers=Lionel_JOSPIN&gt;Lionel Jospin&lt;/pers&gt; 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui frappe à la porte 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk20" startTime="901.11" endTime="935.314">
+<Sync time="901.11"/>
+oui alors ils étaient réunis en conseil 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ stratégique au lendemain du premier tour 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et &lt;pers=Francois_HOLLANDE&gt;François 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+Hé()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ Hollande&lt;/pers&gt; et ses proches ont entendu frapper à la porte 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+toc toc
+<Event desc="dis=rep" type="noise" extent="end"/>
+ toc. &amp;bah c'était &lt;pers=Lionel_JOSPIN&gt;Lionel Jospin&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et alors c'est le Nouvel obs(ervateur) qui nous raconte qu'aussitôt chacun pense que l'ancien 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="913.845"/>
+premier ministre, ancien premier secrétaire vient livrer une analyse dont il a le secret. &amp;bah que nenni
+<Sync time="919.105"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ il a, tout le monde l'a interrogé, il a dit 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+non non
+<Event desc="dis=rep" type="noise" extent="end"/>
+ non 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ très humble, il a dit : " je non je viens seulement chercher
+<Sync time="925.803"/>
+les éléments de langage. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors le battu de 2002 a bel et bien tourné la page nous dit-on de son échec 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ comme si 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;, au fond, il prenait sa revanche.
+</Turn>
+<Turn speaker="spk1" startTime="935.314" endTime="938.13">
+<Sync time="935.314"/>
+alors pourquoi &lt;pers=Valery_GISCARD_D_ESTAING&gt;Valéry Giscard d'Estaing&lt;/pers&gt; vote &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; ?
+</Turn>
+<Turn speaker="spk20" startTime="938.13" endTime="976.947">
+<Sync time="938.13"/>
+et oui 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+&amp;bah
+<Event desc="dis=rep" type="noise" extent="end"/>
+ &amp;bah il le confie 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+au au
+<Event desc="dis=rep" type="noise" extent="end"/>
+ au Point et il dit que son soutien au président sortant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="943.328"/>
+n'a été ni négocié, ni même annoncé à l'intéressé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ même si il assure que &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; a activement cherché à le joindre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="950.998"/>
+sur le fond, l'ancien 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+prém()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ président explique que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si je ne l'avais pas soutenu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je vois déjà les commentaires, cela aurait rappelé de mauvais souvenirs, c'est une allusion 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="959.389"/>
+à &lt;pers=Jacques_CHIRAC&gt;Jacques Chirac&lt;/pers&gt; qui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ peut-être vous en souvenez-vous en 81 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="963.203"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avait appelé personnellement à voter pour jac() pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Valery_GISCARD_D_ESTAING&gt;Valéry Giscard d'Estaing&lt;/pers&gt; mais avait fait voter par ses militants 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Francois_MITTERRAND&gt;François Mitterrand&lt;/pers&gt;
+<Sync time="970.602"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors il ne sera pas dit que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Valery_GISCARD_D_ESTAING&gt;Giscard&lt;/pers&gt; 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ agisse comme 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ comme 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Jacques_CHIRAC&gt;Chirac&lt;/pers&gt;, son pire ennemi
+</Turn>
+<Turn speaker="spk1" startTime="976.947" endTime="980.139">
+<Sync time="976.947"/>
+et enfin l'explication entre &lt;pers=Jean-Louis_DEBRE&gt;Jean-Louis Debré&lt;/pers&gt; et &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk20" startTime="980.139" endTime="1020.505">
+<Sync time="980.139"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ oui alors 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on vient
+<Event desc="dis=rep" type="noise" extent="end"/>
+ on vient de parler de &lt;pers=Jacques_CHIRAC&gt;Chirac&lt;/pers&gt; eh bien justement il en a été question 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="983.707"/>
+entre &lt;pers=Jean-Louis_DEBRE&gt;Jean-Louis Debré&lt;/pers&gt; et &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;. ils se sont croisés tous les deux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="987.022"/>
+avant le premier tour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et c'est 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ " l'express " qui nous rapporte que le président candidat
+<Sync time="991.359"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ apostrophe le président du conseil constitutionnel 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="994.245"/>
+l'attitude de &lt;pers=Jacques_CHIRAC&gt;Jacques Chirac&lt;/pers&gt; est intolérable, inadmissible. il appelle quasiment 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à voter &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+. eh bien fidèle d'entre les fidèles 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de l'ancien chef de l'état 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Louis_DEBRE&gt;Jean-Louis Debré&lt;/pers&gt; balance 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1004.161"/>
+il ne faut pas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+s'
+<Event desc="dis=rep" type="noise" extent="end"/>
+ s'en étonner 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1006.69"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pardon, vu la manière dont tu t'es comporté avec lui. il te rend la monnaie de ta pièce. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors en l'écoutant, on se demande si &lt;pers=Jean-Louis_DEBRE&gt;Jean-Louis Debré&lt;/pers&gt;, finalement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, chiraquien forcené 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour qui il a voté mais chut, c'est le vote est secret.
+</Turn>
+<Turn speaker="spk1" startTime="1020.505" endTime="1045.034">
+<Sync time="1020.505"/>
+on ne le dit pas. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ merci &lt;pers=Florence_MURACCIOLE&gt;Florence Muracciole&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est la fin de cette édition, merci à tous de votre attention. émission spéciale dès 18h
+<Event desc="18 heures" type="pronounce" extent="previous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1030.469"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur les chaînes parlementaires aujourd'hui, vous pourrez suivre le discours de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; à Toulon 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1034.981"/>
+suivi à 19h
+<Event desc="19 heures" type="pronounce" extent="previous"/>
+ de celui de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; à Toulouse mais tout de suite 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1039.094"/>
+place à " air de campagne " , le magazine de la rédaction de LCP 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur la présidentielle.
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1045.034" endTime="1559.760">
+<Turn startTime="1045.034" endTime="1559.760">
+<Sync time="1045.034"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

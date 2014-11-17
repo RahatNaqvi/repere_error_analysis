@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Vervisch_Ménard" audio_filename="BFMTV_CultureEtVous_2012-10-22_064700" version="10" version_date="140303">
+<Speakers>
+<Speaker id="spk1" name="Christophe_DELAY" check="no" dialect="native" accent="R1" scope="local" type="male"/>
+<Speaker id="spk2" name="Pascale_DE_LA_TOUR_DU_PIN" check="no" dialect="native" accent="R1" scope="local" type="female"/>
+<Speaker id="spk3" name="Claire_FLEURY" check="no" dialect="native" accent="R3" scope="local" type="female"/>
+<Speaker id="spk4" name="speaker#4" check="no" dialect="native" accent="R3" scope="local" type="female"/>
+<Speaker id="spk6" name="Ken_LOACH" check="no" dialect="nonnative" accent="R5" scope="local" type="male"/>
+<Speaker id="spk7" name="speaker#6" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk9" name="Lorenzo_RETORTILLO" check="no" dialect="nonnative" accent="R5" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="439.176">
+<Turn startTime="0" endTime="439.176">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="439.176" endTime="552.393">
+<Turn speaker="spk1" startTime="439.176" endTime="442.978">
+<Sync time="439.176"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+ce matin, nous avons la sortie du 
+<Event desc="en" type="language" extent="begin"/>
+live
+<Event desc="en" type="language" extent="end"/>
+ de la tournée d'&lt;pers=Hubert-Felix_THIEFAINE&gt;Hubert-Félix Thiéfaine&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk2" startTime="442.978" endTime="445.98">
+<Sync time="442.978"/>
+le réalisateur britannique &lt;pers=Ken_LOACH&gt;Ken Loach&lt;/pers&gt;, inquiet pour le cinéma fran(çais).
+</Turn>
+<Turn speaker="spk1" startTime="445.98" endTime="447.693">
+<Sync time="445.98"/>
+une nouvelle expo &lt;pers=Tim_BURTON&gt;Tim Burton&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk2" startTime="447.693" endTime="449.251">
+<Sync time="447.693"/>
+&lt;pers=Claire_FLEURY&gt;Claire Fleury&lt;/pers&gt;.
+</Turn>
+<Turn startTime="449.251" endTime="453.599">
+<Sync time="449.251"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="453.599" endTime="464.581">
+<Sync time="453.599"/>
+2012 est son année. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+150000 albums vendus, deux victoires de la musique. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+alors, pour la clôturer en beauté, &lt;pers=Hubert-Felix_THIEFAINE&gt;Hubert-Félix Thiéfaine&lt;/pers&gt; sort un live de sa tournée.
+</Turn>
+<Turn startTime="464.581" endTime="466.78">
+<Sync time="464.581"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="466.78" endTime="479.43">
+<Sync time="466.78"/>
+une tournée qui a déjà rassemblé 600000 spectateurs. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous pouvez désormais la découvrir tranquillement chez vous ou en concert
+<Event desc="r" type="noise" extent="instantaneous"/>
+ puisque le chanteur sillonne toujours les routes de France.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="479.43" endTime="481.406">
+<Sync time="479.43"/>
+&lt;pers=Ken_LOACH&gt;Ken Loach&lt;/pers&gt; s'indigne.
+</Turn>
+<Turn startTime="481.406" endTime="482.404">
+<Sync time="481.406"/>
+
+<Event desc="applaude" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="482.404" endTime="497.277">
+<Sync time="482.404"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+honoré au festival lumière, le réalisateur qu'on sait engagé, en a profité pour se révolter. 
+<Sync time="487.648"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+&lt;pers=Ken_LOACH&gt;Ken Loach&lt;/pers&gt; est inquiet,
+<Event desc="applaude" type="noise" extent="end"/>
+ 
+<Event desc="musique" type="noise" extent="begin"/>
+très inquiet pour le cinéma français 
+<Event desc="r" type="noise" extent="instantaneous"/>
+dont le système de financement, unique en europe, pourrait être remis en question par la commission européenne. 
+</Turn>
+<Turn speaker="spk6" startTime="497.277" endTime="498.099">
+<Sync time="497.277"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7 spk7" startTime="498.099" endTime="507.649">
+<Sync time="498.099"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+la diversité de notre culture est l'une des gloires de l'europe, et nous devons la protéger. il serait stupide de la laisser disparaître
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et en attaquant les subventions, Bruxelles ne protège pas le cinéma.
+</Turn>
+<Turn startTime="507.649" endTime="508.22">
+<Sync time="507.649"/>
+
+</Turn>
+<Turn speaker="spk6 spk7" startTime="508.22" endTime="509.232">
+<Sync time="508.22"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+nous devons donc le faire.
+</Turn>
+<Turn startTime="509.232" endTime="510.738" speaker="spk6">
+<Sync time="509.232"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="510.738" endTime="514.366">
+<Sync time="510.738"/>
+verdict des instances européennes le 21 novembre prochain.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="514.366" endTime="516.372">
+<Sync time="514.366"/>
+merci &lt;pers=Tim_BURTON&gt;Tim&lt;/pers&gt;
+</Turn>
+<Turn startTime="516.372" endTime="519.631">
+<Sync time="516.372"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="519.631" endTime="522.014">
+<Sync time="519.631"/>
+bienvenue dans l'univers de &lt;pers=Tim_BURTON&gt;Tim Burton&lt;/pers&gt;.
+</Turn>
+<Turn startTime="522.014" endTime="523.589">
+<Sync time="522.014"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="523.589" endTime="531.118">
+<Sync time="523.589"/>
+à l'occasion de la sortie en salle de "frankenweenie", le réalisateur propose une exposition autour de la création de ce film d'animation.
+</Turn>
+<Turn speaker="spk9 spk7" startTime="531.118" endTime="543.779">
+<Sync time="531.118"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+quand les gens vont passer la porte de l'exposition, la première chose qu'ils vont voir, c'est le bureau de &lt;pers=Tim_BURTON&gt;Tim&lt;/pers&gt;.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dessus, il y a beaucoup d'esquisses originales. et puis après, on comprend comment elles ont permis d'aboutir au film.
+</Turn>
+<Turn speaker="spk3" startTime="543.779" endTime="552.393">
+<Sync time="543.779"/>
+un univers foisonnant que les parisiens pourront découvrir à partir de mercredi, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et bonne nouvelle, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+c'est gratuit.
+</Turn>
+</Section>
+<Section type="nontrans" startTime="552.393" endTime="1564.920">
+<Turn startTime="552.393" endTime="1564.920">
+<Sync time="552.393"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
