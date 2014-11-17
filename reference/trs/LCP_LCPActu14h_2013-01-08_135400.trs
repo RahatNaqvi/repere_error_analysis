@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Vervisch_Ménard" audio_filename="LCP_LCPActu14h_2013-01-08_135400" version="9" version_date="140306">
+<Speakers>
+<Speaker id="spk1" name="Brigitte_BOUCHER" check="no" dialect="native" accent="R1" scope="local" type="female"/>
+<Speaker id="spk2" name="Francois_HOLLANDE" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk3" name="Annick_LEPETIT" check="no" dialect="native" accent="R4" scope="local" type="female"/>
+<Speaker id="spk4" name="Jean-Baptiste_DAOULAS" check="no" dialect="native" accent="R3" scope="local" type="male"/>
+<Speaker id="spk5" name="Bruno_LE_ROUX" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk6" name="Olivier_FAURE" check="no" dialect="native" accent="R5" scope="local" type="male"/>
+<Speaker id="spk7" name="Marine_LE_PEN" check="no" dialect="native" accent="R5" scope="local" type="female"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="501.083">
+<Turn startTime="0" endTime="501.083">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="501.083" endTime="1088.138">
+<Turn speaker="spk1" startTime="501.083" endTime="522.811">
+<Sync time="501.083"/>
+en ce début d'année 2013, je vous le disais en titre, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; poursuit la présentation de ses voeux. le chef de l'État s'est adressé
+<Event desc="r" type="noise" extent="instantaneous"/>
+ aux membres du conseil constitutionnel, hier. ce matin, 
+<Event desc="b-" type="noise" extent="instantaneous"/>
+il a souhaité une bonne année
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à tous les corps constitués, serviteurs de l'état,
+<Sync time="515.22"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tels que le conseil d'état, l'Assemblée, le Sénat ou la Banque centrale.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ écoutez un extrait de l'intervention du président de la république.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="522.811" endTime="523.557">
+<Sync time="522.811"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="523.557" endTime="526.684">
+<Sync time="523.557"/>
+l'état en France doit jouer pleinement son rôle.
+</Turn>
+<Turn startTime="526.684" endTime="527.306">
+<Sync time="526.684"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="527.306" endTime="528.327">
+<Sync time="527.306"/>
+et si tout ne dépend 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="528.327" endTime="529.255">
+<Sync time="528.327"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="529.255" endTime="529.756">
+<Sync time="529.255"/>
+pas de lui.
+</Turn>
+<Turn startTime="529.756" endTime="530.445">
+<Sync time="529.756"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="530.445" endTime="531.122">
+<Sync time="530.445"/>
+c'est vers lui,
+</Turn>
+<Turn startTime="531.122" endTime="532.36">
+<Sync time="531.122"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="532.36" endTime="533.025">
+<Sync time="532.36"/>
+à chaque fois,
+</Turn>
+<Turn startTime="533.025" endTime="533.947">
+<Sync time="533.025"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="533.947" endTime="534.912">
+<Sync time="533.947"/>
+que les français se tournent
+</Turn>
+<Turn startTime="534.912" endTime="536.375">
+<Sync time="534.912"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="536.375" endTime="537.59">
+<Sync time="536.375"/>
+pour 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ leur protection
+</Turn>
+<Turn startTime="537.59" endTime="538.443">
+<Sync time="537.59"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="538.443" endTime="539.621">
+<Sync time="538.443"/>
+ou pour la préparation
+</Turn>
+<Turn startTime="539.621" endTime="540.25">
+<Sync time="539.621"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="540.25" endTime="545.046">
+<Sync time="540.25"/>
+de leur avenir. la réduction de nos déficits est inscrite dans la loi de finances pour 2013.
+</Turn>
+<Turn startTime="545.046" endTime="545.952">
+<Sync time="545.046"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="545.952" endTime="548.224">
+<Sync time="545.952"/>
+et dans 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+*trajectoire
+<Event desc="dis=rev" type="noise" extent="end"/>
+ trajectoire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+triennale,
+</Turn>
+<Turn startTime="548.224" endTime="549.115">
+<Sync time="548.224"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="549.115" endTime="550.565">
+<Sync time="549.115"/>
+que le premier ministre a fixée.
+</Turn>
+<Turn startTime="550.565" endTime="551.89">
+<Sync time="550.565"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="551.89" endTime="552.418">
+<Sync time="551.89"/>
+ce sont,
+</Turn>
+<Turn startTime="552.418" endTime="553.042">
+<Sync time="552.418"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="553.042" endTime="557.705">
+<Sync time="553.042"/>
+cette année, 10 milliards d'économies que nous devrons dégager sur le budget de l'État.
+</Turn>
+<Turn startTime="557.705" endTime="558.274">
+<Sync time="557.705"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="558.274" endTime="561.533">
+<Sync time="558.274"/>
+tout en préservant les secteurs prioritaires : 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'emploi,
+</Turn>
+<Turn startTime="561.533" endTime="562.502">
+<Sync time="561.533"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="562.502" endTime="563.29">
+<Sync time="562.502"/>
+l'éducation,
+</Turn>
+<Turn startTime="563.29" endTime="563.783">
+<Sync time="563.29"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="563.783" endTime="564.575">
+<Sync time="563.783"/>
+la justice,
+</Turn>
+<Turn startTime="564.575" endTime="565.481">
+<Sync time="564.575"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="565.481" endTime="566.366">
+<Sync time="565.481"/>
+et la sécurité.
+</Turn>
+<Turn startTime="566.366" endTime="567.281">
+<Sync time="566.366"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="567.281" endTime="568.773">
+<Sync time="567.281"/>
+&lt;pers=Annick_LEPETIT&gt;Annick Lepetit&lt;/pers&gt;, bonjour.
+</Turn>
+<Turn speaker="spk3" startTime="568.773" endTime="569.241">
+<Sync time="568.773"/>
+bonjour.
+</Turn>
+<Turn speaker="spk1" startTime="569.241" endTime="588.752">
+<Sync time="569.241"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ vous êtes porte parole du groupe PS à l'assemblée nationale, député socialiste 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de Paris. alors, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; a laissé entendre, lors de ses voeux,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ que compte tenu de la situation économique, il faudrait faire des efforts en 2013.
+<Sync time="580.314"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le ministre du budget a dit 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce week-end, qu'il n'y aurait pas de hausse d'impôts. ça veut dire que
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les corps constitués devront faire plus d'économies ?
+</Turn>
+<Turn startTime="588.752" endTime="590.275">
+<Sync time="588.752"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="590.275" endTime="636.568">
+<Sync time="590.275"/>
+à la fois, le gouvernement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ agit dans l'urgence et aussi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en profondeur. le chef 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ du gouvernement, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le premier ministre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+apprend
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+a pré(senter)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ présenté 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le nouvel 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le nouveau modèle 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ français,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en insistant
+<Sync time="605.046"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur les changements en profondeur qu'il faut dans notre pays. c'est à dire
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à la fois 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, réformer notre économie pour qu'elle aille mieux,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais aussi, bien évidemment,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ garder 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et même renforcer, si c'est possible, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+notre protection sociale. j'insiste
+<Sync time="618.852"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+sur ces deux 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pieds
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ bien souvent, on a tendance 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à gommer 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la deuxième partie, c'est à dire la protection sociale.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il suffit de regarder ce qui se passe dans beaucoup d'autres pays 
+<Event desc="r" type="noise" extent="instantaneous"/>
+pour se rendre compte à quel point
+<Sync time="632.013"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la nôtre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ est fondamentale 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+surtout
+<Event desc="dis=rep" type="noise" extent="end"/>
+ surtout 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en période de crise. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ donc moi
+</Turn>
+<Turn speaker="spk3 spk1" startTime="636.568" endTime="640.181">
+<Sync time="636.568"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="640.181" endTime="681.154">
+<Sync time="640.181"/>
+puisse être sur ses deux jambes.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à la fois agir dans l'urgence, on le voit avec malheureusement,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les plans de licenciement qui sont 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ annoncés, où vous voyez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les ministres de ce gouvernement
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ passent 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+beaucoup
+<Event desc="dis=rep" type="noise" extent="end"/>
+ beaucoup de temps à l'écoute
+<Sync time="652.672"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des partenaires sociaux, mais aussi à poser des questions
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur des directions d'entreprise lorsqu'il y a incompréhension 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ sur la manière 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+dans des situations dont
+<Event desc="dis=rev" type="noise" extent="end"/>
+ on se retrouve dans des situations quelquefois un peu
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="663.357"/>
+incompréhensibles, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+où
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ où il y a des prises 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ en compte qui sont très tardives.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et donc je trouve que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce gouvernement qui est 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à la manoeuvre
+<Event desc="r" type="noise" extent="instantaneous"/>
+ fait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+beaucoup
+<Event desc="dis=rep" type="noise" extent="end"/>
+, beaucoup pour être, à la fois là, présent au quotidien,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais aussi
+<Sync time="677.598"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+avoir un cap sur l'avenir parce que c'est bien en investissant
+</Turn>
+<Turn speaker="spk3 spk1" startTime="681.154" endTime="681.885">
+<Sync time="681.154"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="681.885" endTime="688.098">
+<Sync time="681.885"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur la recherche.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et c'est le cas, justement, de ce que nous avons fait 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ces derniers mois à l'Assemblée nationale en créant
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la banque
+</Turn>
+<Turn speaker="spk3 spk1" startTime="688.098" endTime="689.878">
+<Sync time="688.098"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="689.878" endTime="698.017">
+<Sync time="689.878"/>
+sur les voeux. hier, vous savez, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; s'est adressé aux membres du conseil constitutionnel.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il a annoncé que les anciens présidents ne seraient plus membres de droit
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de cette institution.
+</Turn>
+<Turn speaker="spk1 spk3" startTime="698.017" endTime="700.34">
+<Sync time="698.017"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="700.34" endTime="704.793">
+<Sync time="700.34"/>
+pour plus d'indépendance ? est ce que c'est par risque de conflits d'intérêts ? pour quelles raisons précises selon vous ?
+</Turn>
+<Turn speaker="spk3" startTime="704.793" endTime="758.373">
+<Sync time="704.793"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+alors, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il s'en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il s'en était 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ déjà, il en avait déjà parlé 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pendant
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pendant la campagne. il souhaitait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ faire un certain nombre de réformes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+concer(nant)
+<Event desc="dis=hes" type="noise" extent="end"/>
+ concernant
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+la
+<Event desc="dis=rev" type="noise" extent="end"/>
+ le statut du président de la République.
+<Sync time="717.707"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ par exemple le statut pénal, dont on a moins parlé mais qu'il a aussi annoncé, qui est une réforme extrêmement importante.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le fait que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ désormais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les anciens présidents de la république ne pourront plus
+<Event desc="r" type="noise" extent="instantaneous"/>
+ siéger au conseil constitutionnel. d'ailleurs,
+<Sync time="731.817"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+il va se l'appliquer à lui, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en premier.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tout simplement parce que d'abord, soit ils n'y siègent plus. c'est le cas,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ par exemple, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de &lt;pers=Jacques_CHIRAC&gt;Jacques Chirac&lt;/pers&gt; 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ et de &lt;pers=Valery_GISCARD_D_ESTAING&gt;Valéry Giscard d'Estaing&lt;/pers&gt;, ou en tout cas, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ils y ont siégé mais n'y siègent plus.
+<Sync time="745.531"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et puis c'est aussi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une réforme 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui nous semble naturelle et moderne
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour un pays qui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ est justement un pays 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui a en place des lois de la république et qui n'est
+</Turn>
+<Turn speaker="spk3 spk1" startTime="758.373" endTime="758.958">
+<Sync time="758.373"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="758.958" endTime="760.868">
+<Sync time="758.958"/>
+un pays où il y a des restes de monarchie. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="760.868" endTime="772.894">
+<Sync time="760.868"/>
+il va falloir 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ changer la constitution pour cela et réunir les 3/5ème
+<Event desc="trois cinquièmes" type="pronounce" extent="previous"/>
+ du Parlement.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est-ce que vous pensez que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; réussira 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à convaincre les 3/5ème
+<Event desc="trois cinquièmes" type="pronounce" extent="previous"/>
+ du Parlement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de voter
+<Event desc="r" type="noise" extent="instantaneous"/>
+ cette révision constitutionnelle ?
+</Turn>
+<Turn speaker="spk3" startTime="772.894" endTime="792.621">
+<Sync time="772.894"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il faut toujours convaincre, mais je ne pense pas, en tout cas, je n'ai pas
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ vu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ jusqu'à présent 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, un sujet 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de polémique politicienne sur cette question.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est tout simplement, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je pense, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une réforme de bon sens,
+<Sync time="787.864"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et qui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ donne à nos institutions un petit souffle moderne.
+</Turn>
+<Turn speaker="spk1" startTime="792.621" endTime="809.657">
+<Sync time="792.621"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+on poursuit ce journal, &lt;pers=Annick_LEPETIT&gt;Annick 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ Lepetit&lt;/pers&gt;. il n'y aura sans doute pas d'amendement sur la procréation médicalement assistée dans le projet de loi sur le mariage pour tous.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la PMA devrait attendre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ trois mois et une nouvelle loi sur la famille.
+<Sync time="804.18"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+le gouvernement a visiblement à coeur de jouer l'apaisement sur un sujet
+<Event desc="r" type="noise" extent="instantaneous"/>
+ polémique. &lt;pers=Jean-Baptiste_DAOULAS&gt;Jean-Baptiste Daoulas&lt;/pers&gt;
+</Turn>
+<Turn startTime="809.657" endTime="810.415">
+<Sync time="809.657"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="810.415" endTime="818.082">
+<Sync time="810.415"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+à la mi décembre, pour le patron des députés PS, le dépôt d'un amendement sur la procréation médicalement assistée,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ne faisait aucun doute.
+</Turn>
+<Turn speaker="spk5" startTime="818.082" endTime="825.344">
+<Sync time="818.082"/>
+le groupe a pris la décision de déposer un amendement sur la PMA au texte qui viendra
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en discussion le 29 janvier.
+</Turn>
+<Turn speaker="spk4" startTime="825.344" endTime="834.388">
+<Sync time="825.344"/>
+une affirmation qui ne faisait pas l'unanimité au PS. le même jour, d'autres députés socialistes demandaient de dissocier mariage pour tous et PMA.
+</Turn>
+<Turn speaker="spk6" startTime="834.388" endTime="846.374">
+<Sync time="834.388"/>
+le groupe est extrêmement divisé sur cette question. mais que donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+il est pas
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ enfin il est urgent de reporter ce débat là, à une loi bioéthique,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que c'est la question des lois bioéthiques
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de s'interroger sur les usages de la science.
+</Turn>
+<Turn speaker="spk4" startTime="846.374" endTime="854.79">
+<Sync time="846.374"/>
+une ligne modérée qui semble l'avoir emporté.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le gouvernement promet désormais un projet de loi sur la famille et la filiation pour le mois de mars.
+</Turn>
+<Turn startTime="854.79" endTime="855.332">
+<Sync time="854.79"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="855.332" endTime="876.355">
+<Sync time="855.332"/>
+au mois de janvier,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le texte sur le mariage pour tous ne traitera donc que de mariage et d'adoption.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est ni plus, ni moins que ce que &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; a promis pendant sa campagne.
+<Sync time="865.298"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+le retrait de la PMA irrite les verts, mais il permet d'apaiser les centristes.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est ce que certains députés de l'UDI réclamaient, pour accepter de soutenir le texte sur le mariage pour tous.
+</Turn>
+<Turn startTime="876.355" endTime="877.223">
+<Sync time="876.355"/>
+
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="877.223" endTime="886.293">
+<Sync time="877.223"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+&lt;pers=Annick_LEPETIT&gt;Annick Lepetit&lt;/pers&gt;, en tant que porte parole du groupe PS, est-ce que vous pouvez nous confirmer que le groupe ne déposera pas d'amendement
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur la PMA, dans le projet 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ de loi sur le mariage pour tous ?
+</Turn>
+<Turn speaker="spk3" startTime="886.293" endTime="898.235">
+<Sync time="886.293"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+non, je ne peux pas vous le confirmer puisque 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ lorsque le groupe s'est réuni 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="rire" type="noise" extent="begin"/>
+la dernière fois 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en fin 2012
+<Event desc="rire" type="noise" extent="end"/>
+.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il a voté majoritairement 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour le dépôt de cet amendement.
+</Turn>
+<Turn speaker="spk3 spk1" startTime="898.235" endTime="899.963">
+<Sync time="898.235"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="899.963" endTime="904.907">
+<Sync time="899.963"/>
+il y aura 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ cet amendement sur la PMA. alors après,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la discussion
+</Turn>
+<Turn speaker="spk3 spk1" startTime="904.907" endTime="906.612">
+<Sync time="904.907"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="906.612" endTime="907.27">
+<Sync time="906.612"/>
+il va être déposé ?
+</Turn>
+<Turn speaker="spk3" startTime="907.27" endTime="920.285">
+<Sync time="907.27"/>
+la discussion qui n'est pas nouvelle, c'est de savoir 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+su(r)
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sur quel véhicule législatif
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ? est-ce que ça sera, à la fin du mois de janvier, comme c'était 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+effectivement 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ annoncé,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il y a quelques semaines, par 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le président de notre groupe, &lt;pers=Bruno_LE_ROUX&gt;Bruno Le Roux&lt;/pers&gt; ?
+</Turn>
+<Turn speaker="spk3 spk1" startTime="920.285" endTime="920.822">
+<Sync time="920.285"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="920.822" endTime="921.487">
+<Sync time="920.822"/>
+présentation du 
+</Turn>
+<Turn speaker="spk3 spk2" startTime="921.487" endTime="922.566">
+<Sync time="921.487"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="922.566" endTime="924.206">
+<Sync time="922.566"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ parce que c'est une nouveauté.
+</Turn>
+<Turn startTime="924.206" endTime="924.631">
+<Sync time="924.206"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="924.631" endTime="940.28">
+<Sync time="924.631"/>
+dans le cadre
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ du projet de loi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, concernant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la réforme des familles, enfin je ne sais pas comment l'appeler parce que pour le moment,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le premier ministre l'a annoncé, ce qui prouve, d'ailleurs,
+<Sync time="934.074"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+que ce débat 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ a été bénéfique, si je puis dire, dans le cadre du dialogue 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ entre le gouvernement et sa majorité à l'Assemblée nationale.
+</Turn>
+<Turn speaker="spk3 spk1" startTime="940.28" endTime="942.281">
+<Sync time="940.28"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="942.281" endTime="943.645">
+<Sync time="942.281"/>
+évoluer le gouvernement
+<Event desc="b" type="noise" extent="instantaneous"/>
+ là des(sus)
+</Turn>
+<Turn speaker="spk3" startTime="943.645" endTime="973.425">
+<Sync time="943.645"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j'en suis certaine.
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ j'en suis certaine. pourquoi ?
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tout simplement parce que ce texte, on est nombreux
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à avoir dit
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ assez vite, mais c'est vrai que c'était pas la position du gouvernement,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que ce texte, à partir du moment où il portait sur le mariage et l'adoption
+<Sync time="956.238"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+des couples de même sexe,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il introduisait, de fait, un débat sur les questions de filiation. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et vous avez aujourd'hui,
+<Sync time="962.648"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des familles qui sont 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ moins bien protégées que d'autres et 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je par(le)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ je pense pas uniquement aux couples 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ homosexuels. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+je pense à d'autres familles, des familles recomposées, au statut du tiers, etc.
+<Event desc="et cetera" type="pronounce" extent="previous"/>
+.
+</Turn>
+<Turn speaker="spk3 spk1" startTime="973.425" endTime="975.594">
+<Sync time="973.425"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn startTime="975.594" endTime="976.092">
+<Sync time="975.594"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="976.092" endTime="993.951">
+<Sync time="976.092"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ça peut être
+<Event desc="dis=rev" type="noise" extent="end"/>
+ on attend d'avoir des précisions sur cette loi. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ en tout cas, moi j'apprécie le fait, que le premier ministre l'ait annoncé ait annoncé également un calendrier.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en attendant, cette question va être à nouveau débattue,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ au sein de notre groupe pour savoir si c'est dans le cadre
+<Sync time="990.496"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+de 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la loi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ " mariage pour tous " ou si c'est dans le cadre
+</Turn>
+<Turn speaker="spk3 spk1" startTime="993.951" endTime="996.154">
+<Sync time="993.951"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="996.154" endTime="1003.383">
+<Sync time="996.154"/>
+cet amendement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ aura lieu. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ il n'est pas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, il ne faudrait pas laisser croire parce que ce serait
+<Event desc="r" type="noise" extent="instantaneous"/>
+ faux et hypocrite de notre part,
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1003.383" endTime="1006.0">
+<Sync time="1003.383"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1006.0" endTime="1006.687">
+<Sync time="1006.0"/>
+exactement.
+</Turn>
+<Turn speaker="spk1" startTime="1006.687" endTime="1008.456">
+<Sync time="1006.687"/>
+et votre décision, vous la prendrez quand 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ en groupe ?
+</Turn>
+<Turn speaker="spk3" startTime="1008.456" endTime="1021.952">
+<Sync time="1008.456"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+&amp;ben écoutez, je pense que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ nous avons une première réunion 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de notre groupe demain donc nous 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+commen(çons)
+<Event desc="dis=hes" type="noise" extent="end"/>
+ commençons même
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avant la reprise des débats 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à l'Assemblée. je ne sais pas
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si ce sera cette question qui sera à l'ordre du jour dès demain,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais elle va l'être forcément
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1021.952" endTime="1023.246">
+<Sync time="1021.952"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn startTime="1023.246" endTime="1023.852">
+<Sync time="1023.246"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1023.852" endTime="1034.563">
+<Sync time="1023.852"/>
+le mariage homosexuel, il en était 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ aussi question lors des voeux de &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt;. à cette occasion, la présidente du FN
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en a profité pour expliquer la position du parti vis à vis du projet de loi sur le mariage pour tous.
+</Turn>
+<Turn startTime="1034.563" endTime="1035.014">
+<Sync time="1034.563"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1035.014" endTime="1040.443">
+<Sync time="1035.014"/>
+si elle est contre, elle ne manifestera pas dimanche, mais appelle ceux qui le souhaitent à descendre dans la rue. on l'écoute.
+</Turn>
+<Turn speaker="spk7" startTime="1040.443" endTime="1055.665">
+<Sync time="1040.443"/>
+écoutez, ça dépend. j'ai effectué, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+il y a
+<Event desc="dis=rev" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+en octobre,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un communiqué rappelant
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que le front national 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ a toujours défendu
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la famille
+<Sync time="1051.077"/>
+et que nous nous opposions à ce projet de loi. il n'était pas question d'empêcher
+</Turn>
+<Turn startTime="1055.665" endTime="1056.112">
+<Sync time="1055.665"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="1056.112" endTime="1082.562">
+<Sync time="1056.112"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+des
+<Event desc="dis=rep" type="noise" extent="end"/>
+ des cadres, des élus, des militants, des sympathisants,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ d'exprimer par 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ cette manifestation
+<Event desc="r" type="noise" extent="instantaneous"/>
+ leur opposition. j'attire l'attention des français sur le piège politique. non pas que représente cette manifestation en elle même, si vous voulez, mais que représente
+<Sync time="1070.833"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+l'enfumage
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que constitue
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce débat qui a pris toute la place.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on voit bien que derrière cela, encore une fois, il y a la volonté de recréer le clivage gauche droite.
+</Turn>
+<Turn startTime="1082.562" endTime="1083.298">
+<Sync time="1082.562"/>
+
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1083.298" endTime="1088.138">
+<Sync time="1083.298"/>
+&lt;pers=Annick_LEPETIT&gt;Annick Lepetit&lt;/pers&gt;. 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ qu'est-ce que vous pensez 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de la stratégie du Front National ? est-ce que ça vous étonne ?
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1088.138" endTime="1498.368">
+<Turn startTime="1088.138" endTime="1498.368">
+<Sync time="1088.138"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

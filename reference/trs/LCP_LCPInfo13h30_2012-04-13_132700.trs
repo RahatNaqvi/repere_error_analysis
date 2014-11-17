@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="LCP_LCPInfo13h30_2012-04-13_132700" version="10" version_date="140312">
+<Speakers>
+<Speaker id="spk1" name="Brigitte_BOUCHER" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Germain_ANDRIEUX" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk3" name="Francois_BAYROU" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk4" name="David_PUJADAS" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="Jacques_CHEMINADE" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="Nicolas_SARKOZY" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk7" name="Nathalie_ARTHAUD" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk8" name="Jean-Luc_MELENCHON" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk9" name="Jean-Baptiste_PREDALI" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk10" name="Jeremie_HARTMANN" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk11" name="Eva_JOLY" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk12" name="Inconnu_068" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk13" name="Anne_LAUVERGEON" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk14" name="Celine_BRACQ" check="no" type="female" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk15" name="Jean-Baptiste_DAOULAS" check="no" type="male" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk16" name="Segolene_ROYAL" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="161.032">
+<Turn startTime="0" endTime="161.032">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="161.032" endTime="1019.943">
+<Turn startTime="161.032" endTime="209.104" speaker="spk1">
+<Sync time="161.032"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+bonjour à tous et bienvenue dans votre édition de la mi-journée sur LCP nous sommes le vendredi 13 avril, voici les titres : 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="167.215"/>
+tous les candidats ont passé leur grand oral sur France 2. &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt;, &lt;pers=Jacques_CHEMINADE&gt;Jacques Cheminade&lt;/pers&gt;, &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Nathalie_ARTHAUD&gt;Nathalie Arthaud&lt;/pers&gt; et &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; ont participé au second round hier soir. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le président candidat en a profité pour répondre aux accusations portées la veille 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ par &lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt;.
+<Sync time="181.163"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt; qui a poursuivi le duel à distance, toujours créditée d'environ 2% d'intention de vote
+<Sync time="185.886"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle a tenté de remobiliser ses électeurs à Grenoble à 10 jours de l'élection présidentielle, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle tenait meeting devant 2500
+<Event desc="2 mille 500" type="pronounce" extent="previous"/>
+ militants.
+<Sync time="193.139"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à J moins 9 les sondages montrent une remontée du candidat socialiste
+<Event desc="musique" type="noise" extent="end"/>
+ pour une majorité d'instituts il repasse devant &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; au premier tour
+<Sync time="200.455"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ au second tour &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; est donné largement vainqueur devant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le candidat de la droite. dans ce journal &lt;pers=Celine_BRACQ&gt;Céline Bracq&lt;/pers&gt;, la directrice adjointe de BVA, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle est notre invitée.
+</Turn>
+<Turn startTime="209.104" endTime="210.115">
+<Sync time="209.104"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="210.115" endTime="226.212">
+<Sync time="210.115"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les 5 derniers candidats à la présidentielle ont répondu aux questions des journalistes de France 2 hier soir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="216.785"/>
+pour les plus petits candidats c'était un moyen de faire entendre leur voix, pour &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; l'occasion 
+<Sync time="221.303"/>
+de répondre aux attaques d'&lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt; ou de faire un appel du pied à &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt;. &lt;pers=Germain_ANDRIEUX&gt;Germain Andrieux&lt;/pers&gt;.
+</Turn>
+<Turn startTime="226.212" endTime="227.011">
+<Sync time="226.212"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="227.011" endTime="239.548">
+<Sync time="227.011"/>
+deuxième round pour les 5 candidats restant
+<Sync time="229.197"/>
+toujours pas de confrontation, ni de débat mais un grand oral pour tous.
+<Sync time="232.622"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ premier sur le ring &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt;
+<Sync time="234.704"/>
+courtisé à gauche et surtout à droite l'ex troisième homme refuse de parler du second tour.
+</Turn>
+<Turn speaker="spk3" startTime="239.548" endTime="259.188">
+<Sync time="239.548"/>
+vous avez essayé 100 mille fois de me mettre 
+<Sync time="242.757"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans la s(ituation)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans la situation de la question 
+<Event desc="bc" type="noise" extent="begin"/>
+du deuxième tour à quoi je ne ré()
+<Event desc="bc" type="noise" extent="end"/>
+ excusez-moi à quoi je refuse
+<Sync time="250.93"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de me
+<Event desc="dis=rev" type="noise" extent="end"/>
+ dans quoi je refuse de me laisser enfermer
+<Sync time="253.739"/>
+parce que ça signifierait
+<Sync time="255.383"/>
+que j'accepte le principe du deuxième tour écrit à l'avance.
+</Turn>
+<Turn speaker="spk4" startTime="259.188" endTime="265.384">
+<Sync time="259.188"/>
+vous pourriez dire pour couper court j'exclus quoi qu'il arrive d'être le premier ministre 
+<Event desc="bc" type="noise" extent="begin"/>
+par exemple de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; ou de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;.
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="265.384" endTime="270.999">
+<Sync time="265.384"/>
+il est il est très bien que vous me proposiez des réponses et moi je choisis exactement celle que je souhaite. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="270.999" endTime="278.629">
+<Sync time="270.999"/>
+avec moins d'1% des intentions de vote c'est sans doute l'un des candidats les moins connus &lt;pers=Jacques_CHEMINADE&gt;Jacques Cheminade&lt;/pers&gt; soutient l'urgence d'un programme spatial. 
+</Turn>
+<Turn speaker="spk5" startTime="278.629" endTime="286.687">
+<Sync time="278.629"/>
+il y a un danger, un danger de l'astéroïde qui vienne c'est partout, c'est dans toute la presse 
+<Sync time="282.165"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors c'est un danger à 50, 80, 120 on sait pas 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais il y a un réel danger.
+</Turn>
+<Turn speaker="spk2" startTime="286.687" endTime="293.823">
+<Sync time="286.687"/>
+dernière ligne droite aussi pour &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; avec un nouveau clin d'oeil au centre, en clair un appel au rassemblement pour le second tour.
+</Turn>
+<Turn speaker="spk6" startTime="293.823" endTime="297.987">
+<Sync time="293.823"/>
+dans un pays de 65 millions d'habitants 
+<Sync time="296.051"/>
+où les passions sont si vives
+</Turn>
+<Turn startTime="297.987" endTime="298.963">
+<Sync time="297.987"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="298.963" endTime="301.145">
+<Sync time="298.963"/>
+que de ne gouverner qu'avec ses propres amis
+</Turn>
+<Turn startTime="301.145" endTime="301.793">
+<Sync time="301.145"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="301.793" endTime="302.759">
+<Sync time="301.793"/>
+et face
+</Turn>
+<Turn startTime="302.759" endTime="304.155">
+<Sync time="302.759"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="304.155" endTime="308.02">
+<Sync time="304.155"/>
+à Monsieur &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; entouré de Monsieur &lt;pers=Jean-Luc_MELENCHON&gt;Mélenchon&lt;/pers&gt; et de Madame &lt;pers=Eva_JOLY&gt;Joly&lt;/pers&gt;
+</Turn>
+<Turn startTime="308.02" endTime="308.826">
+<Sync time="308.02"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="308.826" endTime="314.395">
+<Sync time="308.826"/>
+moi je proposerais le moment venu aux français
+<Sync time="310.97"/>
+un grand rassemblement de l'unité nationale. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="314.395" endTime="319.297">
+<Sync time="314.395"/>
+à gauche toute pour finir le programme de &lt;pers=Nathalie_ARTHAUD&gt;Nathalie Arthaud&lt;/pers&gt; en un mot : la révolution.
+</Turn>
+<Turn speaker="spk7" startTime="319.297" endTime="338.68">
+<Sync time="319.297"/>
+si j'étais élue le 6 mai 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ cela signifierait pendant plusieurs semaines je pense des millions
+<Sync time="324.539"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de gens dans la rue, de travailleurs dans la rue en train de se révolter de ne plus accepter justement tout ce qui se passe voilà, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de subir
+<Event desc="dis=rep" type="noise" extent="end"/>
+
+<Sync time="330.905"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de subir ce diktat patronal, ces licenciements à répétition ça voudrait dire tout cela, ça voudrait dire donc effectivement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une révolte
+<Event desc="dis=rep" type="noise" extent="end"/>
+, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une révolte sociale.
+</Turn>
+<Turn speaker="spk2" startTime="338.68" endTime="348.942">
+<Sync time="338.68"/>
+le mot de la fin pour le Front de Gauche crédité entre 13 et 17% des intentions de vote, &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; a déjà créé la surprise et lance un avertissement
+<Sync time="347.2"/>
+quel que soit le résultat final.
+</Turn>
+<Turn speaker="spk8" startTime="348.942" endTime="363.485">
+<Sync time="348.942"/>
+ça s'est terminé maintenant nous sommes là, il y a une grande force et je vais vous dire
+<Sync time="352.685"/>
+je suis le recours à gauche
+<Sync time="354.519"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et si je ne gagne pas cette fois-ci de toute façon personne ne pourra se débarrasser des milliers de gens qui viennent de converger sur un programme qu'ils ont ensemble et que voici. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="363.485" endTime="370.781">
+<Sync time="363.485"/>
+à 9 jours du premier tour une seule règle l'égalité du temps de parole,
+<Sync time="367.225"/>
+plus qu'une semaine pour convaincre les indécis.
+</Turn>
+<Turn speaker="spk1" startTime="370.781" endTime="375.484">
+<Sync time="370.781"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Baptiste_PREDALI&gt;Jean-Baptiste Prédali&lt;/pers&gt; bonjour, finalement à quoi aura servi cet exercice ? 
+</Turn>
+<Turn speaker="spk9" startTime="375.484" endTime="425.549">
+<Sync time="375.484"/>
+tout d'abord c'est un exercice inédit donc c'est toujours intéressant de voir quelque chose d'assez neuf. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on l'a dit 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+ce n'est pas
+<Event desc="dis=rev" type="noise" extent="end"/>
+ c'est entre le grand oral et l'exposé des motifs avant la dernière ligne droite. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors en gros ce qu'on peut retenir &amp;hein c'est qu'il y a trois types de candidats.
+<Sync time="388.331"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a ceux d'abord qui ont 20 minutes pour exister, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis il y a ceux qui en profitent pour de ces 20 minutes pour au fond clouter
+<Sync time="394.646"/>
+leur discours de campagne, pour reprendre le discours qu'ils ont tenu pendant toute la campagne. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est vrai de &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt;,
+<Sync time="399.58"/>
+c'était vrai de &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; et c'est également vrai de &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis, il y a ceux qui ont voulu 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+f(ixer)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ comme fixer une dernière impression &amp;hein avant la dernière ligne droite. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'était flagrant avec &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; avant-hier
+<Sync time="411.069"/>
+fermeté et puis un petit peu d'humour et puis c'était aussi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ très sensible hier soir 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;.
+<Sync time="417.071"/>
+&amp;hein on l'
+<Event desc="r" type="noise" extent="begin"/>
+a dit il a terminé sur un appel au centre
+<Sync time="420.434"/>
+et c'est peut-être ce qui présage d'une sorte de recentrage 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+dans sa campagne
+<Event desc="dis=rev" type="noise" extent="end"/>
+, dans sa fin de campagne.
+</Turn>
+<Turn speaker="spk1" startTime="425.549" endTime="428.542">
+<Sync time="425.549"/>
+et sur la fin finalement de 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+cette
+<Event desc="dis=rep" type="noise" extent="end"/>
+ cette fin de campagne elle est assez classique ? 
+</Turn>
+<Turn speaker="spk9" startTime="428.542" endTime="453.514">
+<Sync time="428.542"/>
+&amp;ben c'est ce qui est assez frappant &amp;hein il y a la cybercampagne d'un côté, internet, l'information en continue etc.<Event desc="et cetera" type="pronounce" extent="previous"/>
+<Sync time="435.0"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis il y a les formes très traditionnelles, les meetings, les rassemblements 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je dirais que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la fin de campagne c'est quand même le retour des foules 
+<Sync time="441.458"/>
+et le retour des tréteaux. alors il peut s'agir
+<Sync time="443.846"/>
+de salles, il peut s'agir de meeting en plein air 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on va le voir samedi et dimanche au-delà de la démonstration de force
+<Sync time="449.837"/>
+c'est quand même le retour de la forme au fond assez traditionnelle de faire de la politique.
+</Turn>
+<Turn speaker="spk1" startTime="453.514" endTime="469.771">
+<Sync time="453.514"/>
+c'était l'éditorial de &lt;pers=Jean-Baptiste_PREDALI&gt;Jean-Baptiste Prédali&lt;/pers&gt; merci. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt; a continué sa campagne à Grenoble hier soir en dépit des difficultés, lâchée par plusieurs soutiens 
+<Sync time="462.744"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ celle qui plafonne dans les sondages autour de 2% répond aussi aux attaques. sur place en Isère &lt;pers=Jeremie_HARTMANN&gt;Jérémie Hartmann&lt;/pers&gt;, &lt;pers=Clementine_MALIGORNE&gt;Clémentine Maligorne&lt;/pers&gt;.
+<Event desc="r" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="469.771" endTime="490.673">
+<Sync time="469.771"/>
+au meeting d'&lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt; hier soir à Grenoble
+<Sync time="472.518"/>
+un invité surprise 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="applaude" type="noise" extent="instantaneous"/>
+ &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; conspué par les militants écologistes, quelques secondes plus tôt sur France 2
+<Sync time="482.837"/>
+il vient d'asséner une violente charge contre &lt;pers=Eva_JOLY&gt;Éva Joly&lt;/pers&gt;. le directeur de campagne de la candidate vient la prévenir en plein discours.
+</Turn>
+<Turn speaker="spk11" startTime="490.673" endTime="496.153">
+<Sync time="490.673"/>
+j'apprends
+<Sync time="491.752"/>
+que &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; 
+<Sync time="493.688"/>
+qui passe
+<Sync time="495.218"/>
+à la 2
+</Turn>
+<Turn startTime="496.153" endTime="496.785">
+<Sync time="496.153"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="496.785" endTime="497.684">
+<Sync time="496.785"/>
+à l'instant
+</Turn>
+<Turn startTime="497.684" endTime="499.132">
+<Sync time="497.684"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="499.132" endTime="501.032">
+<Sync time="499.132"/>
+exprime à mon égard
+</Turn>
+<Turn startTime="501.032" endTime="501.936">
+<Sync time="501.032"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="501.936" endTime="504.688">
+<Sync time="501.936"/>
+son mépris le plus cinglant
+</Turn>
+<Turn startTime="504.688" endTime="505.756">
+<Sync time="504.688"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="505.756" endTime="507.455">
+<Sync time="505.756"/>
+contre ma méchanceté
+</Turn>
+<Turn startTime="507.455" endTime="508.102">
+<Sync time="507.455"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="508.102" endTime="510.127">
+<Sync time="508.102"/>
+et ma volonté de détruire.
+</Turn>
+<Turn startTime="510.127" endTime="512.32">
+<Sync time="510.127"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="512.32" endTime="518.35">
+<Sync time="512.32"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+la veille l'ex-magistrate avait dénoncé les affaires liées aux comptes de campagne 2007 du président candidat.
+</Turn>
+<Turn speaker="spk11" startTime="518.35" endTime="530.554">
+<Sync time="518.35"/>
+nous exigeons que les comptes 2007 de la campagne de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; avec toutes ses annexes soient rendus publiques.
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="530.554" endTime="533.714">
+<Sync time="530.554"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="533.714" endTime="541.521">
+<Sync time="533.714"/>
+&lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt; la justicière jamais aussi à l'aise que lorsqu'elle rendosse ses habits de juge d'instruction
+<Sync time="538.911"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais qui reste une candidate à la peine dans les sondages.
+</Turn>
+<Turn speaker="spk11" startTime="541.521" endTime="545.464">
+<Sync time="541.521"/>
+aidez-moi à faire du 22 avril une surprise.
+</Turn>
+<Turn speaker="spk12" startTime="545.464" endTime="553.088">
+<Sync time="545.464"/>
+c'est la seule qui ne ment pas, pour moi &lt;pers=Eva_JOLY&gt;Eva Logy&lt;/pers&gt; c'est &lt;pers=Eva_JOLY&gt;
+<Event desc="dis=rep" type="noise" extent="begin"/>
+Ev(a)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ Eva Joly&lt;/pers&gt; pardon c'est la voix de l'avenir, c'est je crois en toi &lt;pers=Eva_JOLY&gt;Eva&lt;/pers&gt;, vive &lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt;, je voterai pour toi, je te donne ma confiance.
+</Turn>
+<Turn speaker="spk10" startTime="553.088" endTime="567.549">
+<Sync time="553.088"/>
+si certains militants sont convaincus, la candidate ne fait pas l'unanimité y compris dans son propre camp.
+<Sync time="558.787"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour &lt;pers=Yves_COCHET&gt;Yves Cochet&lt;/pers&gt; la campagne d'&lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt; est un indéniable échec, c'est ce que le député européen écrit dans un mail envoyé avant-hier à des cadres du parti.
+</Turn>
+<Turn startTime="567.549" endTime="568.409">
+<Sync time="567.549"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="568.409" endTime="580.939">
+<Sync time="568.409"/>
+autre média, autre passe d'armes entre &lt;pers=Anne_LAUVERGEON&gt;Anne Lauvergeon&lt;/pers&gt; et &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;. cette fois la présidente d'Areva évincée du groupe nucléaire en 2011 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ multiplie les critiques contre le chef de l'état et sa façon de gouverner, écoutez-les.
+</Turn>
+<Turn speaker="spk13" startTime="580.939" endTime="598.966">
+<Sync time="580.939"/>
+ce que je reproche à &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; c'est d'avoir laissé se mettre en place un système.
+<Sync time="586.525"/>
+un système 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ effectivement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui a défendu non pas les intérêts stratégiques de la France, sur une de ces industries 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les plus 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+emblé(matiques)
+<Event desc="dis=rep" type="noise" extent="end"/>
+ emblématiques, mais à défendre des intérêts privés.
+</Turn>
+<Turn speaker="spk6" startTime="598.966" endTime="612.502">
+<Sync time="598.966"/>
+franchement &lt;pers=Anne_LAUVERGEON&gt;Anne Lauvergeon&lt;/pers&gt; qui voulait rester à tout prix présidente d'Areva ne devait pas être gênée par le système qu'elle dénonce maintenant. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="605.702"/>
+elle est par ailleurs aujourd'hui la présidente de "Libération" dont on connaît l'engagement à gauche, tout ça c'est de la politicaille.
+</Turn>
+<Turn speaker="spk1" startTime="612.502" endTime="631.43">
+<Sync time="612.502"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; s'en prend une nouvelle fois à la finance il a dénoncé ses ravages ce matin accompagné d'une poignée de militants 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="618.771"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il a manifesté devant le siège de l'AMF, l'autorité des marchés financiers place de la bourse à Paris. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il conteste notamment le lancement aujourd'hui même d'un contrat à terme sur la dette française. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on écoute le président du Front de Gauche.
+</Turn>
+<Turn speaker="spk8" startTime="631.43" endTime="632.971">
+<Sync time="631.43"/>
+nous sommes venus 
+</Turn>
+<Turn startTime="632.971" endTime="633.429">
+<Sync time="632.971"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="633.429" endTime="637.341">
+<Sync time="633.429"/>
+marquer que nous avons bien vu ce qui se passe 
+</Turn>
+<Turn startTime="637.341" endTime="638.024">
+<Sync time="637.341"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="638.024" endTime="639.472">
+<Sync time="638.024"/>
+en organisant
+</Turn>
+<Turn startTime="639.472" endTime="640.022">
+<Sync time="639.472"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="640.022" endTime="656.153">
+<Sync time="640.022"/>
+un marché à terme sur la dette française. la bourse allemande
+<Sync time="645.889"/>
+a organisé un moyen
+<Sync time="648.539"/>
+de prendre à la gorge le peuple français
+<Sync time="652.097"/>
+sitôt qu'elle en aura l'intention. je mets en garde
+</Turn>
+<Turn startTime="656.153" endTime="657.057">
+<Sync time="656.153"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="657.057" endTime="663.674">
+<Sync time="657.057"/>
+nous frapperons ceux qui veulent nous frapper si nous sommes en charge des affaires du pays.
+</Turn>
+<Turn speaker="spk1" startTime="663.674" endTime="701.074">
+<Sync time="663.674"/>
+images signées &lt;pers=Pierre_LASCAR&gt;Pierre Lascar&lt;/pers&gt; et &lt;pers=Thibault_LE_FLOCH&gt;Thibault Le Floch&lt;/pers&gt;. les derniers sondages se suivent et se ressemblent.
+<Sync time="669.542"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans les 4 derniers publiés hier dont celui de l'institut BVA 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="673.321"/>
+&lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; est en tête au premier tour à 30% et gagne 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="676.664"/>
+un demi point. &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; perd un point à 27%, &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; est à 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 15%, &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="683.451"/>
+à 13, &lt;pers=Francois_BAYROU&gt;François Bayrou&lt;/pers&gt; à 11. au second tour &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; l'emporterait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="688.693"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec 56% des voix. &lt;pers=Celine_BRACQ&gt;Céline Bracq&lt;/pers&gt; bonjour, vous êtes 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ directrice adjointe de BVA &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; progresse
+<Sync time="696.545"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; marque le pas, quels sont les événements qui ont joués ces derniers jours ?
+</Turn>
+<Turn speaker="spk14" startTime="701.074" endTime="743.128">
+<Sync time="701.074"/>
+et bien ces derniers jours en fait on a retrouvé un &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; un peu plus audible alors qu'on l'entendait peu finalement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pendant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+cette fin
+<Event desc="dis=rev" type="noise" extent="end"/>
+ ces dernières semaines. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="710.118"/>
+et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on rend de nouveau audible finalement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="712.809"/>
+sur la partie 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ programmatique, planning
+<Sync time="716.634"/>
+des premiers mois 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+s'il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ s'il est élu président donc je pense que ça, ça a pu jouer 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et puis à mon avis 
+<Sync time="721.896"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tous les papiers qu'on a pu entendre et l'euphorie qui a gagné 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le l'UMP
+<Sync time="727.672"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ après la remontée de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; au moment de l'affaire &lt;pers=Mohamed_MERAH&gt;Merah&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="731.01"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ a dû remobiliser le vote de gauche puisque ce qu'on voit en fait dans notre sondage c'est que la progression de &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; elle se fait sur sa gauche
+<Sync time="737.761"/>
+puisqu'il prend un point 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; et autant aux deux candidats d'extrême gauche.
+</Turn>
+<Turn speaker="spk1" startTime="743.128" endTime="746.716">
+<Sync time="743.128"/>
+ça veut dire que quand il a lancé son appel au vote utile il a été entendu ? 
+</Turn>
+<Turn speaker="spk14" startTime="746.716" endTime="768.582">
+<Sync time="746.716"/>
+il a été entendu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et 
+<Sync time="748.616"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+toute
+<Event desc="dis=rev" type="noise" extent="end"/>
+ effectivement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+toute
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+toute
+<Event desc="dis=rev" type="noise" extent="end"/>
+ tout ce qu'on a pu voir aussi dans les médias avec une remontée de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;
+<Sync time="753.884"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ a pu en fait &amp;ben paradoxalement ou pas *paradoxalement d'ailleurs
+<Sync time="757.201"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;ben remobiliser la gauche en se disant &amp;bah finalement 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est-ce qu'il n'y a pas un risque pour nous de revoir &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; président 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="764.142"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et ça, ça joue et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il y a un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il y a un effet vote utile en effet 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ qui peut jouer.
+</Turn>
+<Turn speaker="spk1" startTime="768.582" endTime="778.717">
+<Sync time="768.582"/>
+pourtant cette semaine le thème de la finance 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ a resurgi 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="771.904"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est un thème qui en principe devrait être porteur pour &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; lui qui se décrit un peu comme 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le capitaine de tempête 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="777.487"/>
+ça a pas trop marché ? 
+</Turn>
+<Turn speaker="spk14" startTime="778.717" endTime="821.675">
+<Sync time="778.717"/>
+c'est à priori même 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le seul thème porteur de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; c'est-à-dire que
+<Sync time="783.589"/>
+&lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; sa progression de l'intention de vote il l'a faite essentiellement entre octobre et janvier 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="788.066"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ quand il était vraiment
+<Sync time="790.012"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ aux commandes 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ du navire France en risque de perdition
+<Sync time="794.915"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et au moment de la crise Grecque où il a extrêmement 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+beau() enfin et
+<Event desc="dis=rev" type="noise" extent="end"/>
+ beaucoup progressé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="799.12"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et quand il était vraiment sur des thèmes économiques et sociaux 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="802.021"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et ce qu'on a vu c'est que
+<Sync time="803.937"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pendant sa campagne il est plutôt allé sur des thèmes sécurité immigration qui ne lui ont pas été favorables 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="809.061"/>
+donc 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="809.622"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ oui ces thèmes lui sont favorables mais il faudrait pour cela qu'il y ait eu 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+une
+<Event desc="dis=rep" type="noise" extent="end"/>
+ une cohérence finalement dans ses thèmes de campagne, ça n'a pas été le cas 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je pense que c'est pour ça qu'aujourd'hui 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ça
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ça ne joue pas véritablement en sa faveur 
+</Turn>
+<Turn speaker="spk1" startTime="821.675" endTime="826.754">
+<Sync time="821.675"/>
+au premier tour ça reste quand même un petit peu serré, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quelle est la marge d'erreur selon vous ? 
+</Turn>
+<Turn speaker="spk14" startTime="826.754" endTime="845.073">
+<Sync time="826.754"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ &amp;ben c'est-à-dire qu'aujourd'hui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ personne n'est capable de dire qui de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; ou de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; arrivera premier au premier tour, même si c'est pas l'enjeu essentiel 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="835.964"/>
+on ne peut pas dire puisqu'aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les marges d'erreur selon la taille des échantillons c'est de entre 1 point et 2 points et demi
+<Sync time="841.724"/>
+donc 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; peut être devant &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; et &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; devant &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk1" startTime="845.073" endTime="853.939">
+<Sync time="845.073"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et du premier tour découle 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le second tour si la dynamique est enclenchée on peut
+<Sync time="849.37"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ penser que &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; pourrait gagner malgré l'écart très très important ? 
+</Turn>
+<Turn speaker="spk14" startTime="853.939" endTime="872.645">
+<Sync time="853.939"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;ben ça va être quand même franchement compliqué pour lui puisque aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="858.108"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on a 10 points de plus 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de proximit(é) enfin 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de vote de gauche au premier tour
+<Sync time="864.664"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qu'en 2007
+<Sync time="865.898"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et on a d'excellents reports de l'extrême gauche sur &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;
+<Sync time="869.527"/>
+donc que qu'il y ait un reversement de situation aujourd'hui c'est quand même très compliqué.
+</Turn>
+<Turn speaker="spk1" startTime="872.645" endTime="894.057">
+<Sync time="872.645"/>
+merci &lt;pers=Celine_BRACQ&gt;Céline Bracq&lt;/pers&gt;, directrice adjointe de l'institut BVA.
+<Sync time="877.117"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la campagne présidentielle 2012 restera marquée par le choix des meetings en plein air 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="881.974"/>
+&lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; a donné rendez-vous à ses partisans ce dimanche à Vincennes tandis que &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="886.364"/>
+les retrouvera à la Concorde.
+<Sync time="888.27"/>
+deux styles, deux ambiances mais une même idée réussir une démonstration de force. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Jean-Baptiste_DAOULAS&gt;Jean-Baptiste Daoulas&lt;/pers&gt;.
+</Turn>
+<Turn startTime="894.057" endTime="894.755">
+<Sync time="894.057"/>
+
+<Event desc="musique" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="894.755" endTime="900.727">
+<Sync time="894.755"/>
+
+<Event desc="musique" type="noise" extent="begin"/>
+18 mars 2012 &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; inaugure la saison printemps été du meeting en plein air.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="900.727" endTime="902.827">
+<Sync time="900.727"/>
+nous voici de retour
+</Turn>
+<Turn startTime="902.827" endTime="903.32">
+<Sync time="902.827"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="903.32" endTime="907.721">
+<Sync time="903.32"/>
+le peuple des révolutions et des rébellions en France
+</Turn>
+<Turn startTime="907.721" endTime="909.791">
+<Sync time="907.721"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk15" startTime="909.791" endTime="934.68">
+<Sync time="909.791"/>
+une place de la Bastille pleine à craquer
+<Sync time="912.646"/>
+de quoi donner des idées à ses concurrents à commencer par son meilleur ennemi &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;.
+<Sync time="917.606"/>
+le candidat socialiste multiplie les petits meetings en plein air depuis un mois 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="921.585"/>
+comme ici à Blois
+<Sync time="923.356"/>
+au château de Vincennes ce dimanche, il souhaite réunir des dizaines de milliers de personnes. 
+<Event desc="musique" type="noise" extent="begin"/>
+le menu s'annonce festif avec des concerts, de faux airs du meeting de &lt;pers=Segolene_ROYAL&gt;Ségolène Royal&lt;/pers&gt; à Charléty en 2007.
+<Event desc="musique" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="934.68" endTime="940.622">
+<Sync time="934.68"/>
+aimons nous les uns les autres 
+<Event desc="applaude" type="noise" extent="instantaneous"/>
+ construisons ensemble.
+</Turn>
+<Turn speaker="spk15" startTime="940.622" endTime="956.986">
+<Sync time="940.622"/>
+la riposte du camp &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; ne se fait pas attendre 
+<Sync time="943.421"/>
+début avril l'équipe du président annonce le même jour un meeting sur la place de la Concorde 
+<Sync time="948.642"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un lieu symbolique 
+<Sync time="950.239"/>
+c'est ici que la victoire de 2007 avait été célébrée.
+<Sync time="953.756"/>
+officiellement les deux meetings ne sont pas en concurrence.
+</Turn>
+<Turn speaker="spk6" startTime="956.986" endTime="971.032">
+<Sync time="956.986"/>
+vous allez me trouver 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pas gentil mais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+je je
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ j'avais pas observé que Monsieur &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; faisait un
+<Sync time="962.064"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un rassemblement 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+enc(ore)
+<Event desc="dis=hes" type="noise" extent="end"/>
+ encore que 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ je j'aurais pu m'en douter mais
+<Sync time="966.536"/>
+franchement j'ai bien assez à faire avec ma campagne 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ que de savoir où il se trouve.
+</Turn>
+<Turn speaker="spk15" startTime="971.032" endTime="989.558">
+<Sync time="971.032"/>
+pas de concurrence mais dans cette bataille de paris tout le monde aura les yeux braqués sur les chiffres de mobilisation.
+<Sync time="977.29"/>
+face à une vague de sondages pas très favorables 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; attend un sursaut de la France silencieuse.
+<Sync time="983.415"/>
+le président en est convaincu
+<Sync time="985.517"/>
+de nombreux français le soutiennent
+<Sync time="987.144"/>
+sans encore oser le dire à haute voix.
+</Turn>
+<Turn speaker="spk1" startTime="989.558" endTime="1019.943">
+<Sync time="989.558"/>
+et les chaînes parlementaires vous donnent rendez-vous dimanche à 15h15
+<Event desc="15 heures 15" type="pronounce" extent="previous"/>
+ pour suivre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ces grands meetings donc &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; à Vincennes, &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; à la Concorde et &lt;pers=Nathalie_ARTHAUD&gt;Nathalie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ Arthaud&lt;/pers&gt;
+<Sync time="999.014"/>
+au Zénith. enfin c'est le retour de "la tribune" version papier 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1003.655"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le journal économique disponible uniquement par internet ressort à partir de cette semaine en hebdomadaire avec à la une
+<Sync time="1009.343"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; 
+<Sync time="1010.56"/>
+nous leur souhaitons donc bonne chance en ce vendredi 13 porte bonheur. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est la fin de cette édition, merci à tous de votre attention bonne suite de programme sur LCP.
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1019.943" endTime="1559.160">
+<Turn startTime="1019.943" endTime="1559.160">
+<Sync time="1019.943"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

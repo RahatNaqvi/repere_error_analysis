@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Vervisch_Ménard" audio_filename="LCP_EntreLesLignes_2013-01-19_212400" version="11" version_date="140307">
+<Speakers>
+<Speaker id="spk1" name="Christophe_RUAULTS" check="no" dialect="native" accent="R1" scope="local" type="male"/>
+<Speaker id="spk2" name="Jerome_CORDELIER" check="no" dialect="native" accent="R2" scope="local" type="male"/>
+<Speaker id="spk3" name="Claude_WEILL" check="no" dialect="native" accent="R2" scope="local" type="male"/>
+<Speaker id="spk4" name="Laurent_NEUMANN" check="no" dialect="native" accent="R2" scope="local" type="male"/>
+<Speaker id="spk5" name="Guillaume_ROQUETTE" check="no" dialect="native" accent="R2" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="784.488">
+<Turn startTime="0" endTime="784.488">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="784.488" endTime="1094.726">
+<Turn startTime="784.488" endTime="801.204" speaker="spk1">
+<Sync time="784.488"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+alors pour Le Point
+<Event desc="b" type="noise" extent="end"/>
+, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; a aussi montré sa détermination avec l'intervention en Somalie
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour libérer un otage français, 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ même si elle s'est soldée par un échec,
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="793.412"/>
+il a envoyé un signal.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ souvent critiqué pour son goût du compromis
+<Event desc="r" type="noise" extent="instantaneous"/>
+, il ne *négociera pas. au contraire, il utilisera
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la force s'il le faut
+</Turn>
+<Turn speaker="spk1 spk2" startTime="801.204" endTime="802.598">
+<Sync time="801.204"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="802.598" endTime="832.299">
+<Sync time="802.598"/>
+évidemment, il y a une conjonction d'événements de nature très différente, tout le monde l'a dit autour de cette table, mais surtout le marqueur essentiel, évidemment, c'est la dramatisation soudaine 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+du
+<Event desc="dis=rep" type="noise" extent="end"/>
+ du quinquennat par l'intervention au Mali 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et en Somalie, qui transforme 
+<Event desc="r" type="noise" extent="instantaneous"/>
+un chef politique 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="816.216"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+, qui faisait la synthèse entre différentes motions, différents rangs,
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+en chef de guerre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ soudain. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+je pense que, par exemple 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ sur le mariage pour tous, il a encore 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pas encore 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+d(écidé)
+<Event desc="dis=hes" type="noise" extent="end"/>
+ décidé, rien du tout ; et comme
+<Sync time="827.572"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il n'a pas encore décidé sur le mariage pour tous. 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ bon, on dit qu'il sera ferme 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+sur
+<Event desc="dis=rev" type="noise" extent="end"/>
+ là dessus. bon pour l'instant
+</Turn>
+<Turn speaker="spk3 spk2" startTime="832.299" endTime="834.406">
+<Sync time="832.299"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn startTime="834.406" endTime="834.948">
+<Sync time="834.406"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk3" startTime="834.948" endTime="839.087">
+<Sync time="834.948"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="839.087" endTime="844.026">
+<Sync time="839.087"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+avec le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec le 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les amis 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de &lt;pers=Guillaume_ROQUETTE&gt;Guillaume&lt;/pers&gt;, c'est sur la question de la PMA.
+</Turn>
+<Turn speaker="spk2" startTime="844.026" endTime="844.624">
+<Sync time="844.026"/>
+voilà.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ a(lors)
+</Turn>
+<Turn speaker="spk3" startTime="844.624" endTime="845.547">
+<Sync time="844.624"/>
+sur le mariage, il bougera pas.
+</Turn>
+<Turn speaker="spk2" startTime="845.547" endTime="860.083">
+<Sync time="845.547"/>
+alors c'est vrai que 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ l'intervention étrangère rend 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ plus lisible, effectivement, l'accord social, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qui est, sinon historique, en tout cas qui marque 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ un progrès social indéniable, même s'il ne profite 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+que
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ que aux gens qui, pour l'instant, ont la chance d'avoir un travail.
+</Turn>
+<Turn startTime="860.083" endTime="860.994" speaker="spk1 spk2">
+<Sync time="860.083"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="860.994" endTime="883.994">
+<Sync time="860.994"/>
+parce que là-dessus, les avis 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+sont
+<Event desc="dis=rep" type="noise" extent="end"/>
+ sont divergents, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ effectivement, donc le week-end avait commmencé avec cet accord signé entre le patronat
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et trois syndicats de salariés sur la réforme du marché du travail.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc pour le Nouvel Obs, le jour même où &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt;
+<Event desc="r" type="noise" extent="instantaneous"/>
+ se lançait dans la guerre au terrorisme en Afrique, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+il faisait aussi un pas décisif
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="875.874"/>
+dans la pacification des relations sociales. voilà, ça c'est l'Obs.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ en revanche, pour Marianne 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'accord est à la fois historique et décevant.
+</Turn>
+<Turn speaker="spk4" startTime="883.994" endTime="884.615">
+<Sync time="883.994"/>
+&amp;mouais
+</Turn>
+<Turn speaker="spk4 spk1" startTime="884.615" endTime="885.324">
+<Sync time="884.615"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="885.324" endTime="962.208">
+<Sync time="885.324"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+pour
+<Event desc="dis=rep" type="noise" extent="end"/>
+ pour deux raisons. bon d'abord, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est historique 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ parce que comme &lt;pers=Claude_WEILL&gt;Claude&lt;/pers&gt; l'a dit,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ permettre 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ à ces représentants du patronat et des salariés de signer un accord,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça nous change de la manière dont les corps intermédiaires, durant les cinq dernières années, ont été foulés aux pieds
+<Sync time="899.282"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+qua(siment)
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quasiment niés. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+donc là, tout à coup, c'est un progrès et de ce point de vue là
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est historique
+<Event desc="r" type="noise" extent="instantaneous"/>
+ par contre, le contenu de l'accord, lui,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il pose des tas de questions. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+d'abord, est-ce que cet accord est de nature à modifier complètement l'état du marché du travail et donc
+<Sync time="913.775"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+à inverser, comme le souhaite le président de la république, la courbe du chômage ? 
+<Event desc="r" type="noise" extent="instantaneous"/>
+non ! et alors là, vous pouvez aller au MEDEF, chez les patrons, chez les salariés,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ tout le monde vous dira non. est-ce qu'il y a des améliorations ? oui ! indiscutablement. mais elles seront extrêmement difficiles
+<Sync time="925.957"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+à mettre en musique d'un point de vue législatif et encore plus difficile 
+<Event desc="r" type="noise" extent="instantaneous"/>
+à appliquer.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ aussi bien, d'ailleurs les mesures qui
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ qui sont de réelles avancées pour les salariés, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+je pense par exemple aux complémentaires santé, aux droits rechargeables au chômage, etc.
+<Event desc="et cetera" type="pronounce" extent="previous"/>
+,
+<Sync time="940.131"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et pour 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le patronat
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la sécurisation juridique, comme on dit, des plans sociaux
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ça ça
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ça veut dire quelque chose. ça veut dire qu'on va pouvoir
+<Event desc="r" type="noise" extent="instantaneous"/>
+ licencier.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ cet accord là, il est peut-être formidable dans une période de croissance. je ne suis pas certain
+<Sync time="954.821"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+qu'il soit aussi positif dans une période 
+<Event desc="r" type="noise" extent="instantaneous"/>
+où 
+<Event desc="r" type="noise" extent="instantaneous"/>
+on va de fermetures d'usines en plans sociaux et de suppressions d'emploi en suppressions d'emploi.
+</Turn>
+<Turn speaker="spk4 spk3" startTime="962.208" endTime="963.853">
+<Sync time="962.208"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="963.853" endTime="967.65">
+<Sync time="963.853"/>
+a totalement 
+<Event desc="b" type="noise" extent="begin"/>
+raison, c'est que cet accord
+<Event desc="b" type="noise" extent="end"/>
+ portera vraiment ses fruits 
+<Event desc="r" type="noise" extent="instantaneous"/>
+en période 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de
+</Turn>
+<Turn speaker="spk4 spk1" startTime="967.65" endTime="971.007">
+<Sync time="967.65"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="971.007" endTime="979.675">
+<Sync time="971.007"/>
+alors, on peut lire dans Le Point que cet accord du 11 janvier reste « une rareté bienvenue 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ dans un pays rétif aux négociations et aux compromis ». &lt;pers=Guillaume_ROQUETTE&gt;Guillaume&lt;/pers&gt;, votre avis ?
+</Turn>
+<Turn speaker="spk5" startTime="979.675" endTime="1018.705">
+<Sync time="979.675"/>
+oui et si on fait de la politique deux minutes, ça va d'ailleurs être intéressant 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pour la suite des événements puisque vous savez que la règle c'est que dès lors que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+les partenaires sociaux ont ratifié un accord de ce type,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le parlement le reprend à son compte.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce qui veut dire qu'une majorité de gauche
+<Event desc="r" type="noise" extent="instantaneous"/>
+ va valider
+<Sync time="993.524"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+un accord qui a été signé par le MEDEF et refusé par la CGT.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce qui est intéressant conceptuellement
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et ce qui va vers
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce qui, effectivement, est cohérent avec
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ la définition 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ du type social démocrate que serait le hollandisme aujourd'hui.
+<Sync time="1007.892"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+moi, la question que je me pose, c'est, je suis d'accord avec &lt;pers=Laurent_NEUMANN&gt;Laurent&lt;/pers&gt;,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une économie, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+l'économie française pardon, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+elle elle
+<Event desc="dis=rep" type="noise" extent="end"/>
+ elle commence à créer les emplois au dessus de 1% de croissance
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et le chômage commence à baisser au dessus de 1,5
+<Event desc="un et demi" type="pronounce" extent="previous"/>
+.
+</Turn>
+<Turn startTime="1018.705" endTime="1019.211">
+<Sync time="1018.705"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1019.211" endTime="1030.289">
+<Sync time="1019.211"/>
+pourquoi ? parce que avant, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ l'entrée supplémentaire de gens qui arrivent sur le marché du travail fait que le
+<Event desc="r" type="noise" extent="instantaneous"/>
+ chômage ne baisse pas.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on est très loin des 1,5%
+<Event desc="un et demi pourcent" type="pronounce" extent="previous"/>
+. donc 
+<Event desc="r" type="noise" extent="instantaneous"/>
+oui, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est un bon
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est un bon pas. c'est un petit pas.
+</Turn>
+<Turn startTime="1030.289" endTime="1031.059">
+<Sync time="1030.289"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1031.059" endTime="1055.145">
+<Sync time="1031.059"/>
+la question, c'est : l'économie française peut-elle se contenter de petits pas ? c'est à dire
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce paritarisme,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ cette cogestion, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+dont on se réjouit à juste titre d'un point de vue conceptuel,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est-ce que elle est pas trop timide ? est-ce qu'elle est à la hauteur
+<Event desc="r" type="noise" extent="instantaneous"/>
+ de la crise ?
+<Sync time="1044.905"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ moi, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce que je crains, c'est que
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en en en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en laissant ainsi les partenaires sociaux 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+f(aire)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ avancer à leur rythme, c'est à dire, celui des petits pas,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on n'a
+<Event desc="dis=rev" type="noise" extent="end"/>
+ on n'en fasse pas assez et que ce soit pas suffisant
+</Turn>
+<Turn speaker="spk1 spk5" startTime="1055.145" endTime="1058.558">
+<Sync time="1055.145"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1058.558" endTime="1087.469">
+<Sync time="1058.558"/>
+mais dans votre propre 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ journal, il a souvent été écrit, et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le
+<Event desc="dis=rev" type="noise" extent="end"/>
+ l'argument a beaucoup été développé par les économistes, que si la France perdait des parts de marché à l'exportation, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+l'^^ef
+<Event desc="dis=rev" type="noise" extent="end"/>
+  l'économie française s'affaissait, c'est parce qu'il y avait deux
+<Event desc="r" type="noise" extent="instantaneous"/>
+ gros symptômes.
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+<Sync time="1071.191"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+le premier, c'était le manque de compétitivité, coût du travail trop élevé.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le second, c'était un code du travail trop rigide.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et bien, ce gouvernement de gauche
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je suis désolé, c'est lui qui l'a fait, qui a eu le courage de le faire 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+et pour lui, c'était pas simple,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ a mis 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+en
+<Event desc="dis=rep" type="noise" extent="end"/>
+ en chantier, alors vous *pouvez toujours trouver que c'est pas assez,
+<Sync time="1085.981"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+la baisse du coût du travail,
+</Turn>
+<Turn startTime="1087.469" endTime="1088.057">
+<Sync time="1087.469"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1088.057" endTime="1092.958">
+<Sync time="1088.057"/>
+20 milliards de remboursés aux entreprises 
+<Event desc="b" type="noise" extent="begin"/>
+sur les charges salariales
+<Event desc="b" type="noise" extent="end"/>
+,
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+l'a(ssouplissement)
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'assouplissement du code du travail.
+</Turn>
+<Turn speaker="spk5 spk3" startTime="1092.958" endTime="1094.726">
+<Sync time="1092.958"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1094.726" endTime="2399.784">
+<Turn startTime="1094.726" endTime="2399.784">
+<Sync time="1094.726"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

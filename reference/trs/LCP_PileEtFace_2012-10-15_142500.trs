@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ELDA" audio_filename="LCP_PileEtFace_2012-10-15_142500" version="13" version_date="140312">
+<Speakers>
+<Speaker id="spk1" name="Jean-Pierre_GRATIEN" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Bruno_LE_MAIRE" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+<Speaker id="spk3" name="Francois_PATRIAT" check="no" type="male" dialect="native" accent="R4" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="410.585">
+<Turn startTime="0" endTime="410.585">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="410.585" endTime="1993.977">
+<Turn startTime="410.585" endTime="462.585" speaker="spk1">
+<Sync time="410.585"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ projet contre-projet, idée contre idée, bienvenue dans " pile et face " avec côté pile cette semaine l'ancien ministre de l'alimentation, de l'agriculture, et de la pêche et député UMP de l'Eure 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="422.364"/>
+&lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt;, côté face l'ancien secrétaire d'état en charge des PME, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="426.933"/>
+du commerce et de l'artisanat, puis ministre de l'agriculture et de la pêche et sénateur socialiste 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="431.708"/>
+de la Côte-d'Or &lt;pers=Francois_PATRIAT&gt;François Patriat&lt;/pers&gt;, 5 mois après son élection 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="436.057"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; semble s'être fait une raison, le coût du travail serait trop cher en France
+<Sync time="442.449"/>
+sinon pourquoi le chef de l'état 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="444.883"/>
+envisagerait-il une baisse massive des charges patronales étalée sur le quinquennat ? la cote d'alerte
+<Sync time="451.311"/>
+serait-elle atteinte ? faut-il bel et bien un électrochoc pour relancer la compétitivité des entreprises françaises ?
+<Sync time="458.39"/>
+et bien messieurs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous allez avoir 30min
+<Event desc="30 minutes" type="pronounce" extent="previous"/>
+ pour en débattre.
+</Turn>
+<Turn startTime="462.585" endTime="463.967">
+<Sync time="462.585"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="463.967" endTime="479.71">
+<Sync time="463.967"/>
+la pièce tombe sur pile, 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ autrement dit c'est vous &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; qui allez entamer ce débat c'est qui aurez 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la conclusion &lt;pers=Francois_PATRIAT&gt;François 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+Patri(at)
+<Event desc="dis=rev" type="noise" extent="end"/>
+ Patriat&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="471.131"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; question simple : y a-t-il réellement bel et bien un problème de coût du travail en France, est-ce qu'on peut trancher cette question entre vous pour commencer ?
+</Turn>
+<Turn startTime="479.71" endTime="480.616">
+<Sync time="479.71"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="480.616" endTime="554.28">
+<Sync time="480.616"/>
+oui je crois que ça fait même plus l'objet 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de débats, il y a un problème de compétitivité majeur qui explique l'effondrement productif 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en France 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="487.858"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je crois évidemment qu'il y a un problème de coût du travail très important
+<Sync time="491.817"/>
+et je me réjouis que &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; reconnaisse ce problème-là 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'il avait nié pendant toute sa campagne, 5 mois après son élection, je crois qu'il était temps 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de découvrir ce problème-là
+<Sync time="501.814"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ensuite il faut voir quelle solution on apporte 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à cette difficulté là
+<Sync time="506.594"/>
+et qui doit permettre une fois encore de relancer les capacités de production en France 
+<Event desc="r" type="noise" extent="instantaneous"/>
+.
+<Sync time="511.246"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ moi je crois que la première solution celle dont j'entends 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ parler malheureusement très peu
+<Sync time="515.379"/>
+et dont on est tous responsables, droite et gauche confondues, c'est la réduction des dépenses sociales
+<Sync time="521.458"/>
+si vous voulez éviter de faire supporter 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la charge sur le travail ou sur les ménages faut d'abord essayer de réduire la dépense sociale en France, ça c'est la première chose, avant de transférer les dépenses 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ regardons si on peut pas les réduire.
+<Sync time="534.837"/>
+ensuite on peut regarder les options 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je pense qu'on va en discuter pendant l'émission 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ mais c'est la première chose alléger le coût du travail
+<Sync time="542.878"/>
+ne veut pas dire forcément taxer d'abord les ménages davantage et accabler à nouveau les ménages d'impôts, essayons d'abord de voir comment est-ce qu'on peut dans ces cotisations réduire la dépense.
+</Turn>
+<Turn speaker="spk1" startTime="554.28" endTime="574.663">
+<Sync time="554.28"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+alors on va d'abord
+<Event desc="bc" type="noise" extent="end"/>
+ voir si vous voulez bien si &lt;pers=Francois_PATRIAT&gt;François Patriat&lt;/pers&gt; est d'accord sur cette question de base. il y a-t-il un problème du coût du travail en France ?
+<Sync time="560.672"/>
+c'est vrai qu'on a l'habitude de dire que les socialistes 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="563.286"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ sont plutôt sur cette idée que c'est un problème d'innovation en France c'est pas forcément le coût du travail et qu'à l'inverse
+<Sync time="568.836"/>
+du côté de la droite parlementaire on pense plutôt qu'il y a bel et bien 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+un
+<Event desc="dis=rep" type="noise" extent="end"/>
+ un problème de coût du travail comme vient de 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+le
+<Event desc="dis=rep" type="noise" extent="end"/>
+ le dire 
+<Event desc="toux en fond" type="noise" extent="instantaneous"/>
+&lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt;.
+</Turn>
+<Turn speaker="spk3" startTime="574.663" endTime="579.925">
+<Sync time="574.663"/>
+réduire 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la
+<Event desc="dis=rep" type="noise" extent="end"/>
+ la compétitivité 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ uniquement aux coûts salariaux
+</Turn>
+<Turn startTime="579.925" endTime="580.685">
+<Sync time="579.925"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="580.685" endTime="581.984">
+<Sync time="580.685"/>
+ça n'est pas la réalité
+</Turn>
+<Turn startTime="581.984" endTime="582.751">
+<Sync time="581.984"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="582.751" endTime="584.934">
+<Sync time="582.751"/>
+la France a 4 déficits actuellement
+</Turn>
+<Turn startTime="584.934" endTime="585.652">
+<Sync time="584.934"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="585.652" endTime="587.739">
+<Sync time="585.652"/>
+elle a un déficit public financier énorme
+</Turn>
+<Turn startTime="587.739" endTime="588.643">
+<Sync time="587.739"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="588.643" endTime="590.070">
+<Sync time="588.643"/>
+mille, mille sept cent milliards
+</Turn>
+<Turn startTime="590.070" endTime="590.646">
+<Sync time="590.070"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="590.646" endTime="593.06">
+<Sync time="590.646"/>
+elle a un déficit d'emploi, chômage qui est élevé
+</Turn>
+<Turn startTime="593.06" endTime="593.78">
+<Sync time="593.06"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="593.78" endTime="594.998">
+<Sync time="593.78"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle a un déficit
+</Turn>
+<Turn startTime="594.998" endTime="595.8">
+<Sync time="594.998"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="595.8" endTime="606.115">
+<Sync time="595.8"/>
+de compétitivité
+<Sync time="597.172"/>
+elle a un déficit de la demande, on est dans une baisse de la demande aujourd'hui
+<Sync time="601.942"/>
+alors que les entreprises tournent 3 ou 4 points en dessous de ce qu'elles devraient tourner.
+</Turn>
+<Turn speaker="spk1" startTime="606.115" endTime="607.562">
+<Sync time="606.115"/>
+alors sur la 
+<Event desc="bc" type="noise" extent="begin"/>
+compétitivité
+<Event desc="bc" type="noise" extent="end"/>
+ ?
+</Turn>
+<Turn speaker="spk3" startTime="607.562" endTime="633.436">
+<Sync time="607.562"/>
+donc vous comprenez bien que 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+<Sync time="609.18"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+pour redire ce
+<Event desc="dis=rev" type="noise" extent="end"/>
+ pour reprendre ce que vous avez sur 
+<Event desc="bc" type="noise" extent="begin"/>
+le président de la République 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+la première des choses
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="end"/>
+, la première des choses c'est quand même déjà
+<Sync time="616.504"/>
+de rétablir les comptes publics
+<Sync time="618.588"/>
+s'il est question de l'autorité de la France, la question 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+de sa de sa
+<Event desc="dis=rep" type="noise" extent="end"/>
+ de sa potentialité
+<Sync time="623.902"/>
+ensuite le chômage on en parle pas maintenant mais ça, il y a quand même une réduction, ensuite le coût du travail alors j'entends bien, 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ j'entends &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; qui a proposé tout de suite une solution un peu idyllique.
+</Turn>
+<Turn startTime="633.436" endTime="634.613">
+<Sync time="633.436"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="634.613" endTime="693.817">
+<Sync time="634.613"/>
+nous ne disons pas seulement que c'est la compétitivité, nous d() nous disons que le problème de la compétitivité en France est d'abord et avant tout un problème de stratégie industrielle
+<Sync time="644.638"/>
+c'est différent, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors pour répondre directement à 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; que j'écoute 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ toujours avec attention 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ parce que 
+<Sync time="650.409"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si je ne suis pas d'accord avec lui au moins 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+j'écoute
+<Event desc="dis=rev" type="noise" extent="end"/>
+ je connais la pertinence de ses raisonnements
+<Sync time="654.758"/>
+donc 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dire aujourd'hui baisser la dépense sociale oui c'est bien, très bien, 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+on peut rêver
+<Event desc="dis=rep" type="noise" extent="end"/>
+, on peut rêver 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+qui
+<Event desc="dis=rev" type="noise" extent="end"/>
+ que demain il aille faire beau tous les jours
+<Sync time="662.694"/>
+moi je pense que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ baisser la dépense sociale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec une société
+<Sync time="667.109"/>
+dont l'espérance de vie augmente
+<Sync time="669.651"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec les technologies nouvelles
+<Sync time="671.986"/>
+pour l'investigation, pour le traitement, pour l'opération, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on sait bien que la dépense sociale d'abord liée au chômage
+<Sync time="678.891"/>
+sauf que là c'est le chien qui se mord la queue 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ lié aujourd'hui au déficit que j'évoquais plus 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la dépense maladie à côté
+<Sync time="685.719"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ c'est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ un peu, c'est certes souhaitable tout le monde doit le faire bien entendu 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais ça n'est pas 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+là
+<Event desc="dis=rep" type="noise" extent="end"/>
+ là qu'est la seule solution je pense pas aujourd'hui
+</Turn>
+<Turn startTime="693.817" endTime="695.48">
+<Sync time="693.817"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="695.48" endTime="748.201">
+<Sync time="695.48"/>
+
+<Event desc="dis=rev" type="noise" extent="begin"/>
+je
+<Event desc="dis=rev" type="noise" extent="end"/>
+ d'abord moi j'écoute aussi toujours avec beaucoup de respect ce que dit &lt;pers=Francois_PATRIAT&gt;François Patriat&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="699.536"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ &amp;ben d'abord parce que j'ai du respect pour lui c'est la solidarité des anciens ministres de l'agriculture, ça compte et c'est très important 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ pour avoir beaucoup 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ souffert et aussi beaucoup appris en étant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'un comme l'autre ministre de l'agriculture
+<Sync time="710.523"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je crois que sur la dépense sociale
+<Sync time="714.538"/>
+que ce soit sur l'indemnisation du chômage, moi j'ai fait des propositions pour réformer notre indemnisation du chômage 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="720.468"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur les dépenses hospitalières
+<Sync time="723.005"/>
+sur les prescriptions de médicaments on peut faire des économies
+<Sync time="726.875"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et je pense qu'il faut jamais sauter cette étape
+<Sync time="729.956"/>
+de la réduction de la dépense
+<Sync time="732.055"/>
+on a trop tendance en France à se dire &amp;ben la bonne solution c'est augmenter les taxes 
+<Sync time="737.497"/>
+sur les ménages, sur les classes moyennes, sur les retraités, c'est trop facile
+<Sync time="741.399"/>
+donc moi je plaide pour un chemin effectivement un peu plus difficile qui consiste à dire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ regardons où on peut réduire la dépense 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ensuite sur 
+</Turn>
+<Turn speaker="spk1" startTime="748.201" endTime="749.897">
+<Sync time="748.201"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ donnez un exemple ou deux
+</Turn>
+<Turn speaker="spk2" startTime="749.897" endTime="752.6">
+<Sync time="749.897"/>
+oui un exemple concret sur l'indemnisation du chômage moi je 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="752.6" endTime="754.365">
+<Sync time="752.6"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="754.365" endTime="809.851">
+<Sync time="754.365"/>
+plaisait pas mais
+<Sync time="756.152"/>
+vous avez encore un système en France d'indemnisation du chômage qui permet à certaines personnes de continuer à toucher 4 mille, 4 mille 200 euros par mois sur deux ans même si c'est une minorité
+<Sync time="766.005"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sans avoir d'autres obligations que d'aller pointer régulièrement à pôle-emploi je pense qu'on peut faire des économies là-dessus 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais qu'il vaut mieux
+<Sync time="772.669"/>
+avoir une meilleure formation des chômeurs 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'une indemnisation qui soit
+<Sync time="777.023"/>
+trop généreuse pour certains ça c'est une conviction personnelle je sais qu'elle fait l'objet de débats
+<Sync time="781.207"/>
+mais je crois qu'on doit se poser la question sur la prescription des médicaments 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+, même chose 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ il me semble que
+<Sync time="786.777"/>
+du côté des médecins, comme du côté des patients, on doit pouvoir faire des économies sur les prescriptions de médicaments 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est-ce qu'on pourrait pas pour donner un exemple très concret 
+<Sync time="794.987"/>
+faire comme en Allemagne où on prescrit le médicament 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à la pilule près au lieu de donner à chaque fois la boîte entière, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est des toutes petites économies mais c'est comme ça qu'on arrivera aussi
+<Sync time="803.852"/>
+à réduire les dépenses publiques à mon sens, enfin sur le constat et là je crois que &lt;pers=Francois_PATRIAT&gt;François Patriat&lt;/pers&gt; sera d'accord avec moi 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="809.851" endTime="812.075">
+<Sync time="809.851"/>
+et notre sujet de la 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ compétitivité des entreprises &amp;hein
+</Turn>
+<Turn speaker="spk2" startTime="812.075" endTime="845.713">
+<Sync time="812.075"/>
+oui il y a un problème de compétitivité sur l'innovation comme vous le disiez, comme le disait &lt;pers=Francois_PATRIAT&gt;François&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais sur
+<Sync time="818.354"/>
+toutes les activités où il y a peu d'innovation, où il y a un savoir-faire qui est assez 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ limité
+<Sync time="823.385"/>
+où il y a des technologies qui sont 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ pas forcement les plus 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ modernes, je pense par exemple dans le secteur agricole, le maraîchage
+<Sync time="829.7"/>
+la culture des fruits, la culture de légumes, là le coût du travail est devenu 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+une activ()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ une actualité brûlante 
+<Sync time="835.933"/>
+un problème majeur, si on ne réduit pas le coût du travail pour ces activités
+<Sync time="840.271"/>
+dans lesquels le coût du travail représente 50, 60% du coût final du produit mais les gens vont crever
+</Turn>
+<Turn speaker="spk1 spk2" startTime="845.713" endTime="847.432">
+<Sync time="845.713"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="847.432" endTime="870.976">
+<Sync time="847.432"/>
+activité très concurrencée 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ par les allemands
+<Sync time="849.8"/>
+par les italiens, par les espagnols mais surtout par les allemands 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="852.932"/>
+où 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le coût du travail est évidemment beaucoup plus faible que le nôtre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc pour toutes ces activités où il y a peu d'innovation peu de savoir faire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="861.061"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mais simplement du travail manuel 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ bien il fait il est très important à mes yeux de baisser le coût du travail 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour qu'on garde nos activités, qu'on garde nos maraîchers, nos producteurs de fruits, nos producteurs de légumes.
+</Turn>
+<Turn startTime="870.976" endTime="872.207">
+<Sync time="870.976"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="872.207" endTime="880.537">
+<Sync time="872.207"/>
+bien alors je pense que si on parle compétitivité on va essayer de sortir 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de
+<Event desc="dis=rev" type="noise" extent="end"/>
+ du uniquement du débat sur les dépenses sociales 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ pour dire quel est l'enjeu 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="880.537" endTime="882.245">
+<Sync time="880.537"/>
+et là on parle 
+<Event desc="bc" type="noise" extent="begin"/>
+du coût du travail &amp;hein
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="882.245" endTime="886.08">
+<Sync time="882.245"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ alors on va prendre par exemple 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ceux qu'on nous cite toujours en exemple les allemands
+</Turn>
+<Turn startTime="886.08" endTime="886.722">
+<Sync time="886.08"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="886.722" endTime="914.754">
+<Sync time="886.722"/>
+les allemands 150 milliards d'
+<Event desc="dis=rep" type="noise" extent="begin"/>
+excédents
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ excédent commercial 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ la France 70 milliards de déficit 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ alors on dit mais c'est 
+<Sync time="893.345"/>
+la différence de salaire 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &amp;ben non la différence de salaire non 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ils ont le même salaire hors agro-alimentaire parce que il y a un problème ce qu'on évoquait en France
+<Sync time="900.132"/>
+est-ce que les allemands travaillent plus que nous ? non ils travaillent 35,5h
+<Event desc="35 heures 5" type="pronounce" extent="previous"/>
+ autrement 38h
+<Event desc="38 heures" type="pronounce" extent="previous"/>
+.
+<Sync time="904.214"/>
+vous voyez, c'est le produit final qui fait la différence de la compétitivité parce qu'en Allemagne qu'est-ce qu'ils font
+<Sync time="910.108"/>
+ils vont sur les produits nobles, sur le produit haut de gamme, sur le produit fini, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je prends 2 exemples
+</Turn>
+<Turn startTime="914.754" endTime="915.432">
+<Sync time="914.754"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="915.432" endTime="916.833">
+<Sync time="915.432"/>
+l'automobile, la machine à outil
+</Turn>
+<Turn startTime="916.833" endTime="917.585">
+<Sync time="916.833"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="917.585" endTime="922.396">
+<Sync time="917.585"/>
+est-ce que nous en France
+<Sync time="919.002"/>
+nous en France on est capable aujourd'hui d'aller sur ces produits haut de gamme ?
+</Turn>
+<Turn startTime="922.396" endTime="924.286">
+<Sync time="922.396"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="924.286" endTime="925.47">
+<Sync time="924.286"/>
+est-ce qu'on en 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ est capable ?
+</Turn>
+<Turn speaker="spk2" startTime="925.47" endTime="1013.513">
+<Sync time="925.47"/>
+d'abord moi je crois qu'on en est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ tout à fait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ capable
+<Sync time="928.438"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je crois aussi que ce qu'oublie de mentionner &lt;pers=Francois_PATRIAT&gt;François Patriat&lt;/pers&gt; c'est la tendance
+<Sync time="932.268"/>
+&amp;bah il y a 10 ans nous avions un avantage par rapport aux allemands sur le coût du travail
+<Sync time="937.222"/>
+on était bien meilleur qu'eux
+<Sync time="939.122"/>
+on avait un coût du travail qui était inférieur de 15% environ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ au coût du travail allemand, aujourd'hui on est quasiment au même niveau
+<Sync time="946.694"/>
+sauf dans les activités effectivement comme l'agroalimentaire où on a pris du retard
+<Sync time="949.955"/>
+et si on continue comme ça &amp;ben dans 10 ans on sera totalement dépassé donc je crois que ce choc de compétitivité sur le coût du travail est nécessaire
+<Sync time="957.227"/>
+là où je rejoins 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ entièrement &lt;pers=Francois_PATRIAT&gt;François Patriat&lt;/pers&gt; c'est que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il faut une stratégie de long terme sur la compétitivité
+<Sync time="963.075"/>
+et la stratégie de long terme pour la France, il y a la réduction du coût du travail pour moi c'est un préalable absolu
+<Sync time="968.917"/>
+mais il y a ensuite
+<Sync time="970.026"/>
+se mettre sur les produits haut de gamme avec de la qualité, avec de l'innovation, avec la marque France, le label France 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="976.885"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et
+<Event desc="dis=rep" type="noise" extent="end"/>
+ et moi je veux dire à quel point il y a toutes les ressources qu'il faut en France pour y arriver, lorsqu'on se donne le mal nécessaire, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ regardez une marque comme Citroën
+<Sync time="985.904"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on disait c'est une marque vieillissante, un peu datée, ils font des voitures maintenant formidable, la DS3, la DS4
+<Sync time="992.27"/>
+qui 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ séduisent de plus en plus de monde, regardez dans le monde agricole ce qui a été possible de faire dans le domaine viticole
+<Sync time="999.165"/>
+ils ont réussi à monter en gamme, regardez les vins du Languedoc-Roussillon
+<Sync time="1002.21"/>
+ils sont montés en gamme, ils ont acquis une qualité, un label formidable. ça marche 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc ne désespérons pas 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ si presque aussi bon que le Bourgogne mais je vais insulter la Bourgogne là-dessus 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ simplement si on fait ce choix là on va y arriver
+</Turn>
+<Turn startTime="1013.513" endTime="1013.967">
+<Sync time="1013.513"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1013.967" endTime="1033.59">
+<Sync time="1013.967"/>
+bien alors je continue mon exemple 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ pour y revenir parce que 
+<Sync time="1017.192"/>
+ce que dit Monsieur 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ce que dit &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; actuellement ministre c'est pas exactement ce que dit globalement la droite
+<Sync time="1023.553"/>
+la droite dit c'est le prix du travail, c'est le prix bien
+<Sync time="1027.014"/>
+je ne nie pas aujourd'hui pour faire la part des choses qu'il y a des charges qui pèsent sur le travail qui ne devraient pas peser sur lui 
+<Event desc="c" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1033.59" endTime="1034.14">
+<Sync time="1033.59"/>
+exemple
+</Turn>
+<Turn speaker="spk3" startTime="1034.14" endTime="1098.054">
+<Sync time="1034.14"/>
+exa() exemple les allocations familiales, alors un exemple 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ça ne dure il y a des charges
+<Sync time="1038.44"/>
+le charges sociales autrement vous savez arriver à enlever les charges sociales, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les États-Unis le font ils disent : " vous avez votre salaire messieurs puis après vous prenez en charge votre santé ", on voit bien les difficultés que ça a créées. mais pour l'Allemagne
+<Sync time="1048.927"/>
+cette dérèglementation c'est quoi au bout du compte parce qu'on dit c'est un exemple 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est 2 millions et demi de salariés qui gagnent 5 euros de l'heure
+<Sync time="1055.752"/>
+5 euros de l'heure 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ et c'est pas de SMIC
+<Sync time="1058.602"/>
+donc cette logique de dire uniquement c'est le coût du travail 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+c'est *cette
+<Event desc="dis=rev" type="noise" extent="end"/>
+ c'est pas la bonne réponse parce que la bonne réponse ça veut dire qu'on va moyenner les produits français 
+<Sync time="1068.806"/>
+qu'on va créer des chocs sur le revenu donc 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le président de la République
+<Sync time="1074.166"/>
+qui d'abord dans un premier temps a dit rétablissons 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+la
+<Event desc="dis=rev" type="noise" extent="end"/>
+ les comptes, redonnons-nous des marges
+<Sync time="1079.274"/>
+en revenant à 3% du déficit et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est douloureux 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ avec un effort partagé et ciblé
+<Sync time="1085.229"/>
+dit maintenant ok je mets, je remets les pendules à l'heure et c'est nécessaire
+<Sync time="1090.379"/>
+il y va de notre indépendance, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais dans le même temps je pense aussi qu'il y a une demande sur la compétitivité 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+et pour ce faire
+<Event desc="dis=rep" type="noise" extent="end"/>
+, pour ce faire il a nommé Monsieur &lt;pers=Louis_GALLOIS&gt;Gallois&lt;/pers&gt;
+</Turn>
+<Turn speaker="spk1" startTime="1098.054" endTime="1140.428">
+<Sync time="1098.054"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ alors &lt;pers=Louis_GALLOIS&gt;Louis Ga(llois)&lt;/pers&gt; qui est pas n'importe qui 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &amp;hein ancien patron 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ d'EADS 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de la SNCF &amp;bon il y a ce serait
+<Sync time="1106.27"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ malheureux de dire qu'il ne connaît pas 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'industrie française, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ son rapport est très attendu
+<Sync time="1111.281"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ mais par ailleurs 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+le ne
+<Event desc="dis=rev" type="noise" extent="end"/>
+ notre confrère du Monde a déjà donné des pistes de travail que serait en train d'explorer 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1117.955"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ l'Élysée donc une baisse massive des charges patronales on parle de 30 à 50 milliards 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ d'euros c'est considérable
+<Sync time="1125.339"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+étalés sur le quinquennat
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="end"/>
+, étalés sur le quinquennat et qui toucheraient en priorité les salaires allant de 
+<Sync time="1131.628"/>
+2300 à 3200 euros bonne piste de travail
+<Sync time="1137.404"/>
+mauvaise piste de travail, piste de travail incomplète.
+</Turn>
+<Turn startTime="1140.428" endTime="1141.099">
+<Sync time="1140.428"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1141.099" endTime="1141.677">
+<Sync time="1141.099"/>
+c'est une piste
+</Turn>
+<Turn startTime="1141.677" endTime="1142.347">
+<Sync time="1141.677"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1142.347" endTime="1149.178">
+<Sync time="1142.347"/>
+elle me paraît judicieuse attendons que Monsieur &lt;pers=Louis_GALLOIS&gt;Gallois&lt;/pers&gt; remette
+<Sync time="1145.695"/>
+après, ce que la question sur le constat &amp;hein
+<Sync time="1148.642"/>
+on est tous 
+</Turn>
+<Turn speaker="spk3 spk3" startTime="1149.178" endTime="1152.325">
+<Sync time="1149.178"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1152.325" endTime="1218.684">
+<Sync time="1152.325"/>
+on est d'accord sur le constat la compététivité
+<Sync time="1155.846"/>
+tout le problème entre nous aujourd'hui donne sur les remèdes
+<Sync time="1158.834"/>
+remède ici j'en ai entendu tout à l'heure quelques propositions
+<Sync time="1162.249"/>
+il faudra trouver ces 10, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ ces 40 milliards on va dire 40 milliards sur 5 ans
+<Sync time="1167.552"/>
+ou est-ce qu'on les trouve ? j'entends beaucoup de propositions, j'ai entendu 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ ce que disent certains ministres, ce que disent certains responsables politiques 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1174.031"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ CSG, pas CSG, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ *TFV TVA, pas TVA, banque ou pas banque, immobilier ou pas immobilier 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+<Sync time="1179.884"/>
+je vais en p() donner une autre, moi je pense que pour cette ressource il y a peut-être une chose importante
+<Sync time="1185.141"/>
+c'est d'abord la fiscalité écologique qui est balbutiante dans notre pays première chose 
+<Event desc="bc" type="noise" extent="begin"/>
+deuxième piste je suis de ceux qui crois mais je pense qu'on pourrait non mais une taxe
+<Event desc="bc" type="noise" extent="end"/>
+ deuxièmement une taxe
+<Sync time="1195.77"/>
+peut-être une taxe qui serait aussi une taxe écologique en tout cas une taxe sur les bas coûts, sur les produits hors Europe
+<Sync time="1201.202"/>
+parce que vous savez qu'il y a aujourd'hui des produits hors Europe 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ une empreinte carbone
+<Sync time="1205.515"/>
+je vois aujourd'hui quand je vois arriver dans le lycée de Bourgogne
+<Sync time="1208.971"/>
+des oignons qui arrivent de Chine parce qu'ils sont moins chers, imaginez la taxe carbone l'empreinte, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc je crois que l'Europe c'est à l'Europe de saisir ça pour 
+<Event desc="bc" type="noise" extent="begin"/>
+nous aider en chemin
+<Event desc="bc" type="noise" extent="end"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ils pourraient faire aux frontières de l'Europe 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1218.684" endTime="1222.196">
+<Sync time="1218.684"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+une forme de protectionnisme européen sur les produits venus de l'extérieur
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1222.196" endTime="1250.065">
+<Sync time="1222.196"/>
+au nom de l'empreinte carbone, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ je crois que c'est une prise que l'Europe 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+peut
+<Event desc="dis=rep" type="noise" extent="end"/>
+ peut évoquer aujourd'hui, dernière chose sur ce sujet
+<Sync time="1227.31"/>
+la compétitivité de l'Allemagne s'est faite de façon intra-européenne
+<Sync time="1232.701"/>
+pour les pays de l'est au profit des pays de l'ouest, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est-à-dire que c'est pas sur son territoire que l'Allemagne
+<Sync time="1238.179"/>
+a gagné en compétitivité, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est sur les pays de l'est à bas coûts
+<Sync time="1241.619"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ bas coûts où elle est allée chercher la croissance
+<Sync time="1244.309"/>
+extérieure 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ elle est allée chercher de la croissance concurrentielle au lieu d'aller chercher de la croissance interne à l'Europe.
+</Turn>
+<Turn startTime="1250.065" endTime="1250.883">
+<Sync time="1250.065"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1250.883" endTime="1260.478">
+<Sync time="1250.883"/>
+&lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; d'abord sur ce qui pourrait 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ émerger 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ on nous le promet 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des mesures à la fin de l'année &amp;hein, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une baisse massive des charges patronales.
+</Turn>
+<Turn startTime="1260.478" endTime="1261.033">
+<Sync time="1260.478"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1261.033" endTime="1284.505">
+<Sync time="1261.033"/>
+tout d'abord l'ordre de grandeur me paraît le bon, c'est-à-dire qu'il faut être entre 30 à 50 milliards d'euros pour que ce soit vraiment significatif
+<Sync time="1268.023"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en dessous on n'est plus dans le choc de compétitivité 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ or l'objectif stratégique c'est 
+<Sync time="1273.07"/>
+restaurer la compétitivité pour maintenir la production et les emplois productifs agricoles ou industriels en France 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+, c'est une priorité absolue parce que le pays est en train de se vider de son sang productif.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1284.505" endTime="1289.149">
+<Sync time="1284.505"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1289.149" endTime="1307.143">
+<Sync time="1289.149"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ le premier outil pardonnez-moi d'insister là-dessus, la réduction de la dépense on ne peut pas sauter cette étape là 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1295.32"/>
+et dire immédiatement on va taxer les uns on va taxer les autres 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est trop facile, il y a des marges de manoeuvre sur la réduction de la dépense 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ après est-ce qu'il faut 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de la fiscalité *écologique  de la CSG 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ de
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1307.143" endTime="1310.955">
+<Sync time="1307.143"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1310.955" endTime="1325.209">
+<Sync time="1310.955"/>
+pense que ça fait partie des pistes intéressantes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ passer d'une fiscalité qui est encore balbutiante
+<Sync time="1315.442"/>
+et on doit pouvoir effectivement la faire progresser
+<Sync time="1318.174"/>
+ensuite s'il reste un choix à faire entre CSG et TVA 
+<Sync time="1321.352"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ moi mon choix il est tout fait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les deux sont douloureux
+<Sync time="1324.309"/>
+&amp;ben les deux sont difficiles 
+</Turn>
+<Turn speaker="spk1" startTime="1325.209" endTime="1326.98">
+<Sync time="1325.209"/>
+pour les français, 
+<Event desc="bc" type="noise" extent="begin"/>
+pour ceux qui nous regardent
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1326.98" endTime="1387.327">
+<Sync time="1326.98"/>
+
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et c'est bien pour ça que j'insiste sur la réduction de la dépense
+<Sync time="1329.577"/>
+mais entre 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ les deux je préfère une augmentation de la TVA à une augmentation de la CSG
+<Sync time="1334.875"/>
+pour deux raisons, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la première c'est que 
+<Sync time="1337.643"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ la TVA permet de taxer les produits importés ça je crois que c'est très important quand on voit 
+<Sync time="1344.055"/>
+le nombre d'importation en France pouvoir taxer les produits 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ réalisés à l'étranger grâce à la TVA c'est bien
+<Sync time="1349.969"/>
+alors que la CSG ne taxe que les revenus des ménages ou les revenus des retraités
+<Sync time="1354.918"/>
+le deuxième avantage c'est que
+<Sync time="1356.694"/>
+lorsqu'on regarde ce que touche la TVA, ce que touche la CSG, la TVA touche aussi les entreprises, touche
+<Sync time="1363.034"/>
+aussi les collectivités, la CSG ne touche que les ménages, que les français qui travaillent ou qui sont 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ retraités
+<Sync time="1368.995"/>
+donc je préfère cette solution de la TVA à la solution de la CSG 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ une fois encore avec cette
+<Sync time="1373.667"/>
+double réserve, la première c'est que on peut imaginer effectivement une fiscalité écologique intéressante je trouve que ça vaut le coup de travailler 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ là-dessus je trouve que c'est une piste intéressante 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et la deuxième c'est que n'oublions pas ce que à chaque fois on met de côté, à chaque fois on oublie on peut réduire la dépense.
+</Turn>
+<Turn startTime="1387.327" endTime="1388.113">
+<Sync time="1387.327"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1388.113" endTime="1438.059">
+<Sync time="1388.113"/>
+alors réduire la dépense c'est intéressant 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je vais être un peu polémique avec &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; le polémiste.
+<Sync time="1393.709"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le mérite de ce gouvernement critiqué dans d'autres rôles
+<Sync time="1399.136"/>
+c'est quand même dans un premier temps de réduire la dépense publique pour la première fois de 10 milliards d'euros
+<Sync time="1404.46"/>
+le président de la République est nouvellement élu il dit je vais réduire la dépense de 10 milliards, rappelez-vous
+<Sync time="1410.107"/>
+de 2007
+<Sync time="1411.463"/>
+la première chose qu'avait fait le président sortant c'est de créer la loi TEPA
+<Sync time="1415.776"/>
+qui entraînait un certain nombre de niches fiscales 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qui a coûté 15 milliards à l'époque 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et dont on disait que ça allait créer un choc de croissance
+<Sync time="1422.142"/>
+et un choc de confiance. il y a eu la crise je vous l'accorde, mais le choc je le disais à l'époque à Madame &lt;pers=Christine_LAGARDE&gt;Lagarde&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ n'est pas venu
+<Sync time="1427.815"/>
+son gouvernement a le mérite aujourd'hui de dire 30 milliards, 10 milliards d'économies première chose 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ ensuite 10 milliards sur les entreprises et 10 milliards sur les ménages, et sur les ménages les plus aisés.
+</Turn>
+<Turn speaker="spk1" startTime="1438.059" endTime="1440.915">
+<Sync time="1438.059"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+enfin 20 milliards d'impôts et 10 milliards d'économies.
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1440.915" endTime="1469.757">
+<Sync time="1440.915"/>
+attendez 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+j'ai dit
+<Event desc="dis=rep" type="noise" extent="end"/>
+ j'ai dit voilà 
+<Event desc="bc" type="noise" extent="begin"/>
+un tiers, deux tiers, je pense qu'il faudra arriver 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans le futur
+<Event desc="bc" type="noise" extent="end"/>
+ non mais il faudra arriver à 50, 50 dans les temps futurs on ne pourra pas créer un choc alors d'abord 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1451.16"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ vous nous dites qu'on ne parle que d'impôts mais je vous dis d'abord économie c'est le premier gouvernement qui fait 10 milliards d'économie
+<Sync time="1456.879"/>
+il y a eu des tentatives avant avec la RGD. la TVA moi je suis pas en train de choisir TVA ou CSG
+<Sync time="1462.87"/>
+la TVA rapporte 6 à 7 milliards pour un point, la CSG rapporte 11 à 12 milliards pour un point, donc elle est plus rentable c'est clair
+<Sync time="1468.367"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ la facilité ce serait de
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1469.757" endTime="1480.968">
+<Sync time="1469.757"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1480.968" endTime="1532.778">
+<Sync time="1480.968"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors le gouvernement précédent, auquel vous apparteniez, avait dit on va faire un choc de compétitivité avec la TVA en la passant de 18.6 à 21
+<Sync time="1487.94"/>
+
+<Event desc="dis=rep" type="noise" extent="begin"/>
+résultat
+<Event desc="dis=rep" type="noise" extent="end"/>
+ résultat, avouez-le, au moment où il y a une baisse de la consommation
+<Sync time="1493.32"/>
+au moment où il y a une baisse de la demande, arrivé au mois d'octobre là ce mois-ci avec 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1499.224"/>
+2 points et demi de TVA en plus 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ est-ce que vous pensez qu'on a encore pas plus cassé la machine 
+<Sync time="1504.25"/>
+auprès des consommateurs qui eux, avouez-le, 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ parce que quand vous pouvez me dire 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1508.794"/>
+ça touche pas toutes les entreprises mais il n'empêche que pour un ménage qui se chauffe
+<Sync time="1512.162"/>
+quand ils payent la TVA
+<Sync time="1513.882"/>
+là il y a pas de récupération à 0.2 0.5 sur le produit il paie la TVA, quand quelqu'un fait le plein 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à la station
+<Sync time="1520.945"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ là 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+il p()
+<Event desc="dis=rep" type="noise" extent="end"/>
+ il prend la TVA de plein fouet donc 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ c'est une atteinte au pouvoir d'achat à mon avis qui n'était pas juste alors que 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ le gouvernement en la matière aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ fait preuve de lucidité et de courage
+</Turn>
+<Turn startTime="1532.778" endTime="1533.319">
+<Sync time="1532.778"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1533.319" endTime="1536.682">
+<Sync time="1533.319"/>
+je vais être un peu polémique à mon tour 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ &lt;pers=Francois_PATRIAT&gt;François Patriat&lt;/pers&gt; 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="1536.682" endTime="1537.873">
+<Sync time="1536.682"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1537.873" endTime="1652.77">
+<Sync time="1537.873"/>
+ce qu'a décidé le gouvernement de &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt;
+<Sync time="1540.261"/>
+et de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; c'est bien de taxer justement massivement tous les ménages français
+<Sync time="1545.513"/>
+même s'il n'a pas augmenté la TVA peut-être qu'il le fera plus tard, il a déjà pris cette décision
+<Sync time="1550.262"/>
+et les augmentations d'impôts 
+<Event desc="bc" type="noise" extent="begin"/>
+de 10 milliards ne touche pas
+<Event desc="bc" type="noise" extent="end"/>
+ une partie des ménages et le mensonge de &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; 
+<Sync time="1556.987"/>
+qui nous dit 9 français sur 10 seront épargnés c'est faux tout le monde le sait 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1560.869"/>
+quand vous 
+<Event desc="bc" type="noise" extent="begin"/>
+augmentez les taxes sur les tabacs
+<Event desc="bc" type="noise" extent="end"/>
+, quand vous augmentez les taxes sur la bière
+<Sync time="1565.187"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ quand vous gelez le barème de l'impôt sur le revenu, quand vous touchez au quotient familial, quand vous touchez 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+aux
+<Event desc="dis=rep" type="noise" extent="end"/>
+ aux emplois à domicile vous touchez
+<Sync time="1571.717"/>
+tous les français, personne ne sera épargné 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et moi j'aurais préféré qu'au lieu d'avoir 10 milliards d'impôts supplémentaires sur les ménages
+<Sync time="1578.217"/>
+10 sur les entreprises et 10 d'économie 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y ait 20 milliards d'économie et si vous voulez des idées d'économie 
+<Sync time="1583.962"/>
+moi je peux vous en donner mais alors vous pouvez prolonger l'émission de 30 minutes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1587.212"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ j'en ai à n'en savoir que faire
+<Sync time="1589.147"/>
+je prends juste l'exemple de ma région la Haute-Normandie, on a encore deux régions Haute-Normandie Basse-Normandie
+<Sync time="1594.512"/>
+deux conseils régionaux avec tout ce qui va avec de fonctionnaires 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et de postes qui sont pas forcément utiles
+<Sync time="1600.411"/>
+vous avez 5 conseils généraux pour une région qui si on rassemblait les deux ne ferait même pas la taille d'un land allemand
+<Sync time="1606.957"/>
+il est temps de fusionner un certain nombre d'outils administratifs
+<Sync time="1610.859"/>
+d'arrêter avec ce millefeuille d'empilement de décisions administratives et de lieux de décision qui coûte cher à l'état et qui coûte cher aux contribuables et qui coûte cher aux collectivités publiques
+<Sync time="1619.941"/>
+vous pouvez faire des économies sur la dépense de santé honnêtement quand on voit les modalités de prescription
+<Sync time="1625.588"/>
+tous les rapports le disent, les rapports de la cour des comptes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et même les médecins avec lesquels je discute disent on peut faire beaucoup mieux sur la prescription médicale 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1632.498"/>
+et économiser chaque année 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des milliards d'euros donc je crois que par paresse intellectuelle
+<Sync time="1637.355"/>
+aussi par une certaine forme 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ de lâcheté on renonce trop facilement à cette réduction à la dépense publique
+<Sync time="1643.254"/>
+il faut qu'il y ait une véritable révolution mentale en France sur ce sujet pour qu'on se dise 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1648.629"/>
+la solution c'est pas les impôts, la solution c'est la réduction de la dépense.
+</Turn>
+<Turn speaker="spk1" startTime="1652.77" endTime="1669.634">
+<Sync time="1652.77"/>
+il nous reste 5min
+<Event desc="5 minutes" type="pronounce" extent="previous"/>
+ 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ il nous reste 5min
+<Event desc="5 minutes" type="pronounce" extent="previous"/>
+ et je voudrais absolument que 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+vous
+<Event desc="dis=rep" type="noise" extent="end"/>
+ vous parliez 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ vous allez répondre mais après je voudrais que vous nous parliez d'une autre piste possible
+<Sync time="1661.145"/>
+qui concerne le marché du travail, la fameuse flexibilité qu'on pourrait envisager sur le marché du travail pour abaisser le coût du travail vous pouvez répondre &amp;hein
+</Turn>
+<Turn speaker="spk3" startTime="1669.634" endTime="1725.287">
+<Sync time="1669.634"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors un mot d'abord sur le millefeuille
+<Sync time="1671.58"/>
+j'entends bien &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; 
+<Sync time="1673.151"/>
+il y a une loi qui va être abrogée aujourd'hui conseiller territorial mais qu'est-ce que prévoyait cette loi sous l'égide de Monsieur &lt;pers=Edouard_BALLADUR&gt;Balladur&lt;/pers&gt;
+<Sync time="1679.24"/>
+non seulement elle a pas diminué le millefeuille mais elle l'a augmenté en créant les métropoles
+<Sync time="1683.414"/>
+il y a un nouveau millefeuille dans le millefeuille 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors
+<Sync time="1685.478"/>
+vous savez 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ aujourd'hui la métropole de Nice je crois que c'est 11500 salariés 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ vous l'avez créée donc vous allez pas me dire aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'il faut le supprimer j'entends bien la réforme des collectivités aujourd'hui il y a des économies à faire sans doute et croyez bien
+<Sync time="1696.591"/>
+que les collectivités le font, moi pour le budget de la région de Bourgogne je vais cette année baisser les dépenses de 6% c'est clair
+<Sync time="1702.895"/>
+et c'est ce que fait l'état aussi aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc vous voyez ce qui n'a pas été fait par le passé au niveau de l'état mais ce que faisaient déjà les collectivités 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1709.025"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors j'ai entendu un peu la démagogie sur les collectivités 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ vous savez sur les 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+
+<Sync time="1713.369"/>
+500 mille 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ élus et en France il y en a 90% qui sont bénévoles alors le reste
+<Sync time="1718.58"/>
+c'est pas ça qui va changer la donne de la compétitivité bien. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ alors faire des économies par ailleurs et 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1725.287" endTime="1728.286">
+<Sync time="1725.287"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1728.286" endTime="1735.571">
+<Sync time="1728.286"/>
+vous prononcez le mot de flexibilité 
+<Event desc="bc" type="noise" extent="begin"/>
+c'est important
+<Event desc="bc" type="noise" extent="end"/>
+ parce qu'on l'entend pas beaucoup 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+dans
+<Event desc="dis=rep" type="noise" extent="end"/>
+ dans les rangs socialistes ce mot flexibilité du marché du travail
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1735.571" endTime="1774.694">
+<Sync time="1735.571"/>
+plus de souplesse 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ et nous le faisons dans les collectivités déjà avec les plans de continuité professionnelle
+<Sync time="1742.06"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ faire en sorte que des gens qui ne sont pas au chômage
+<Sync time="1744.766"/>
+mais qui risque demain d'avoir des difficultés pour l'entreprise ou autre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1747.703"/>
+faire en sorte qu'ils puissent 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+avec un
+<Event desc="dis=rev" type="noise" extent="end"/>
+ de façon intermédiaire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et nous l'avons signé figurez-vous une région socialiste 
+<Sync time="1753.089"/>
+nous l'avons signé avec le MEDEF, avec la CGPME, avec tous les syndicats 
+<Sync time="1757.494"/>
+je pense que c'est dans le dialogue social qu'on trouvera 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+de la so()
+<Event desc="dis=rev" type="noise" extent="end"/>
+ la flexibilité et non pas en l'imposant aujourd'hui
+<Sync time="1762.448"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et dans ce domaine là 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ je pense que 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ à la fois 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ avec la grande conférence sociale le gouvernement a ouvert cette piste là de façon intelligente mais pas seulement à dire aux gens demain on va baisser vos salaires. 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="1774.694" endTime="1775.418">
+<Sync time="1774.694"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1775.418" endTime="1795.088">
+<Sync time="1775.418"/>
+cette fameuse conférence à laquelle vous faites référence 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+les
+<Event desc="dis=rep" type="noise" extent="end"/>
+ les partenaires sociaux &amp;hein sont autour de la table autour du sujet 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ autour de la sécurisation du parcours
+<Sync time="1782.498"/>
+professionnel et non pas de la flexibilité du marché du travail mais c'est à peu près la même chose 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1787.796"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ qu'est-ce que vous entendez par flexibilité du marché du travail il y a-t-il matière à travailler sur cette piste pour là aussi abaisser les coûts du travail
+</Turn>
+<Turn startTime="1795.088" endTime="1795.662">
+<Sync time="1795.088"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1795.662" endTime="1805.514">
+<Sync time="1795.662"/>
+c'est pas forcément le terme que que j'emploierais flexibilité je sais pas pourquoi je trouve que ça sonne pas très bien 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ la seule chose que je sais c'est que 
+<Event desc="bc" type="noise" extent="begin"/>
+vous avez en France 25% de taux de chômage
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1805.514" endTime="1815.231">
+<Sync time="1805.514"/>
+
+<Event desc="bc" type="noise" extent="begin"/>
+parce que les français pensent que ça donne plus de facilité 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+aux
+<Event desc="dis=rep" type="noise" extent="end"/>
+ aux entreprises pour licencier leurs salariés 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ beaucoup plus de souplesse dans le licenciement des salariés 
+<Event desc="bc " type="noise" extent="instantaneous"/>
+ c'est comme ça que c'est compris.
+<Event desc="bc" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1815.231" endTime="1908.417">
+<Sync time="1815.231"/>
+non mais vous voyez bien que ce que vous dessinez là comme 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ horizon pour les gens c'est de leur dire 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ on va faire un système qui permet de se débarrasser 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+plus facile d'eux
+<Event desc="dis=rev" type="noise" extent="end"/>
+ plus facilement de vous 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+c'est
+<Event desc="dis=rep" type="noise" extent="end"/>
+ c'est pas forcément très enthousiasmant 
+<Sync time="1825.734"/>
+donc il faut qu'on arrive à inventer autre chose 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ c'est-à-dire un meilleur équilibre 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ entre aujourd'hui un droit du travail qui est beaucoup trop rigide,
+<Sync time="1832.367"/>
+des normes qui sont beaucoup trop rigides. quels sont les premiers à en pâtir ? c'est les jeunes, et moi je trouve ça insupportable d'avoir
+<Sync time="1838.661"/>
+plus de 25% de taux de chômage des jeunes 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ des chiffres encore plus élevés pour ceux qui sont pas qualifiés
+<Sync time="1844.118"/>
+et puis des situations très concrètes qu'on voit &lt;pers=Francois_PATRIAT&gt;François Patriat&lt;/pers&gt; comme moi 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ dans nos circonscriptions dans nos départements, c'est-à-dire des
+<Sync time="1850.315"/>
+entreprises de 19 salariés qui n'embaucheront pas le vingtième un jeune
+<Sync time="1854.448"/>
+parce que sinon ils vont franchir un seuil et que c'est des obligations supplémentaires, supprimons ces obligations
+<Sync time="1859.017"/>
+et ou qui ne vont pas embaucher un jeune qui est 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en intérim, ou qui est en CDD, parce que le CDI est trop verrouillé
+<Sync time="1865.794"/>
+et fait peser une menace si jamais la conjoncture 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1868.444"/>
+
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ devient plus défavorable et qui sont obligés de réduire un petit peu la voilure. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ donc on doit trouver des solutions à ça
+<Sync time="1873.732"/>
+il faut surtout pas qu'on reste borné, fermé 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ accroché à un certain nombre de choses. il faut faire évoluer
+<Sync time="1880.124"/>
+dans l'intérêt et des entreprises et des salariés pour que l'entreprise puisse ajuster à la conjoncture, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à la demande
+<Sync time="1886.736"/>
+le nombre de salariés dont elle dispose 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et qu'en même temps le salarié c'est là que j'aime pas le côté on va se débarrasser plus facilement de lui non
+<Sync time="1893.261"/>
+que le salarié lui puisse être 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ accompagné mis en chômage technique comme le font par exemple les allemands 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="1899.252"/>
+ou profite d'une période de formation à ce moment-là 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ pour que chacun soit gagnant dans cette affaire là. les entreprises 
+<Sync time="1905.598"/>
+comme les jeunes qui aujourd'hui ne trouvent pas de place sur le marché du travail
+</Turn>
+<Turn speaker="spk1" startTime="1908.417" endTime="1913.617">
+<Sync time="1908.417"/>
+&lt;pers=Francois_PATRIAT&gt;François Patriat&lt;/pers&gt; pour votre conclusion et pour répondre directement 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+aux
+<Event desc="dis=rep" type="noise" extent="end"/>
+ aux pistes 
+<Event desc="bc" type="noise" extent="begin"/>
+évoquées
+<Event desc="bc" type="noise" extent="end"/>
+ à l'instant même par &lt;pers=Bruno_LE_MAIRE&gt;Bruno Le Maire&lt;/pers&gt; sur
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1913.617" endTime="1917.015">
+<Sync time="1913.617"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1917.015" endTime="1982.122">
+<Sync time="1917.015"/>
+je n'y crois pas beaucoup parce que je me souviens de ce que disait à une époque un patron
+<Sync time="1920.301"/>
+du MEDEF c'était pas le MEDEF à l'époque il disait : " laissez-nous licencier et nous allons créer autant beaucoup d'emplois en France ".
+<Sync time="1925.06"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ des milliers d'emplois, on a vu ce que ça a donné à l'époque 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ non. pour revenir à la compétitivité moi je ne méconnais pas
+<Sync time="1930.969"/>
+qu'il y a des charges sur le travail qu'il faut aujourd'hui compenser et diminuer par les voies que nous avons évoquées
+<Sync time="1936.432"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ mais ce qu'attendent les chefs d'entreprises en matière de compétitivité
+<Sync time="1939.59"/>
+c'est quoi ? aujourd'hui de pouvoir être accompagné dans leur financement, on va le faire avec la BPI,
+<Sync time="1943.97"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ accompagné dans la formation, on le fait dans les régions aujourd'hui en particulier, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ accompagné dans la recherche. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il y a une façon offensive
+<Sync time="1951.112"/>
+le crédit impôt recherche. moi je pense qu'il faut aujourd'hui 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ le recentrer
+<Sync time="1955.091"/>
+sur les PME pour qu'elles deviennent des ETI demain &amp;hein pour qu'elles deviennent demain des entreprises intermédiaires
+<Sync time="1959.789"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ sur le financement, sur l'innovation vous l'avez dit dans des domaines aussi vrais que les nanotechnologies, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ l'optique, les nouvelles 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ beaucoup de théories technologies aujourd'hui et de recherche et l'innovation c'est ça qu'ils attendent
+<Sync time="1969.02"/>
+ils attendent 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ ce domaine là aujourd'hui et puis dernière chose, vous savez salaire un bon salaire n'est pas
+<Sync time="1973.959"/>
+antinomique de compétitivité j'ai visité l'usine de maroquinerie de mon territoire qui paye très bien ses salariés et qui aujourd'hui exporte merveilleusement bien
+</Turn>
+<Turn speaker="spk1" startTime="1982.122" endTime="1993.977">
+<Sync time="1982.122"/>
+et bien 
+<Event desc="dis=rev" type="noise" extent="begin"/>
+on va noter
+<Event desc="dis=rev" type="noise" extent="end"/>
+ on va rester si vous voulez bien sur cette note positive merci, 
+<Event desc="bc" type="noise" extent="instantaneous"/>
+ grand merci à tous les deux d'avoir participé à ce " pile et face ", prochain 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ " pile et face " ça sera la semaine prochaine 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ à la même place et à la même heure bien sûr, à bientôt.
+</Turn>
+</Section>
+<Section type="nontrans" startTime="1993.977" endTime="2174.712">
+<Turn startTime="1993.977" endTime="2174.712">
+<Sync time="1993.977"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

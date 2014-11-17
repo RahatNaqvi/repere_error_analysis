@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Gwendo" audio_filename="BFMTV_CultureEtVous_2012-04-05_065040" version="7" version_date="140311">
+<Speakers>
+<Speaker id="spk1" name="Christophe_DELAY" check="no" type="male" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk2" name="Pascale_DE_LA_TOUR_DU_PIN" check="no" type="female" dialect="native" accent="R1" scope="local"/>
+<Speaker id="spk3" name="Philippe_DUFREIGNE" check="no" dialect="native" accent="R3" scope="local" type="male"/>
+<Speaker id="spk4" name="speaker#4" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk5" name="Johnny_HALLYDAY" check="no" type="male" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk6" name="speaker#6" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+<Speaker id="spk7" name="speaker#7" check="no" type="female" dialect="native" accent="R5" scope="local"/>
+<Speaker id="spk8" name="speaker#8" check="no" type="female" dialect="native" accent="R3" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="nontrans" startTime="0" endTime="237.0">
+<Turn startTime="0" endTime="237.0">
+<Sync time="0"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="237.0" endTime="354.0">
+<Turn startTime="237.0" endTime="238.901">
+<Sync time="237.0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="238.901" endTime="242.779">
+<Sync time="238.901"/>
+et ce matin nous avons surpris &lt;pers=Johnny_HALLYDAY&gt;Johnny Hallyday&lt;/pers&gt; en train de répéter dans un café avec sa choriste.
+</Turn>
+<Turn speaker="spk2" startTime="242.779" endTime="246.21">
+<Sync time="242.779"/>
+y'a les Beatles qui se reforment enfin les 4 enfants des Beatles qui reforment le groupe.
+</Turn>
+<Turn speaker="spk1" startTime="246.21" endTime="254.706">
+<Sync time="246.21"/>
+et puis &lt;pers=William_DE_CAMBRIDGE&gt;William&lt;/pers&gt; et &lt;pers=Catherine_MIDDLETON&gt;Kate&lt;/pers&gt; en cire, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+au museau
+<Event desc="dis=rep" type="noise" extent="end"/>
+ 
+<Event desc="rire en fond" type="noise" extent="begin"/>
+Tu()
+<Event desc="dis=rev" type="noise" extent="begin"/>
+au museau
+<Event desc="dis=rev" type="noise" extent="end"/>
+ au musée Tussaud de Londres. &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt;. 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="rire en fond" type="noise" extent="end"/>
+
+</Turn>
+<Turn startTime="254.706" endTime="255.529">
+<Sync time="254.706"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="255.529" endTime="257.959">
+<Sync time="255.529"/>
+non vous ne rêvez pas, c'est bien le vrai.
+</Turn>
+<Turn speaker="spk4" startTime="257.959" endTime="261.386">
+<Sync time="257.959"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="261.386" endTime="268.494">
+<Sync time="261.386"/>
+&lt;pers=Johnny_HALLYDAY&gt;Johnny&lt;/pers&gt; en mode bisous, applaudi par la foule. &lt;pers=Johnny_HALLYDAY&gt;Johnny&lt;/pers&gt; en mode &lt;pers=Ray_CHARLES&gt;Ray Charles&lt;/pers&gt;, public attentif.
+</Turn>
+<Turn startTime="268.494" endTime="274.735">
+<Sync time="268.494"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="274.735" endTime="283.267">
+<Sync time="274.735"/>
+petit boeuf dans un café pour la star avec sa choriste histoire de garder la forme à moins de 20 jours du lancement de sa grande tournée, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ qu'il répète actuellement à Los Angeles.
+</Turn>
+<Turn startTime="283.267" endTime="285.586">
+<Sync time="283.267"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="285.586" endTime="297.264">
+<Sync time="285.586"/>
+on a commencé il y a 3 jours et 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+ça
+<Event desc="dis=rep" type="noise" extent="end"/>
+ ça se passe vraiment bien. et 
+<Event desc="dis=hes" type="noise" extent="begin"/>
+euh
+<Event desc="dis=hes" type="noise" extent="end"/>
+ en 3 jours on a déjà vu une vingtaine de chansons sur les 38 que nous avons 
+<Event desc="dis=rep" type="noise" extent="begin"/>
+à
+<Event desc="dis=rep" type="noise" extent="end"/>
+ à répéter pour la tournée.
+</Turn>
+<Turn startTime="297.264" endTime="297.978">
+<Sync time="297.264"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="297.978" endTime="299.321">
+<Sync time="297.978"/>
+de nouveaux 
+<Event desc="en" type="language" extent="begin"/>
+Fab Four
+<Event desc="en" type="language" extent="end"/>
+ !
+</Turn>
+<Turn startTime="299.321" endTime="300.275">
+<Sync time="299.321"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="300.275" endTime="319.102">
+<Sync time="300.275"/>
+c'est le groupe phare de l'histoire de la pop, et si les enfants des membres des Beatles formaient un groupe. c'est &lt;pers=James_MCCARTNEY&gt;James McCartney&lt;/pers&gt; le fils de &lt;pers=Paul_MCCARTNEY&gt;Paul&lt;/pers&gt; qui a relancé l'idée dans une interview pour la BBC. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="309.562"/>
+&lt;pers=Sean_LENNON&gt;Sean Lennon&lt;/pers&gt; serait partant tout comme le fils &lt;pers=George_HARRISON&gt;Harrison&lt;/pers&gt;, celui de &lt;pers=Ringo_STARR&gt;Ringo Starr&lt;/pers&gt; en revanche serait plus partagé. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ il a en tout cas bien été évoqué par tous les représentants de cette jeune génération.
+</Turn>
+<Turn startTime="319.102" endTime="319.94">
+<Sync time="319.102"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="319.94" endTime="321.729">
+<Sync time="319.94"/>
+prince et princesse de cire.
+</Turn>
+<Turn startTime="321.729" endTime="322.286">
+<Sync time="321.729"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="322.286" endTime="338.773">
+<Sync time="322.286"/>
+voici de jolies jambes, des jambes de sang royal. enfin les statues de &lt;pers=William_DE_CAMBRIDGE&gt;William&lt;/pers&gt; et &lt;pers=Catherine_MIDDLETON&gt;Kate&lt;/pers&gt; ont été dévoilées à Londres au musée Tussaud.
+<Event desc="r" type="noise" extent="instantaneous"/>
+ où l'on a recréé l'annonce des fiançailles du couple, 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ avec une reproduction de la bague ayant appartenu à &lt;pers=Diana_DE_GALLES&gt;Diana&lt;/pers&gt;. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="335.18"/>
+mais les vrais &lt;pers=Catherine_MIDDLETON&gt;Kate&lt;/pers&gt; et &lt;pers=William_DE_CAMBRIDGE&gt;William&lt;/pers&gt; n'ont pas participé à la création de ces statues.
+</Turn>
+<Turn speaker="spk7" startTime="338.773" endTime="339.338">
+<Sync time="338.773"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7 spk8" startTime="339.338" endTime="348.225">
+<Sync time="339.338"/>
+<Who nb="1"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Who nb="2"/>
+on en est arrivé à travailler avec le palais mais sans les rencontrer. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ car on voulait que les statues soient prêtes pour leur premier anniversaire de mariage. 
+<Event desc="r" type="noise" extent="instantaneous"/>
+ les gens étaient désespérés de ne pas les voir ici.
+</Turn>
+<Turn speaker="spk3" startTime="348.225" endTime="352.738">
+<Sync time="348.225"/>
+&lt;pers=Catherine_MIDDLETON&gt;Kate&lt;/pers&gt; et &lt;pers=William_DE_CAMBRIDGE&gt;William&lt;/pers&gt; ont trouvé une place de choix, pas très loin de la reine et de la princesse &lt;pers=Diana_DE_GALLES&gt;Diana&lt;/pers&gt;.
+</Turn>
+<Turn startTime="352.738" endTime="354.0">
+<Sync time="352.738"/>
+
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="nontrans" startTime="354.0" endTime="418.680">
+<Turn startTime="354.0" endTime="418.680">
+<Sync time="354.0"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
