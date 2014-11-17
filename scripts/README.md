@@ -9,7 +9,7 @@ $ apt-get install gfortran libblas-dev liblapack-dev
 $ apt-get install libxml2-dev libxslt-dev
 ```
 
-This will install all the necessary Python dependencies (and pyannote, in particular) to re-run IPython Notebook locally and write your own analysis with pyannote.
+This will install all the necessary Python dependencies (and pyannote, in particular).
 
 ```
 $ pip install -U --process-dependency-links \
