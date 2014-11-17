@@ -1,6 +1,10 @@
    systeme     dureeGlobal nbSessionGlobal     dureeRepere nbSessionRepere      dureeAutre nbSessionAutre
-      soda          660.38            5.84          123.65            0.95          536.74            4.88 
+      soda          549.46            6.10          157.95            1.21          391.50            4.89 
    percol          534.88            5.41          256.08            2.62          278.80            2.79 
 -----------------------------------------------
-locuteur commun à 1 systemes : 710
-locuteur commun à 2 systemes : 346
+nombre de locuteur pour percol : 533
+nombre de locuteur pour soda : 680
+-----------------------------------------------
+locuteur commun à 1 systemes : 551
+locuteur commun à 2 systemes : 331
+nombre de locuteur différent : 882

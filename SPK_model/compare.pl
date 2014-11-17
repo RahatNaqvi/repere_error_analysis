@@ -49,6 +49,7 @@ print "-----------------------------------------------\n";
 
 my @commun = ();
 my %nbLoc=();
+
 foreach my $name (keys %dic) {
 	my $nb;
 	foreach my $sys (keys %{$dic{$name}}) {
@@ -56,7 +57,7 @@ foreach my $name (keys %dic) {
 		$nb++;
 	}
 	$commun[$nb]++;
-	#print "$name $nb\n";
+	printf STDERR "$name $nb\n";
 }
 foreach my $s (keys %nbLoc) {
 	print "nombre de locuteur pour $s : $nbLoc{$s}\n";
