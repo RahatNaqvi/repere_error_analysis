@@ -27,109 +27,115 @@
 # AUTHORS
 # Hervé BREDIN (http://herve.niderb.fr)
 
-# load parser for files in REPERE submissions format
-from pyannote.parser.repere import REPEREParser
-# load parser for UEM files
-from pyannote.parser.uem import UEMParser
-# load identification error analysis tool
+"""
+Speaker/Show statistics
+
+This tool outputs various statistics for each show/speaker pair (one per line).
+It uses the following format:
+
+    - Field #1: show
+    - Field #2: speaker
+    - Field #3: identification error rate
+    - Field #4: total speech duration in reference
+    - Field #5: total speech duration in hypothesis
+    - Field #6: duration of correct identification
+    - Field #7: duration of confusion
+    - Field #8: duration of missed detections
+    - Field #9: duration of false alarms
+
+Usage:
+  stats [options] <references.repere> <eval.uem> <hypothesis.repere>
+  stats -h | --help
+  stats --version
+
+Options:
+  --uris <uris.lst>        List of shows (one per line).
+                           Defaults to the list of shows in reference.
+  --collar <duration>      Collar (in seconds) removed from evaluation around
+                           boundaries of reference segments [default: 0.]
+  --with-unknown           Keep unknown in evaluation.
+  -h --help                Show this screen.
+  --version                Show version.
+"""
+
+TEMPLATE = "{uri} {spk} {ier:.3f} {ref:.2f} {hyp:.2f} {cor:.2f} {conf:.2f} {miss:.2f} {fa:.2f}\n"
+
+
+import sys
+
+# command line argument parser
+from docopt import docopt
+
+# file parser
+from pyannote.parser.util import CoParser
+
+# identification error analysis
 from pyannote.metrics.errors.identification import IdentificationErrorAnalysis
 
 
-def analyse_ier(references, hypotheses, uems,
-                uris=None, collar=0., unknown=True):
-    """
+def do_stats(reference_repere, hypothesis_repere,
+             uris_lst=None, eval_uem=None,
+             collar=0., unknown=False):
 
-    Parameters
-    ----------
-    references : `REPEREParser`
-    hypotheses : dict of `REPEREParser`
-        Dictionary keys are names of consortia.
-    uems : `UEMParser`
-    uris : iterable, optional
-        When provided, only perform evaluation on those shows.
-    collar : float, optional
-        Collar (in ms) centered on reference boundaries.
-        Defaults to no collar.
-    unknown : bool, optional
-        Keep unknown. Defaults to True.
+    identificationErrorAnalysis = IdentificationErrorAnalysis(
+        collar=collar, unknown=unknown)
 
-    Returns
-    -------
-    analysis : dict of dict of DataFrame
-        Consortia-indexed dictionary of show-indexed dictionary accumulated
-        identification errors.
-    """
+    iter_over = {
+        'reference': reference_repere,
+        'hypothesis': hypothesis_repere
+    }
 
-    # get list of consortia in alphabetical order
-    consortia = sorted(hypotheses)
+    if uris_lst:
+        iter_over['uris'] = uris_lst
+    else:
+        iter_over['uris'] = 'reference'
 
-    # defaults to all show in reference
-    if uris is None:
-        uris = references.uris
+    if eval_uem:
+        iter_over['uem'] = eval_uem
 
-    identificationErrorAnalysis = IdentificationErrorAnalysis(collar=collar,
-                                                              unknown=unknown)
+    coParser = CoParser(**iter_over)
 
-    analysis = {team: dict() for team in consortia}
+    for uri, ref, hyp, uem in coParser.iter(
+        'uris', 'reference', 'hypothesis', 'uem'
+    ):
 
-    # loop on every show (uri stands for 'uniform resource identifier')
-    for u, uri in enumerate(uris):
+        # perform error analysis
+        analysis = identificationErrorAnalysis.matrix(ref, hyp, uem=uem)
 
-        # get UEM for current show
-        uem = uems(uri=uri)
+        # obtain list of speakers
+        speakers = [speaker for speaker in analysis.get_rows()]
 
-        # get reference for this very show
-        reference = references(uri=uri, modality='speaker')
+        # loop on each speaker
+        for spk in speakers:
 
-        # get hypothesis for this very show for all three consortia
-        hypothesis = {
-            team: hypotheses[team](uri=uri, modality='speaker')
-            for team in consortia
-        }
+            if isinstance(spk, tuple) and spk[0] == 'false alarm':
+                continue
 
-        # analyse errors for each team
-        for team in consortia:
-            analysis[team][uri] = identificationErrorAnalysis.matrix(
-                reference, hypothesis[team], uem=uem)
+            ref = analysis[spk, 'reference']
+            hyp = analysis[spk, 'hypothesis']
+            cor = analysis[spk, 'correct']
+            conf = analysis[spk, 'confusion']
+            miss = analysis[spk, 'missed detection']
+            fa = analysis[spk, 'false alarm']
+            ier = (conf + miss + fa) / ref
 
-    return analysis
+            sys.stdout.write(
+                TEMPLATE.format(uri=uri, spk=spk, ier=ier, ref=ref, hyp=hyp,
+                                cor=cor, conf=conf, miss=miss, fa=fa))
 
+            sys.stdout.flush()
 
-# load reference (see trs2repere.py)
-references = REPEREParser().read('../data/reference.repere')
+if __name__ == '__main__':
 
-# load uem
-uems = UEMParser().read('../data/test2.uem')
+    arguments = docopt(__doc__)
 
-# load PRIMARY runs for all 3 consortia
-consortia = ['percol', 'qcompere', 'soda']
-hypotheses = {
-    team: REPEREParser().read('../data/{team}.repere'.format(team=team))
-    for team in consortia}
+    reference_repere = arguments['<references.repere>']
+    hypothesis_repere = arguments['<hypothesis.repere>']
+    eval_uem = arguments['<eval.uem>']
+    uris_lst = arguments['--uris']
+    collar = float(arguments['--collar'])
+    unknown = arguments['--with-unknown']
 
-analysis = analyse_ier(references, hypotheses, uems,
-                       uris=None, collar=0., unknown=False)
-
-template = "{uri} {spk} {ref:.2f} {hyp:.2f} {cor:.2f} {miss:.2f} {fa:.2f}\n"
-
-for team in consortia:
-
-    with open('../data/{team}.stats'.format(team=team), 'w') as f:
-
-        for uri in references.uris:
-            M = analysis[team][uri]
-            speakers = [speaker for speaker in M.get_rows()]
-            for spk in speakers:
-
-                if isinstance(spk, tuple) and spk[0] == 'false alarm':
-                    continue
-
-                ref = M[spk, 'reference']
-                hyp = M[spk, 'hypothesis']
-                cor = M[spk, 'correct']
-                miss = M[spk, 'missed detection']
-                fa = M[spk, 'false alarm']
-
-                f.write(template.format(uri=uri, spk=spk, ref=ref, hyp=hyp,
-                                        cor=cor, miss=miss, fa=fa))
-
+    do_stats(reference_repere, hypothesis_repere,
+             uris_lst=uris_lst, eval_uem=eval_uem,
+             collar=collar, unknown=unknown)
