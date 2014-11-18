@@ -30,29 +30,29 @@
 </Turn>
 <Turn speaker="spk1" startTime="258.597" endTime="314.699">
 <Sync time="258.597"/>
-bonsoir Ã  tous, c'est " BFM story ". bienvenue, merci de votre fidÃ©litÃ©. nous sommes en direct jusqu'Ã  19 heures. Ã  la une de "BFM story" ce soir 
+bonsoir à tous, c'est " BFM story ". bienvenue, merci de votre fidélité. nous sommes en direct jusqu'à 19 heures. à la une de "BFM story" ce soir 
 <Event desc="r" type="noise" extent="instantaneous"/>
- l'immense pagaille, hier soir sur le rÃ©seau SNCF en rÃ©gion parisienne. 
+ l'immense pagaille, hier soir sur le réseau SNCF en région parisienne. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="270.273"/>
-50 mille voyageurs bloquÃ©s, deux conducteurs blessÃ©s, agressÃ©s par des voyageurs. l'un des conducteurs est toujours hospitalisÃ©. 
+50 mille voyageurs bloqués, deux conducteurs blessés, agressés par des voyageurs. l'un des conducteurs est toujours hospitalisé. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et puis le ministre des transports qui demande des explications Ã  la SNCF. ce soir tÃ©moignages, rÃ©actions dans " BFM story ". 
+ et puis le ministre des transports qui demande des explications à la SNCF. ce soir témoignages, réactions dans " BFM story ". 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="283.354"/>
-on se *tue moins sur les routes, le mois d'octobre a connu une trÃ¨s forte baisse de la mortalitÃ© routiÃ¨re, moins 16 pour cent. nous ferons le bilan avec le dÃ©lÃ©guÃ© interministÃ©riel Ã  la sÃ©curitÃ© routiÃ¨re, &lt;pers=Frederic_PECHENARD&gt;FrÃ©dÃ©ric PÃ©chenard&lt;/pers&gt;.
+on se *tue moins sur les routes, le mois d'octobre a connu une très forte baisse de la mortalité routière, moins 16 pour cent. nous ferons le bilan avec le délégué interministériel à la sécurité routière, &lt;pers=Frederic_PECHENARD&gt;Frédéric Péchenard&lt;/pers&gt;.
 <Sync time="296.533"/>
 
 <Event desc="r" type="noise" extent="instantaneous"/>
- la pauvretÃ© en France ! elle touche de plus en plus de femmes. principal enseignement du rapport annuel du Secours Catholique, son prÃ©sident est mon invitÃ©. 
+ la pauvreté en France ! elle touche de plus en plus de femmes. principal enseignement du rapport annuel du Secours Catholique, son président est mon invité. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et puis la Chine, qui change de leader Ã  l'occasion du dix-huitiÃ¨me congrÃ¨s du parti communiste chinois.
+ et puis la Chine, qui change de leader à l'occasion du dix-huitième congrès du parti communiste chinois.
 <Sync time="308.293"/>
 
 <Event desc="r" type="noise" extent="instantaneous"/>
- quel est le nouvel homme fort, de la deuxiÃ¨me puissance Ã©conomique du monde ? nous serons en direct de PÃ©kin ce soir dans " BFM story ".
+ quel est le nouvel homme fort, de la deuxième puissance économique du monde ? nous serons en direct de Pékin ce soir dans " BFM story ".
 <Event desc="musique" type="noise" extent="end"/>
 
 </Turn>
@@ -79,31 +79,31 @@ on se *tue moins sur les routes, le mois d'octobre a connu une trÃ¨s forte baiss
 </Turn>
 <Turn speaker="spk1" startTime="332.821" endTime="340.291">
 <Sync time="332.821"/>
-retenir ce soir dans l'actualitÃ©. tout d'abord, 50 mille voyageurs qui ont Ã©tÃ© bloquÃ©s hier soir, jusqu'Ã  tard dans la nuit pour certains dans les gares et les trains.
+retenir ce soir dans l'actualité. tout d'abord, 50 mille voyageurs qui ont été bloqués hier soir, jusqu'à tard dans la nuit pour certains dans les gares et les trains.
 </Turn>
 <Turn speaker="spk2" startTime="340.291" endTime="362.298">
 <Sync time="340.291"/>
-et Ã§a fait des vagues, Ã§a continue Ã  faire des vagues ! 
+et ça fait des vagues, ça continue à faire des vagues ! 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et tout avait commencÃ© par une panne Ã©lectrique. 
+ et tout avait commencé par une panne électrique. 
 <Event desc="r" type="noise" extent="instantaneous"/>
  
 <Event desc="b" type="noise" extent="begin"/>
 puis des voyageurs qui sont descendus sur les voies, la SNCF explique
 <Event desc="b" type="noise" extent="end"/>
- avoir Ã©tÃ© dans l'obligation de couper le courant, par sÃ©curitÃ©. 
+ avoir été dans l'obligation de couper le courant, par sécurité. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- entraÃ®nant Ã©videmment cette paralysie. 
+ entraînant évidemment cette paralysie. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="353.167"/>
-mais les esprits se sont aussi Ã©chauffÃ©s. et deux agents de la SNCF ont Ã©tÃ© agressÃ©s, 
+mais les esprits se sont aussi échauffés. et deux agents de la SNCF ont été agressés, 
 <Event desc="b" type="noise" extent="begin"/>
 &lt;pers=Julie_GUILLOT&gt;Julie Guillot&lt;/pers&gt; et &lt;pers=Caroline_BOISSON&gt;Caroline Boisson&lt;/pers&gt;
 <Event desc="b" type="noise" extent="end"/>
  
 <Event desc="r" type="noise" extent="instantaneous"/>
- ont rencontrÃ© aujourd'hui, une tÃ©moin d'une des deux agressions, Ã©coutez.
+ ont rencontré aujourd'hui, une témoin d'une des deux agressions, écoutez.
 </Turn>
 <Turn startTime="362.298" endTime="362.96">
 <Sync time="362.298"/>
@@ -111,7 +111,7 @@ mais les esprits se sont aussi Ã©chauffÃ©s. et deux agents de la SNCF ont Ã©tÃ© 
 </Turn>
 <Turn speaker="spk3" startTime="362.96" endTime="370.334">
 <Sync time="362.96"/>
-au bout d'une heure et demie, l'autre message Ã§a a Ã©tÃ© que la situation se dÃ©grade. qu'il y a des gens qui sortent. qu'il s'est fait agresser.
+au bout d'une heure et demie, l'autre message ça a été que la situation se dégrade. qu'il y a des gens qui sortent. qu'il s'est fait agresser.
 </Turn>
 <Turn startTime="370.334" endTime="370.837">
 <Sync time="370.334"/>
@@ -127,21 +127,21 @@ euh
 <Event desc="dis=rev" type="noise" extent="begin"/>
 on s(e)
 <Event desc="dis=rev" type="noise" extent="end"/>
- on part pas. mais comme Ã§a faisait dÃ©jÃ  
+ on part pas. mais comme ça faisait déjà 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 deux
 <Event desc="dis=rep" type="noise" extent="end"/>
- deux heures, les gens continuaient Ã  sortir, 
+ deux heures, les gens continuaient à sortir, 
 <Sync time="376.697"/>
 du coup on a fini par sortir et voir 
 <Event desc="dis=rev" type="noise" extent="begin"/>
-qu'ils avaient cassÃ© la
+qu'ils avaient cassé la
 <Event desc="dis=rev" type="noise" extent="end"/>
  il avait plus de 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- feux de signalisation. et ils avaient cassÃ© sa vitre, ils ont agressÃ© le chauffeur. on l'a vu mais de loin, dans sa cabine.
+ feux de signalisation. et ils avaient cassé sa vitre, ils ont agressé le chauffeur. on l'a vu mais de loin, dans sa cabine.
 </Turn>
 <Turn startTime="385.832" endTime="386.417">
 <Sync time="385.832"/>
@@ -149,19 +149,19 @@ euh
 </Turn>
 <Turn speaker="spk3" startTime="386.417" endTime="395.827">
 <Sync time="386.417"/>
-on l'a surtout entendu, on a vu la vitre cassée, et lui il a dit 
+on l'a surtout entendu, on a vu la vitre casse, et lui il a dit 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- Ã  la radio, 
+ à la radio, 
 <Event desc="dis=rev" type="noise" extent="begin"/>
-que c'Ã©tait
+que c'était
 <Event desc="dis=rev" type="noise" extent="end"/>
- qu'il s'Ã©tait fait agresser et que 
+ qu'il s'était fait agresser et que 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 *la
 <Event desc="dis=rep" type="noise" extent="end"/>
- la situation se detÃ©riorait.
+ la situation se detériorait.
 </Turn>
 <Turn startTime="395.827" endTime="396.462">
 <Sync time="395.827"/>
@@ -173,9 +173,9 @@ que c'Ã©tait
 <Sync time="396.462"/>
 
 <Event desc="b" type="noise" extent="instantaneous"/>
- et ce soir le gouvernement demande des explications Ã  la SNCF Ã  propos de cette immense pagaille. &lt;pers=Graziella_RODRIGUES&gt;Graziella RodriguÃ¨s&lt;/pers&gt; vous Ãªtes au ministÃ¨re des transports pour BFM TV. 
+ et ce soir le gouvernement demande des explications à la SNCF à propos de cette immense pagaille. &lt;pers=Graziella_RODRIGUES&gt;Graziella Rodriguès&lt;/pers&gt; vous êtes au ministère des transports pour BFM TV. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- le ministre souhaite, un rapport dÃ©taillÃ©.
+ le ministre souhaite, un rapport détaillé.
 </Turn>
 <Turn startTime="406.838" endTime="408.563">
 <Sync time="406.838"/>
@@ -185,23 +185,23 @@ que c'Ã©tait
 </Turn>
 <Turn speaker="spk4" startTime="408.563" endTime="437.498">
 <Sync time="408.563"/>
-un rapport pour comprendre ce qu'il s'est passÃ©, comment les Ã©vÃ©nements se sont enchaÃ®nÃ©s. 
+un rapport pour comprendre ce qu'il s'est passé, comment les événements se sont enchaînés. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et surtout pour comprendre comment un simple problÃ¨me d'alimentation Ã©lectrique, 
+ et surtout pour comprendre comment un simple problème d'alimentation électrique, 
 <Event desc="r" type="noise" extent="instantaneous"/>
  a pu prendre de telles proportions. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="418.714"/>
-alors fallait-il vraiment stopper, tout le trafic ? quelle est l'origine, d'ailleurs de cette panne Ã©lectrique ? 
+alors fallait-il vraiment stopper, tout le trafic ? quelle est l'origine, d'ailleurs de cette panne électrique ? 
 <Event desc="r" type="noise" extent="instantaneous"/>
- pour quelle raison les voyageurs sont-ils descendus sur les voies ? l'ont-ils fait Ã  la demande des agents SNCF, 
+ pour quelle raison les voyageurs sont-ils descendus sur les voies ? l'ont-ils fait à la demande des agents SNCF, 
 <Event desc="r" type="noise" extent="instantaneous"/>
  comme certains l'avancent ?
 <Sync time="430.295"/>
 autant de questions qui se posent toujours ici, ce soir. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- je vous propose d'Ã©couter les prÃ©cisions du ministre des transports, &lt;pers=Frederic_CUVILLIER&gt;FrÃ©dÃ©ric Cuvillier&lt;/pers&gt;, au micro de &lt;pers=Damien_LEBOUC&gt;Damien Lebouc&lt;/pers&gt;.
+ je vous propose d'écouter les précisions du ministre des transports, &lt;pers=Frederic_CUVILLIER&gt;Frédéric Cuvillier&lt;/pers&gt;, au micro de &lt;pers=Damien_LEBOUC&gt;Damien Lebouc&lt;/pers&gt;.
 </Turn>
 <Turn startTime="437.498" endTime="438.366">
 <Sync time="437.498"/>
@@ -213,11 +213,11 @@ aujourd'hui
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
-, il est trop tÃ´t pour savoir si, l'origine, 
+, il est trop tôt pour savoir si, l'origine, 
 <Event desc="r" type="noise" extent="instantaneous"/>
  de cette panne, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- est due Ã  un manque de, 
+ est due à un manque de, 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
@@ -225,7 +225,7 @@ euh
 <Event desc="dis=rep" type="noise" extent="begin"/>
 de
 <Event desc="dis=rep" type="noise" extent="end"/>
- de, Ã  la fois de modernisation et d'entretien de l'ensemble de ce rÃ©seau.
+ de, à la fois de modernisation et d'entretien de l'ensemble de ce réseau.
 </Turn>
 <Turn startTime="451.158" endTime="452.481">
 <Sync time="451.158"/>
@@ -233,41 +233,41 @@ de
 </Turn>
 <Turn speaker="spk4" startTime="452.481" endTime="465.789">
 <Sync time="452.481"/>
-de nouvelles mesures d'alertes, pourraient donc Ãªtre envisagÃ©es par la suite pour Ã©viter qu'un tel scÃ©nario se reproduise. 
+de nouvelles mesures d'alertes, pourraient donc être envisagées par la suite pour éviter qu'un tel scénario se reproduise. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- par ailleurs sachez, en ce qui concerne le conducteur qui avait Ã©tÃ© agressÃ© et conduit Ã  l'hÃ´pital, qu'il va bien. 
+ par ailleurs sachez, en ce qui concerne le conducteur qui avait été agressé et conduit à l'hôpital, qu'il va bien. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- il a pu quitter l'hÃ´pital quelques heures aprÃ¨s son admission.
+ il a pu quitter l'hôpital quelques heures après son admission.
 </Turn>
 <Turn speaker="spk2" startTime="465.789" endTime="469.171">
 <Sync time="465.789"/>
-&lt;pers=Graziella_RODRIGUES&gt;Graziella RodriguÃ¨s&lt;/pers&gt;
+&lt;pers=Graziella_RODRIGUES&gt;Graziella Rodriguès&lt;/pers&gt;
 <Event desc="b" type="noise" extent="end"/>
- en direct du ministÃ¨re des transports pour BFM TV.
+ en direct du ministère des transports pour BFM TV.
 </Turn>
 <Turn speaker="spk1" startTime="469.171" endTime="484.927">
 <Sync time="469.171"/>
 
 <Event desc="b" type="noise" extent="instantaneous"/>
- l'exaspÃ©ration et la colÃ¨re des clients, de la SNCF, nous en parlerons dans un instant avec, 
+ l'exaspération et la colère des clients, de la SNCF, nous en parlerons dans un instant avec, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- le vice-prÃ©sident de la fÃ©dÃ©ration nationale des usagers des transports en Ãle-de-France. &lt;pers=Yves_BOUTRY&gt;Yves Boutry&lt;/pers&gt; est mon invitÃ©, sur le plateau de " BFM story ".
+ le vice-président de la fédération nationale des usagers des transports en Île-de-France. &lt;pers=Yves_BOUTRY&gt;Yves Boutry&lt;/pers&gt; est mon invité, sur le plateau de " BFM story ".
 <Sync time="480.648"/>
-dans l'actualitÃ© Ã©galement 
+dans l'actualité également 
 <Event desc="b" type="noise" extent="instantaneous"/>
- ce soir la mortalitÃ© routiÃ¨re, 
+ ce soir la mortalité routière, 
 <Event desc="r" type="noise" extent="instantaneous"/>
  qui est en forte baisse au mois d'octobre.
 </Turn>
 <Turn speaker="spk2" startTime="484.927" endTime="496.062">
 <Sync time="484.927"/>
-oui forte baisse, Ã©videmment moins 15,7
+oui forte baisse, évidemment moins 15,7
 <Event desc="15 virgule 7" type="pronounce" extent="previous"/>
  pour cent cela signifie, 
 <Event desc="r" type="noise" extent="instantaneous"/>
  que 55 vies 
 <Event desc="b" type="noise" extent="begin"/>
-ont Ã©tÃ© Ã©pargnÃ©es par rapport au mois d'octobre de l'annÃ©e derniÃ¨re, octobre donc 2011.
+ont été épargnées par rapport au mois d'octobre de l'année dernière, octobre donc 2011.
 <Event desc="b" type="noise" extent="end"/>
  
 <Event desc="r" type="noise" extent="instantaneous"/>
@@ -275,17 +275,17 @@ ont Ã©tÃ© Ã©pargnÃ©es par rapport au mois d'octobre de l'annÃ©e derniÃ¨re, octob
 </Turn>
 <Turn speaker="spk1" startTime="496.062" endTime="499.874">
 <Sync time="496.062"/>
-dans l'Orne une fillette de 4 ans, gravement blessÃ©e par ses vÃªtements.
+dans l'Orne une fillette de 4 ans, gravement blessée par ses vêtements.
 </Turn>
 <Turn speaker="spk2" startTime="499.874" endTime="514.562">
 <Sync time="499.874"/>
 oui, il s'agit d'un t-shirt et d'une jupe provenant de Chine. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- deux vÃªtements qui lui ont causÃ© une trÃ¨s grave allergie. elle a mÃªme dÃ» Ãªtre hospitalisÃ©e d'urgence. 
+ deux vêtements qui lui ont causé une très grave allergie. elle a même dû être hospitalisée d'urgence. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- ce sont certains produits chimiques utilisÃ©s dans la fabrication de ces vÃªtements qui sont apparemment dangereux. 
+ ce sont certains produits chimiques utilisés dans la fabrication de ces vêtements qui sont apparemment dangereux. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- Ã©coutez le tÃ©moignage de son pÃ¨re.
+ écoutez le témoignage de son père.
 </Turn>
 <Turn startTime="514.562" endTime="515.526">
 <Sync time="514.562"/>
@@ -295,7 +295,7 @@ oui, il s'agit d'un t-shirt et d'une jupe provenant de Chine.
 </Turn>
 <Turn speaker="spk6" startTime="515.526" endTime="519.224">
 <Sync time="515.526"/>
-c'Ã©tait son anniversaire, elle a mis des vÃªtements qui ont Ã©tÃ© offert par sa tante.
+c'était son anniversaire, elle a mis des vêtements qui ont été offert par sa tante.
 </Turn>
 <Turn startTime="519.224" endTime="520.029">
 <Sync time="519.224"/>
@@ -309,7 +309,7 @@ c'Ã©tait son anniversaire, elle a mis des vÃªtements qui ont Ã©tÃ© offert par sa
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- donc elle a voulu les essayer tout de suite, ils ont pas Ã©tÃ© lavÃ©s &amp;hein bien sÃ»r.
+ donc elle a voulu les essayer tout de suite, ils ont pas été lavés &amp;hein bien sûr.
 </Turn>
 <Turn startTime="524.238" endTime="524.859">
 <Sync time="524.238"/>
@@ -323,7 +323,7 @@ euh
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- elle les a portÃ©s toute la journÃ©e. et c'est le lendemain, dÃ¨s le lendemain qu'apparu 
+ elle les a portés toute la journée. et c'est le lendemain, dès le lendemain qu'apparu 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
@@ -339,19 +339,19 @@ les gonfle(ments)
 <Sync time="534.775"/>
 
 <Event desc="b" type="noise" extent="instantaneous"/>
- voilÃ  ! et c'est le RÃ©veil Normand qui 
+ voilà ! et c'est le Réveil Normand qui 
 <Event desc="b" type="noise" extent="instantaneous"/>
- avait rÃ©vÃ©lÃ© cette affaire. 
+ avait révélé cette affaire. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 </Turn>
 <Turn speaker="spk1" startTime="538.027" endTime="552.209">
 <Sync time="538.027"/>
-&lt;pers=Francois_FILLON&gt;FranÃ§ois Fillon&lt;/pers&gt; devrait quitter l'hÃ´pital vendredi. l'ancien premier ministre a Ã©tÃ© admis hier soir au Val-de-GrÃ¢ce Ã  Paris, pour des calculs rÃ©naux. 
+&lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; devrait quitter l'hôpital vendredi. l'ancien premier ministre a été admis hier soir au Val-de-Grâce à Paris, pour des calculs rénaux. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- pris de douleur hier soir il avait dÃ» annuler la rÃ©union publique qui devait se tenir Ã  MontluÃ§on. 
+ pris de douleur hier soir il avait dû annuler la réunion publique qui devait se tenir à Montluçon. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- il a rapidement regagnÃ© Paris, &lt;pers=Pauline_DE_SAINT_REMY&gt;Pauline de Saint Remy&lt;/pers&gt;.
+ il a rapidement regagné Paris, &lt;pers=Pauline_DE_SAINT_REMY&gt;Pauline de Saint Remy&lt;/pers&gt;.
 </Turn>
 <Turn startTime="552.209" endTime="553.283">
 <Sync time="552.209"/>
@@ -359,21 +359,21 @@ les gonfle(ments)
 </Turn>
 <Turn speaker="spk8" startTime="553.283" endTime="579.58">
 <Sync time="553.283"/>
-dÃ©cidÃ©ment, &lt;pers=Francois_FILLON&gt;FranÃ§ois Fillon&lt;/pers&gt; aura souffert jusqu'au bout. 
+décidément, &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; aura souffert jusqu'au bout. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- aprÃ¨s une premiÃ¨re alerte dÃ©but octobre oÃ¹ il avait dÃ» annuler un meeting en IsÃ¨re Ã  cause d'une colique nÃ©phrÃ©tique. 
+ après une première alerte début octobre où il avait dû annuler un meeting en Isère à cause d'une colique néphrétique. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- il est hospitalisÃ© au Val-de-GrÃ¢ce Ã  Paris jusqu'Ã  vendredi, 
+ il est hospitalisé au Val-de-Grâce à Paris jusqu'à vendredi, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- pour un problÃ¨me de calculs rÃ©naux.
+ pour un problème de calculs rénaux.
 <Sync time="567.95"/>
 
 <Event desc="r" type="noise" extent="instantaneous"/>
- ses dÃ©tracteurs ne peuvent s'empÃªcher d'y voir un symbole, alors que cet Ã©tÃ© il avait dÃ©jÃ  commencÃ© sa campagne, 
+ ses détracteurs ne peuvent s'empêcher d'y voir un symbole, alors que cet été il avait déjà commencé sa campagne, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- le pied dans le plÃ¢tre Ã  la suite d'un accident de scooter. 
+ le pied dans le plâtre à la suite d'un accident de scooter. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- mais cette fois lÃ  &lt;pers=Francois_FILLON&gt;FranÃ§ois Fillon&lt;/pers&gt; s'en Ã©tait tirÃ©, avec humour.
+ mais cette fois là &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; s'en était tiré, avec humour.
 </Turn>
 <Turn speaker="spk9" startTime="579.58" endTime="589.568">
 <Sync time="579.58"/>
@@ -395,9 +395,9 @@ euh
 </Turn>
 <Turn speaker="spk9" startTime="590.367" endTime="598.252">
 <Sync time="590.367"/>
-nous demandait de faire pendant la campagne prÃ©sidentielle il nous disait toujours, on va aller Ã  fond. 
+nous demandait de faire pendant la campagne présidentielle il nous disait toujours, on va aller à fond. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et une fois qu'on sera Ã  fond, on accÃ©lÃ¨re !
+ et une fois qu'on sera à fond, on accélère !
 </Turn>
 <Turn startTime="598.252" endTime="598.804">
 <Sync time="598.252"/>
@@ -405,21 +405,21 @@ nous demandait de faire pendant la campagne prÃ©sidentielle il nous disait toujo
 </Turn>
 <Turn speaker="spk8" startTime="598.804" endTime="623.092">
 <Sync time="598.804"/>
-car rien n'agace tant &lt;pers=Francois_FILLON&gt;FranÃ§ois Fillon&lt;/pers&gt; que la suggestion que sa santÃ© pourrait Ãªtre, un frein Ã  sa campagne. 
+car rien n'agace tant &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; que la suggestion que sa santé pourrait être, un frein à sa campagne. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- pour Ã©viter les commentaires Ã  une semaine du vote pour la prÃ©sidence de l'UMP, 
+ pour éviter les commentaires à une semaine du vote pour la présidence de l'UMP, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- son Ã©quipe assure qu'il retournera sur le terrain dÃ¨s ce week-end. 
+ son équipe assure qu'il retournera sur le terrain dès ce week-end. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="611.333"/>
-et rappelle que &lt;pers=Francois_FILLON&gt;FranÃ§ois Fillon&lt;/pers&gt; en a vu d'autres. 
+et rappelle que &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; en a vu d'autres. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- au dÃ©but de son mandat le locataire de Matignon avait souffert de graves problÃ¨mes de dos, 
+ au début de son mandat le locataire de Matignon avait souffert de graves problèmes de dos, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- rien de psychosomatique assurait-il mais il avait tout de mÃªme songÃ©, 
+ rien de psychosomatique assurait-il mais il avait tout de même songé, 
 <Event desc="r" type="noise" extent="instantaneous"/>
-Ã  abandonner ses fonctions.
+à abandonner ses fonctions.
 </Turn>
 <Turn startTime="623.092" endTime="623.975">
 <Sync time="623.092"/>
@@ -429,9 +429,9 @@ et rappelle que &lt;pers=Francois_FILLON&gt;FranÃ§ois Fillon&lt;/pers&gt; en a v
 </Turn>
 <Turn speaker="spk2" startTime="623.975" endTime="651.897">
 <Sync time="623.975"/>
-des sÃ©nateurs communistes, convoquÃ©s Ã  Matignon pour une sÃ©ance d'explications la nuit derniÃ¨re. ces sÃ©nateurs communistes ainsi que des centristes et UMP, 
+des sénateurs communistes, convoqués à Matignon pour une séance d'explications la nuit dernière. ces sénateurs communistes ainsi que des centristes et UMP, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- ont uni leurs voix pour retoquer le projet de loi de programmation budgÃ©taire. nous serons en direct de Matignon Ã  18h30
+ ont uni leurs voix pour retoquer le projet de loi de programmation budgétaire. nous serons en direct de Matignon à 18h30
 <Event desc="18 heures trente" type="pronounce" extent="previous"/>
 .
 <Event desc="b" type="noise" extent="end"/>
@@ -439,11 +439,11 @@ des sÃ©nateurs communistes, convoquÃ©s Ã  Matignon pour une sÃ©ance d'explicatio
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="637.990"/>
-&lt;pers=Francois_HOLLANDE&gt;FranÃ§ois Hollande&lt;/pers&gt; Ã©tait ce matin Ã  Chelles prÃ¨s de Paris pour la signature des douze premiers emplois d'avenir. 
+&lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; était ce matin à Chelles près de Paris pour la signature des douze premiers emplois d'avenir. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- le gouvernement entend ainsi crÃ©er 150000 emplois d'avenir d'ici 2014, 10000 dÃ¨s l'an prochain. 
+ le gouvernement entend ainsi créer 150000 emplois d'avenir d'ici 2014, 10000 dès l'an prochain. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- l'objectif est de rÃ©duire le chÃ´mage des jeunes, Ã©coutez le chef de l'Ã©tat.
+ l'objectif est de réduire le chômage des jeunes, écoutez le chef de l'état.
 </Turn>
 <Turn startTime="651.897" endTime="653.833">
 <Sync time="651.897"/>
@@ -451,7 +451,7 @@ des sÃ©nateurs communistes, convoquÃ©s Ã  Matignon pour une sÃ©ance d'explicatio
 </Turn>
 <Turn speaker="spk10" startTime="653.833" endTime="655.312">
 <Sync time="653.833"/>
-la premiÃ¨re exigence,
+la première exigence,
 </Turn>
 <Turn startTime="655.312" endTime="655.916">
 <Sync time="655.312"/>
@@ -467,9 +467,9 @@ une exigence morale,
 </Turn>
 <Turn speaker="spk10" startTime="657.999" endTime="664.032">
 <Sync time="657.999"/>
-une exigence Ã©conomique, une exigence sociale, 
+une exigence économique, une exigence sociale, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- c'est de rÃ©duire le chÃ´mage des jeunes.
+ c'est de réduire le chômage des jeunes.
 </Turn>
 <Turn startTime="664.032" endTime="664.847">
 <Sync time="664.032"/>
@@ -477,7 +477,7 @@ une exigence Ã©conomique, une exigence sociale,
 </Turn>
 <Turn speaker="spk10" startTime="664.847" endTime="666.537">
 <Sync time="664.847"/>
-la jeunesse, Ã§a a Ã©tÃ©,
+la jeunesse, ça a été,
 </Turn>
 <Turn startTime="666.537" endTime="667.501">
 <Sync time="666.537"/>
@@ -485,7 +485,7 @@ la jeunesse, Ã§a a Ã©tÃ©,
 </Turn>
 <Turn speaker="spk10" startTime="667.501" endTime="669.938">
 <Sync time="667.501"/>
-la grande ambition, que j'ai portÃ©e,
+la grande ambition, que j'ai portée,
 </Turn>
 <Turn startTime="669.938" endTime="670.714">
 <Sync time="669.938"/>
@@ -497,7 +497,7 @@ tout au long
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- de la campagne prÃ©sidentielle.
+ de la campagne présidentielle.
 </Turn>
 <Turn startTime="672.954" endTime="673.466">
 <Sync time="672.954"/>
@@ -505,7 +505,7 @@ euh
 </Turn>
 <Turn speaker="spk10" startTime="673.466" endTime="675.963">
 <Sync time="673.466"/>
-la jeunesse, ce doit Ãªtre 
+la jeunesse, ce doit être 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
@@ -517,7 +517,7 @@ euh
 </Turn>
 <Turn speaker="spk10" startTime="676.631" endTime="677.397">
 <Sync time="676.631"/>
-Ã©galement,
+également,
 </Turn>
 <Turn startTime="677.397" endTime="678.338">
 <Sync time="677.397"/>
@@ -525,7 +525,7 @@ euh
 </Turn>
 <Turn speaker="spk10" startTime="678.338" endTime="679.427">
 <Sync time="678.338"/>
-la volontÃ©,
+la volonté,
 </Turn>
 <Turn startTime="679.427" endTime="680.075">
 <Sync time="679.427"/>
@@ -541,7 +541,7 @@ du gouvernement, et de l'ensemble des pouvoirs publics, pour ce quinquennat.
 </Turn>
 <Turn speaker="spk2" startTime="685.216" endTime="734.581">
 <Sync time="685.216"/>
-voilÃ  &lt;pers=Francois_HOLLANDE&gt;FranÃ§ois Hollande&lt;/pers&gt; qui a par ailleurs tÃ©lÃ©phonÃ© Ã  &lt;pers=Barack_OBAMA&gt;Barack Obama&lt;/pers&gt;, ils ont convenu de renforcer leur action commune. c'est ce qu'a fait savoir tout Ã  l'heure l'Ã‰lysÃ©e.
+voilà &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; qui a par ailleurs téléphoné à &lt;pers=Barack_OBAMA&gt;Barack Obama&lt;/pers&gt;, ils ont convenu de renforcer leur action commune. c'est ce qu'a fait savoir tout à l'heure l'Élysée.
 <Event desc="b" type="noise" extent="end"/>
  
 <Event desc="r" type="noise" extent="instantaneous"/>
@@ -553,37 +553,37 @@ les ouvriers de PSA d'Aulnay-sous-bois,
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- manifestÃ© ce matin Ã  Bobigny oÃ¹ se tenait une rÃ©union tripartite entre le constructeur automobile, les organisations syndicales et les pouvoirs publics. 
+ manifesté ce matin à Bobigny où se tenait une réunion tripartite entre le constructeur automobile, les organisations syndicales et les pouvoirs publics. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="702.34"/>
-PSA espÃ¨re pouvoir proposer 
+PSA espère pouvoir proposer 
 <Event desc="dis=rev" type="noise" extent="begin"/>
 plus de
 <Event desc="dis=rev" type="noise" extent="end"/>
- plus d'emplois que prÃ©vu aux salariÃ©s d'Aulnay-sous-bois. 
+ plus d'emplois que prévu aux salariés d'Aulnay-sous-bois. 
 <Event desc="r" type="noise" extent="instantaneous"/>
  
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- rappelons que l'usine est promise Ã  la fermeture 
+ rappelons que l'usine est promise à la fermeture 
 <Event desc="r" type="noise" extent="instantaneous"/>
  et 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- le site doit Ãªtre rÃ©industrialisÃ©. 
+ le site doit être réindustrialisé. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="714.874"/>
-le dix-huitiÃ¨me congrÃ¨s du parti communiste chinois s'est ouvert aujourd'hui Ã  PÃ©kin pour renouveler les instances du parti. 
+le dix-huitième congrès du parti communiste chinois s'est ouvert aujourd'hui à Pékin pour renouveler les instances du parti. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="721.073"/>
-aprÃ¨s dix ans au pouvoir, le prÃ©sident &lt;pers=Hu_JINTAO&gt;Hu Jintao&lt;/pers&gt; va cÃ©der son fauteuil Ã  &lt;pers=Xi_JINPING&gt;Xi Jinping&lt;/pers&gt;. 
+après dix ans au pouvoir, le président &lt;pers=Hu_JINTAO&gt;Hu Jintao&lt;/pers&gt; va céder son fauteuil à &lt;pers=Xi_JINPING&gt;Xi Jinping&lt;/pers&gt;. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- au &amp;hum ce sera au mois de mars mais celui-ci doit d'abord Ãªtre dÃ©signÃ© comme nouveau secrÃ©taire gÃ©nÃ©ral du parti communiste chinois.
+ au &amp;hum ce sera au mois de mars mais celui-ci doit d'abord être désigné comme nouveau secrétaire général du parti communiste chinois.
 <Event desc="b" type="noise" extent="end"/>
 
 </Turn>
@@ -595,11 +595,11 @@ aprÃ¨s dix ans au pouvoir, le prÃ©sident &lt;pers=Hu_JINTAO&gt;Hu Jintao&lt;/per
 </Turn>
 <Turn speaker="spk2" startTime="735.231" endTime="755.190">
 <Sync time="735.231"/>
-de nouvelles manifestations aujourd'hui en GrÃ¨ce au lendemain de l'adoption par le parlement d'un nouveau plan d'Ã©conomie, adoption saluÃ©e d'ailleurs par la Commission EuropÃ©enne et aussi par la BCE. 
+de nouvelles manifestations aujourd'hui en Grèce au lendemain de l'adoption par le parlement d'un nouveau plan d'économie, adoption saluée d'ailleurs par la Commission Européenne et aussi par la BCE. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="744.128"/>
-lundi prochain les ministres des finances de la zone euro se rÃ©unissent Ã  Bruxelles pour discuter de la situation financiÃ¨re de la GrÃ¨ce, 
+lundi prochain les ministres des finances de la zone euro se réunissent à Bruxelles pour discuter de la situation financière de la Grèce, 
 <Event desc="r" type="noise" extent="instantaneous"/>
  qui a besoin d'urgence d'une nouvelle tranche d'aide de 
 <Event desc="b" type="noise" extent="begin"/>
@@ -611,27 +611,27 @@ lundi prochain les ministres des finances de la zone euro se rÃ©unissent Ã  Brux
 </Turn>
 <Turn speaker="spk1" startTime="755.190" endTime="759.979">
 <Sync time="755.190"/>
-dans l'actualitÃ© Ã©galement ce soir, de trÃ¨s lourdes sanctions contre les footballeurs fÃªtards.
+dans l'actualité également ce soir, de très lourdes sanctions contre les footballeurs fêtards.
 </Turn>
 <Turn speaker="spk2" startTime="759.979" endTime="782.651">
 <Sync time="759.979"/>
 
 <Event desc="b" type="noise" extent="begin"/>
-&lt;pers=Yann_M_VILA&gt;Yann M'Vila&lt;/pers&gt; est privÃ© de sÃ©lection nationale jusqu'en juillet 2014. 
+&lt;pers=Yann_M_VILA&gt;Yann M'Vila&lt;/pers&gt; est privé de sélection nationale jusqu'en juillet 2014. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- quatre autres joueurs, sont suspendus jusqu'en dÃ©cembre 2013 par la commission de discipline,
+ quatre autres joueurs, sont suspendus jusqu'en décembre 2013 par la commission de discipline,
 <Event desc="b" type="noise" extent="end"/>
  
 <Event desc="r" type="noise" extent="instantaneous"/>
- de la FÃ©dÃ©ration FranÃ§aise de Football. 
+ de la Fédération Française de Football. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="772.628"/>
-et cela pour s'Ãªtre offert une virÃ©e nocturne Ã  Paris au beau milieu des qualifications de l'Ã©quipe espoir, 
+et cela pour s'être offert une virée nocturne à Paris au beau milieu des qualifications de l'équipe espoir, 
 <Event desc="b" type="noise" extent="begin"/>
-l'Ã©quipe de France espoir pour l'Euro, 
+l'équipe de France espoir pour l'Euro, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et qui Ã©tait pourtant disputÃ©, 
+ et qui était pourtant disputé, 
 <Event desc="b" type="noise" extent="end"/>
  
 <Event desc="r" type="noise" extent="instantaneous"/>
@@ -645,7 +645,7 @@ l'Ã©quipe de France espoir pour l'Euro,
 </Turn>
 <Turn speaker="spk2" startTime="783.197" endTime="797.463">
 <Sync time="783.197"/>
-une Ã©quipe de France de football sans &lt;pers=Karim_BENZEMA&gt;Benzema&lt;/pers&gt; 
+une équipe de France de football sans &lt;pers=Karim_BENZEMA&gt;Benzema&lt;/pers&gt; 
 <Event desc="b" type="noise" extent="begin"/>
 ni &lt;pers=Florent_MALOUDA&gt;*Malouda&lt;/pers&gt; 
 <Event desc="dis=hes" type="noise" extent="begin"/>
@@ -655,9 +655,9 @@ euh
 <Event desc="dis=rev" type="noise" extent="begin"/>
 dans
 <Event desc="dis=rev" type="noise" extent="end"/>
- pour affronter l'Italie en match amical mercredi prochain Ã  Parme. en revanche &lt;pers=Didier_DESCHAMPS&gt;Didier Deschamps&lt;/pers&gt;, 
+ pour affronter l'Italie en match amical mercredi prochain à Parme. en revanche &lt;pers=Didier_DESCHAMPS&gt;Didier Deschamps&lt;/pers&gt;, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- a dÃ©cidÃ© de convoquer &lt;pers=Yoann_GOURCUFF&gt;Yoann Gourcuff&lt;/pers&gt; qui n'avait plus revÃªtu le maillot bleu depuis le 27 mai. Ã©coutez.
+ a décidé de convoquer &lt;pers=Yoann_GOURCUFF&gt;Yoann Gourcuff&lt;/pers&gt; qui n'avait plus revêtu le maillot bleu depuis le 27 mai. écoutez.
 <Event desc="b" type="noise" extent="end"/>
 
 </Turn>
@@ -691,7 +691,7 @@ les
 <Event desc="dis=rep" type="noise" extent="end"/>
 , 
 <Event desc="r" type="noise" extent="instantaneous"/>
- les Ã©chÃ©ances importantes qui nous attendent 
+ les échéances importantes qui nous attendent 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
@@ -705,23 +705,23 @@ euh
 </Turn>
 <Turn speaker="spk11" startTime="809.763" endTime="823.933">
 <Sync time="809.763"/>
-en dÃ©but d'annÃ©e prochaine. &amp;pfff j'ai pas besoin de vous parler 
+en début d'année prochaine. &amp;pfff j'ai pas besoin de vous parler 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 des
 <Event desc="dis=rep" type="noise" extent="end"/>
- des qualitÃ©s techniques 
+ des qualités techniques 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 de
 <Event desc="dis=rep" type="noise" extent="end"/>
 ,
 <Event desc="r" type="noise" extent="instantaneous"/>
-de &lt;pers=Yoann_GOURCUFF&gt;Yoann&lt;/pers&gt;, mais il a cette facultÃ© 
+de &lt;pers=Yoann_GOURCUFF&gt;Yoann&lt;/pers&gt;, mais il a cette faculté 
 <Event desc="dis=rep" type="noise" extent="begin"/>
-Ã 
+à
 <Event desc="dis=rep" type="noise" extent="end"/>
 , 
 <Event desc="r" type="noise" extent="instantaneous"/>
- Ã  faire jouer les autres. et Ã  faire bien jouer les autres quand il est dans de bonnes dispositions comme il est Ã  l'heure actuelle.
+ à faire jouer les autres. et à faire bien jouer les autres quand il est dans de bonnes dispositions comme il est à l'heure actuelle.
 </Turn>
 <Turn startTime="823.933" endTime="824.48">
 <Sync time="823.933"/>
@@ -735,7 +735,7 @@ de &lt;pers=Yoann_GOURCUFF&gt;Yoann&lt;/pers&gt;, mais il a cette facultÃ©
 <Event desc="dis=rep" type="noise" extent="begin"/>
 euh
 <Event desc="dis=rep" type="noise" extent="end"/>
- c'est un Ã©lÃ©ment qui peut Ãªtre important 
+ c'est un élément qui peut être important 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 pour un
 <Event desc="dis=rep" type="noise" extent="end"/>
@@ -751,19 +751,19 @@ pour un
 </Turn>
 <Turn speaker="spk2" startTime="829.806" endTime="848.512">
 <Sync time="829.806"/>
- et notez aussi que les entraÃ®neurs du 15 de France, de rugby Ã©videmment, ont dÃ©cidÃ© de titulariser 
+ et notez aussi que les entraîneurs du 15 de France, de rugby évidemment, ont décidé de titulariser 
 <Event desc="b" type="noise" extent="begin"/>
-le demi de mÃªlÃ©e &lt;pers=Maxime_MACHENAUD&gt;Maxime Machenaud&lt;/pers&gt; et l'ouvreur &lt;pers=Frederic_MICHALAK&gt;FrÃ©dÃ©ric Michalak&lt;/pers&gt; Ã  la charniÃ¨re pour affronter l'Australie se sera, 
+le demi de mêlée &lt;pers=Maxime_MACHENAUD&gt;Maxime Machenaud&lt;/pers&gt; et l'ouvreur &lt;pers=Frederic_MICHALAK&gt;Frédéric Michalak&lt;/pers&gt; à la charnière pour affronter l'Australie se sera, 
 <Event desc="r" type="noise" extent="instantaneous"/>
  samedi au stade de France en ouverture des test-matches d'automne. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="844.253"/>
-le pilier castrais &lt;pers=Yannick_FORESTIER&gt;Yannick Forestier&lt;/pers&gt; honorera sa toute premiÃ¨re sÃ©lection comme titulaire.
+le pilier castrais &lt;pers=Yannick_FORESTIER&gt;Yannick Forestier&lt;/pers&gt; honorera sa toute première sélection comme titulaire.
 </Turn>
 <Turn speaker="spk1" startTime="848.512" endTime="849.983">
 <Sync time="848.512"/>
-demain matin, quel temps prÃ©vu ?
+demain matin, quel temps prévu ?
 <Event desc="b" type="noise" extent="end"/>
 
 </Turn>
@@ -777,17 +777,17 @@ euh
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="855.509"/>
-ailleurs le temps sera plutÃ´t sec mÃªme si le ciel sera voilÃ©, 
+ailleurs le temps sera plutôt sec même si le ciel sera voilé, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- tempÃ©rature de 0 degrÃ© Ã  Dijon Ã  
+ température de 0 degré à Dijon à 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 euh
 <Event desc="dis=rep" type="noise" extent="end"/>
  
 <Event desc="dis=rep" type="noise" extent="begin"/>
-10 degrÃ©s
+10 degrés
 <Event desc="dis=rep" type="noise" extent="end"/>
- 10 degrÃ©s ce sera aux alentours de Montpellier dans le sud de la France, Perpignan trÃ¨s exactement. merci.
+ 10 degrés ce sera aux alentours de Montpellier dans le sud de la France, Perpignan très exactement. merci.
 </Turn>
 <Turn speaker="spk1 spk2" startTime="867.323" endTime="867.985">
 <Sync time="867.323"/>
@@ -800,25 +800,25 @@ euh
 <Sync time="867.985"/>
 (mer)ci vous savez placer 
 <Event desc="b" type="noise" extent="begin"/>
-Perpignan sur une carte, vous Ãªtes formidable, vous reviendrez Ã  18 heures 30 &lt;pers=Rachid_M_BARKI&gt;Rachid M'Barki&lt;/pers&gt;. 
+Perpignan sur une carte, vous êtes formidable, vous reviendrez à 18 heures 30 &lt;pers=Rachid_M_BARKI&gt;Rachid M'Barki&lt;/pers&gt;. 
 <Event desc="r" type="noise" extent="instantaneous"/>
  on va revenir nous sur l'immense pagaille hier soir, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- sur le rÃ©seau SNCF
+ sur le réseau SNCF
 <Event desc="b" type="noise" extent="end"/>
- en rÃ©gion parisienne, 
+ en région parisienne, 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- le rÃ©seau nord.
+ le réseau nord.
 <Sync time="879.848"/>
-pourquoi ? &amp;bah tout simplement parce qu'au dÃ©part il y avait 
+pourquoi ? &amp;bah tout simplement parce qu'au départ il y avait 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 un
 <Event desc="dis=rep" type="noise" extent="end"/>
- un simple problÃ¨me d'alimentation Ã©lectrique 
+ un simple problème d'alimentation électrique 
 <Event desc="r" type="noise" extent="instantaneous"/>
- sur une ligne en Seine-et-Marne et Ã§a a dÃ©clenchÃ© une pagaille gÃ©nÃ©ralisÃ©e, 
+ sur une ligne en Seine-et-Marne et ça a déclenché une pagaille généralisée, 
 <Event desc="b" type="noise" extent="begin"/>
 on va essayer de comprendre pourquoi
 <Event desc="b" type="noise" extent="end"/>
@@ -832,15 +832,15 @@ bonsoir.
 </Turn>
 <Turn speaker="spk1" startTime="891.062" endTime="892.769">
 <Sync time="891.062"/>
-vous reprÃ©sentez les clients, les usagers ?
+vous représentez les clients, les usagers ?
 </Turn>
 <Turn speaker="spk12" startTime="892.769" endTime="893.112">
 <Sync time="892.769"/>
-voilÃ !
+voilà!
 </Turn>
 <Turn speaker="spk1" startTime="893.112" endTime="907.138">
 <Sync time="893.112"/>
-trÃ¨s en colÃ¨re &amp;hein ?
+très en colère &amp;hein ?
 <Event desc="b" type="noise" extent="instantaneous"/>
  
 <Event desc="r" type="noise" extent="instantaneous"/>
@@ -852,19 +852,19 @@ euh
 <Event desc="b" type="noise" extent="instantaneous"/>
  
 <Event desc="r" type="noise" extent="instantaneous"/>
- vice-prÃ©sident de la FNAUT, Ãle-de-France. 
+ vice-président de la FNAUT, Île-de-France. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- alors essayons de comprendre ce qu'il s'est passÃ©, avec un peu de recul. 
+ alors essayons de comprendre ce qu'il s'est passé, avec un peu de recul. 
 <Event desc="bc" type="noise" extent="instantaneous"/>
- donc si j'ai bien compris, petit problÃ¨me d'alimentation Ã©lectrique, 
+ donc si j'ai bien compris, petit problème d'alimentation électrique, 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 les
 <Event desc="dis=rep" type="noise" extent="end"/>
- les fameux catÃ©naires.
+ les fameux caténaires.
 </Turn>
 <Turn speaker="spk12" startTime="907.138" endTime="907.567">
 <Sync time="907.138"/>
-voilÃ .
+voilà.
 </Turn>
 <Turn speaker="spk1" startTime="907.567" endTime="911.107">
 <Sync time="907.567"/>
@@ -876,7 +876,7 @@ sur une ligne en Seine-et-Marne
 </Turn>
 <Turn speaker="spk12" startTime="911.107" endTime="917.797">
 <Sync time="911.107"/>
-voilÃ , 
+voilà, 
 <Event desc="b" type="noise" extent="instantaneous"/>
  
 <Event desc="dis=rep" type="noise" extent="begin"/>
@@ -912,13 +912,13 @@ les
 <Event desc="b" type="noise" extent="instantaneous"/>
  de la 
 <Event desc="dis=rep" type="noise" extent="begin"/>
-qui Ã©taient
+qui étaient
 <Event desc="dis=rep" type="noise" extent="end"/>
- qui Ã©taient 
+ qui étaient 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- dans le train qui a Ã©tÃ© en cause 
+ dans le train qui a été en cause 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
@@ -926,13 +926,13 @@ euh
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="925.518"/>
-n'ont pas eu toutes les informations nÃ©cessaires. et finalement au bout d'un certain temps 
+n'ont pas eu toutes les informations nécessaires. et finalement au bout d'un certain temps 
 <Event desc="r" type="noise" extent="instantaneous"/>
  
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- sans doute un raz le bol dÃ» *au fait que c'est, 
+ sans doute un raz le bol dû *au fait que c'est, 
 <Event desc="dis=rev" type="noise" extent="begin"/>
 qu'ils ont souvent des incidents
 <Event desc="dis=rev" type="noise" extent="end"/>
@@ -940,11 +940,11 @@ qu'ils ont souvent des incidents
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="933.793"/>
-sont descendus sur les voies, ce qui est pas recommandÃ©, ce qu'il faut pas faire &amp;hein en tirant le signal d'alarme, ce qu'il faut pas faire.
+sont descendus sur les voies, ce qui est pas recommandé, ce qu'il faut pas faire &amp;hein en tirant le signal d'alarme, ce qu'il faut pas faire.
 </Turn>
 <Turn speaker="spk1" startTime="938.017" endTime="939.087">
 <Sync time="938.017"/>
-donc c'est Ã  dire qu'ils ont tirer le signal d'al(arme)
+donc c'est à dire qu'ils ont tirer le signal d'al(arme)
 </Turn>
 <Turn speaker="spk12 spk1" startTime="939.087" endTime="940.04">
 <Sync time="939.087"/>
@@ -955,7 +955,7 @@ donc c'est Ã  dire qu'ils ont tirer le signal d'al(arme)
 </Turn>
 <Turn speaker="spk1" startTime="940.04" endTime="940.435">
 <Sync time="940.040"/>
-(exas)pÃ©rÃ©s
+(exas)pérés
 </Turn>
 <Turn speaker="spk12 spk1" startTime="940.435" endTime="940.791">
 <Sync time="940.435"/>
@@ -968,9 +968,9 @@ donc c'est Ã  dire qu'ils ont tirer le signal d'al(arme)
 <Sync time="940.791"/>
 pas d'infos, 
 <Event desc="dis=rep" type="noise" extent="begin"/>
-Ã§a
+ça
 <Event desc="dis=rep" type="noise" extent="end"/>
- Ã§a a durÃ© trop longtemps ? 
+ ça a duré trop longtemps ? 
 </Turn>
 <Turn speaker="spk12" startTime="942.360" endTime="955.108">
 <Sync time="942.360"/>
@@ -978,15 +978,15 @@ pas d'infos,
 <Event desc="dis=rep" type="noise" extent="begin"/>
 il semble que
 <Event desc="dis=rep" type="noise" extent="end"/>
-, il semble qu'ils n'aient pas eu toutes les informations nÃ©cessaires. j'Ã©tais pas dans le train, je peux pas vous le confirmer, 
+, il semble qu'ils n'aient pas eu toutes les informations nécessaires. j'étais pas dans le train, je peux pas vous le confirmer, 
 <Event desc="bc" type="noise" extent="instantaneous"/>
- mais il semble qu'ils n'aient pas eu toutes les informations nÃ©cessaires. 
+ mais il semble qu'ils n'aient pas eu toutes les informations nécessaires. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et exaspÃ©rÃ©s ils ont tirÃ© le signal d'alarme pour pouvoir sortir 
+ et exaspérés ils ont tiré le signal d'alarme pour pouvoir sortir 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 et et
 <Event desc="dis=rep" type="noise" extent="end"/>
- et rejoindre les gares, parce qu'en fait ils Ã©taient arrÃªtÃ©s en pleine ligne Ã  proximitÃ© des gares. donc ils avaient envie de rejoindre
+ et rejoindre les gares, parce qu'en fait ils étaient arrêtés en pleine ligne à proximité des gares. donc ils avaient envie de rejoindre
 </Turn>
 <Turn speaker="spk1 spk12" startTime="955.108" endTime="955.805">
 <Sync time="955.108"/>
@@ -1007,17 +1007,17 @@ et et
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh 
 <Event desc="dis=hes" type="noise" extent="end"/>
-exaspÃ©rÃ©s ou impatients 
+exaspérés ou impatients 
 <Event desc="b" type="noise" extent="instantaneous"/>
  sur 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- les voies, bloquent l'ensemble du rÃ©seau nord ?
+ les voies, bloquent l'ensemble du réseau nord ?
 </Turn>
 <Turn speaker="spk12" startTime="964.313" endTime="991.806">
 <Sync time="964.313"/>
-voilÃ , alors Ã§a c'est un peu la question 
+voilà, alors ça c'est un peu la question 
 <Event desc="dis=rev" type="noise" extent="begin"/>
 que
 <Event desc="dis=rev" type="noise" extent="end"/>
@@ -1033,7 +1033,7 @@ j(e) moi
 <Event desc="dis=rep" type="noise" extent="begin"/>
 que
 <Event desc="dis=rep" type="noise" extent="end"/>
- que le rÃ©seau nord est constituÃ© 
+ que le réseau nord est constitué 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 d'une
 <Event desc="dis=rep" type="noise" extent="end"/>
@@ -1041,7 +1041,7 @@ d'une
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- d'une grande toile Ã©lectrique. 
+ d'une grande toile électrique. 
 <Event desc="r" type="noise" extent="instantaneous"/>
  
 <Event desc="dis=rep" type="noise" extent="begin"/>
@@ -1059,21 +1059,21 @@ et et
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="975.978"/>
-en fait, tous les trains dÃ©pendent de cette mÃªme toile Ã©lectrique. 
+en fait, tous les trains dépendent de cette même toile électrique. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="978.835"/>
-y a pas de sectionnement, il y a pas de toile Ã©lectrique par ligne. 
+y a pas de sectionnement, il y a pas de toile électrique par ligne. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- donc rÃ©sultat, quand il y a un incident quelque part, il se rÃ©percute sur le reste. et quand il 
+ donc résultat, quand il y a un incident quelque part, il se répercute sur le reste. et quand il 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 y a
 <Event desc="dis=rep" type="noise" extent="end"/>
- y a un problÃ¨me de sÃ©curitÃ© qu'il faut couper le courant, et &amp;bah au lieu de couper le courant, 
+ y a un problème de sécurité qu'il faut couper le courant, et &amp;bah au lieu de couper le courant, 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 de
 <Event desc="dis=rep" type="noise" extent="end"/>
- de circonscrire la zone oÃ¹ il faut couper le courant lÃ  oÃ¹ il y a,
+ de circonscrire la zone où il faut couper le courant là où il y a,
 </Turn>
 <Turn speaker="spk1 spk12" startTime="991.806" endTime="992.517">
 <Sync time="991.806"/>
@@ -1088,11 +1088,11 @@ on coupe
 <Event desc="b" type="noise" extent="instantaneous"/>
  partout ! 
 <Event desc="r" type="noise" extent="instantaneous"/>
- alors Ã©videmment, 
+ alors évidemment, 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 on
 <Event desc="dis=rep" type="noise" extent="end"/>
- on augmente l'exaspÃ©ration des voyageurs ailleurs parce qu'ils comprennent pas pourquoi, 
+ on augmente l'exaspération des voyageurs ailleurs parce qu'ils comprennent pas pourquoi, 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
@@ -1100,11 +1100,11 @@ euh
 <Event desc="dis=rep" type="noise" extent="begin"/>
 et
 <Event desc="dis=rep" type="noise" extent="end"/>
- et on obtient finalement le rÃ©sultat avec des voyageurs qui descendent 
+ et on obtient finalement le résultat avec des voyageurs qui descendent 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- sur les voies aussi ailleurs. alors qu'il y avait aucune raison au dÃ©part 
+ sur les voies aussi ailleurs. alors qu'il y avait aucune raison au départ 
 <Event desc="b" type="noise" extent="instantaneous"/>
  qu'ils le fassent.
 </Turn>
@@ -1112,7 +1112,7 @@ euh
 <Sync time="1004.703"/>
 mais pourquoi, n'y a-t-il pas cette information qui semble, essentielle ? 
 <Event desc="r" type="noise" extent="instantaneous"/>
- tout simplement, informer Ã  l'intÃ©rieur du train les voyageurs que Ã§a va prendre un peu de temps ?
+ tout simplement, informer à l'intérieur du train les voyageurs que ça va prendre un peu de temps ?
 </Turn>
 <Turn speaker="spk12" startTime="1013.718" endTime="1018.98">
 <Sync time="1013.718"/>
@@ -1126,13 +1126,13 @@ oui
 <Event desc="dis=rep" type="noise" extent="begin"/>
 je
 <Event desc="dis=rep" type="noise" extent="end"/>
- je pense que c'est plus ou moins fait mais c'est sans doute pas bien fait, c'est sans doute fait de maniÃ¨re contradictoire. 
+ je pense que c'est plus ou moins fait mais c'est sans doute pas bien fait, c'est sans doute fait de manière contradictoire. 
 </Turn>
 <Turn speaker="spk1" startTime="1018.98" endTime="1021.199">
 <Sync time="1018.98"/>
 alors les conducteurs disent que 
 <Event desc="bc" type="noise" extent="instantaneous"/>
- souvent eux-mÃªme ne sont pas au courant.
+ souvent eux-même ne sont pas au courant.
 </Turn>
 <Turn speaker="spk12 spk1" startTime="1021.199" endTime="1021.849">
 <Sync time="1021.199"/>
@@ -1159,7 +1159,7 @@ un poste
 <Event desc="dis=rep" type="noise" extent="begin"/>
 est-ce que
 <Event desc="dis=rep" type="noise" extent="end"/>
- est-ce que toutes les informations sont donnÃ©es ? 
+ est-ce que toutes les informations sont données ? 
 <Event desc="b" type="noise" extent="instantaneous"/>
  est-ce que les conducteurs 
 <Event desc="dis=rep" type="noise" extent="begin"/>
@@ -1171,21 +1171,21 @@ ont bien
 <Sync time="1029.506"/>
 il faut savoir aussi que maintenant, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- beaucoup de voyageurs arrivent Ã  avoir des informations 
+ beaucoup de voyageurs arrivent à avoir des informations 
 <Event desc="b" type="noise" extent="instantaneous"/>
- par des moyens un peu dÃ©tournÃ©s 
+ par des moyens un peu détournés 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 ou
 <Event desc="dis=rep" type="noise" extent="end"/>
  
 <Event desc="r" type="noise" extent="instantaneous"/>
- ou par les moyens Ã©lectroniques, smartphones, etc.<Event desc="et cetera" type="pronounce" extent="previous"/> par les blogues, par les suites, par Tweeter, etc.vent desc="et cetera" type="pronounce" extent="previous"/>
+ ou par les moyens électroniques, smartphones, etc.<Event desc="et cetera" type="pronounce" extent="previous"/> par les blogues, par les suites, par Tweeter, etc.vent desc="et cetera" type="pronounce" extent="previous"/>
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="1039.617"/>
-toutes ces informations-lÃ , 
+toutes ces informations-là, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- finalement, *f(orment) forment un vaste cafouillage et rÃ©sultat &amp;bah 
+ finalement, *f(orment) forment un vaste cafouillage et résultat &amp;bah 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 on sait pas
 <Event desc="dis=rep" type="noise" extent="end"/>
@@ -1193,7 +1193,7 @@ on sait pas
 <Event desc="dis=rep" type="noise" extent="begin"/>
 quelle
 <Event desc="dis=rep" type="noise" extent="end"/>
- quelle attitude adopter et quand on a son train bloquÃ© on sait pas s'il faut rester, sortir 
+ quelle attitude adopter et quand on a son train bloqué on sait pas s'il faut rester, sortir 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 ou
 <Event desc="dis=rep" type="noise" extent="end"/>
@@ -1205,7 +1205,7 @@ ou
 <Sync time="1050.510"/>
 c'est 
 <Event desc="b" type="noise" extent="instantaneous"/>
- vrai que le rÃ©seau est Ã  bout de souffle ? 
+ vrai que le réseau est à bout de souffle ? 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 </Turn>
@@ -1217,23 +1217,23 @@ oui alors effectivement,
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- le rÃ©seau 
+ le réseau 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 a
 <Event desc="dis=rep" type="noise" extent="end"/>
- a Ã©tÃ©, il y a eu une, peu d'investissement ou pas beaucoup d'investissement pendant une trentaine d'annÃ©es et on en paye les consÃ©quences. alors heureusement, 
+ a été, il y a eu une, peu d'investissement ou pas beaucoup d'investissement pendant une trentaine d'années et on en paye les conséquences. alors heureusement, 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="1061.042"/>
 il y a une prise de conscience 
 <Event desc="b" type="noise" extent="instantaneous"/>
- qui a Ã©tÃ© faite par 
+ qui a été faite par 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 le le
 <Event desc="dis=rep" type="noise" extent="end"/>
  le gestionnaire d'infrastructure RFF et puis par la SNCF. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et on commence Ã  voir des travaux qui sont rÃ©alisÃ©s, sur certaines lignes.
+ et on commence à voir des travaux qui sont réalisés, sur certaines lignes.
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="1069.291"/>
@@ -1243,7 +1243,7 @@ de
 <Event desc="dis=rep" type="noise" extent="end"/>
  de modernisation 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et donc Ã§a ira *sans doute mieux un peu dans l'avenir. mais pour l'instant on subit encore des consÃ©quences 
+ et donc ça ira *sans doute mieux un peu dans l'avenir. mais pour l'instant on subit encore des conséquences 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 de
 <Event desc="dis=rep" type="noise" extent="end"/>
@@ -1251,7 +1251,7 @@ de
 </Turn>
 <Turn speaker="spk1" startTime="1076.238" endTime="1085.332">
 <Sync time="1076.238"/>
-pourtant il y a prÃ¨s de 4 millions de franciliens, 
+pourtant il y a près de 4 millions de franciliens, 
 <Event desc="b" type="noise" extent="begin"/>
 qui chaque jour empruntent les 5 lignes
 <Event desc="b" type="noise" extent="end"/>
@@ -1261,7 +1261,7 @@ euh
 <Event desc="dis=hes" type="noise" extent="end"/>
  du RER ; 
 <Event desc="r" type="noise" extent="instantaneous"/>
- qui s'Ã©tendent, rappelons-le sur environ 600 kilomÃ¨tres de voies. 
+ qui s'étendent, rappelons-le sur environ 600 kilomètres de voies. 
 </Turn>
 <Turn speaker="spk12" startTime="1085.332" endTime="1085.603">
 <Sync time="1085.332"/>
@@ -1277,27 +1277,27 @@ c'est un nombre de voyageurs qui est en constante augmentation, plus 30 pour cen
 <Event desc="r" type="noise" extent="instantaneous"/>
  
 <Event desc="bc" type="noise" extent="instantaneous"/>
- Ã§a veut dire 
+ ça veut dire 
 <Event desc="bc" type="noise" extent="instantaneous"/>
- que les pouvoirs publics n'ont pas suivi derriÃ¨re ?
+ que les pouvoirs publics n'ont pas suivi derrière ?
 </Turn>
 <Turn speaker="spk12" startTime="1093.462" endTime="1111.981">
 <Sync time="1093.462"/>
-voilÃ , Ã§a veut dire que les investissements 
+voilà, ça veut dire que les investissements 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
  
 <Event desc="dis=rep" type="noise" extent="begin"/>
-malgrÃ©
+malgré
 <Event desc="dis=rep" type="noise" extent="end"/>
- malgrÃ© 
+ malgré 
 <Event desc="dis=rev" type="noise" extent="begin"/>
 le
 <Event desc="dis=rev" type="noise" extent="end"/>
- la frÃ©quentation 
+ la fréquentation 
 <Event desc="b" type="noise" extent="instantaneous"/>
- qui augmentait sur les lignes, les investissements n'ont pas augmentÃ© 
+ qui augmentait sur les lignes, les investissements n'ont pas augmenté 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 *en en
 <Event desc="dis=rep" type="noise" extent="end"/>
@@ -1305,27 +1305,27 @@ le
 <Event desc="dis=rev" type="noise" extent="begin"/>
 avec les
 <Event desc="dis=rev" type="noise" extent="end"/>
- avec la frÃ©quentation 
+ avec la fréquentation 
 <Event desc="dis=rev" type="noise" extent="begin"/>
 qui augmentait sur les
 <Event desc="dis=rev" type="noise" extent="end"/>
  qui augmentait. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et rÃ©sultat et bien maintenant on se retrouve avec des lignes, 
+ et résultat et bien maintenant on se retrouve avec des lignes, 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="1106.216"/>
-avec un trÃ¨s 
+avec un très 
 <Event desc="r" type="noise" extent="begin"/>
 fort niveau d'augmentation
 <Event desc="r" type="noise" extent="end"/>
- de frÃ©quentation, 
+ de fréquentation, 
 <Event desc="r" type="noise" extent="instantaneous"/>
  et 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 des des
 <Event desc="dis=rep" type="noise" extent="end"/>
- des infrastructures obsolÃ¨tes.
+ des infrastructures obsolètes.
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 </Turn>
@@ -1343,7 +1343,7 @@ c'est
 <Event desc="dis=rep" type="noise" extent="begin"/>
 les
 <Event desc="dis=rep" type="noise" extent="end"/>
- les tÃ©moignages qu'ont a receuilli toute la journÃ©e 
+ les témoignages qu'ont a receuilli toute la journée 
 <Event desc="bc" type="noise" extent="instantaneous"/>
  sur BFM 
 <Event desc="bc" type="noise" extent="instantaneous"/>
@@ -1351,7 +1351,7 @@ les
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- certains ont dÃ» dormir dans leur voiture 
+ certains ont dû dormir dans leur voiture 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
@@ -1361,7 +1361,7 @@ euh
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- des mamans Ã©taient trÃ¨s inquiÃ¨te parce que elles sont rentrÃ©es trop tard chez elles pour rÃ©cupÃ©rer les enfants chez la nounou. 
+ des mamans étaient très inquiète parce que elles sont rentrées trop tard chez elles pour récupérer les enfants chez la nounou. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="1124.044"/>
@@ -1373,7 +1373,7 @@ et bon,
 <Event desc="dis=rep" type="noise" extent="begin"/>
 les les
 <Event desc="dis=rep" type="noise" extent="end"/>
- les usagers, les clients qui subissent Ã§a quotidiennement ont beaucoup de patience ! 
+ les usagers, les clients qui subissent ça quotidiennement ont beaucoup de patience ! 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 </Turn>
@@ -1386,7 +1386,7 @@ les les
 </Turn>
 <Turn speaker="spk1" startTime="1130.317" endTime="1131.813">
 <Sync time="1130.317"/>
-ils devraient se rÃ©volter depuis longtemps !
+ils devraient se révolter depuis longtemps !
 </Turn>
 <Turn speaker="spk12" startTime="1131.813" endTime="1134.621">
 <Sync time="1131.813"/>
@@ -1394,7 +1394,7 @@ oui alors
 <Event desc="dis=rep" type="noise" extent="begin"/>
 y y
 <Event desc="dis=rep" type="noise" extent="end"/>
- ils se rÃ©volte pas assez on est bien d'accord il f(audrait),
+ ils se révolte pas assez on est bien d'accord il f(audrait),
 </Turn>
 <Turn speaker="spk1 spk12" startTime="1134.621" endTime="1135.546">
 <Sync time="1134.621"/>
@@ -1405,7 +1405,7 @@ y y
 </Turn>
 <Turn speaker="spk12" startTime="1135.546" endTime="1141.963">
 <Sync time="1135.546"/>
-faudrait rÃ©agir plus 
+faudrait réagir plus 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 et
 <Event desc="dis=rep" type="noise" extent="end"/>
@@ -1423,9 +1423,9 @@ des
 <Event desc="dis=rep" type="noise" extent="end"/>
  des instances pour le faire mais on a encore beaucoup de mal 
 <Event desc="dis=rep" type="noise" extent="begin"/>
-Ã  f(aire)
+à f(aire)
 <Event desc="dis=rep" type="noise" extent="end"/>
- Ã  faire comprendre le problÃ¨me.
+ à faire comprendre le problème.
 </Turn>
 <Turn startTime="1141.963" endTime="1142.617">
 <Sync time="1141.963"/>
@@ -1441,9 +1441,9 @@ euh
 <Event desc="dis=hes" type="noise" extent="end"/>
  
 <Event desc="dis=rep" type="noise" extent="begin"/>
-Ã§a Ã§a
+ça ça
 <Event desc="dis=rep" type="noise" extent="end"/>
- Ã§a amÃ©ne quand mÃªme 
+ ça améne quand même 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 u(ne)
 <Event desc="dis=rep" type="noise" extent="end"/>
@@ -1455,7 +1455,7 @@ u(ne)
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- pour des questions de sÃ©curitÃ©, 
+ pour des questions de sécurité, 
 <Event desc="dis=rev" type="noise" extent="begin"/>
 lorsqu'il y a un petit incident quelque part
 <Event desc="dis=rev" type="noise" extent="end"/>
@@ -1463,7 +1463,7 @@ lorsqu'il y a un petit incident quelque part
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
- donc a dÃ©cidÃ© de couper 
+ donc a décidé de couper 
 <Event desc="dis=rev" type="noise" extent="begin"/>
 toute l'ins(tallation) toute le
 <Event desc="dis=rev" type="noise" extent="end"/>
@@ -1471,27 +1471,27 @@ toute l'ins(tallation) toute le
 <Event desc="dis=rev" type="noise" extent="begin"/>
 le
 <Event desc="dis=rev" type="noise" extent="end"/>
- l'Ã©nergie Ã©lectrique de tous les trains sur tout le rÃ©seau de gare du nord ou quasiment parce que mÃªme les TGV ont Ã©tÃ© impactÃ©s. 
+ l'énergie électrique de tous les trains sur tout le réseau de gare du nord ou quasiment parce que même les TGV ont été impactés. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="1158.187"/>
-mais faut pas oublier que d'un autre cÃ´tÃ©, 
+mais faut pas oublier que d'un autre côté, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- on fragilise toutes les mÃ¨res de famille, toutes les familles qui devaient se rejoindre, qui devaient rejoindre le soir mÃªme Ã  leur domicile. 
+ on fragilise toutes les mères de famille, toutes les familles qui devaient se rejoindre, qui devaient rejoindre le soir même à leur domicile. 
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="1165.541"/>
-et qu'ont Ã©tÃ© trÃ¨s 
+et qu'ont été très 
 <Event desc="b" type="noise" extent="begin"/>
-fortement impactÃ©es et lÃ  aussi 
+fortement impactées et là aussi 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 on met
 <Event desc="dis=rep" type="noise" extent="end"/>
- on met une insÃ©curitÃ©.
+ on met une insécurité.
 <Event desc="b" type="noise" extent="end"/>
- donc d'un autre cÃ´tÃ© on met une sÃ©curitÃ© pour la circulation ferroviaire, 
+ donc d'un autre côté on met une sécurité pour la circulation ferroviaire, 
 <Event desc="r" type="noise" extent="instantaneous"/>
- ce qu'on peut comprendre, il s'agit pas d'Ã©craser les voyageurs, il s'agit 
+ ce qu'on peut comprendre, il s'agit pas d'écraser les voyageurs, il s'agit 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 de
 <Event desc="dis=rep" type="noise" extent="end"/>
@@ -1501,19 +1501,19 @@ de
 <Event desc="r" type="noise" extent="instantaneous"/>
 
 <Sync time="1175.186"/>
-mais d'un autre cÃ´tÃ©, on a crÃ©Ã© hier soir une trÃ¨s grande insÃ©curitÃ© pour beaucoup de famille. 
+mais d'un autre côté, on a créé hier soir une très grande insécurité pour beaucoup de famille. 
 <Event desc="r" type="noise" extent="instantaneous"/>
- et Ã§a a dÃ» jouer dans le fait 
+ et ça a dû jouer dans le fait 
 <Event desc="dis=rep" type="noise" extent="begin"/>
 que les
 <Event desc="dis=rep" type="noise" extent="end"/>
- que les gens enervÃ©s, 
+ que les gens enervés, 
 <Event desc="dis=hes" type="noise" extent="begin"/>
 euh
 <Event desc="dis=hes" type="noise" extent="end"/>
  
 <Event desc="r" type="noise" extent="instantaneous"/>
- non informÃ©s, 
+ non informés, 
 <Event desc="r" type="noise" extent="instantaneous"/>
  ont fini par sortir sur les voies et,
 </Turn>
