@@ -1,0 +1,11 @@
+Evaluation par spkshow, à partir du script d'eval stats_spkshow.py, puis calcul d'une F-mesure par spkshow.
+
+PERCOOL_QCOMPERE_SODA_${typerun}.durevalf.spkshow: contient les Fmesures des runs de $typerun =mono,sup,unsup.
+
+#field1: spkshow
+#field2: duree de reference du spkshow
+#field3: F-mesure PERCOOL
+#field4: F-mesure QCOMPERE
+#field5: F-mesure SODA
+#field6: F-mesure avg-non-nul(PERCOOL,QCOMPERE,SODA)
+#field7: F-mesure max(PERCOOL,QCOMPERE,SODA)
