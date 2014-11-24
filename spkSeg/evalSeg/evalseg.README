@@ -1,0 +1,10 @@
+#field1: nom du fichier
+#field2: debut du segment
+#field3: fin du segment
+#field4: nom du speaker de ref
+#field5: harmonic-cover (equivalent F-mesure au niveau du segment)
+#field6: covertest (equivalent precision au niveau du segment)
+#field7: coverref (equivalent rappel au niveau du segment)
+#field8: label du speaker du segment de test associé
+#field9: debut du segment de test associé
+#field10: fin du segment de test associé
