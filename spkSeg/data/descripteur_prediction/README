@@ -15,3 +15,12 @@ test2.spkseg.OCR:
     #field13: duree total des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
     #field14: duree moyenne des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
     #field15: nombre d'occurrences des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
+
+test2.spkseg.seg:
+    #field1: spkseg
+    #field2: duree du segment de spkseg
+    #field2: duree des overlaps de spkseg
+    #field2: nombre d'overlap de spkseg
+    #field2: duree total des segments du meme speaker dans les uem du show
+    #field3: duree moyenne des segments du meme speaker dans les uem du show
+    #field4: nombre d'occurrences des segments du meme speaker dans les uem du show
