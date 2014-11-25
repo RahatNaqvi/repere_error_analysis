@@ -1,0 +1,12 @@
+            
+test2.spkshow.OCR:
+    #field1: spkshow
+    #field2: duree total des noms ecrits du spkshow dans les uem
+    #field3: duree moyenne des noms ecrits du spkshow dans les uem
+    #field4: nombre d'occurrences des noms ecrits du spkshow dans les uem
+    #field5: duree total des noms ecrits du spkshow en dehors des uem
+    #field6: duree moyenne des noms ecrits du spkshow en dehors des uem
+    #field7: nombre d'occurrences des noms ecrits du spkshow en dehors des uem
+    #field8: duree total des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow
+    #field9: duree moyenne des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow
+    #field10: nombre d'occurrences des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow
