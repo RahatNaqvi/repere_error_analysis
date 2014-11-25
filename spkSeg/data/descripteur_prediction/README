@@ -1,17 +1,17 @@
             
 test2.spkseg.OCR:
-    #field1: spkshow
+    #field1: spkseg
     #field2: segment start
     #field3: segment end
-    #field4: duree total des noms ecrits du spkshow dans le segment
-    #field5: duree moyenne des noms ecrits du spkshow dans le segment
-    #field6: nombre d'occurrences des noms ecrits du spkshow dans le segment
-    #field7: duree total des noms ecrits du spkshow dans les uem
-    #field8: duree moyenne des noms ecrits du spkshow dans les uem
-    #field9: nombre d'occurrences des noms ecrits du spkshow dans les uem
-    #field10: duree total des noms ecrits du spkshow en dehors des uem
-    #field11: duree moyenne des noms ecrits du spkshow en dehors des uem
-    #field12: nombre d'occurrences des noms ecrits du spkshow en dehors des uem
-    #field13: duree total des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow
-    #field14: duree moyenne des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow
-    #field15: nombre d'occurrences des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow
+    #field4: duree total des noms ecrits du spkseg dans le segment
+    #field5: duree moyenne des noms ecrits du spkseg dans le segment
+    #field6: nombre d'occurrences des noms ecrits du spkseg dans le segment
+    #field7: duree total des noms ecrits du spkseg dans les uem du meme show
+    #field8: duree moyenne des noms ecrits du spkseg dans les uem du meme show
+    #field9: nombre d'occurrences des noms ecrits du spkseg dans les uem du meme show
+    #field10: duree total des noms ecrits du spkseg en dehors des uem du meme show
+    #field11: duree moyenne des noms ecrits du spkseg en dehors des uem du meme show
+    #field12: nombre d'occurrences des noms ecrits du spkseg en dehors des uem du meme show
+    #field13: duree total des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
+    #field14: duree moyenne des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
+    #field15: nombre d'occurrences des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
