@@ -1,4 +1,5 @@
 from sklearn.linear_model import LogisticRegression
+import numpy
 
 
 def convert(value, type_):
@@ -27,7 +28,7 @@ if __name__ == '__main__':
 
     desc = {}
     score = {}
-    for line in open(l_spkseg_file):
+    for line in open(l_spkshow_file):
         desc[line[:-1]] = []
         score[line[:-1]] = []
 
@@ -41,13 +42,10 @@ if __name__ == '__main__':
     
     for line in open(score_file):
         l = line[:-1].split(' ')
-        spk = l[0]+'#'+l[3]
-        seg = l[1]+' '+l[2]
-        if spkseg in score:
-            score[spk][seg] = float(l[4])
+        if l[0] in score:
+            score[l[0]] = float(l[4])
            
-    C = 0.0
-    F = 0.0    
+    ecarts = []  
     for spk_test in sorted(desc):
         X = []
         Y = []
@@ -59,11 +57,8 @@ if __name__ == '__main__':
         clas =  LogisticRegression()
         clas.fit(X, Y)
         predic_score = clas.predict(desc[spk_test])[0]
-        print spk_test, predic_score, score[spk_test], abs(predic_score-score[spk_test])
-        if abs(predic_score-score[spk_test])<0.3:
-            C+=1
-        else:
-            F+=1
+        #print spk_test, predic_score, score[spk_test], abs(predic_score-score[spk_test])
+        ecarts.append(abs(predic_score-score[spk_test]))
+    print numpy.mean(ecarts)
 
-    print C, F
 

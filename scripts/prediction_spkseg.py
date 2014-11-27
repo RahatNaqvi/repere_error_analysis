@@ -1,5 +1,6 @@
 from sklearn.linear_model import LogisticRegression
 from random import randint
+import numpy
 
 def convert(value, type_):
     import importlib
@@ -64,11 +65,8 @@ if __name__ == '__main__':
         if spk in score:
             score[spk][seg] = float(l[4])
            
-    C = 0.0
-    F = 0.0
-
-    nb_fold = 10
-
+    ecarts = [] 
+    nb_fold = 5
     dic_fold = {'spk':{}, 'fold':{}}
     for spk in desc: 
         fold = randint(0, nb_fold-1)
@@ -91,10 +89,7 @@ if __name__ == '__main__':
     for spk_test in sorted(desc):
         for seg in desc[spk_test]:
             predic_score = dic_clas[dic_fold['spk'][spk_test]].predict(desc[spk_test][seg])[0]
-            print spk_test, seg, predic_score, score[spk_test][seg], abs(predic_score-score[spk_test][seg])
-            if abs(predic_score-score[spk_test][seg])<0.3:
-                C+=1
-            else:
-                F+=1
-    print C, F
+            #print spk_test, seg, predic_score, score[spk_test][seg], abs(predic_score-score[spk_test][seg])
+            ecarts.append(abs(predic_score-score[spk_test][seg]))
+    print numpy.mean(ecarts)
 
