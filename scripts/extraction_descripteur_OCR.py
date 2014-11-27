@@ -72,7 +72,7 @@ if __name__ == '__main__':
                     if seg_spk & seg_OCR:
                         l_dur_OCR_seg.append((seg_OCR & seg_uem).duration)
 
-                fout_spkseg.write(spk+' '+str(seg_spk.start)+' '+str(seg_spk.end))
+                fout_spkseg.write(spk.split('#')[0]+' '+str(seg_spk.start)+' '+str(seg_spk.end)+' '+spk.split('#')[1])
 
                 if len(l_dur_OCR_seg) > 0:
                     fout_spkseg.write(' '+str(numpy.sum(l_dur_OCR_seg))+" "+str(numpy.mean(l_dur_OCR_seg))+' '+str(len(l_dur_OCR_seg)))

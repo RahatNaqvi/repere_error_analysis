@@ -16,3 +16,5 @@ test2.spkshow.seg:
     #field2: duree total des segments du spkshow dans les uem
     #field3: duree moyenne des segments du spkshow dans les uem
     #field4: nombre d'occurrences des segments du spkshow dans les uem
+    #field3: duree total des overlaps du spkshow dans les uem
+    #field4: nombre d'occurrences des overlaps du spkshow dans les uem    
