@@ -1,0 +1,19 @@
+*.evalsegHB: evaluation des segments de list_spkseg selon la méthode stats_segment.py:
+
+    - Field #1: show
+    - Field #2: segment start time (in seconds)
+    - Field #3: segment end time (in seconds)
+    - Field #4: speaker label
+    - Field #5: segment identification error rate
+    - Field #6: duration of correct identification
+    - Field #7: duration of confusion
+    - Field #8: duration of missed detections
+    - Field #9: duration of false alarms
+
+*.evalsegHB.idseg: posttraitement sur evalsegHB:
+
+    - Field #1: idseg (show#debut#fin#spk)
+    - Field #2: duree du segment
+    - Field #3: taux d'identification correcte (couverture du segment de ref correcte)
+    - Field #4: flag de locuteur reconnu au moins 1 fois dans l'emission (=1 si au moins un segment dans la meme emission avec un taux d'identification correct > 0, =0 sinon (i.e. locuteur jamais reconnu dans l'emission)
+
