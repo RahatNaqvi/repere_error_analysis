@@ -1,6 +1,8 @@
 from sklearn.linear_model import LogisticRegression
+from sklearn import tree
 from random import randint
 import numpy
+from pylab import *
 
 def convert(value, type_):
     import importlib
@@ -21,11 +23,9 @@ if __name__ == '__main__':
                       '../spkseg/data/descripteur_prediction/test2.spkseg.spoken':['int', 'int', 'int', 'int', 'int', 'int'], 
                       #'../spkseg/test2.spkseg.role':['str'],
                      }
-
-    desc_files_spk = {'../SPK_model/test2.spkshow.max.acoustic':['float', 'int','float', 'int','float', 'int'],
+    desc_files_spk = {'../SPK_model/test2.spkshow.3sites.acoustic':['float', 'int','float', 'int','float', 'int'],
                      }
-
-    score_file = '../spkseg/evalSeg2/PERCOOL_sup.evalseg'
+    score_file = {'f':'../spkseg/evalSegHB/PERCOOL_sup.repere.evalsegHB', 'field':4}
     l_spkseg_file = '../reference/list_spkseg'
 
 
@@ -58,38 +58,72 @@ if __name__ == '__main__':
                         d = convert(l[i+1], desc_files_spk[f][i])
                         desc[spk][seg].append(d)
 
-    for line in open(score_file):
+    for line in open(score_file['f']):
         l = line[:-1].split(' ')
         spk = l[0]+'#'+l[3]
         seg = str(float(l[1]))+' '+str(float(l[2]))
         if spk in score:
-            score[spk][seg] = float(l[4])
+            corr = float(l[5])
+            conf = float(l[6])
+            miss = float(l[7])
+            fa  = float(l[8])
+            nb_hyp = corr + conf + fa
+            nb_ref = corr + conf + miss
+            R=0.0
+            P=0.0
+            if nb_ref>0:
+                R = corr/nb_ref
+            if nb_hyp>0:
+                P = corr/nb_hyp
+            F = 0.0
+            if P+R > 0:
+                F = (2*R*P)/(R+P)
+            score[spk][seg] = F
+            #score[spk][seg] = float(l[score_file['field']])
            
-    ecarts = [] 
-    nb_fold = 5
-    dic_fold = {'spk':{}, 'fold':{}}
-    for spk in desc: 
-        fold = randint(0, nb_fold-1)
-        dic_fold['spk'][spk] = fold
-        dic_fold['fold'].setdefault(fold, []).append(spk)
-
     dic_clas = {}
-    for i in range(nb_fold):
+    x=[]
+    y=[]
+
+    ecart = []
+    for spk_test in sorted(desc):
         X = []
-        Y = []        
+        Y = []
         for spk_train in sorted(desc):
-            if dic_fold['spk'][spk_train] not in dic_fold['fold'][i]:
+            if spk_test != spk_train:
                 for seg in desc[spk_train]:
                     X.append(desc[spk_train][seg])
                     Y.append(score[spk_train][seg])
-        clas = LogisticRegression()
-        clas.fit(X, Y)
-        dic_clas[i] = clas
 
-    for spk_test in sorted(desc):
-        for seg in desc[spk_test]:
-            predic_score = dic_clas[dic_fold['spk'][spk_test]].predict(desc[spk_test][seg])[0]
-            #print spk_test, seg, predic_score, score[spk_test][seg], abs(predic_score-score[spk_test][seg])
-            ecarts.append(abs(predic_score-score[spk_test][seg]))
-    print numpy.mean(ecarts)
+        clas =  tree.DecisionTreeRegressor()
+        clas.fit(X, Y)
+        for seg in desc[spk_test]:        
+            predic_score = clas.predict(desc[spk_test][seg])[0]
+            x.append(predic_score)
+            y.append(score[spk_test][seg])
+            ecart.append(score[spk_test][seg]-predic_score)
+
+    print numpy.mean(ecart)    
+    fig1 = plt.figure()
+    fig1.suptitle('histogramme (scores mesures - predictions)', fontsize=14, fontweight='bold')
+    plt.ylabel('valeur des ecarts')
+    plt.xlabel("# d'ecarts")
+
+    bins = np.arange(-1.0,1.0,0.05)
+    plt.hist(ecart, bins, normed=True)
+    fig1.savefig('spkseg_histo_ecart')
+    plt.show()
+
+
+    fig1 = plt.figure()
+    fig1.suptitle('predictions / scores mesures', fontsize=14, fontweight='bold')
+    plt.ylabel('prediction')
+    plt.xlabel("scores mesures")
+
+    bins = np.arange(0,1.01,0.05)
+    plt.plot(x, y, 'ro') 
+    plt.axis([0,1,0,1])
+    plt.grid()
+    fig1.savefig('spkseg_nuage')
+    plt.show() 
 

@@ -1,5 +1,7 @@
 from sklearn.linear_model import LogisticRegression
-import numpy
+from sklearn import tree
+import numpy as np
+import pylab as plt
 
 
 def convert(value, type_):
@@ -20,14 +22,16 @@ if __name__ == '__main__':
                   '../spkshow/data/descripteur_prediction/test2.spkshow.seg':['float', 'float', 'int', 'float', 'int'],             
                   '../spkshow/data/descripteur_prediction/test2.spkshow.spoken':['int', 'int', 'int', 'int'], 
                   #'../spkshow/test2.spkshow.role':['str'],
-                  '../SPK_model/test2.spkshow.max.acoustic':['float', 'int','float', 'int','float', 'int'],
+                  '../SPK_model/test2.spkshow.3sites.acoustic':['float', 'int','float', 'int','float', 'int'],
                  }
 
-    score_file = '../spkshow/PERCOOL_QCOMPERE_SODA_sup.durevalf.spkshow'
+    score_file = {'f':'../spkshow/PERCOOL_QCOMPERE_SODA_sup.durevalf.spkshow', 'field':2}
     l_spkshow_file = '../reference/list_spkshow'
 
     desc = {}
     score = {}
+    x = []
+    y = []
     for line in open(l_spkshow_file):
         desc[line[:-1]] = []
         score[line[:-1]] = []
@@ -40,12 +44,13 @@ if __name__ == '__main__':
                     d = convert(l[i+1], desc_files[f][i])
                     desc[l[0]].append(d)
     
-    for line in open(score_file):
+    for line in open(score_file['f']):
         l = line[:-1].split(' ')
         if l[0] in score:
-            score[l[0]] = float(l[4])
-           
-    ecarts = []  
+            score[l[0]] = float(l[score_file['field']])
+
+
+    ecart = []
     for spk_test in sorted(desc):
         X = []
         Y = []
@@ -54,11 +59,35 @@ if __name__ == '__main__':
                 X.append(desc[spk_train])
                 Y.append(score[spk_train])
 
-        clas =  LogisticRegression()
+        clas =  tree.DecisionTreeRegressor()
         clas.fit(X, Y)
         predic_score = clas.predict(desc[spk_test])[0]
+        x.append(predic_score)
+        y.append(score[spk_test])
+        ecart.append(score[spk_test]-predic_score)
+
         #print spk_test, predic_score, score[spk_test], abs(predic_score-score[spk_test])
-        ecarts.append(abs(predic_score-score[spk_test]))
-    print numpy.mean(ecarts)
+
+    print np.mean(ecart)
+    fig1 = plt.figure()
+    fig1.suptitle('histogramme (scores mesures - predictions)', fontsize=14, fontweight='bold')
+    plt.ylabel('valeur des ecarts')
+    plt.xlabel("# d'ecarts")
+
+    bins = np.arange(-1.0,1.0,0.05)
+    plt.hist(ecart, bins, normed=True)
+    fig1.savefig('spkshow_histo_ecart')
+    plt.show()
 
 
+    fig1 = plt.figure()
+    fig1.suptitle('predictions / scores mesures', fontsize=14, fontweight='bold')
+    plt.ylabel('prediction')
+    plt.xlabel("scores mesures")
+
+    bins = np.arange(0,1.01,0.05)
+    plt.plot(x, y, 'ro') 
+    plt.axis([0,1,0,1])
+    plt.grid()
+    fig1.savefig('spkshow_nuage')
+    plt.show() 
