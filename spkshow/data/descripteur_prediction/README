@@ -17,4 +17,11 @@ test2.spkshow.seg:
     #field3: duree moyenne des segments du spkshow dans les uem
     #field4: nombre d'occurrences des segments du spkshow dans les uem
     #field3: duree total des overlaps du spkshow dans les uem
-    #field4: nombre d'occurrences des overlaps du spkshow dans les uem    
+    #field4: nombre d'occurrences des overlaps du spkshow dans les uem  
+
+test2.spkshow.spoken:
+    #field1: spkshow
+    #field2: # d'occurrences du nom de spkshow prononcé dans le tour de parole précédent
+    #field3: # d'occurrences du nom de spkshow prononcé dans le tour de parole courant
+    #field4: # d'occurrences du nom de spkshow prononcé dans le tour de parole suivant
+    #field5: # d'occurrences du nom de spkshow prononcé dans un autre tour de parole 

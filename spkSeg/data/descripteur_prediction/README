@@ -19,8 +19,21 @@ test2.spkseg.OCR:
 test2.spkseg.seg:
     #field1: spkseg
     #field2: duree du segment de spkseg
-    #field2: duree des overlaps de spkseg
-    #field2: nombre d'overlap de spkseg
-    #field2: duree total des segments du meme speaker dans les uem du show
-    #field3: duree moyenne des segments du meme speaker dans les uem du show
-    #field4: nombre d'occurrences des segments du meme speaker dans les uem du show
+    #field3: duree des overlaps de spkseg
+    #field4: nombre d'overlap de spkseg
+    #field5: duree total des segments du meme speaker dans les uem du show
+    #field6: duree moyenne des segments du meme speaker dans les uem du show
+    #field7: nombre d'occurrences des segments du meme speaker dans les uem du show
+
+test2.spkshow.spoken:
+    #field1: spkseg
+    #field2: duree du segment de spkseg
+    #field3: duree des overlaps de spkseg
+    #field4: nombre d'overlap de spkseg
+    #field5: # d'occurrences du nom de spkseg prononcé dans le tour de parole précédent
+    #field6: # d'occurrences du nom de spkseg prononcé dans le tour de parole courant
+    #field7: # d'occurrences du nom de spkseg prononcé dans le tour de parole suivant
+    #field8: # d'occurrences du nom de spkseg prononcé dans un tour de parole précédent du spkshow corrspondant
+    #field9: # d'occurrences du nom de spkseg prononcé dans un tour de parole courant du spkshow corrspondant
+    #field10: # d'occurrences du nom de spkseg prononcé dans un tour de parole suivant du spkshow corrspondant
+    #field11: # d'occurrences du nom de spkseg prononcé dans un autre tour de parole du spkshow corrspondant
