@@ -10,7 +10,6 @@ Jinja2
 pytz
 pyzmq
 tornado
-lxml
 nose
 pyannote.core[notebook]
 pyannote.parser
