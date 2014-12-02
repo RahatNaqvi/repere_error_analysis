@@ -1,0 +1,103 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:27 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Yann, version 14 of 140319
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 0.000 1714.000 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1714.000 1717.574 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1717.574 1727.147 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1727.147 1734.674 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1734.674 1736.511 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1736.511 1738.125 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 inter_segment_gap 1738.125 1738.738 <o,f0,> 
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1738.738 1739.739 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1739.739 1743.439 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1743.439 1743.629 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1743.629 1743.901 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1743.901 1748.495 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1748.495 1749.769 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1749.769 1750.007 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1750.007 1750.742 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1750.742 1753.377 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1753.377 1756.169 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1756.169 1756.694 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1756.694 1758.422 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1758.422 1764.739 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1764.739 1765.834 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1765.834 1774.531 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1774.531 1774.724 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1774.724 1775.358 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1775.358 1776.113 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1776.113 1777.146 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1777.146 1778.160 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1778.160 1786.300 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1786.300 1788.687 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1788.687 1789.317 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1789.317 1791.808 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1791.808 1793.144 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1793.144 1794.528 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1794.528 1794.816 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1794.816 1803.139 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1803.139 1814.212 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1814.212 1819.533 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1819.533 1820.565 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1820.565 1831.126 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 inter_segment_gap 1831.126 1831.638 <o,f0,> 
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1831.638 1836.092 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1836.092 1842.489 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1842.489 1843.469 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1843.469 1844.527 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1844.527 1845.273 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1845.273 1850.586 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1850.586 1858.173 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1858.173 1871.220 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1871.220 1881.843 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1881.843 1895.659 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1895.659 1900.353 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1900.353 1907.932 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 inter_segment_gap 1907.932 1908.277 <o,f0,> 
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1908.277 1912.027 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1912.027 1914.890 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1914.890 1916.651 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1916.651 1917.302 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1917.302 1918.898 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1918.898 1924.633 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1924.633 1925.674 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1925.674 1938.481 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1938.481 1945.893 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1945.893 1955.016 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1955.016 1958.289 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1958.289 1963.119 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1963.119 1968.869 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1968.869 1969.209 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 inter_segment_gap 1969.209 1969.798 <o,f0,> 
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1969.798 1970.321 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1970.321 1971.503 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1971.503 1973.417 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1973.417 1974.056 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1974.056 1979.340 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1979.340 1993.974 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1993.974 1994.815 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1994.815 1999.824 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 1999.824 2000.658 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 2000.658 2003.125 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 2003.125 2005.040 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 2005.040 2005.457 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 2005.457 2011.850 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 2011.850 2022.008 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2013-03-02_212400 1 inter_segment_gap 2022.008 2022.769 <o,f0,> 
+LCP_EntreLesLignes_2013-03-02_212400 1 excluded_region 2022.769 2399.712 <o,,unknown> ignore_time_segment_in_scoring

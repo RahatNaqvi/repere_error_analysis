@@ -1,0 +1,40 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:25 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 3 of 131001
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-07-23_065040 1 excluded_region 0.000 161.605 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Francois_Xavier_MENAGE 161.605 166.175 <o,f0,male> [b-] [b] c'était il y a un an la mort de la diva soul &lt;pers=Amy_WINEHOUSE&gt;Amy Winehouse&lt;/pers&gt;, elle avait 27 ans.
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Celine_BRUEL 166.175 172.140 <o,f0,female> oui et depuis &amp;eh bien tout est bon pour ressusciter la voix de cette chanteuse indomptable. on fait le point avec &lt;pers=Cecile_TRAN-TIEN&gt;Cécile Tran-Tien&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-07-23_065040 1 inter_segment_gap 172.140 178.089 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Cecile_TRAN_TIEN 178.089 190.317 <o,f0,female> cette chanson n'est pas encore sortie en France et pourtant elle déclenche déjà les passions sur la toile [r] car vous l'aurez reconnue il s'agit bien d'un enregistrement posthume de la voix d'&lt;pers=Amy_WINEHOUSE&gt;Amy Winehouse&lt;/pers&gt;, [r] dans un duo inédit avec le rappeur américain &lt;pers=Nasir_JONES&gt;Nas&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-07-23_065040 1 inter_segment_gap 190.317 193.276 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Cecile_TRAN_TIEN 193.276 202.735 <o,f0,female> un titre que devraient s'arracher tous les fans de la chanteuse, car depuis décembre dernier et la sortie de l'album Lioness et de son duo avec &lt;pers=Tony_BENNETT&gt;Tony Bennett&lt;/pers&gt;, [r] ils n'avaient plus rien à se mettre sous la dent.
+BFMTV_CultureEtVous_2012-07-23_065040 1 inter_segment_gap 202.735 205.884 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Busty 205.884 209.005 <o,f0,female> oui, il y a un vide, les fans ont encore envie [dis=rev-] de parler a(vec) [-dis=rev] de parler d'elle
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Busty 209.005 210.524 <o,f0,female> elle a fait quand même que deux vrais albums
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Busty 210.524 215.654 <o,f0,female> tous les gens qui avaient envie de la voir en concert l'ont pas vue en concert, parce qu' [dis=rep-] elle était [-dis=rep] [dis=hes-] euh [-dis=hes] elle était très très douée pour annuler aussi [-b]
+BFMTV_CultureEtVous_2012-07-23_065040 1 inter_segment_gap 215.654 216.177 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Cecile_TRAN_TIEN 216.177 226.014 <o,f0,female> un vide que s'est empressé de combler le père de la chanteuse, multipliant les interviews et publiant même un livre sur l'histoire de sa fille. [r] mais pas question de parler de business, il dément formellement. [-b]
+BFMTV_CultureEtVous_2012-07-23_065040 1 inter_segment_gap 226.014 226.473 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-23_065040 1 excluded_region 226.473 236.007 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-23_065040 1 excluded_region 236.007 236.308 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Cecile_TRAN_TIEN 236.308 246.490 <o,f0,female> [b-] la solution : sortir [-b] [b-] deux nouveaux albums inédits. reste à savoir de quoi ils seront composés car avant sa mort la chanteuse s'était réfugiée dans les caraïbes [r] et n'avait quasiment plus remis les pieds en studio. [-b]
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Busty 246.490 252.075 <o,f0,female> c'est les fonds de tiroir là, on racle les fonds de tiroir, [dis=hes-] euh [-dis=hes] . [r] je sais pas si c'est [dis=hes-] euh [-dis=hes] je sais pas si c'est un bel hommage.
+BFMTV_CultureEtVous_2012-07-23_065040 1 BFMTV_CultureEtVous_2012_07_23_065040_Cecile_TRAN_TIEN 252.075 259.241 <o,f0,female> [b-] des hommages qui n'en finissent pas. un an après sa mort la chanteuse pourrait même remonter sur scène [r] le temps d'un concert hologramme.
+BFMTV_CultureEtVous_2012-07-23_065040 1 inter_segment_gap 259.241 264.526 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-23_065040 1 excluded_region 264.526 418.440 <o,,unknown> ignore_time_segment_in_scoring

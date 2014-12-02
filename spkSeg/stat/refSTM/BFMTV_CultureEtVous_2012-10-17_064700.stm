@@ -1,0 +1,47 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 9 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-10-17_064700 1 excluded_region 0.000 356.000 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Pascale_DE_LA_TOUR_DU_PIN 356.000 360.791 <o,f0,female> [musique-] dans " culture et vous " aujourd'hui, nous avons &lt;pers=Jennifer_LOPEZ&gt;Jennifer Lopez&lt;/pers&gt; en concert hier soir à Paris, [bc] à Bercy, à Paris-Bercy quoi
+BFMTV_CultureEtVous_2012-10-17_064700 1 excluded_region 360.791 362.479 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Christophe_DELAY 362.479 364.916 <o,f0,male> &lt;pers=Elton_JOHN&gt;Elton John&lt;/pers&gt;, toujours très [b] impliqué par la lutte contre le sida.
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Pascale_DE_LA_TOUR_DU_PIN 364.916 368.869 <o,f0,female> [r] et le début de la mise en vente des places pour la comédie musicale " Robin des bois " .
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Christophe_DELAY 368.869 369.806 <o,f0,male> &lt;pers=Philippe_DUFREIGNE&gt;Philippe [bc-] Dufreigne [-bc] &lt;/pers&gt;
+BFMTV_CultureEtVous_2012-10-17_064700 1 inter_segment_gap 369.806 371.921 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Philippe_DUFREIGNE 371.921 375.327 <o,f0,male> c'était hier soir, c'était à Bercy, ambiance survoltée.
+BFMTV_CultureEtVous_2012-10-17_064700 1 inter_segment_gap 375.327 381.619 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Philippe_DUFREIGNE 381.619 383.800 <o,f0,male> oui mais vous préférerez sûrement l'original.
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Jennifer_LOPEZ 383.800 385.569 <o,f0,female> Paris
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Philippe_DUFREIGNE 385.569 391.413 <o,f0,male> c'était son premier concert en France, un show avec danse, costumes, glamour au rendez-vous
+BFMTV_CultureEtVous_2012-10-17_064700 1 inter_segment_gap 391.413 405.557 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Philippe_DUFREIGNE 405.557 417.915 <o,f0,male> le saviez-vous ? c'est la toute première tournée de la carrière de &lt;pers=Jennifer_LOPEZ&gt;Jennifer Lopez&lt;/pers&gt; qui a tout de même déjà vendu [r] plus de 92 millions d'albums dans le monde. [r] un joli show [r] et encore une date en France, ce sera ce soir à Amnéville.
+BFMTV_CultureEtVous_2012-10-17_064700 1 inter_segment_gap 417.915 421.968 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_speaker_5 421.968 423.546 <o,f0,female> les soirées d'&lt;pers=Elton_JOHN&gt;Elton&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-10-17_064700 1 inter_segment_gap 423.546 424.781 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Philippe_DUFREIGNE 424.781 437.868 <o,f0,male> chaque année, &lt;pers=Elton_JOHN&gt;Elton John&lt;/pers&gt; fait la fête mais c'est pour la bonne cause. le chanteur, très engagé dans la lutte contre le sida, recueille des fonds depuis plus de 20 ans, [r] c'était encore le cas cette semaine à New-York et mine de rien, depuis le temps, [r] la contribution de sa fondation n'est pas anecdotique.
+BFMTV_CultureEtVous_2012-10-17_064700 1 excluded_region 437.868 438.706 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-17_064700 1 excluded_region 438.706 447.519 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-17_064700 1 excluded_region 447.519 448.577 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-17_064700 1 inter_segment_gap 448.577 449.379 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_speaker_5 449.379 450.556 <o,f0,female> places à vendre.
+BFMTV_CultureEtVous_2012-10-17_064700 1 inter_segment_gap 450.556 451.549 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Philippe_DUFREIGNE 451.549 459.397 <o,f0,male> c'est parti, c'est aujourd'hui que débute la mise en vente des places de " Robin des bois " , la comédie musicale qui occupera le Palais des Congrès à partir de la fin septembre 2013.
+BFMTV_CultureEtVous_2012-10-17_064700 1 BFMTV_CultureEtVous_2012_10_17_064700_Philippe_DUFREIGNE 459.397 466.892 <o,f0,male> [r] on sait déjà que c'est &lt;pers=Matthieu_POKORA&gt;M Pokora&lt;/pers&gt; qui incarnera le mythique personnage. [r] une tournée est également prévue ensuite dans toute la France.
+BFMTV_CultureEtVous_2012-10-17_064700 1 inter_segment_gap 466.892 470.285 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-17_064700 1 excluded_region 470.285 2176.824 <o,,unknown> ignore_time_segment_in_scoring

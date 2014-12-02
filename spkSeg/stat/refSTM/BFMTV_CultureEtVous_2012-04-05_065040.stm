@@ -1,0 +1,47 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:25 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Gwendo, version 7 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-04-05_065040 1 excluded_region 0.000 237.000 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-04-05_065040 1 inter_segment_gap 237.000 238.901 <o,f0,> 
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Christophe_DELAY 238.901 242.779 <o,f0,male> et ce matin nous avons surpris &lt;pers=Johnny_HALLYDAY&gt;Johnny Hallyday&lt;/pers&gt; en train de répéter dans un café avec sa choriste.
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Pascale_DE_LA_TOUR_DU_PIN 242.779 246.210 <o,f0,female> y'a les Beatles qui se reforment enfin les 4 enfants des Beatles qui reforment le groupe.
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Christophe_DELAY 246.210 254.706 <o,f0,male> et puis &lt;pers=William_DE_CAMBRIDGE&gt;William&lt;/pers&gt; et &lt;pers=Catherine_MIDDLETON&gt;Kate&lt;/pers&gt; en cire, [r] [dis=rep-] au museau [-dis=rep] [rire_en_fond-] Tu() [dis=rev-] au museau [-dis=rev] au musée Tussaud de Londres. &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt;. [rire] [-rire_en_fond]
+BFMTV_CultureEtVous_2012-04-05_065040 1 inter_segment_gap 254.706 255.529 <o,f0,> 
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Philippe_DUFREIGNE 255.529 257.959 <o,f0,male> non vous ne rêvez pas, c'est bien le vrai.
+BFMTV_CultureEtVous_2012-04-05_065040 1 excluded_region 257.959 261.386 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Philippe_DUFREIGNE 261.386 268.494 <o,f0,male> &lt;pers=Johnny_HALLYDAY&gt;Johnny&lt;/pers&gt; en mode bisous, applaudi par la foule. &lt;pers=Johnny_HALLYDAY&gt;Johnny&lt;/pers&gt; en mode &lt;pers=Ray_CHARLES&gt;Ray Charles&lt;/pers&gt;, public attentif.
+BFMTV_CultureEtVous_2012-04-05_065040 1 inter_segment_gap 268.494 274.735 <o,f0,> 
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Philippe_DUFREIGNE 274.735 283.267 <o,f0,male> petit boeuf dans un café pour la star avec sa choriste histoire de garder la forme à moins de 20 jours du lancement de sa grande tournée, [r] qu'il répète actuellement à Los Angeles.
+BFMTV_CultureEtVous_2012-04-05_065040 1 inter_segment_gap 283.267 285.586 <o,f0,> 
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Johnny_HALLYDAY 285.586 297.264 <o,f0,male> on a commencé il y a 3 jours et [dis=rep-] ça [-dis=rep] ça se passe vraiment bien. et [dis=hes-] euh [-dis=hes] en 3 jours on a déjà vu une vingtaine de chansons sur les 38 que nous avons [dis=rep-] à [-dis=rep] à répéter pour la tournée.
+BFMTV_CultureEtVous_2012-04-05_065040 1 inter_segment_gap 297.264 297.978 <o,f0,> 
+BFMTV_CultureEtVous_2012-04-05_065040 1 excluded_region 297.978 299.321 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-04-05_065040 1 inter_segment_gap 299.321 300.275 <o,f0,> 
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Philippe_DUFREIGNE 300.275 309.562 <o,f0,male> c'est le groupe phare de l'histoire de la pop, et si les enfants des membres des Beatles formaient un groupe. c'est &lt;pers=James_MCCARTNEY&gt;James McCartney&lt;/pers&gt; le fils de &lt;pers=Paul_MCCARTNEY&gt;Paul&lt;/pers&gt; qui a relancé l'idée dans une interview pour la BBC. [r]
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Philippe_DUFREIGNE 309.562 319.102 <o,f0,male> &lt;pers=Sean_LENNON&gt;Sean Lennon&lt;/pers&gt; serait partant tout comme le fils &lt;pers=George_HARRISON&gt;Harrison&lt;/pers&gt;, celui de &lt;pers=Ringo_STARR&gt;Ringo Starr&lt;/pers&gt; en revanche serait plus partagé. [r] il a en tout cas bien été évoqué par tous les représentants de cette jeune génération.
+BFMTV_CultureEtVous_2012-04-05_065040 1 inter_segment_gap 319.102 319.940 <o,f0,> 
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_speaker_6 319.940 321.729 <o,f0,female> prince et princesse de cire.
+BFMTV_CultureEtVous_2012-04-05_065040 1 inter_segment_gap 321.729 322.286 <o,f0,> 
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Philippe_DUFREIGNE 322.286 335.180 <o,f0,male> voici de jolies jambes, des jambes de sang royal. enfin les statues de &lt;pers=William_DE_CAMBRIDGE&gt;William&lt;/pers&gt; et &lt;pers=Catherine_MIDDLETON&gt;Kate&lt;/pers&gt; ont été dévoilées à Londres au musée Tussaud. [r] où l'on a recréé l'annonce des fiançailles du couple, [r] avec une reproduction de la bague ayant appartenu à &lt;pers=Diana_DE_GALLES&gt;Diana&lt;/pers&gt;. [r]
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Philippe_DUFREIGNE 335.180 338.773 <o,f0,male> mais les vrais &lt;pers=Catherine_MIDDLETON&gt;Kate&lt;/pers&gt; et &lt;pers=William_DE_CAMBRIDGE&gt;William&lt;/pers&gt; n'ont pas participé à la création de ces statues.
+BFMTV_CultureEtVous_2012-04-05_065040 1 excluded_region 338.773 339.338 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-04-05_065040 1 excluded_region 339.338 348.225 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-04-05_065040 1 BFMTV_CultureEtVous_2012_04_05_065040_Philippe_DUFREIGNE 348.225 352.738 <o,f0,male> &lt;pers=Catherine_MIDDLETON&gt;Kate&lt;/pers&gt; et &lt;pers=William_DE_CAMBRIDGE&gt;William&lt;/pers&gt; ont trouvé une place de choix, pas très loin de la reine et de la princesse &lt;pers=Diana_DE_GALLES&gt;Diana&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-04-05_065040 1 inter_segment_gap 352.738 354.000 <o,f0,> 
+BFMTV_CultureEtVous_2012-04-05_065040 1 excluded_region 354.000 418.680 <o,,unknown> ignore_time_segment_in_scoring

@@ -1,0 +1,58 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Vervisch_Ménard, version 13 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-10-16_064700 1 excluded_region 0.000 330.492 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Christophe_DELAY 330.492 335.911 <o,f0,male> [musique-] "culture et vous", beaucoup de choses ce matin. le cinéma à l'honneur à Lyon avec le festival "lumière" et les "stones" qui remonteront bien sur scène.
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Pascale_DE_LA_TOUR_DU_PIN 335.911 338.982 <o,f0,female> [rire-] et nous avons un rappeur américain, [r] qui était à Paris (hier).
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Christophe_DELAY 338.982 339.591 <o,f0,male> comment il s'appelle ?
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Pascale_DE_LA_TOUR_DU_PIN 339.591 340.295 <o,f0,female> cinquante cent
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Christophe_DELAY 340.295 340.801 <o,f0,male> non !
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Pascale_DE_LA_TOUR_DU_PIN 340.801 342.844 <o,f0,female> non ? cent cinquante cent
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Christophe_DELAY 342.844 344.204 <o,f0,male> fifty cent !
+BFMTV_CultureEtVous_2012-10-16_064700 1 excluded_region 344.204 346.301 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Christophe_DELAY 346.301 348.692 <o,f0,male> [r] cinquante centimes, non ! fifty cent.
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Pascale_DE_LA_TOUR_DU_PIN 348.692 350.195 <o,f0,female> ça vaut pas cinquante centimes, non ? c'est pas ça ? [rire]
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Christophe_DELAY 350.195 350.688 <o,f0,male> dur
+BFMTV_CultureEtVous_2012-10-16_064700 1 inter_segment_gap 350.688 351.351 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Christophe_DELAY 351.351 351.899 <o,f0,male> &lt;pers=Philippe_DUFREIGNE&gt;Dufreigne&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Pascale_DE_LA_TOUR_DU_PIN 351.899 352.509 <o,f0,female> [pi]
+BFMTV_CultureEtVous_2012-10-16_064700 1 inter_segment_gap 352.509 354.785 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Philippe_DUFREIGNE 354.785 359.673 <o,f0,male> et c'est parti pour une semaine de cinéma. [r] hier soir, à Lyon, c'était le coup d'envoi du festival "lumière".
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Bertrand_TAVERNIER 359.673 364.418 <o,f0,male> [b-] un festival de partage, un festival de passion, un festival d'amour. [-b]
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Philippe_DUFREIGNE 364.418 367.236 <o,f0,male> l'amour des grands classiques du septième art.
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Thierry_FREMAUX 367.236 373.543 <o,f0,male> [b-] le cinéma du passé, [dis=hes-] euh [-dis=hes] [r] parfois est soumis à des considérations un peu péjoratives. on dit [r] : « des vieux films ». [-b]
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Philippe_DUFREIGNE 373.543 376.364 <o,f0,male> et bien ici, paroles d'experts, ce n'est pas le cas.
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Claude_LELOUCH 376.364 384.076 <o,f0,male> [b-] vous savez, il y a deux sortes de films. [r] il y a des films qu'on a envie de voir et puis il y a ceux qu'on a envie de revoir. voilà. et ici, il y a que des films qu'on a envie de revoir.
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Geraldine_NAKACHE 384.076 388.808 <o,f0,female> c'est parce que ces films là existent [dis=rep-] qu'on [-dis=rep] qu'on a voulu aussi nous tous un peu faire du cinéma, je pense.
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_speaker_8 388.808 391.528 <o,f0,female> pensez à réserver.
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Philippe_DUFREIGNE 391.528 395.625 <o,f0,male> ils l'avaient dit, mais comme on n'y croyait plus vraiment, on n'y avait pas prêté attention.
+BFMTV_CultureEtVous_2012-10-16_064700 1 excluded_region 395.625 398.827 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Philippe_DUFREIGNE 398.827 408.991 <o,f0,male> c'était vrai, les "Rolling Stones" viennent d'annoncer sur les réseaux sociaux, quatre concerts d'ici la fin de l'année. [r] les 25 et 29 novembre à Londres, les 13 et 15 décembre dans le New Jersey aux États-Unis.
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Philippe_DUFREIGNE 408.991 416.209 <o,f0,male> [r] un spectacle baptisé "50 ans et ce n'est pas fini". [r] dans un clip rendu public hier, ils annoncent également des surprises.
+BFMTV_CultureEtVous_2012-10-16_064700 1 excluded_region 416.209 419.187 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_speaker_8 419.187 421.997 <o,f0,female> la folie "fifty cent" [-musique]
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Philippe_DUFREIGNE 421.997 425.505 <o,f0,male> [b-] hier soir à Paris, ils venaient tous pour voir
+BFMTV_CultureEtVous_2012-10-16_064700 1 inter_segment_gap 425.505 427.265 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Philippe_DUFREIGNE 427.265 428.664 <o,f0,male> pour ceux qui l'ignoraient encore
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_speaker_10 428.664 434.182 <o,f0,female> c'est un rappeur mondial. il a vendu [dis=rep-] des des [-dis=rep] [dis=hes-] mi(llions) [-dis=hes] des millions d'albums. j'adore depuis toute petite et [dis=hes-] euh [-dis=hes] voilà.
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Philippe_DUFREIGNE 434.182 443.555 <o,f0,male> [musique-] voilà comment un rappeur crée l'événement, alors qu'il vient pour promouvoir une ligne de casques audio. si si ! son nouvel album, ce ne sera qu'en 2013 [r] mais les fans sont prêts à tout pour leur idole.
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Inconnu_010 443.555 446.495 <o,f0,female> il est vrai, il est magique, [dis=rep-] il est [-dis=rep] il est tout, quoi !
+BFMTV_CultureEtVous_2012-10-16_064700 1 BFMTV_CultureEtVous_2012_10_16_064700_Philippe_DUFREIGNE 446.495 450.321 <o,f0,male> et quand on vous dit que les fans sont prêtes à tout, [r] c'est vraiment prêtes à tout. [-b]
+BFMTV_CultureEtVous_2012-10-16_064700 1 inter_segment_gap 450.321 453.623 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-16_064700 1 excluded_region 453.623 2174.472 <o,,unknown> ignore_time_segment_in_scoring

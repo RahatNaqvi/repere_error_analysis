@@ -1,0 +1,18 @@
+BFMTV_CultureEtVous_2012-10-23_064700 469.415 471.958 Philippe_DUFREIGNE  9 2 2.543 2.21000000000004 0.333000000000027 0.181818181818182 0.130947699567451 l' année de(2) s' essayer(3) au théâtre(3) au cinéma(2) 
+BFMTV_CultureEtVous_2012-10-23_064700 471.958 475.735 Raphael_HAROCHE  4 4 3.777 0.75 1.04000000000002 0.5 0.275350807519201 c' est un acteur 
+BFMTV_CultureEtVous_2012-10-23_064700 476.602 479.151 Raphael_HAROCHE  4 3 2.549 0.970000000000027 1.17100000000005 0.428571428571429 0.459395841506492 peut(2) -on(2) pour découvrir(2) 
+BFMTV_CultureEtVous_2012-10-23_064700 479.151 486.288 Philippe_DUFREIGNE  20 1 7.137 5.68999999999994 0.0699999999999932 0.0476190476190476 0.00980804259492688 raphaël reviens(3) donc avec super welters un sixième album bonifie plus(3) exigeants ils ont beaucoup de(2) titres parlent(2) d' amour 
+BFMTV_CultureEtVous_2012-10-23_064700 486.288 489.883 Raphael_HAROCHE  12 2 3.595 2.87 0.543000000000063 0.142857142857143 0.151043115438126 oui y(5) renoncer(3) et se font nadine ça se mérite ses entrées 
+BFMTV_CultureEtVous_2012-10-23_064700 490.515 491.591 Raphael_HAROCHE  0 0 1.076 0 0 0 0 
+BFMTV_CultureEtVous_2012-10-23_064700 492.214 500.285 Raphael_HAROCHE  21 4 8.071 4.30000000000013 1.07999999999998 0.16 0.133812414818484 c' est presque(2) comme un quotidien russe c' est à dix(2) ans de(2) moins quoi en gros se veut moderne(4) nous 
+BFMTV_CultureEtVous_2012-10-23_064700 500.896 502.892 Raphael_HAROCHE  5 2 1.996 0.78000000000003 0.884000000000015 0.285714285714286 0.442885771543093 je vous en parlez -nous(2) 
+BFMTV_CultureEtVous_2012-10-23_064700 507.394 524.914 Philippe_DUFREIGNE  71 8 17.52 16.2360000000004 1.25000000000006 0.10126582278481 0.0713470319634736 on l' avait dit astérix démarrait(3) mal les premiers chiffres(2) n' était(4) pas(2) encourageants c' était sans compter sur le(2) nickel qui était très bon plus de deux millions de(2) spectateurs ont(2) été recensés entre(2) mercredi et dimanche soir un score équivalent(6) à celui du petit nicolas(2) qui a terminé sa course à plus de(2) cinq(2) millions sept cent mille entrées de(2) bon(3) augure avant les vacances de(2) la tout ça 
+BFMTV_CultureEtVous_2012-10-23_064700 528.013 529.552 Philippe_DUFREIGNE  2 3 1.539 0.299999999999955 1.18200000000002 0.6 0.768031189083831 si l' 
+BFMTV_CultureEtVous_2012-10-23_064700 529.552 532.85 Pascal_LEGITIMUS  1 0 3.298 0.100000000000023 0 0 0 on 
+BFMTV_CultureEtVous_2012-10-23_064700 533.382 534.973 Pascal_LEGITIMUS  1 1 1.591 0.182999999999993 0.25 0.5 0.157133878064111 on(2) 
+BFMTV_CultureEtVous_2012-10-23_064700 534.973 542.451 Philippe_DUFREIGNE  21 6 7.478 5.62 1.65999999999997 0.222222222222222 0.221984487830967 fait(2) démarré(2) couvrant trois virgule une nouvelle mouture de(2) son spectacle qu' elle est(2) faite(3) il reçoit(3) à présent le(2) soutenir(2) 
+BFMTV_CultureEtVous_2012-10-23_064700 542.451 547.015 Muriel_ROBIN  0 5 4.564 0 3.65899999999999 1 0.801709027169148 
+BFMTV_CultureEtVous_2012-10-23_064700 547.015 551.497 Jean_DUJARDIN  0 1 4.482 0 0.206999999999994 1 0.0461847389558219 
+BFMTV_CultureEtVous_2012-10-23_064700 551.497 555.971 Philippe_DUFREIGNE  11 3 4.474 2.96000000000004 1.25 0.214285714285714 0.279392042914618 désormais sept virgule fut chose faite dans un rôle d' expert(3) 
+BFMTV_CultureEtVous_2012-10-23_064700 555.971 560.312 Pierre_RICHARD  0 1 4.341 0 0.429000000000087 1 0.0988251554941459 
+BFMTV_CultureEtVous_2012-10-23_064700 560.312 562.321 Philippe_DUFREIGNE  8 2 2.009 1.24999999999989 0.617999999999938 0.2 0.307615729218486 tout ça vous savez ce qui vous reste 

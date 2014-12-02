@@ -1,0 +1,48 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:25 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Gwendo, version 9 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-10-08_064700 1 excluded_region 0.000 442.025 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 442.025 447.116 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_Claire_FLEURY 447.116 449.261 <o,f0,female> et revoilà la Compagnie Créole !
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 449.261 449.931 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_Claire_FLEURY 449.931 457.964 <o,f0,female> après deux ans d'absence ils reviennent avec un nouvel album, enfin nouveau, [r] à moitié seulement car ils ont réenregistré leurs tubes avec des invités.
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 457.964 460.672 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_Claire_FLEURY 460.672 466.080 <o,f0,female> &lt;pers=Hugues_AUFRAY&gt;Hugues Aufray&lt;/pers&gt; donc, mais aussi &lt;pers=Patrick_SEBASTIEN&gt;Patrick Sébastien&lt;/pers&gt; ou encore le &lt;pers=Colonel_REYEL&gt;Colonel Reyel&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 466.080 467.919 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_Claire_FLEURY 467.919 471.887 <o,f0,female> il y en a donc pour tous les goûts, [r] et comme on dit,
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 471.887 475.103 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_speaker_2 475.103 476.003 <o,f0,female> quel homme !
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 476.003 478.404 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_Claire_FLEURY 478.404 481.211 <o,f0,female> teint resplendissant, allure athlétique,
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 481.211 482.066 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_Claire_FLEURY 482.066 485.009 <o,f0,female> et pourtant &lt;pers=Ben_AFFLECK&gt;Ben Affleck&lt;/pers&gt; souffre, [r] le martyre.
+BFMTV_CultureEtVous_2012-10-08_064700 1 excluded_region 485.009 485.361 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-08_064700 1 excluded_region 485.361 496.923 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_Claire_FLEURY 496.923 510.114 <o,f0,female> &amp;eh bien merci pour les détails mais faudrait peut-être se soigner. [r] car il doit assurer la promotion d' " argo " son troisième film. [r] un film qui nous plonge dans l'Iran de 1979 et doit sortir chez nous le 7 novembre.
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 510.114 511.328 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_speaker_2 511.328 512.774 <o,f0,female> un vrai phénomène.
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 512.774 514.419 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_Claire_FLEURY 514.419 518.206 <o,f0,female> 50000 sud-coréens en transe pour cet homme.
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 518.206 520.599 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_Claire_FLEURY 520.599 532.577 <o,f0,female> &lt;pers=Jae-Sang_PARK&gt;Psy&lt;/pers&gt; chanteur sud-coréen est en train de conquérir, le monde. [r] clip vu plus de 360 millions de fois, [r] chanson deuxième des ventes aux États-Unis, [r] et même &lt;pers=Britney_SPEARS&gt;Britney Spears&lt;/pers&gt; est tombée sous le charme.
+BFMTV_CultureEtVous_2012-10-08_064700 1 excluded_region 532.577 533.527 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 533.527 534.366 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 BFMTV_CultureEtVous_2012_10_08_064700_Claire_FLEURY 534.366 539.393 <o,f0,female> &amp;eh oui, impossible de résister à cet air disons, [r] endiablé.
+BFMTV_CultureEtVous_2012-10-08_064700 1 inter_segment_gap 539.393 539.997 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-08_064700 1 excluded_region 539.997 3968.424 <o,,unknown> ignore_time_segment_in_scoring

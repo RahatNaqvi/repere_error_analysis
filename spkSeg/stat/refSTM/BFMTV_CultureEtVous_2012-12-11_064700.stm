@@ -1,0 +1,54 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Gwendo, version 8 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-12-11_064700 1 excluded_region 0.000 301.466 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Christophe_DELAY 301.466 306.891 <o,f0,male> [b-] ce matin nous avons l'avant-première de " hobbit ". [r] sortie dans les salles demain c'est du cinéma.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Pascale_DE_LA_TOUR_DU_PIN 306.891 308.937 <o,f0,female> le spectacle " salut les copains " qui est prolongé.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Christophe_DELAY 308.937 312.323 <o,f0,male> et la photo de la rencontre entre &lt;pers=Barack_OBAMA&gt;Obama&lt;/pers&gt; et le chanteur sud-coréen &lt;pers=Psy&gt;Psy&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Pascale_DE_LA_TOUR_DU_PIN 312.323 313.657 <o,f0,female> &amp;hum &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-12-11_064700 1 inter_segment_gap 313.657 316.133 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Philippe_DUFREIGNE 316.133 324.864 <o,f0,male> hier soir à Paris, le Grand Rex était aux couleurs du " hobbit ". ils étaient 875, pas tous déguisés on vous rassure, [r] à avoir acheté leur billet pour ce véritable événement.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Inconnu_007 324.864 327.013 <o,f0,male> c'est [dis=hes-] euh [-dis=hes] une grande époque qui est de retour on va dire.
+BFMTV_CultureEtVous_2012-12-11_064700 1 inter_segment_gap 327.013 327.533 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Philippe_DUFREIGNE 327.533 332.269 <o,f0,male> la patience bien légitime. le " hobbit " sur grand écran, [r] était très attendu.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_speaker_5 332.269 335.436 <o,f0,male> pourquoi ? parce que j'ai lu ça quand j'avais 12 ans et ça fait 30 ans que je vis avec.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Inconnu_025 335.436 338.015 <o,f0,female> je pense que les gens qui sont là avant tout c'est des fans de &lt;pers=John-Ronald-Reuel_TOLKIEN&gt;Tolkien&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Philippe_DUFREIGNE 338.015 340.710 <o,f0,male> des fans prêtes à tout pour revoir leur star favorite.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_speaker_7 340.710 342.321 <o,f0,male> Gandalf sans hésiter.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_speaker_8 342.321 343.262 <o,f0,male> Gandalf [pi] .
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_speaker_9 343.262 344.520 <o,f0,female> [rire_en_fond] [pi]
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_speaker_8 344.520 345.639 <o,f0,male> et Gollum aussi mais sur(tout)
+BFMTV_CultureEtVous_2012-12-11_064700 1 excluded_region 345.639 346.841 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_speaker_9 346.841 348.218 <o,f0,female> sûr bien sûr Gollum &amp;ouais.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Philippe_DUFREIGNE 348.218 352.021 <o,f0,male> alors ça tombe bien que vous en parliez parmi les gens déguisés une star s'était glissée.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Inconnu_036 352.021 354.547 <o,f0,male> &amp;hum mon précieux !
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Philippe_DUFREIGNE 354.547 356.965 <o,f0,male> oui bon côté imitation c'est pas encore exactement ça,
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Inconnu_036 356.965 359.007 <o,f0,male> [pi] précieux &amp;ah !
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Philippe_DUFREIGNE 359.007 363.635 <o,f0,male> et pour ceux qui voudraient s'exercer, des projections du " hobbit " auront lieu dès minuit, [r] un peu partout en France.
+BFMTV_CultureEtVous_2012-12-11_064700 1 inter_segment_gap 363.635 365.019 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_speaker_11 365.019 366.093 <o,f0,female> prolongation.
+BFMTV_CultureEtVous_2012-12-11_064700 1 inter_segment_gap 366.093 369.040 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Philippe_DUFREIGNE 369.040 382.891 <o,f0,male> c'est l'un des spectacles dont on a beaucoup parlé à la rentrée. le bouche-à-oreille fait son effet, " salut les copains " reviendra aux Folies Bergères après sa tournée en province. [r] 35 représentations supplémentaires viennent d'être ajoutées, [r] du 16 mai au 30 juin 2013, pensez à réserver.
+BFMTV_CultureEtVous_2012-12-11_064700 1 inter_segment_gap 382.891 385.619 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_speaker_11 385.619 387.230 <o,f0,female> même &lt;pers=Barack_OBAMA&gt;Barack Obama&lt;/pers&gt;!
+BFMTV_CultureEtVous_2012-12-11_064700 1 inter_segment_gap 387.230 388.597 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Philippe_DUFREIGNE 388.597 397.536 <o,f0,male> alors qu'il s'approche du milliard de vues sur le net, qu'il a rassemblé 20000 personnes au Trocadéro ou qu'il s'est produit avec &lt;pers=Madonna-Louise_CICCONE&gt;Madonna&lt;/pers&gt;, &lt;pers=Psy&gt;Psy&lt;/pers&gt; peut désormais se vanter d'avoir rencontré &lt;pers=Barack_OBAMA&gt;Barack Obama&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-12-11_064700 1 BFMTV_CultureEtVous_2012_12_11_064700_Philippe_DUFREIGNE 397.536 410.136 <o,f0,male> [r] cette photo est pour l'instant la seule image de la rencontre, lors d'un concert de charité qui sera diffusé le 21 décembre à la télé américaine. [r] &lt;pers=Psy&gt;Psy&lt;/pers&gt; en a profité pour s'excuser de chansons qu'il avait écrite par le passé, [r] où il s'en prenait aux soldats américains.
+BFMTV_CultureEtVous_2012-12-11_064700 1 inter_segment_gap 410.136 411.000 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-11_064700 1 excluded_region 411.000 1078.584 <o,,unknown> ignore_time_segment_in_scoring

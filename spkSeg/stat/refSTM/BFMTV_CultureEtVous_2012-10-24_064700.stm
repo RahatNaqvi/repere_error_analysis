@@ -1,0 +1,47 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 10 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-10-24_064700 1 excluded_region 0.000 392.002 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Christophe_DELAY 392.002 396.302 <o,f0,male> [musique-] ce matin, nous n'avons que du lourd, l'avant-première hier soir à Londres du dernier volet de James Bond.
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Pascale_DE_LA_TOUR_DU_PIN 396.302 400.967 <o,f0,female> " Skyfall " effectivement dans les salles vendredi, jour de sortie [dis=rep-] en [-dis=rep] [r] en Grande-Bretagne et encore du ciné.
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Christophe_DELAY 400.967 405.238 <o,f0,male> avec la sortie du jour [r] " stars 80 ". &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-10-24_064700 1 inter_segment_gap 405.238 407.722 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Philippe_DUFREIGNE 407.722 419.099 <o,f0,male> il y en a qui ont de la chance d'avoir un balcon à Londres et ceux qui habitent cet appartement étaient aux premières loges pour avoir une vue plongeante sur la grande première de James Bond à laquelle participait la française [r] &lt;pers=Berenice_MARLOHE&gt;Bérénice Marlohe&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-10-24_064700 1 excluded_region 419.099 420.221 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-24_064700 1 excluded_region 420.221 425.398 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Philippe_DUFREIGNE 425.398 434.791 <o,f0,male> [musique-] et du rêve il y en avait sur tapis rouge, &lt;pers=Judi_DENCH&gt;Judi Dench&lt;/pers&gt;, &lt;pers=Javier_BARDEM&gt;Javier Bardem&lt;/pers&gt; [r] et bien sûr James Bond lui-même, un &lt;pers=Daniel_CRAIG&gt;Daniel Craig&lt;/pers&gt;, étonné de susciter autant d'intérêt.
+BFMTV_CultureEtVous_2012-10-24_064700 1 excluded_region 434.791 436.457 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-24_064700 1 excluded_region 436.457 442.799 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Philippe_DUFREIGNE 442.799 454.551 <o,f0,male> il faut dire qu'il y en avait du beau monde, même le Prince &lt;pers=Charles_DE_GALLES&gt;Charles&lt;/pers&gt; et &lt;pers=Camilla_PARKER_BOWLES&gt;Camilla&lt;/pers&gt; avaient fait le déplacement pour saluer le plus célèbre des espions britanniques. [r] &lt;pers=Charles_DE_GALLES&gt;Charles&lt;/pers&gt; a aussi passé beaucoup de temps avec notre James Bond girl mais l'histoire ne dit pas ce qu'il lui a raconté.
+BFMTV_CultureEtVous_2012-10-24_064700 1 inter_segment_gap 454.551 455.540 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_speaker_8 455.540 457.270 <o,f0,female> " stars des années 80 " . [-musique]
+BFMTV_CultureEtVous_2012-10-24_064700 1 inter_segment_gap 457.270 457.965 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Richard_ANCONINA 457.965 459.217 <o,f0,male> les années 80
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Patrick_TIMSIT 459.217 460.673 <o,f0,male> [rire]
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_speaker_11 460.673 462.138 <o,f0,male> les années 80 [-b]
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Philippe_DUFREIGNE 462.138 465.871 <o,f0,male> [musique-] mais oui ça sort aujourd'hui, " stars 80 ", un film avec
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Richard_ANCONINA 465.871 469.091 <o,f0,male> Emile et Images, Peter et Sloane, Début de soirée.
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Philippe_DUFREIGNE 469.091 475.860 <o,f0,male> interprètent des tubes qui ont marqué votre jeunesse. occasion de savoir ce qu'ils sont devenus et d'écouter des chansons dont
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Patrick_TIMSIT 475.860 487.482 <o,f0,male> on connaît toutes les paroles et [r] et donc effectivement ça fait partie de votre environnement quoi. [r] comme le chant des oiseaux, le chant des oiseaux c'était pas mal [bc] [dis=hes-] euh [-dis=hes] à part que je retiens pas le chant des oiseaux, je pourrais pas vous dire ce que fait [dis=rep-] un [-dis=rep] [r] un moineau par exemple.
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Philippe_DUFREIGNE 487.482 489.226 <o,f0,male> mais si, allez on essaye.
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Richard_ANCONINA 489.226 491.514 <o,f0,male> [rire_en_fond-] [pi] [dis=rep-] cui [-dis=rep] , cui [-rire_en_fond]
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Patrick_TIMSIT 491.514 494.305 <o,f0,male> [dis=rep-] c'est bien [-dis=rep] , c'est bien [rire_en_fond] [bc] c'est un tube ça ! [-musique]
+BFMTV_CultureEtVous_2012-10-24_064700 1 BFMTV_CultureEtVous_2012_10_24_064700_Philippe_DUFREIGNE 494.305 496.195 <o,f0,male> oui, [musique-] enfin on préfère quand même les vrais tubes &amp;hein. [-musique]
+BFMTV_CultureEtVous_2012-10-24_064700 1 inter_segment_gap 496.195 502.999 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-24_064700 1 excluded_region 502.999 1582.248 <o,,unknown> ignore_time_segment_in_scoring

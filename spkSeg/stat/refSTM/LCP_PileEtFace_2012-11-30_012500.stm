@@ -1,0 +1,59 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:29 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Vervisch_Ménard, version 12 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_PileEtFace_2012-11-30_012500 1 excluded_region 0.000 1576.470 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Herve_MARITON 1576.470 1591.225 <o,f0,male> je serai à Lyon [r] [dis=hes-] euh [-dis=hes] pour manifester. je suis un élu de la Drôme. je vais à Lyon, [r] [dis=hes-] euh [-dis=hes] manifester, mais la manifestation fait partie [r] [dis=hes-] euh [-dis=hes] du [dis=hes-] euh [-dis=hes] [r] droit de la démocratie. [r] nous lançons et nous lancerons des pétitions. [r] nous mènerons un combat farouche à l'Assemblée.
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Herve_MARITON 1591.225 1601.667 <o,f0,male> [r] je souhaite que nous le fassions sans insulter nos collègues socialistes, [r] sans insulter [r] des personnes [r] qui peuvent être demanderesses de ce qui leur *est proposé aujourd'hui. [bc] , [r] mais je souhaite aussi leur expliquer [r] que ce n'est
+LCP_PileEtFace_2012-11-30_012500 1 inter_segment_gap 1601.667 1602.470 <o,f0,> 
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Herve_MARITON 1602.470 1602.765 <o,f0,male> pas
+LCP_PileEtFace_2012-11-30_012500 1 inter_segment_gap 1602.765 1603.456 <o,f0,> 
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Herve_MARITON 1603.456 1617.018 <o,f0,male> bien pour elles et ce n'est pas leur intérêt, et ce n'est pas non plus l'intérêt de la société. [r] nous sommes [r] nous avons demandé, le PS, la majorité nous l'ont refusé, nous avons demandé un débat public. [r] [dis=hes-] euh [-dis=hes] pourquoi ? parce que nous sommes à la fois très forts dans nos convictions [r] et suffisamment optimistes que notre conviction puisse entraîner
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Herve_MARITON 1617.018 1620.108 <o,f0,male> [r] pour nous soumettre au débat public. mais on nous l'a refusé.
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Jean_Pierre_GRATIEN 1620.108 1628.716 <o,f0,male> &lt;pers=Patrick_BLOCHE&gt;Patrick Bloche&lt;/pers&gt;, est-ce qu'il reste encore à convaincre, à trouver les arguments, à expliquer face à cette population, une partie de la population qui serait hostile ?
+LCP_PileEtFace_2012-11-30_012500 1 inter_segment_gap 1628.716 1629.740 <o,f0,> 
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Jean_Pierre_GRATIEN 1629.740 1630.550 <o,f0,male> à ce texte de (loi) [bc]
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1630.550 1641.987 <o,f0,male> pense que le débat qui est devant nous, le débat parlementaire de la fin du mois de janvier, ne *revêtira pas le même caractère que le débat qu'il y a eu lors de l'adoption du PACS, il y a maintenant 13 ans.
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1641.987 1653.249 <o,f0,male> [r] parce que je pense que le débat, extrêmement violent, qui eut lieu, [dis=rep-] il y a [-dis=rep] il y a 13 ans. [r] a été, d'ailleurs de manière paradoxale, par le vote de la loi in fine [r] un débat, [dis=hes-] euh [-dis=hes] , [r] fondateur,
+LCP_PileEtFace_2012-11-30_012500 1 inter_segment_gap 1653.249 1653.863 <o,f0,> 
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1653.863 1667.720 <o,f0,male> qui a fait sauter beaucoup de verrous et surtout fait tomber beaucoup de [r] tabous. et la société française, [r] à travers un débat [b] dont elle s'est emparée et qui est sorti très rapidement [dis=hes-] euh [-dis=hes] [dis=rev-] *des [-dis=rev] de la seule enceinte [dis=hes-] euh [-dis=hes] [r] du palais Bourbon,
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1667.720 1681.151 <o,f0,male> [r] [dis=hes-] euh [-dis=hes] a changé son regard [r] sur l'homosexualité, [r] les homosexuels, [r] et bien entendu, [r] les couples de femmes et d'hommes. [r] et donc en l'occurrence, on va pas revivre le même débat parce que [bc] la société française n'a pas besoin d'un débat,
+LCP_PileEtFace_2012-11-30_012500 1 inter_segment_gap 1681.151 1681.720 <o,f0,> 
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1681.720 1686.324 <o,f0,male> pour se libérer des idées reçues qu'elle avait sans doute auparavant [r] sur l'homosexualité.
+LCP_PileEtFace_2012-11-30_012500 1 excluded_region 1686.324 1695.733 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Jean_Pierre_GRATIEN 1695.733 1696.831 <o,f0,male> entre les anti et les pro ?
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1696.831 1702.408 <o,f0,male> ce qui a fondalement changé, c'est que le débat pour le PACS a permis à nombre d'hommes et de femmes,
+LCP_PileEtFace_2012-11-30_012500 1 inter_segment_gap 1702.408 1703.143 <o,f0,> 
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1703.143 1703.830 <o,f0,male> ils me l'ont dit,
+LCP_PileEtFace_2012-11-30_012500 1 inter_segment_gap 1703.830 1704.797 <o,f0,> 
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1704.797 1707.782 <o,f0,male> et ils m'en ont remercié, d'ailleurs, [r] d'avoir pu avouer
+LCP_PileEtFace_2012-11-30_012500 1 inter_segment_gap 1707.782 1708.338 <o,f0,> 
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1708.338 1716.663 <o,f0,male> à leur mère, ou à leur père, à leurs parents, [r] donc, qu'ils étaient homosexuels, ce qu'ils ne pouvaient faire avant. [r] donc je pense pas qu'on va refaire le même débat. [r] et je ne
+LCP_PileEtFace_2012-11-30_012500 1 excluded_region 1716.663 1717.481 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1717.481 1729.345 <o,f0,male> ou je ne demande pas [r] à &lt;pers=Herve_MARITON&gt;Hervé [dis=rev-] ^^Mérit [-dis=rev] Mariton&lt;/pers&gt;, évidemment, [r] [dis=hes-] euh [-dis=hes] [b] de justifier les propos inacceptables de &lt;pers=Serge_DASSAULT&gt;Serge Dassault&lt;/pers&gt; hier. mais méfiez vous des manifestations de monsieur &lt;pers=Herve_MARITON&gt;Mariton&lt;/pers&gt;, [r] parce que quelque part, elles vous échappent.
+LCP_PileEtFace_2012-11-30_012500 1 inter_segment_gap 1729.345 1729.875 <o,f0,> 
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1729.875 1734.691 <o,f0,male> et ce serait terrible pour vous, pour la société française, qu'en 2012,
+LCP_PileEtFace_2012-11-30_012500 1 excluded_region 1734.691 1735.598 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Patrick_BLOCHE 1735.598 1740.349 <o,f0,male> 98 vous participiez à une manifestation où on crie : « les pédés au bûcher ».
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Herve_MARITON 1740.349 1742.286 <o,f0,male> [bc-] ce n'est pas [-bc] la démarche s'il vous arrive de manifester ? nous en avons
+LCP_PileEtFace_2012-11-30_012500 1 excluded_region 1742.286 1744.655 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Jean_Pierre_GRATIEN 1744.655 1747.974 <o,f0,male> &lt;pers=Patrick_BLOCHE&gt;Patrick Bloche&lt;/pers&gt;, on vous l'avait promis, vous venez de l'avoir. merci, grand merci à tous les deux,
+LCP_PileEtFace_2012-11-30_012500 1 excluded_region 1747.974 1748.357 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-11-30_012500 1 LCP_PileEtFace_2012_11_30_012500_Jean_Pierre_GRATIEN 1748.357 1753.534 <o,f0,male> (par)ticipé à ce "pile et face". prochain "pile et face", ça sera la semaine prochaine. même place, [r] même heure. à bientôt !
+LCP_PileEtFace_2012-11-30_012500 1 inter_segment_gap 1753.534 1754.145 <o,f0,> 
+LCP_PileEtFace_2012-11-30_012500 1 excluded_region 1754.145 2099.568 <o,,unknown> ignore_time_segment_in_scoring

@@ -1,0 +1,55 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Gwendo, version 7 of 131014
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-12-10_064700 1 excluded_region 0.000 337.000 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Damien_GOURLET 337.000 346.336 <o,f0,male> ce matin *dans culture et vous, &lt;pers=Fabrice_LUCHINI&gt;Fabrice Luchini&lt;/pers&gt; en prince de la dédicace, Noir Désir de "Tostaky" qui est toujours aussi efficace. [r] mais d'abord les Stones bien vivaces, &lt;pers=Claire_FLEURY&gt;Claire Fleury&lt;/pers&gt;, &lt;pers=Remi_PERROT&gt;Rémi Perrot&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 346.336 346.984 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 346.984 348.377 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Claire_FLEURY 348.377 351.459 <o,f0,female> [musique-] ça y est, les Stones ont posé leurs amplis aux Etats-Unis. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 351.459 355.184 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Claire_FLEURY 355.184 361.229 <o,f0,female> [musique-] premier concert à New York, et comme à Londres, les papys rockeurs prouvent qu'ils sont dans une forme olympique. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 361.229 361.987 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Claire_FLEURY 361.987 368.988 <o,f0,female> [musique-] d'ailleurs, ils viennent d'annoncer leur participation mercredi à un concert en faveur des victimes de l'ouragan Sandy. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 368.988 370.956 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_speaker_3 370.956 372.180 <o,f0,female> [musique-] encore du rock. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 372.180 376.060 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 excluded_region 376.060 387.793 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 387.793 389.192 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Claire_FLEURY 389.192 399.387 <o,f0,female> [musique-] mais attention faut pas s'emballer, au programme aucun nouveau morceau, [r] seulement des versions inédites des tubes du groupe. [r] ce qui ravira au moins les fans, les plus accros. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 399.387 399.894 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_speaker_3 399.894 401.139 <o,f0,female> [musique-] irrésistible. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 401.139 402.027 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Claire_FLEURY 402.027 409.368 <o,f0,female> [musique-] les dédicaces habituellement c'est pas son truc ! alors quand il se prête à l'exercice &lt;pers=Fabrice_LUCHINI&gt;Fabrice Luchini&lt;/pers&gt;, le fait, à fond. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 409.368 410.698 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Claire_FLEURY 410.698 412.959 <o,f0,female> [musique-] un mot sympa pour tout le monde. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Fabrice_LUCHINI 412.959 414.114 <o,f0,male> [b-] hé, sosie d'&lt;pers=Daniel_AUTEUIL&gt;Auteuil&lt;/pers&gt;!
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_speaker_5 414.114 415.062 <o,f0,male> mais franchement vous
+BFMTV_CultureEtVous_2012-12-10_064700 1 excluded_region 415.062 415.538 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Fabrice_LUCHINI 415.538 416.316 <o,f0,male> parole, parole !
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_speaker_5 416.316 416.884 <o,f0,male> [rire]
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Fabrice_LUCHINI 416.884 418.579 <o,f0,male> avec les femmes, gros succès ?
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 418.579 419.392 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_speaker_5 419.392 420.276 <o,f0,male> [rire_en_fond-] pas vraiment ! [-rire_en_fond] [-b]
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 420.276 421.719 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Claire_FLEURY 421.719 432.772 <o,f0,female> [musique-] bon les flatteries, ça ne marche pas à tous les coups, [r] mais vous pouvez faire confiance à &lt;pers=Fabrice_LUCHINI&gt;Fabrice&lt;/pers&gt; pour livrer dans ce DVD une version inoubliable des fables de &lt;pers=Jean_DE_LA_FONTAINE&gt;La Fontaine&lt;/pers&gt;, [r] et en plus, [r] c'est donné. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Fabrice_LUCHINI 432.772 436.819 <o,f0,male> 23 euros, [b] une femme de ménage très haut de gamme [musique-] c'est 13,14, dans le seizième. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Claire_FLEURY 436.819 442.722 <o,f0,female> [musique-] et comme pour pratiquement le même prix, on peut avoir un &lt;pers=Fabrice_LUCHINI&gt;Fabrice Luchini&lt;/pers&gt; à la maison, [r] faudrait pas se priver. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 BFMTV_CultureEtVous_2012_12_10_064700_Fabrice_LUCHINI 442.722 444.963 <o,f0,male> [musique-] amitiés, BFM. [-musique]
+BFMTV_CultureEtVous_2012-12-10_064700 1 inter_segment_gap 444.963 447.000 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-10_064700 1 excluded_region 447.000 823.656 <o,,unknown> ignore_time_segment_in_scoring

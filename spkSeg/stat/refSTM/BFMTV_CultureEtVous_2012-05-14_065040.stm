@@ -1,0 +1,60 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:25 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 6 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 0.000 84.954 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 84.954 85.587 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Pascale_DE_LA_TOUR_DU_PIN 85.587 90.214 <o,f0,female> bien alors donc le showbiz avec la sortie aujourd'hui du nouvel album [dis=hes-] euh [-dis=hes] de Gossip *joyful
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 90.214 91.131 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Pascale_DE_LA_TOUR_DU_PIN 91.131 91.441 <o,f0,female> toy
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 91.441 91.710 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Christophe_DELAY 91.710 91.964 <o,f0,male> joy
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 91.964 92.518 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 92.518 95.651 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 95.651 96.363 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Christophe_DELAY 96.363 97.281 <o,f0,male> (É)tats-unis, oui
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 97.281 97.698 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Pascale_DE_LA_TOUR_DU_PIN 97.698 98.357 <o,f0,female> [b] il a suivi la
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 98.357 98.737 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Pascale_DE_LA_TOUR_DU_PIN 98.737 106.047 <o,f0,female> tous les épisodes, &amp;hein, surtout Bree. [r] et une autre sortie musicale aujourd'hui [r] le nouvel album de &lt;pers=Mathieu_LADEVEZE&gt;Barcella&lt;/pers&gt; un jeune *artiste français !
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Christophe_DELAY 106.047 106.728 <o,f0,male> &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 106.728 113.769 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 113.769 128.150 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Philippe_DUFREIGNE 128.150 130.523 <o,f0,male> plus proche aussi de la pop internationale
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 130.523 133.694 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Philippe_DUFREIGNE 133.694 138.687 <o,f0,male> bon en revanche pour le côté glamour évidemment on vous rassure, l'emblématique chanteuse n'a pas changé.
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 138.687 139.510 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Beth_DITTO 139.510 139.874 <o,f5,female> [b]
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 139.874 140.997 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 140.997 142.152 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_speaker_6 142.152 143.102 <o,f0,female> au revoir.
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 143.102 144.399 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 144.399 157.916 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 157.916 158.343 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 158.343 159.356 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 159.356 159.846 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 159.846 162.773 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Felicity_HUFFMAN 162.773 163.280 <o,f5,female> Lynette !
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 163.280 167.600 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 167.600 168.723 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_speaker_6 168.723 170.432 <o,f0,female> [b-] attention, nouveau talent.
+BFMTV_CultureEtVous_2012-05-14_065040 1 inter_segment_gap 170.432 171.730 <o,f0,> 
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Mathieu_LADEVEZE 171.730 174.867 <o,f0,male> [b-] excusez ma chère demoiselle si je vous importune, mais
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Philippe_DUFREIGNE 174.867 186.092 <o,f0,male> un clin d'oeil pour un jeune talent qui sort son disque, Charabia, aujourd'hui, il s'appelle &lt;pers=Mathieu_LADEVEZE&gt;Barcella&lt;/pers&gt;, [r] auteur, compositeur, interprète originaire de Reims. il propose une musique entre balade, hip-hop et chanson rigolote.
+BFMTV_CultureEtVous_2012-05-14_065040 1 BFMTV_CultureEtVous_2012_05_14_065040_Mathieu_LADEVEZE 186.092 194.146 <o,f0,male> et je suppose ma douce que votre sang est une sève, [r] qui ne se marie point avec des ambiances trop feutrées, sachez que j'aime fuir la réalité. [-b]
+BFMTV_CultureEtVous_2012-05-14_065040 1 excluded_region 194.146 419.112 <o,,unknown> ignore_time_segment_in_scoring

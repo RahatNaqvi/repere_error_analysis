@@ -1,0 +1,78 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:27 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 12 of 140310
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 0.000 1694.278 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Christophe_BORGEL 1694.278 1696.991 <o,f0,male> [b-] [r] ce que nous avons promis c'est que ce redressement se ferait
+LCP_CaVousRegarde_2012-09-20_002500 1 inter_segment_gap 1696.991 1697.403 <o,f0,> 
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Christophe_BORGEL 1697.403 1712.069 <o,f0,male> dans une volonté de justice [r] avec un effort qui sera demandé [r] d'abord à ceux qui ont plus. [r] et donc si je veux appuyer cette dynamique, c'est parce que elle est rééquilibrée [r] parce que il y a une réorientation de la politique européenne
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Christophe_BORGEL 1712.069 1715.141 <o,f0,male> [r] et je crois qu'on est en train d'entraîner l'Europe sur une autre voie [-b]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Arnaud_ARDOIN 1715.141 1715.625 <o,f0,male> [r] &lt;pers=Christophe_BORGEL&gt;Christophe Bor(gel)&lt;/pers&gt; !
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Christophe_BORGEL 1715.625 1725.502 <o,f0,male> [b-] [bc] et soit on le pense alors dans ce cas-là, il faut appuyer cette dynamique, [r] [bc-] soit on le conteste [-bc] mais je crains qu'on ne revienne [r] [bc-] à la seule [-bc] logique d'austérité qui était [bc-] portée hier par Madame [-bc] &lt;pers=Angela_MERKEL&gt;Merkel&lt;/pers&gt; et Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sar(kozy)&lt;/pers&gt; [-b]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Arnaud_ARDOIN 1725.502 1734.126 <o,f0,male> &lt;pers=Christophe_BORGEL&gt;Christophe Borgel&lt;/pers&gt; [bc-] [dis=hes-] euh [-dis=hes] [-bc] en tout cas merci parce que vous étiez en direct de Dijon à l'occasion [bc-] [dis=rep-] de [-dis=rep] de ces journées [-bc] parlementaires. [b] vous reviendrez débattre avec nous en plateau, c'est beaucoup plus [b-] simple évidemment d'avoir vos interlocuteurs [-b]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Christophe_BORGEL 1734.126 1734.553 <o,f0,male> [r] avec plais(ir).
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Arnaud_ARDOIN 1734.553 1742.747 <o,f0,male> [bc] qui ne partagent pas complètement votre point de vue mais [r] en tout cas merci, merci d'avoir répondu à nos questions en direct. &lt;pers=Florian_PHILIPPOT&gt;Florian Philippot&lt;/pers&gt;, qu'est-ce que vous répondez pour avancer un petit peu [r]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Arnaud_ARDOIN 1742.747 1750.230 <o,f0,male> parce que moi j'y comprends plus rien, journaliste j'ai lu que &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; avait quand même fait avancer un certain nombre de points, on a entendu [b] [dis=rep-] des [r] des des [-dis=rep] des chefs d'états parler de croissance, de dire que [b] [r]
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1750.230 1752.367 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Arnaud_ARDOIN 1752.367 1753.438 <o,f0,male> infléchi ou est-ce qu'il a
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1753.438 1754.343 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Florian_PHILIPPOT 1754.343 1755.930 <o,f0,male> vient du ministre des affaires européennes lui-même [bc]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Arnaud_ARDOIN 1755.930 1756.470 <o,f0,male> énerve tout le monde !
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Florian_PHILIPPOT 1756.470 1767.009 <o,f0,male> [b-] qui a dit [-b] nous nous sommes [dis=hes-] euh [-dis=hes] nous nous sommes trompés pendant la campagne, nous n'aurions pas dû dire que nous allions renégocier [dis=rep-] le tr(aité) [-dis=rep] le traité mais tenter de le réorienter. voilà donc ils ont avoué, [r] y a pas de renégociation [r] mais au-delà de ça [r]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Florian_PHILIPPOT 1767.009 1780.474 <o,f0,male> je voudrais [b] quand même faire un bilan aussi parce qu'on nous dit toujours [r] on nous promet toujours le coup d'après. [dis=hes-] euh [-dis=hes] allez, prenez ce traité, il est pas terrible, il est pas parfait mais vous verrez le suivant il sera parfait. [r] on nous a fait le coup depuis 20 ans tout de même &amp;hein [r] et demain l'Europe sociale, c'était le slogan du parti socialiste [r]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Florian_PHILIPPOT 1780.474 1794.421 <o,f0,male> partagé d'ailleurs [b] à l'époque déjà par le RPR [r] [dis=rep-] et [-dis=rep] et je vois que l'UMP essaye de créer un faux débat sur ce sujet-là alors qu'ils sont parfaitement d'accord et qu'ils voteront ensemble [r] comme d'habitude [bc] [r] ce traité. [r] je reprends juste une citation, c'est assez drôle ça vient du " bêtisier de Maastricht " [bc] ça a été écrit par &lt;pers=Jean-Pierre_CHEVENEMENT&gt;Jean-Pierre Chevènement&lt;/pers&gt;. [r] &lt;pers=Michel_SAPIN&gt;Michel Sapin&lt;/pers&gt; [r]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Florian_PHILIPPOT 1794.421 1804.411 <o,f0,male> le traité de Maastricht se traduira par plus de croissance, plus d'emplois, plus de solidarité [r] le Figaro du 20 août 1992. [r] &lt;pers=Martine_AUBRY&gt;Martine Aubry&lt;/pers&gt;, [r] le 12 septembre 1992 [r]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Florian_PHILIPPOT 1804.411 1810.431 <o,f0,male> l'Europe ce sera plus d'emploi, [r] plus de protection sociale [r] et moins d'exclusion [r] et même &lt;pers=Bernard_KOUCHNER&gt;Bernard Kouchner&lt;/pers&gt; lui il est assez drôle [bc]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Arnaud_ARDOIN 1810.431 1811.060 <o,f0,male> bon fin des citations
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Florian_PHILIPPOT 1811.060 1812.727 <o,f0,male> [bc-] le 8 septembre [-bc] 92, la dernière
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1812.727 1815.070 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Florian_PHILIPPOT 1815.070 1822.995 <o,f0,male> rit beaucoup plus mais je crois que les français pleurent [r] parce que cette Europe-là, c'est l'Europe de l'austérité [r] et c'est l'Europe de moins de démocratie, [r] moins de souveraineté nationale parce qu'il faut rentrer dans le conte(nu)
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1822.995 1828.024 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Henri_STERDYNIAK 1828.024 1834.734 <o,f0,male> [bc-] je pense [-bc] que nous sommes tous d'accord pour dire qu'il aurait fallu [r] une rupture franche dans la stratégie européenne
+LCP_CaVousRegarde_2012-09-20_002500 1 inter_segment_gap 1834.734 1835.594 <o,f0,> 
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Henri_STERDYNIAK 1835.594 1846.392 <o,f0,male> sur à ces rapports. il aurait fallu effectivement [r] un vrai pacte de croissance. [r] il aurait fallu renoncer [r] à des politiques d'austérité [r] [bc-] qui plombent [dis=rep-] complétement [-dis=rep] [r] complètement l'Europe [-bc]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Florian_PHILIPPOT 1846.392 1847.073 <o,f0,male> et en plus des poli(tiques)
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1847.073 1850.188 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Henri_STERDYNIAK 1850.188 1857.767 <o,f0,male> BCE de soutenir les pays sans leur imposer [bc-] comme elle le fait [-bc] actuellement [r] des politiques d'austérité [bc] [r] [dis=rep-] le fait est [-dis=rep] le fait [bc-] est
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Henri_STERDYNIAK 1857.767 1864.205 <o,f0,male> [-bc] le fait est que la France n'a pas réussi malheureusement [bc] [r] à avoir le rapport de force [bc] en Europe [r] et
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1864.205 1871.469 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Henri_STERDYNIAK 1871.469 1873.970 <o,f0,male> parce que tous les deux, &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; comme &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; avaient la
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1873.970 1876.098 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Henri_STERDYNIAK 1876.098 1877.491 <o,f0,male> puisse réussir à changer l'Europe.
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1877.491 1880.244 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Arnaud_ARDOIN 1880.244 1880.775 <o,f0,male> &lt;pers=Pierre_LELLOUCHE&gt;Pierre Lellou(che)&lt;/pers&gt;
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1880.775 1881.567 <o,f0,male> les slogans [pi]
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1881.567 1884.337 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1884.337 1885.948 <o,f0,male> [bc] attendez est-ce [b] qu'on peut juste parler des faits.
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1885.948 1888.384 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1888.384 1891.391 <o,f0,male> cette année [bc-] Monsieur &lt;pers=Florian_PHILIPPOT&gt;Philippot&lt;/pers&gt; [-bc] et vous monsieur l'économiste [r]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1891.391 1902.428 <o,f0,male> vous ne pouvez pas ne pas *savoir que la France [r] va devoir emprunter 60 milliards, c'est un déficit [bc] [r] plus 90 qui viennent à échéance 90, 100. [r] [bc-] en réalité on a [-bc] arrêtez, s'il vous plait !
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1902.428 1910.564 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1910.564 1918.324 <o,f0,male> sans arrêt. [b] [r] donc le problème de &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; aujourd'hui c'est quoi ? c'est qu'au minimum il doit aller sur les marchés chercher 150 milliards d'euros l'année prochaine.
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1918.324 1926.792 <o,f0,male> [r] si il ne tient pas les engagements de baisse des déficits [dis=rep-] et d() [-dis=rep] et d'une trajectoire vertueuse, [r] les taux d'intérêt qui sont très bas aujourd'hui vont exploser.
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1926.792 1927.476 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1927.476 1932.519 <o,f0,male> se trouver [r] avec des taux d'intérêt italiens ou espagnols [bc] [r] [dis=rep-] qui va [-dis=rep] qui va tomber la
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1932.519 1943.989 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1943.989 1950.437 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1950.437 1956.282 <o,f0,male> [b] dette, elle est détenue par les ménages japonais. [r] la dette [bc] française, malheureusement, est détenue par les marchés, [r] c'est ça la grande
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1956.282 1962.185 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1962.185 1974.785 <o,f0,male> je vous en prie, juste un point. [bc] [r] pourquoi est-ce que [dis=rep-] on [-dis=rep] on accuse de [r] la France de s'être couchée face à l'Allemagne. [bc] là [dis=rep-] on a [-dis=rep] on a vu des livres de Monsieur &lt;pers=Arnaud_MONTEBOURG&gt;Montebourg&lt;/pers&gt; dénoncer l'Allemagne, on continue à dire qu'il y a une logique allemande [r]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1974.785 1980.112 <o,f0,male> [bc] quel c'est quoi le problème ? [dis=rep-] mais [-dis=rep] mais c'est quoi le problème ? c'est que l'Allemagne, elle est en excédent commercial [r]
+LCP_CaVousRegarde_2012-09-20_002500 1 LCP_CaVousRegarde_2012_09_20_002500_Pierre_LELLOUCHE 1980.112 1990.220 <o,f0,male> c'est le premier pays [bc-] exportateur du monde [-bc] , [r] elle dégage des excédents, [r] elle est au plein emploi [r] et en effet, elle est contre l'idée d'aller [r] [bc-] financer à fond perdu [-bc]
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1990.220 1994.984 <o,,unknown> ignore_time_segment_in_scoring
+LCP_CaVousRegarde_2012-09-20_002500 1 excluded_region 1994.984 3300.384 <o,,unknown> ignore_time_segment_in_scoring

@@ -1,0 +1,45 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:25 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 4 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-02-20_065040 1 excluded_region 0.000 265.262 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Francois_Xavier_MENAGE 265.262 269.388 <o,f0,male> [musique-] " culture et vous " on va parler des oscars avec &lt;pers=Glenn_CLOSE&gt;Glenn Close&lt;/pers&gt; habillée en monsieur
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Celine_PITELET 269.388 271.730 <o,f0,female> [r] du dernier adieu à &lt;pers=Whitney_HOUSTON&gt;Whitney Houston&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Francois_Xavier_MENAGE 271.730 276.129 <o,f0,male> et puis de l'énorme cagnotte [r] récoltée par le film [dis=hes-] euh euh [-dis=hes] &amp;ben c'est quoi d'ailleurs ce fil(m)
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Celine_PITELET 276.129 276.623 <o,f0,female> [bc-] intouchables [-bc]
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Francois_Xavier_MENAGE 276.623 277.585 <o,f0,male> mais oui bien sûr
+BFMTV_CultureEtVous_2012-02-20_065040 1 excluded_region 277.585 278.661 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-20_065040 1 inter_segment_gap 278.661 280.765 <o,f0,> 
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Philippe_DUFREIGNE 280.765 294.016 <o,f0,male> elle fait partie des nommées à l'oscar de la meilleure actrice, &lt;pers=Glenn_CLOSE&gt;Glenn Close&lt;/pers&gt; était sur tapis rouge à Paris pour présenter "Albert Nobbs", [r] film dans lequel elle incarne une femme qui décide de se déguiser en homme au dix-neuvième siècle pour gagner sa vie, [r] alors est-ce qu'elle pense qu'elle va décrocher l'oscar
+BFMTV_CultureEtVous_2012-02-20_065040 1 excluded_region 294.016 295.056 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-20_065040 1 excluded_region 295.056 296.021 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-20_065040 1 inter_segment_gap 296.021 296.812 <o,f0,> 
+BFMTV_CultureEtVous_2012-02-20_065040 1 excluded_region 296.812 309.977 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-20_065040 1 excluded_region 309.977 312.296 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-20_065040 1 inter_segment_gap 312.296 315.405 <o,f0,> 
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Philippe_DUFREIGNE 315.405 329.416 <o,f0,male> [musique-] la famille aura tout fait pour préserver son intimité, que ce soit au départ du funérarium ou à l'arrivée au cimetière de Westfield, [r] &lt;pers=Whitney_HOUSTON&gt;Whitney Houston&lt;/pers&gt; a été enterrée hier près de son père, à l'abri du regard des curieux grâce à une grande bâche [r] qui recouvrait l'allée de sa sépulture
+BFMTV_CultureEtVous_2012-02-20_065040 1 inter_segment_gap 329.416 330.169 <o,f0,> 
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_speaker_7 330.169 331.658 <o,f0,female> &lt;pers=Johnny_HALLYDAY&gt;Johnny&lt;/pers&gt; abandonne
+BFMTV_CultureEtVous_2012-02-20_065040 1 inter_segment_gap 331.658 332.619 <o,f0,> 
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Philippe_DUFREIGNE 332.619 345.960 <o,f0,male> &lt;pers=Johnny_HALLYDAY&gt;Johnny&lt;/pers&gt; contre le docteur &lt;pers=Stephane_DELAJOUX&gt;Delajoux&lt;/pers&gt; c'est fini, un accord global a été signé entre le chanteur, le chirurgien qui l'avait opéré [r] et les assureurs ; les avocats de &lt;pers=Johnny_HALLYDAY&gt;Johnny&lt;/pers&gt; avaient lancé une action contre le médecin devant le conseil de l'ordre, [r] ils viennent officiellement de s'en désister [-musique]
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_speaker_7 345.960 348.367 <o,f0,female> [musique-] "intouchables" rapporte beaucoup
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Philippe_DUFREIGNE 348.367 361.490 <o,f0,male> [-musique] [musique-] un nouveau record pour le film d'&lt;pers=Eric_TOLEDANO&gt;Eric Toledano&lt;/pers&gt; et &lt;pers=Olivier_NAKACHE&gt;Olivier Nakache&lt;/pers&gt;, selon une enquête du "film français", "intouchables" est désormais le film le plus rentable de la décennie, [r] avec un taux de rentabilité de 602%, [r] contre 565%
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Philippe_DUFREIGNE 361.490 373.727 <o,f0,male> pour le "bienvenue chez les Chtis" de &lt;pers=Dany_BOON&gt;Dany Boon&lt;/pers&gt;, [r] "la guerre est déclarée" prend la seconde place du classement pour l'année 2011, loin derrière, avec 150,2% , [-musique] [bc] [r] le flop le plus spectaculaire de l'année [r] c'est "l'or noir" [musique-] de &lt;pers=Jean-Jacques_ANNAUD&gt;Jean-Jacques Annaud&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-02-20_065040 1 BFMTV_CultureEtVous_2012_02_20_065040_Philippe_DUFREIGNE 373.727 377.943 <o,f0,male> plus de 38 millions d'euros pour une rentabilité de 1,73%
+BFMTV_CultureEtVous_2012-02-20_065040 1 inter_segment_gap 377.943 379.146 <o,f0,> 
+BFMTV_CultureEtVous_2012-02-20_065040 1 excluded_region 379.146 419.856 <o,,unknown> ignore_time_segment_in_scoring

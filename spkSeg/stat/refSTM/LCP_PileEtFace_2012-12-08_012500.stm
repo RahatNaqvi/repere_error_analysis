@@ -1,0 +1,61 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:29 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Yann, version 11 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 0.000 628.883 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Catherine_VAUTRIN 628.883 638.329 <o,f0,female> vous savez, comme moi, que la mobilité n'est pas aussi simple que ça [r] et dire [bc] à quelqu'un de 50 ans : « vous déménagez demain matin. votre femme a un boulot ? &amp;bah écoutez, [r] on va essayer d'en trouver un autre. vous avez acheté une maison ? &amp;bah dommage, tant pis, on fait autre chose ".
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Catherine_VAUTRIN 638.329 652.800 <o,f0,female> [r] c'est facile à dire, c'est pas facile à vivre. à partir de là, [r] il faut, [r] et c'est là-dessus qu'on a également un sujet, [r] qui est le sujet de l'accompagnement des personnes qui sont en recherche d'emploi, [r] avec de vraies formations [r] qui leur permettent d'aller vers autre chose [r]
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Catherine_VAUTRIN 652.800 660.527 <o,f0,female> là-dessus, aujourd'hui, [r] il y a une difficulté dans notre pays [r] et, [dis=rev-] au [-dis=rev] à ce que je vois dans ce que vous proposez aujourd'hui, [r] il n'y a pas d'évolution proposée.
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 660.527 672.833 <o,f0,female> alors je, (en)fin [b] [dis=rev-] d(e) [-dis=rev] [dis=rep-] s(ur) [-dis=rep] sur ce point là [dis=rep-] je [r] je [-dis=rep] [dis=hes-] euh [-dis=hes] je pense sincèrement que la négociation générale qui est en train de se mettre en place sur la formation professionnelle [r] [dis=hes-] euh [-dis=hes] apportera beaucoup [dis=hes-] euh [-dis=hes] de réponses au point [dis=rep-] que [-dis=rep] que vous soulevez [r] mais je voudrais
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 672.833 673.384 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Jean_Pierre_GRATIEN 673.384 675.088 <o,f0,male> parce que c'est pas des négociations sur la f(ormation)
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 675.088 675.353 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Jean_Pierre_GRATIEN 675.353 677.419 <o,f0,male> formation professionnelle. c'est un des points
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Catherine_VAUTRIN 677.419 677.613 <o,f0,female> c'est
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 677.613 678.722 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 678.722 679.670 <o,f0,female> c'est un point fondamen(tal)
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 679.670 680.575 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Jean_Pierre_GRATIEN 680.575 681.584 <o,f0,male> sécuriser
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 681.584 682.132 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Jean_Pierre_GRATIEN 682.132 683.086 <o,f0,male> parcours profe(ssionnel)
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 683.086 683.678 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 683.678 695.650 <o,f0,female> c'est un point fondamental. c'est-à-dire que, [r] [dis=hes-] euh [-dis=hes] [dis=rep-] j(e) [-dis=rep] je comprends les propos de madame &lt;pers=Catherine_VAUTRIN&gt;Vautrin&lt;/pers&gt;, qu'elle ne s'aligne pas sur [dis=rev-] la [-dis=rev] [dis=rep-] l(es) les les [-dis=rep] les réclamations [dis=hes-] euh [-dis=hes] du MEDEF et d'autres *organisations patronales qui veulent [dis=rep-] la flexibilité, la flexibilité [-dis=rep] , la flexibilité, rien que la flexibilité.
+LCP_PileEtFace_2012-12-08_012500 1 inter_segment_gap 695.650 696.313 <o,f0,> 
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 696.313 702.456 <o,f0,female> sur ce point-là, si vous êtes d'accord avec cette idée-là, [r] [dis=hes-] euh [-dis=hes] [dis=rev-] on va s(e) on va [-dis=rev] [dis=rep-] on on [-dis=rep] on va trouver un point [dis=hes-] euh [-dis=hes] d'entente, c'est-à-dire que [r]
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 702.456 715.382 <o,f0,female> si on fait évoluer le droit du travail [r] ça signifie que, du côté des salariés, [r] on doit faire aussi évoluer [r] la protection, [b] le droit à la formation [r] et la sécurisation sur l'ensemble du parcours [dis=hes-] euh [-dis=hes] et [dis=rev-] de l(a) [-dis=rev] du parcours professionnel. [r]
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 715.382 716.232 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Jean_Pierre_GRATIEN 716.232 716.576 <o,f0,male> (ga)gnant
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 716.576 729.758 <o,f0,female> [dis=rev-] c'est don(nant) [-dis=rev] en tout cas c'est donnant-donnant. je sais pas si c'est gagnant-gagnant, à ce stade [r] c'est donnant-donnant [b] [r] et je suis très gênée [b] , moi, [r] quand j'entends [dis=hes-] euh [-dis=hes] l'opposition expliquer que la seule solution c'est [dis=hes-] euh [-dis=hes] la flexibilisation du marché du travail [dis=hes-] euh [-dis=hes] [r] [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 729.758 737.169 <o,f0,female> [dis=hes-] euh [-dis=hes] monsieur &lt;pers=Francois_FILLON&gt;Fillon&lt;/pers&gt; [b] a parlé de faire passer [dis=rev-] le [-dis=rev] [dis=rep-] la [-dis=rep] la durée du travail à 48 heures par semaine. j'ai pas très bien compris ce qui lui prenait ce jour-là. [r] c'était avant la bagarre interne. [r]
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 737.169 741.512 <o,f0,female> mais [dis=rev-] c'(est) [-dis=rev] . enfin, [dis=rep-] on [-dis=rep] on n'est pas [dis=rep-] dans un [-dis=rep] dans un monde [r] où [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 741.512 748.185 <o,f0,female> la solution c'est de faire exploser le droit du travail et puis d'attendre que le salarié, [r] ou la personne au chômage se débrouille toute seu(le)
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 748.185 749.697 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Jean_Pierre_GRATIEN 749.697 756.120 <o,f0,male> il faut donner du côté [dis=rev-] des s(alariés) [-dis=rev] des employeurs plus de facilité pour se séparer, le cas échéant, de salariés mais en cont(repartie)
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 756.120 757.985 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Jean_Pierre_GRATIEN 757.985 759.671 <o,f0,male> (salar)ié. qu'il y ait une sécurisat(ion)
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 759.671 760.704 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Jean_Pierre_GRATIEN 760.704 761.345 <o,f0,male> tout au long de la vie
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 761.345 762.130 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 762.130 774.647 <o,f0,female> PME demandent surtout la capacité de pouvoir [r] s'adapter en cas de choc économique. quand votre chiffre d'affaire [r] fait moins 40%, comme ça a été le cas à l'automne 2008 dans certains secteurs, [r] il faut pouvoir proposer une solution d'adaptation [r] [dis=hes-] euh [-dis=hes] à ses équipes salariales. [r]
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 774.647 784.008 <o,f0,female> [dis=rep-] en échange [-dis=rep] en échange, [b] et je tiens à préciser que cet « en échange » [r] est [dis=hes-] euh [-dis=hes] absolument fondamental, on est sur [dis=rev-] la même [-dis=rev] [dis=hes-] euh [-dis=hes] le *même niveau, [r] en échange : [r] droit à la formation
+LCP_PileEtFace_2012-12-08_012500 1 inter_segment_gap 784.008 784.517 <o,f0,> 
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Karine_BERGER 784.517 794.123 <o,f0,female> avec la responsabilité du salarié [dis=rep-] qui [-dis=rep] qui choisit sa formation, [r] sécurisation sur l'ensemble [dis=hes-] euh [-dis=hes] [dis=rep-] d(e) [-dis=rep] du parcours de vie et puis [dis=hes-] euh [-dis=hes] [r] d'autres éléments notamment sur les contrats précaires
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Catherine_VAUTRIN 794.123 808.239 <o,f0,female> alors là-dessus il y a plusieurs éléments, d'abord je vais vous citer [bc] (quel)qu'un qui est pas connu pour son appartenance à l'UMP, c'est madame &lt;pers=Segolene_ROYAL&gt;Royal&lt;/pers&gt;, qui elle-même disait dans un débat il y a peu de temps : [r] « l'embauche, elle est liée au carnet de commandes ». et ça c'est le vrai sujet, [bc-] hum [-bc] donc il y a bien sûr une nécessité de flexibilité, je suis heureuse [bc] de vous entendre d(ire)
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 808.239 808.984 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-12-08_012500 1 LCP_PileEtFace_2012_12_08_012500_Jean_Pierre_GRATIEN 808.984 811.311 <o,f0,male> vous allez nous *citer [dis=hes-] euh [-dis=hes] &lt;pers=Gerhard_SCHRODER&gt;Gerhard Schröder&lt;/pers&gt;
+LCP_PileEtFace_2012-12-08_012500 1 excluded_region 811.311 2064.672 <o,,unknown> ignore_time_segment_in_scoring

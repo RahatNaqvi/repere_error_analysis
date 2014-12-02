@@ -1,0 +1,52 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:25 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 9 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-10-05_064700 1 excluded_region 0.000 432.999 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-05_064700 1 inter_segment_gap 432.999 434.693 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Christophe_DELAY 434.693 438.416 <o,f0,male> ce matin nous avons &lt;pers=Roger_MOORE&gt;Roger Moore&lt;/pers&gt; en séance de dédicace sur les Champs-Elysées.
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Pascale_DE_LA_TOUR_DU_PIN 438.416 441.965 <o,f0,female> [r] nous avons également une BD intégrale des oeuvres d'&lt;pers=Albert_UDERZO&gt;Uderzo&lt;/pers&gt; présentée à la presse.
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Christophe_DELAY 441.965 446.485 <o,f0,male> et puis la onzième édition [bc] de la nuit blanche, c'est demain soir à Paris. &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-10-05_064700 1 inter_segment_gap 446.485 448.924 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 448.924 452.322 <o,f0,male> c'était l'événement hier soir à Paris. ils attendaient tous depuis :
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_speaker_4 452.322 454.059 <o,f0,male> [dis=rep-] 2h [-dis=rep] , 2h que j'attends oui
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 454.059 456.096 <o,f0,male> ça par exemple [r] mais pourquoi ?
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_speaker_5 456.096 457.568 <o,f0,male> je suis venu rencontrer &lt;pers=Roger_MOORE&gt;Roger Moore&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 457.568 458.820 <o,f0,male> &amp;ah le James Bond ?
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_speaker_5 458.820 459.402 <o,f0,male> oui
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 459.402 459.929 <o,f0,male> en vrai ?
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_speaker_5 459.929 460.608 <o,f0,male> [dis=rep-] oui [-dis=rep] , oui.
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 460.608 463.568 <o,f0,male> &amp;ah &amp;bah c'est lui. autant dire que les fans étaient dans tous leurs états.
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_speaker_6 463.568 465.649 <o,f0,male> c'est pas mon préféré mais dans mon top 3.
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 465.649 476.501 <o,f0,male> oui c'est à peu près ce que je disais [r] le héros mythique venait dédicacer son livre qui sort à l'occasion des 50 ans des films de James Bond. la dédicace n'est pas personnalisée mais du haut de ses 84 ans, [r] il a encore la forme.
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_speaker_7 476.501 480.872 <o,f0,female> j'ai ma photo avec lui, c'est déjà pas mal à son âge qu'il soit là et qu'il les signe.
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 480.872 484.514 <o,f0,male> et puis de toute façon &lt;pers=Roger_MOORE&gt;Roger Moore&lt;/pers&gt;, qu'on se le dise, il a quelque chose en plus.
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_speaker_8 484.514 486.543 <o,f0,female> &amp;bah le sex-appeal avec les femmes forcément.
+BFMTV_CultureEtVous_2012-10-05_064700 1 inter_segment_gap 486.543 487.300 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_speaker_9 487.300 488.329 <o,f0,female> la totale.
+BFMTV_CultureEtVous_2012-10-05_064700 1 inter_segment_gap 488.329 491.055 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 491.055 501.169 <o,f0,male> la première intégrale consacrée à &lt;pers=Albert_UDERZO&gt;Albert Uderzo&lt;/pers&gt; sortira le 11 octobre mais le premier volume était présenté dès hier [r] vaste travail que de reprendre tous les dessins de 1941 à 51
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 501.169 506.536 <o,f0,male> [r] une carrière marquée évidemment ensuite par Astérix dont le dessinateur ne s'explique toujours pas le succès.
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Albert_UDERZO 506.536 511.871 <o,f0,male> on avait fait en même temps, quasiment en même temps qu'Astérix, [r] un autre personnage qui s'appelait Oumpah-Pah
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Albert_UDERZO 511.871 523.110 <o,f0,male> [r] et lui, il n'a pas marché et ça [dis=rep-] c'est le [-dis=rep] c'est le mystère de la potion magique [rire-] que l'on ne connaît pas [-rire] [r] et dans laquelle on est tombé [dis=rep-] quand [-dis=rep] [dis=hes-] euh [-dis=hes] quand on a fait ce personnage.
+BFMTV_CultureEtVous_2012-10-05_064700 1 inter_segment_gap 523.110 524.003 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_speaker_9 524.003 525.846 <o,f0,female> mais que faire samedi soir ?
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 525.846 531.314 <o,f0,male> préparez-vous, la onzième édition de la nuit blanche à Paris, c'est demain soir. un parcours extraordinaire le long de la seine
+BFMTV_CultureEtVous_2012-10-05_064700 1 BFMTV_CultureEtVous_2012_10_05_064700_Philippe_DUFREIGNE 531.314 540.910 <o,f0,male> [r] pour les berges exceptionnellement seront piétonnes [r] : théâtres, musées, galeries, plus d'une centaine d'événements recensés sur le site officiel [r] nuitblanche.paris.fr .
+BFMTV_CultureEtVous_2012-10-05_064700 1 inter_segment_gap 540.910 542.368 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-05_064700 1 excluded_region 542.368 3968.136 <o,,unknown> ignore_time_segment_in_scoring

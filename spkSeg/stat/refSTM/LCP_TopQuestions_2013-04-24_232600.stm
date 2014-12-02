@@ -1,0 +1,133 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:29 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Yann, version 9 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_TopQuestions_2013-04-24_232600 1 excluded_region 0.000 843.000 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Claude_BARTOLONE 843.000 845.353 <o,f0,male> la parole est à monsieur &lt;pers=Jean_GLAVANY&gt;Jean Glavany&lt;/pers&gt;.
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 845.353 849.893 <o,f0,male> monsieur le ministre des affaires étrangères, hier, à 7h20 du matin
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 849.893 850.599 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 850.599 853.478 <o,f0,male> [dis=rep-] une [-dis=rep] [dis=hes-] euh [-dis=hes] une explosion d'une violence inouïe
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 853.478 854.050 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 854.050 858.969 <o,f0,male> a ravagé [dis=hes-] les [-dis=hes] locaux [dis=hes-] de [-dis=hes] la chancellerie française, [dis=hes-] euh [-dis=hes] à Tripoli, en Libye
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 858.969 859.776 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 859.776 872.322 <o,f0,male> mes premières pensées [dis=hes-] euh [-dis=hes] , comme j'imagine ceux de tous mes collègues, sont évidemment [r] à l'adresse des deux blessés, les deux gendarmes français qui étaient [dis=hes-] euh [-dis=hes] [r] sur place et qui [dis=hes-] euh [-dis=hes] ont payé dans leur chair, [r]
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 872.322 876.761 <o,f0,male> de blessures graves pour l'un d'entre eux, [dis=hes-] euh [-dis=hes] les conséquences terribles de cet attentat.
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 876.761 877.450 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 877.450 891.187 <o,f0,male> avec mon collègue &lt;pers=Jacques_MYARD&gt;Jacques Myard&lt;/pers&gt;, nous étions sur place depuis dimanche [dis=hes-] euh [-dis=hes] [r] pour des contacts [dis=hes-] euh [-dis=hes] avec les autorités libyennes, dans ce pays [dis=hes-] euh [-dis=hes] [r] en pleine [dis=hes-] euh [-dis=hes] reconstruction [dis=hes-] euh [-dis=hes] , qui fait face à de nombreux défis difficiles, dont,
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 891.187 891.709 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 891.709 893.670 <o,f0,male> évidemment, celui de la sécurité.
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 893.670 894.215 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 894.215 895.806 <o,f0,male> vous vous êtes rendus sur place
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 895.806 896.308 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 896.308 900.813 <o,f0,male> avec beaucoup de réactivité, hier après-midi, avec notre collègue &lt;pers=Pouria_AMIRSHAHI&gt;Pouria Amirshahi&lt;/pers&gt;.
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 900.813 901.371 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 901.371 903.397 <o,f0,male> vous avez pu constater, comme nous, [dis=hes-] euh [-dis=hes]
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 903.397 903.972 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 903.972 911.728 <o,f0,male> le drame que représente cette explosion, le drame pour [dis=hes-] euh [-dis=hes] [r] la communauté française que nous [dis=hes-] euh [-dis=hes] avons [dis=hes-] euh [-dis=hes] longuement rencontrée les uns et les autres.
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 911.728 912.349 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 912.349 919.662 <o,f0,male> je voudrais, monsieur le ministre, vous interroger très simplement sur [dis=hes-] euh [-dis=hes] [r] le jugement que vous portez sur cet acte terroriste
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 919.662 920.172 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Jean_GLAVANY 920.172 924.706 <o,f0,male> l'analyse que vous en faites et les conséquences que le gouvernement français compte en tirer.
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 924.706 925.664 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 925.664 933.550 <o,f0,male> monsieur le député, mesdames et messieurs les députés, c'est vrai que [dis=hes-] euh [-dis=hes] hier matin, il y a eu une explosion terrible et à 10 minutes près, 10 minutes !
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 933.550 934.186 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 934.186 936.070 <o,f0,male> ça aurait été un véritable carnage
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 936.070 936.570 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 936.570 945.331 <o,f0,male> car [dis=hes-] euh [-dis=hes] il n'y avait que les deux gendarmes mobiles en faction [dis=hes-] euh [-dis=hes] . l'un d'entre eux était totalement indemne, même s'il était [r] choqué. [r]
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 945.331 953.809 <o,f0,male> l'autre a été opéré [dis=hes-] euh [-dis=hes] hier après-midi [dis=hes-] euh [-dis=hes] d'un traumatisme crânien et nous avons rapatrié les deux gendarmes, ce matin. et bien évidemment
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 953.809 954.310 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 954.310 962.134 <o,f0,male> nos pensées vont vers eux de même que nos pensées vont [r] vers les blessés libyens qui se trouvaient [r] dans [dis=hes-] euh [-dis=hes] la zone autour
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 962.134 962.647 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 962.647 976.843 <o,f0,male> mais je le répète : à 10 minutes près, 10 minutes près ! c'étaient des dizaines de cadavres. car lorsque *on s'est rendu sur place, vous y étiez la vieille, j'y étais moi-même hier après-midi. [r] [dis=hes-] euh [-dis=hes] l'ambassade est complètement soufflée, il n'en reste absolument rien
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 976.843 977.464 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 977.464 988.791 <o,f0,male> alors il y a une enquête qui est diligentée par [dis=hes-] euh [-dis=hes] les libyens qui ont été très réactifs. [r] il y a aussi un juge [dis=hes-] euh [-dis=hes] du [dis=hes-] parquet [-dis=hes] , un juge antiterroriste de Paris, qui est arrivé [dis=hes-] euh [-dis=hes] hier, dans la nuit,
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 988.791 989.331 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 989.331 992.756 <o,f0,male> en même temps que *un certain nombre de personnes du GIGN
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 992.756 993.204 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 993.204 999.111 <o,f0,male> nous *avons pris les dispositions qu'on doit prendre dans ce genre de situation pour à la fois renforcer la sécurité sur place et puis
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 999.111 999.607 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 999.607 1004.484 <o,f0,male> dans [dis=hes-] euh [-dis=hes] l'ensemble [dis=hes-] euh [-dis=hes] de nos installations de la zone
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1004.484 1005.675 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 1005.675 1010.684 <o,f0,male> une question se pose, mais nous sommes incapables, à l'heure actuelle, de donner la réponse : qui ?
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1010.684 1011.478 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 1011.478 1018.727 <o,f0,male> alors il y a deux grandes familles de réponses, qui d'ailleurs ne sont pas exclusives l'une de l'autre, on peut dire, mais c'est [dis=hes-] euh [-dis=hes] [r]
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 1018.727 1023.233 <o,f0,male> compte tenu [dis=hes-] euh [-dis=hes] de la difficulté de rétablir la sécurité en Libye, contre la Libye.
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1023.233 1023.767 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 1023.767 1029.524 <o,f0,male> d'autres peuvent dire : « mais c'est à cause de l'engagement français dans différents pays, contre le terrorisme, et en particulier au Mali. »
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1029.524 1030.028 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 1030.028 1036.232 <o,f0,male> quelle que soit la réponse, nous devons, mesdames et messieurs les députés, et j'en suis sûr que vous en serez tous d'accord,
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1036.232 1036.720 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 1036.720 1040.045 <o,f0,male> puisque les terroristes qui ont commis cet acte
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1040.045 1040.576 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 1040.576 1043.565 <o,f0,male> veulent porter [dis=rep-] at(teinte) [-dis=rep] atteinte à la sécurité de la France,
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1043.565 1044.067 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 1044.067 1049.466 <o,f0,male> porter atteinte à la sécurité de la Libye, porter atteinte à l'amitié entre la France et la Libye, [r]
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Laurent_FABIUS 1049.466 1061.233 <o,f0,male> la réponse sans concession de la France doit être [r] : oui pour renforcer la sécurité de la France, [r] oui pour contribuer à la sécurité de la Libye, [r] oui pour rapprocher encore davantage la Libye et la France.
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1061.233 1063.433 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Claude_BARTOLONE 1063.433 1065.407 <o,f0,male> la parole est à monsieur &lt;pers=Luc_CHATEL&gt;Luc Chatel&lt;/pers&gt;.
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1065.407 1066.296 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1066.296 1069.198 <o,f0,male> merci monsieur le président. monsieur le premier ministre
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1069.198 1069.703 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1069.703 1072.740 <o,f0,male> c'est bien votre quinquennat que je vais évoquer
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1072.740 1073.242 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1073.242 1078.064 <o,f0,male> en vous parlant de justice pour tous [r] et en interrogeant madame le garde des sceaux.
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1078.064 1078.696 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1078.696 1085.320 <o,f0,male> madame la ministre, le projet de loi sur la transparence de la vie publique a été adopté [r] ce matin par le conseil des ministres
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1085.320 1085.948 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1085.948 1097.182 <o,f0,male> [dis=hes-] euh [-dis=hes] précise que toute personne dépositaire de l'autorité publique [r] exerce sa mission [r] avec, je cite : « dignité, probité [r] et impartialité .»
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1097.182 1097.809 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1097.809 1100.908 <o,f0,male> j'imagine donc que cela doit d'abord s'appliquer
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1100.908 1101.384 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1101.384 1106.503 <o,f0,male> à ceux qui disent le droit [r] et qui rendent la justice au nom du peuple français
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1106.503 1107.103 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1107.103 1110.401 <o,f0,male> et non d'une idéologie partisane ou syndicale.
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1110.401 1111.016 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1111.016 1113.736 <o,f0,male> alors, que faut-il penser, madame la ministre,
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1113.736 1114.293 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1114.293 1116.642 <o,f0,male> de la révélation du site Atlantico
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1116.642 1117.199 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1117.199 1119.330 <o,f0,male> sur l'existence, je cite :
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1119.330 1119.801 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1119.801 1121.279 <o,f0,male> d' " un mur des cons
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1121.279 1121.894 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1121.894 1124.360 <o,f0,male> rassemblant ", [r] rassurez-vous il y en a [b-] chez vous, [-b]
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1124.360 1125.006 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1125.006 1137.716 <o,f0,male> " rassemblant des personnalités politiques, magistrats, policiers, journalistes, [r] intellectuels et même, mes chers collègues, et même [r] des parents de victimes " [bc]
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1137.716 1138.535 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1138.535 1146.063 <o,f0,male> un mur qui ressemble à une véritable liste noire, futur tableau de chasse [r] du syndicat de la magistrature
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1146.063 1147.013 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1147.013 1150.503 <o,f0,male> madame la ministre, nous sommes là face à une faute
+LCP_TopQuestions_2013-04-24_232600 1 excluded_region 1150.503 1151.271 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1151.271 1159.018 <o,f0,male> au regard de l'injure publique constatée. [r] mais nous sommes surtout là face à une grave remise en cause [r] de l'impartialité de la justice
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1159.018 1167.148 <o,f0,male> [r] est-ce que les magistrats qui ont élaboré cette liste [r] seront, demain, en mesure [r] de rendre la justice en toute impartialité ?
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1167.148 1167.780 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1167.780 1178.934 <o,f0,male> est-ce que les coupables désignés par avance sur ce mur [r] auront droit à une justice équitable ? [r] alors madame la garde des sceaux, [r] allez-vous condamner ces actes devant la représentation nationale ?
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Luc_CHATEL 1178.934 1187.247 <o,f0,male> [r] allez-vous saisir le conseil supérieur de la magistrature [r] pour engager les sanctions administratives ? [r] allez-vous saisir le procureur de la république [r] pour injure
+LCP_TopQuestions_2013-04-24_232600 1 excluded_region 1187.247 1190.647 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Claude_BARTOLONE 1190.647 1193.806 <o,f0,male> &lt;pers=Christiane_TAUBIRA&gt;Taubira&lt;/pers&gt;, garde des sceaux, ministre de la justice.
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Claude_BARTOLONE 1193.806 1195.048 <o,f0,male> [musique]
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Christiane_TAUBIRA 1195.048 1199.021 <o,f0,female> monsieur le président, mesdames messieurs les députés, monsieur le ministre [dis=hes-] euh [-dis=hes] &lt;pers=Luc_CHATEL&gt;Luc Chatel&lt;/pers&gt;
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1199.021 1199.601 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Christiane_TAUBIRA 1199.601 1199.933 <o,f0,female> vous
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1199.933 1200.587 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Christiane_TAUBIRA 1200.587 1207.134 <o,f0,female> vous savez, [dis=hes-] euh [-dis=hes] parfaitement donc, que ce mur [dis=hes-] euh [-dis=hes] [dis=rev-] est [-dis=rev] se trouve dans le local d'un syndicat de la magistrature
+LCP_TopQuestions_2013-04-24_232600 1 inter_segment_gap 1207.134 1209.019 <o,f0,> 
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Claude_BARTOLONE 1209.019 1210.182 <o,f0,male> attendez ! écoutez
+LCP_TopQuestions_2013-04-24_232600 1 excluded_region 1210.182 1210.713 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-04-24_232600 1 LCP_TopQuestions_2013_04_24_232600_Christiane_TAUBIRA 1210.713 1213.090 <o,f0,female> est un syndicat qui est en cause [-b]
+LCP_TopQuestions_2013-04-24_232600 1 excluded_region 1213.090 1332.888 <o,,unknown> ignore_time_segment_in_scoring

@@ -1,0 +1,248 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:29 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 7 of 140307
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_TopQuestions_2012-11-28_232500 1 excluded_region 0.000 385.535 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Thomas_SOULIE 385.535 399.231 <o,f0,male> [b-] bonjour à tous et bienvenue dans " top questions ", le meilleur des questions au gouvernement de ce mercredi 28 novembre. au menu [r] le premier ministre qui vante les mérites du crédit d'impôt, c'est la mesure phare [r] de son plan de compétitivité et puis la situation des salariés
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Thomas_SOULIE 399.231 413.653 <o,f0,male> [r] d'Arcelor Mittal, &lt;pers=Arnaud_MONTEBOURG&gt;Arnaud Montebourg&lt;/pers&gt; annonce [r] la reprise possible du site de Florange. [r] et enfin échange musclé, très musclé même sur le mariage pour tous [r] entre le député UMP &lt;pers=Marc_LE_FUR&gt;Marc Le Fur&lt;/pers&gt; [r] et la ministre de la famille &lt;pers=Dominique_BERTINOTTI&gt;Dominique Bertinotti&lt;/pers&gt;. le top 3
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Thomas_SOULIE 413.653 415.488 <o,f0,male> [r] des questions au gouvernement, c'est maintenant.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 415.488 417.561 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 417.561 431.752 <o,f0,male> monsieur le premier ministre, aujourd'hui, en commission, avec l'examen de la loi de finances rectificative, [r] et en séance publique avec l'examen de la banque publique d'investissement, l'assemblée nationale met en oeuvre le pacte national pour la compétitivité et l'emploi.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 431.752 432.243 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 432.243 446.950 <o,f0,male> cette nouvelle étape, monsieur le premier *ministre, illustre l'efficacité de la méthode retenue. [r] après une phase de *diagnostic, le rapport Louis Gallois, le gouvernement a immédiatement proposé une stratégie cohérente et ambitieuse, [r] nous souhaitons ici, monsieur le premier [dis=rev-] *ministre [-dis=rev]
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 446.950 449.513 <o,f0,male> ministre, la mettre en oeuvre sans tarder.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 449.513 449.925 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 449.925 457.504 <o,f0,male> la banque publique d'investissement va constituer une force de frappe [r] de plus de 60 milliards d'euros au service du financement des PME.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 457.504 458.058 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 458.058 472.479 <o,f0,male> la création du crédit d'impôt pour la croissance et l'emploi va agir comme un puissant levier. [r] dès le premier janvier 2013 nous enclenchons une baisse massive des charges sur les salaires, [r] à terme, 20 milliards d'euros seront ainsi consacrés à la relance de l'emploi, [r]
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 472.479 486.942 <o,f0,male> c'est un effort sans précédent, mes chers collègues, [r] ainsi, avant la fin de l'année, les entreprises et les employeurs de notre pays connaîtront l'essentiel du cadre juridique et fiscal [r] qui s'appliquera à eux jusqu'à la fin du quinquennat, [r] cela est important.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 486.942 487.417 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 487.417 502.285 <o,f0,male> ce pacte de croissance, et je souhaite le dire ici très fort, monsieur le premier ministre, [r] doit permettre à nos entreprises de favoriser l'investissement, l'emploi, la recherche, l'innovation, la formation, la capacité d'exportation [r] et la reconstitution des fonds de roulement.
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 502.285 516.538 <o,f0,male> [r] et l'utilisation de ce crédit d'impôt [r] devra bien entendu être contrôlée, [r] et les partenaires sociaux doivent être les premiers acteurs de ce contrôle. [r] monsieur le premier ministre nous refusons ici la fatalité d'un déclin, [r] dont vos prédécesseurs
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 516.538 518.785 <o,f0,male> s'étaient trop facilement accommodés.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 518.785 519.181 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 519.181 533.254 <o,f0,male> et je vous demande, monsieur le premier ministre, de rappeler ici votre volonté de prendre à bras le corps ces questions essentielles pour notre pays que sont la compétitivité et l'emploi, [r] questions sur lesquelles les différents morceaux de l'opposition [r] devraient faire
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Bruno_LE_ROUX 533.254 537.738 <o,f0,male> preuve d'humilité, l'humilité de ceux qui n'ayant rien tenté, ont tout perdu.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 537.738 539.115 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 539.115 541.821 <o,f0,male> vous avez raison d'insister sur [dis=hes-] euh [-dis=hes] l'urgence.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 541.821 543.150 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 543.150 545.887 <o,f0,male> sur la nécessité de se mobiliser et de tout faire
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 545.887 546.694 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 546.694 547.565 <o,f0,male> pour l'emploi.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 547.565 548.831 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 548.831 551.062 <o,f0,male> les chiffres du chômage qui sont tombés hier
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 551.062 551.695 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 551.695 552.280 <o,f0,male> montrent
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 552.280 552.755 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 552.755 554.448 <o,f0,male> une augmentation du chômage
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 554.448 555.287 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 555.287 558.198 <o,f0,male> pour le dix-huitième mois consécutif.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 558.198 559.907 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 559.907 560.888 <o,f0,male> dix-huit mois
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 560.888 561.315 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 561.315 562.629 <o,f0,male> que le chômage augmente.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 562.629 563.230 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 excluded_region 563.230 563.863 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 563.863 565.714 <o,f0,male> qu'il est de l'intérêt de la nation
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 565.714 567.170 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 567.170 568.515 <o,f0,male> que toutes les forces
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 568.515 568.958 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 568.958 577.328 <o,f0,male> économiques sociales, politiques, s'unissent pour [dis=rev-] rel(ever) [-dis=rev] relever le défi [r] du redressement, et de l'emploi.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 577.328 578.420 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 578.420 580.287 <o,f0,male> parce que le diagnostic est clair.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 580.287 581.205 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 581.205 584.892 <o,f0,male> il y a à la fois une croissance faible à l'échelle mondiale,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 584.892 585.525 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 585.525 593.643 <o,f0,male> mais il y a aussi [r] des menaces de récession dans plusieurs pays d'Europe, [r] y compris ceux qui aujourd'hui connaissaient une situation favorable.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 593.643 594.718 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 594.718 595.715 <o,f0,male> et quant à la France,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 595.715 596.569 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 596.569 599.781 <o,f0,male> nous devons donner à nos entreprises qui manquent d'air
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 599.781 600.367 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 600.367 609.908 <o,f0,male> des marges de manoeuvre nouvelles, [r] qu'elles ont perdu [r] pour investir, innover, créer de l'emploi. c'est ça la priorité de la France aujourd'hui.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 609.908 611.886 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 611.886 614.560 <o,f0,male> alors il faut agir, agir dans l'urgence,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 614.560 615.145 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 615.145 617.092 <o,f0,male> redonner de l'espoir, de la confiance.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 617.092 617.677 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 617.677 621.570 <o,f0,male> ce sont les emplois d'avenir, qu'il faut absolument réussir
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 621.570 622.124 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 622.124 630.779 <o,f0,male> ce sont les contrats de génération, qu'il faut également mettre en oeuvre, et vous serez bientôt saisis. mais cela ne suffit pas mesdames et messieurs les députés.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 630.779 631.190 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 631.190 633.722 <o,f0,male> il faut investir dans les entreprises.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 633.722 634.213 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 634.213 637.283 <o,f0,male> c'est le sens même du pacte national
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 637.283 637.916 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 637.916 649.673 <o,f0,male> pour la croissance, la compétitivité et l'emploi, [b] que j'ai présenté le 6 novembre, [r] dès le lendemain [dis=rev-] de la reprise [-dis=rev] de la remise [r] du rapport [dis=rev-] de ligue [-dis=rev] de &lt;pers=Louis_GALLOIS&gt;Louis Gallois&lt;/pers&gt;. [r] c'est pour cela,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 649.673 650.338 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 650.338 652.063 <o,f0,male> que le gouvernement a décidé
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 652.063 652.601 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 652.601 661.747 <o,f0,male> d'aller plus vite encore, et de proposer au parlement, [r] dans la loi de finances rectificative, [r] et c'est à l'ordre du jour de la commission [r] des finances cet après-midi,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 661.747 662.412 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 662.412 664.342 <o,f0,male> le crédit d'impôt
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 664.342 664.785 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 664.785 679.176 <o,f0,male> pour qu'il soit effectif, pour les entreprises, [r] dès le premier janvier [r] 2013, et c'est là que j'appelle [r] l'Assemblée Nationale à se mobiliser [r] et à créer un message de confiance [r]
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 679.176 685.806 <o,f0,male> pour l'investissement et l'emploi dans notre pays, [r] en direction des entreprises, [r] des petites comme des grandes.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 685.806 686.281 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 686.281 687.183 <o,f0,male> le gouvernement
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 687.183 688.164 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 688.164 690.537 <o,f0,male> fait confiance à la représentation nationale
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 690.537 691.376 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 691.376 694.541 <o,f0,male> pour qu'avec les salariés et l'organisation représentative
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 694.541 695.063 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 695.063 696.471 <o,f0,male> nous soyons vigilants
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 696.471 696.993 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 696.993 703.480 <o,f0,male> pour que son utilisation soit effectivement sur la priorité que le gouvernement annonce. [r]
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 703.480 717.994 <o,f0,male> ce n'est pas fait pour augmenter [r] la distribution de *dividendes. [r] ce n'est pas fait pour augmenter [r] les salaires des dirigeants. [r_] c'est fait pour l'investissement, [r] et pour l'emploi, [r] et ce devra être vérifié. c'est à vous maintenant [r] qu'appartient [r] de mettre en oeuvre
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Jean_Marc_AYRAULT 717.994 719.735 <o,f0,male> ce choc de confiance.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 719.735 722.504 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 722.504 733.691 <o,f0,male> avec le président de la république et le premier ministre, vous avez fait de la politique industrielle [r] une de vos priorités pour redresser notre pays. [r] l'industrie sidérurgique est un des piliers fondamentaux de cette politique.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 733.691 734.150 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 734.150 742.410 <o,f0,male> l'usine de Florange est un des fers de lance de cette industrie, [r] sur le plan notamment de la qualité de ses produits, [r] qui va de pair avec le prestige de ses clients.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 742.410 743.043 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 743.043 755.413 <o,f0,male> le cadre mondial de la stratégie de l'actuel propriétaire, ArcelorMittal, [r] menace la pérennité de cette usine, [r] qui emploie directement 2700 salariés, [r] et autant d'emplois induits.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 755.413 755.841 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 755.841 762.850 <o,f0,male> à peine installé, le gouvernement a commandé un rapport [r] qui a confirmé la viabilité et la rentabilité du site.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 762.850 763.420 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 763.420 766.300 <o,f0,male> ArcelorMittal craint aujourd'hui de voir émerger un concurrent
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 766.300 766.791 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 766.791 779.244 <o,f0,male> mais vous avez identifié des repreneurs solides, [r] prêts à s'investir et à investir. [r] par ailleurs, le projet environnemental Ulcos, [r] bien positionné par l'Europe, a priori en premier
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 779.244 779.703 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 779.703 783.200 <o,f0,male> peut permettre de réduire les coûts de production [r] de 20%.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 783.200 783.849 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 783.849 788.580 <o,f0,male> reste qu'ArcelorMittal n'est pas encore décidé à céder ce site [r] dans sa globalité.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 788.580 789.276 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 789.276 790.542 <o,f0,male> vous avez aujourd'hui
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 790.542 791.207 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 791.207 793.058 <o,f0,male> de très très nombreux soutiens
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 793.058 793.470 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 793.470 797.473 <o,f0,male> sur tous les bancs de cette assemblée, certains l'ont rappelé hier,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 797.473 798.328 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 798.328 807.997 <o,f0,male> pour mettre en oeuvre ce projet industriel [r] qui allie politique de l'emploi, nous venons d'en parler, progrès technologique, et indépendance de la France.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 807.997 808.424 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 808.424 812.269 <o,f0,male> et ce en passant transitoirement par une appropriation publique
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 812.269 812.744 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 812.744 816.225 <o,f0,male> avant sa remise quasi-immédiate à un repreneur.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 816.225 817.079 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Michel_LIEBGOTT 817.079 830.655 <o,f0,male> monsieur le ministre, à deux jours seulement de l'échéance, [r] confirmez-vous la détermination du gouvernement [r] et celle du président qui a rencontré Monsieur &lt;pers=Lakshmi_MITTAL&gt;Mittal&lt;/pers&gt; hier soir, et qui était venu sur le terrain durant la campagne électorale, à Florange ?
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 830.655 833.088 <o,f0,male> je peux vous confirmer que, hier
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 833.088 833.721 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 833.721 835.098 <o,f0,male> dans la discussion
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 835.098 835.668 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 835.668 837.915 <o,f0,male> entre Monsieur &lt;pers=Lakshmi_MITTAL&gt;Lakshmi Mittal&lt;/pers&gt;
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 837.915 838.406 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 838.406 840.890 <o,f0,male> et le président de la république, à l'Élysée
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 840.890 841.444 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 841.444 844.640 <o,f0,male> la discussion fut rude, mais ferme.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 844.640 845.542 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 845.542 846.381 <o,f0,male> je puis dire
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 846.381 846.919 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 846.919 849.467 <o,f0,male> sans dévoiler aucun secret, d'ailleurs
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 849.467 850.163 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 850.163 850.733 <o,f0,male> que
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 850.733 852.062 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 852.062 853.628 <o,f0,male> le président de la république
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 853.628 854.119 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 854.119 859.831 <o,f0,male> a demandé au propriétaire de Florange et des installations d'aciérie de Lorraine,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 859.831 860.591 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 860.591 869.848 <o,f0,male> qu'il assure un avenir industriel aux hauts fourneaux ainsi [r] qu'à la totalité de la chaîne de production en aval [r] de l'acier de Florange.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 869.848 870.623 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 870.623 873.661 <o,f0,male> cette [dis=hes-] euh [-dis=hes] demande a été formulée
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 873.661 874.215 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 874.215 879.738 <o,f0,male> avec la perspective que le gouvernement dispose aujourd'hui d'un scénario qu'il a rappelé
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 879.738 880.355 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 880.355 891.526 <o,f0,male> de nationalisation temporaire du site de Florange au cas où [r] une décision serait prise de fermer les hauts fourneaux, comme l'a annoncé [r] [dis=hes-] euh [-dis=hes] la compagnie ArcelorMittal.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 891.526 892.143 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 892.143 896.067 <o,f0,male> vous le comprenez, [r] Monsieur &lt;pers=Lakshmi_MITTAL&gt;Mittal&lt;/pers&gt; fera des propositions.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 896.067 896.811 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 896.811 897.792 <o,f0,male> nous les attendons.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 897.792 898.552 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 898.552 904.580 <o,f0,male> et c'est à lui de prendre désormais ses responsabilités, [r] pour ce qui concerne [dis=hes-] euh [-dis=hes] le ministère dont j'ai la charge,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 904.580 905.071 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 905.071 911.416 <o,f0,male> [dis=hes-] euh [-dis=hes] je peux dire ici à la représentation nationale que nous sommes prêts. [r] parce que précisément nous avons un repreneur.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 911.416 911.938 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 911.938 916.748 <o,f0,male> qui [b-] est un [-b] aciériste, un industriel, [r] qui n'est pas un financier,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 916.748 917.239 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 917.239 929.755 <o,f0,male> qui, par ailleurs, [r] souhaite investir son argent personnel, et excusez du peu, [r] est disposé à investir jusqu'à [r] près de 400 millions [r] d'euros dans cette installation pour la rénover.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 929.755 930.451 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 930.451 944.676 <o,f0,male> ce n'est pas courant dans un certain nombre d'affaires, [r] où le gouvernement peine [r] à trouver des solutions, qu'il y ait toujours des repreneurs. la décision est entre les mains de monsieur le président de la république et de monsieur le premier ministre. [r] je ne doute pas qu'ils prendront
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Arnaud_MONTEBOURG 944.676 946.923 <o,f0,male> les bonnes décisions, [r] après les réponses de Mittal.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 946.923 949.581 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 949.581 950.863 <o,f0,male> notre pays connaît la crise.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 950.863 951.338 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 951.338 952.762 <o,f0,male> nos compatriotes souffrent,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 952.762 953.332 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 953.332 955.436 <o,f0,male> vous êtes obligés vous-mêmes de le reconnaître.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 955.436 956.054 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 956.054 957.351 <o,f0,male> est-ce bien le moment
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 957.351 958.427 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 958.427 959.377 <o,f0,male> d'imposer
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 959.377 960.105 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 960.105 961.086 <o,f0,male> par la force,
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 961.086 961.577 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 961.577 967.875 <o,f0,male> une loi dite du mariage pour tous. une loi du mariage homosexuel dont nos compatriotes ne veulent pas.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 967.875 968.777 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 968.777 974.489 <o,f0,male> le président de la république lui-même est dans l'embarras sur ces questions. est-ce bien le moment ?
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 974.489 975.280 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 975.280 977.480 <o,f0,male> le 17 novembre dernier
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 977.480 978.334 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 978.334 979.426 <o,f0,male> des milliers de nos compatri(otes)
+LCP_TopQuestions_2012-11-28_232500 1 excluded_region 979.426 982.069 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 982.069 985.471 <o,f0,male> (op)position, paisiblement, calmement mais fermement.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 985.471 986.072 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 986.072 991.120 <o,f0,male> le 13 janvier prochain, ils seront à nouveau dans la rue et je serai, avec d'autres à leurs
+LCP_TopQuestions_2012-11-28_232500 1 excluded_region 991.120 991.518 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Claude_BARTOLONE 991.518 992.307 <o,f0,male> &lt;pers=Mathieu_HANOTIN&gt;Hanotin&lt;/pers&gt; !
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 992.307 993.779 <o,f0,male> est-ce bien le moment ?
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 993.779 994.697 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 994.697 1002.023 <o,f0,male> le président &lt;pers=Christian_JACOB&gt;Jacob&lt;/pers&gt; vous a demandé une commission spéciale, [r] pour que dans cette instance, [r] nous puissions examiner [r] [dis=rep-] cette [-dis=rep] cette
+LCP_TopQuestions_2012-11-28_232500 1 excluded_region 1002.023 1003.811 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 1003.811 1004.365 <o,f0,male> (refu)sée
+LCP_TopQuestions_2012-11-28_232500 1 excluded_region 1004.365 1005.061 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 1005.061 1008.378 <o,f0,male> (pré)féré la commission des lois où vous tenez tous les dispositifs
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 1008.378 1009.017 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 1009.017 1012.150 <o,f0,male> le président de la République n'a pas encore donné réponse
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 1012.150 1024.166 <o,f0,male> à nos collègues &lt;pers=Xavier_BRETON&gt;Breton&lt;/pers&gt;, à nos collègues &lt;pers=Philippe_GOSSELIN&gt;Gosselin&lt;/pers&gt;, [r] qui ont demandé, ils sont plus de 200, [r] qui ont demandé à le voir sur cette question. [r] tout cela exige un débat, [r] un vrai débat, serein mais déterminé,
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 1024.166 1027.611 <o,f0,male> le débat de la famille ! parce que c'est cela qui est en jeu.
+LCP_TopQuestions_2012-11-28_232500 1 excluded_region 1027.611 1029.446 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 1029.446 1044.122 <o,f0,male> famille qui est en jeu, il faut que nous sachions le dire fermement. [r] le but de la loi c'est de protéger l'enfant, [r] de protéger la filiation, [r] [dis=rev-] de *protéger [-dis=rev] de protéger la transmission, [r] est-ce bien le moment, [r] alors que notre pays est confronté à de multiples
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 1044.122 1059.843 <o,f0,male> difficultés, [r] de remettre cela en cause, [r] est-ce bien le moment, [r] sur l'action d'activistes, [r] de refuser un tel débat, [r] est-ce bien le moment de dire [b] que l'enfant est pour certains [r] simplement un produit de consommation, [r] un droit. ce n'est pas ça, la famille
+LCP_TopQuestions_2012-11-28_232500 1 excluded_region 1059.843 1060.761 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Marc_LE_FUR 1060.761 1061.077 <o,f0,male> voulons !
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Claude_BARTOLONE 1061.077 1061.457 <o,f0,male> allez !
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1061.457 1068.324 <o,f0,female> monsieur le président, monsieur le député je vois qu'il y a *effectivement un travail de pédagogie qui est [dis=rep-] à [-dis=rep] à faire.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 1068.324 1069.590 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1069.590 1074.574 <o,f0,female> j'aimerais simplement rappeler que ces propos qui ne vous honorent pas, je tiens à le dire &amp;hein
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 1074.574 1075.302 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1075.302 1076.330 <o,f0,female> sont vraiment
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 1076.330 1078.340 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1078.340 1089.875 <o,f0,female> des propos qui rappellent ce que, les propos que vous indiquiez au moment du PACS. [r] où effectivement au moment du PACS vous annonciez la fin du monde, et la fin du monde n'a pas eu lieu.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 1089.875 1090.492 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1090.492 1104.667 <o,f0,female> mais [dis=rev-] ça est [-dis=rev] c'est effectivement la fin d'un monde où il y a un modèle unique de famille, [r] et je vous appelle au respect [r] de nos concitoyens, [r] de la diversité de la façon dont ils décident de faire famille [r]
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1104.667 1110.173 <o,f0,female> et de leur accorder un principe fondamental de la république, [r] qui est l'égalité.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 1110.173 1114.303 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1114.303 1115.252 <o,f0,female> alors oui
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 1115.252 1116.423 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1116.423 1122.467 <o,f0,female> on peut avoir deux visions de la famille, une famille qui exclut comme vous le faites [r]
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1122.467 1136.730 <o,f0,female> ou une famille qui inclut, [r] une vision généreuse, ou une vision restrictive. [r] pensez-vous un seul instant que l'éducation d'un enfant [r] ne se résume qu'à une filiation biologique. [r] l'éducation pour nous
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1136.730 1151.490 <o,f0,female> d'un enfant, [r] c'est bien au-delà, c'est l'éducation affective, [r] c'est la capacité à offrir [r] les conditions du bien-être, de la santé, [r] et je tiens à dire qu'il est profondément choquant [r] que vous mettiez au nom du droit de l'enfant sur le
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1151.490 1166.149 <o,f0,female> banc, de côté, [r] les 30 mille à 300 mille enfants qui vivent aujourd'hui [dis=rev-] des [-dis=rev] [r] dans les familles monoparen(tales) homoparentales, [r] et qui n'aspirent qu'à avoir un véritable statut juridique, [r] car cette loi [r] est une loi d'égalité [r]
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Dominique_BERTINOTTI 1166.149 1168.676 <o,f0,female> et de protection juridique des enfants.
+LCP_TopQuestions_2012-11-28_232500 1 inter_segment_gap 1168.676 1170.511 <o,f0,> 
+LCP_TopQuestions_2012-11-28_232500 1 LCP_TopQuestions_2012_11_28_232500_Thomas_SOULIE 1170.511 1179.705 <o,f0,male> voilà pour les trois temps forts de ces questions au gouvernement. vous pouvez retrouver cette émission sur notre site, [r] www.lcp.fr et je vous donne rendez-vous [r] mardi pour un nouveau numéro de " top questions ". [-b]
+LCP_TopQuestions_2012-11-28_232500 1 excluded_region 1179.705 1499.832 <o,,unknown> ignore_time_segment_in_scoring

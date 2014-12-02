@@ -1,0 +1,45 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:28 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Gwendo, version 9 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_PileEtFace_2012-10-26_012500 1 excluded_region 0.000 437.000 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Pierre_GRATIEN 437.000 448.058 <o,f0,male> [b] projet contre projet, idée contre idée, bienvenue dans " pile et face " avec côté pile [b] cette semaine l'ancien ministre entre autres de l'écologie, de l'énergie, du développement durable, [r]
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Pierre_GRATIEN 448.058 458.431 <o,f0,male> et de l'aménagement du territoire. président du parti et du groupe de l'union des démocrates et indépendants, [r] à l'Assemblée Nationale et député du nord, &lt;pers=Jean-Louis_BORLOO&gt;Jean-Louis Borloo&lt;/pers&gt;.
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Pierre_GRATIEN 458.431 470.868 <o,f0,male> côté face le président du groupe socialiste, républicain et citoyen de l'Assemblée Nationale, [r] et député de Seine-Saint-Denis, &lt;pers=Bruno_LE_ROUX&gt;Bruno Le Roux&lt;/pers&gt; [b] soupçon d'amateurisme, [b] mauvais chiffres du chômage, [r]
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Pierre_GRATIEN 470.868 482.233 <o,f0,male> c'est dans ce contexte que le gouvernement défend sa politique budgétaire, à l'Assemblée Nationale. [r] objectif affiché le redressement coûte que coûte, [r] des comptes publics. [r]
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Pierre_GRATIEN 482.233 493.758 <o,f0,male> pour y parvenir, 20 milliards d'impôts supplémentaires et 10 milliards d'économies en 2013. [r] l'austérité est donc plus que jamais de mise mais permettra telle seulement de retrouver, [r]
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Pierre_GRATIEN 493.758 504.890 <o,f0,male> [b-] le chemin de la croissance en redonnant notamment du souffle à la compétitivité de nos entreprises. [r] &amp;eh bien messieurs nous allons avoir 30 minutes pour en débattre.
+LCP_PileEtFace_2012-10-26_012500 1 inter_segment_gap 504.890 506.278 <o,f0,> 
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Pierre_GRATIEN 506.278 519.543 <o,f0,male> la pièce tombe sur face, [b] c'est donc vous &lt;pers=Bruno_LE_ROUX&gt;Bruno Le Roux&lt;/pers&gt; qui allez entamer ce débat, c'est vous &lt;pers=Jean-Louis_BORLOO&gt;Jean-Louis Borloo&lt;/pers&gt; qui allez [dis=rep-] le [-dis=rep] le conclure. &lt;pers=Bruno_LE_ROUX&gt;Bruno Le Roux&lt;/pers&gt;, [r] [dis=hes-] euh [-dis=hes] tout d'abord le contexte politique [dis=hes-] euh [-dis=hes] du moment si vous le voulez bien. [r]
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Pierre_GRATIEN 519.543 525.331 <o,f0,male> [dis=hes-] euh [-dis=hes] que répondez-vous aujourd'hui à ceux, [r] qui accusent le gouvernement d'amateurisme ?
+LCP_PileEtFace_2012-10-26_012500 1 inter_segment_gap 525.331 526.063 <o,f0,> 
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Bruno_LE_ROUX 526.063 539.218 <o,f0,male> que toute [dis=hes-] euh [-dis=hes] depuis maintenant 4 mois que vous prouvez prendre chaque domaine et l'émission n'y suffirait pas. [r] nous sommes en train de gérer les urgences, car il y a dans une période de crise des urgences, [r] absolument dans tous les domaines du logement, [r]
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Bruno_LE_ROUX 539.218 553.270 <o,f0,male> qui concerne le texte [dis=hes-] euh [-dis=hes] qui vient d'être [dis=hes-] euh [-dis=hes] , [r] retoqué par le conseil constitutionnel, [r] à l'éducation en passant bien entendu par la fiscalité, par l'environnement. [r] il y a des urgences et en même temps que nous gérons ces urgences, [r] nous souhaitons entamer des réformes [bc] qui sont des réformes de fond.
+LCP_PileEtFace_2012-10-26_012500 1 excluded_region 553.270 554.985 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Pierre_GRATIEN 554.985 556.406 <o,f0,male> [r] qui parfois pourrait
+LCP_PileEtFace_2012-10-26_012500 1 excluded_region 556.406 559.149 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Bruno_LE_ROUX 559.149 573.208 <o,f0,male> cas présent sur le texte logement vous savez il suffit [dis=hes-] euh [-dis=hes] le gouvernement était prêt il a voulu inscrire très tôt un texte qui était nécessaire pour donner des nouveaux moyens en collectivité, [r] territoriale, [r] et il y a eu [dis=hes-] euh [-dis=hes] dans notre règlement un texte qui est passé en commission et qui n'a pas bougé en commission. [r]
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Bruno_LE_ROUX 573.208 588.168 <o,f0,male> s'il avait évolué la procédure aurait été respectée. [r] peut-être que le texte du gouvernement était trop bon et que [rire-] c'est cela [-rire] qui nous a aujourd'hui obligé à un report puisque le texte sera réinscrit, [r] à l'Assemblée le 20 novembre, dès [dis=hes-] euh [-dis=hes] nos débats sur [dis=hes-] euh [-dis=hes] le projet de loi de finances terminés.
+LCP_PileEtFace_2012-10-26_012500 1 inter_segment_gap 588.168 588.716 <o,f0,> 
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Pierre_GRATIEN 588.716 595.090 <o,f0,male> &lt;pers=Jean-Louis_BORLOO&gt;Jean-Louis Borloo&lt;/pers&gt; est-ce que vous entendez ce que dit &lt;pers=Bruno_LE_ROUX&gt;Bruno Le Roux&lt;/pers&gt;, à [b-] propos de, [r] de ce soupçon d'amateurisme. [-b]
+LCP_PileEtFace_2012-10-26_012500 1 inter_segment_gap 595.090 595.830 <o,f0,> 
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Louis_BORLOO 595.830 607.654 <o,f0,male> non mais [dis=rep-] c'est jamais [-dis=rep] [dis=hes-] euh [-dis=hes] c'est jamais agréable pour un gouvernement que le conseil constitutionnel [b] censure un texte &amp;bon. [b] [r] c'est déjà arrivé [b] [pi] [b-] moi j'en fais pas [dis=hes-] euh [-dis=hes] une affaire [-b] majeure. [r]
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Louis_BORLOO 607.654 615.504 <o,f0,male> [dis=rep-] je [-dis=rep] je suis un peu plus j'aimerais juste comprendre pourquoi le Premier ministre le matin annonce une décision que le conseil *constitutionnel n'a pas rendue alors,
+LCP_PileEtFace_2012-10-26_012500 1 inter_segment_gap 615.504 616.253 <o,f0,> 
+LCP_PileEtFace_2012-10-26_012500 1 LCP_PileEtFace_2012_10_26_012500_Jean_Louis_BORLOO 616.253 623.000 <o,f0,male> [dis=hes-] euh [-dis=hes] c'est parce qu'il était tellement convaincu [rire-] peut-être je ne sais [-rire] pas [b] mais [pi] faut pas que ça se reproduise.
+LCP_PileEtFace_2012-10-26_012500 1 excluded_region 623.000 2408.592 <o,,unknown> ignore_time_segment_in_scoring

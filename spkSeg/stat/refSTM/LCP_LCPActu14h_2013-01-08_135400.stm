@@ -1,0 +1,140 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:28 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Vervisch_Ménard, version 9 of 140306
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 0.000 501.083 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 501.083 515.220 <o,f0,female> en ce début d'année 2013, je vous le disais en titre, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; poursuit la présentation de ses voeux. le chef de l'État s'est adressé [r] aux membres du conseil constitutionnel, hier. ce matin, [b-] il a souhaité une bonne année [r] à tous les corps constitués, serviteurs de l'état,
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 515.220 522.811 <o,f0,female> [r] [dis=hes-] euh [-dis=hes] tels que le conseil d'état, l'Assemblée, le Sénat ou la Banque centrale. [r] écoutez un extrait de l'intervention du président de la république. [-b]
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 522.811 523.557 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 523.557 526.684 <o,f0,male> l'état en France doit jouer pleinement son rôle.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 526.684 527.306 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 527.306 528.327 <o,f0,male> et si tout ne dépend [b]
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 528.327 529.255 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 529.255 529.756 <o,f0,male> pas de lui.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 529.756 530.445 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 530.445 531.122 <o,f0,male> c'est vers lui,
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 531.122 532.360 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 532.360 533.025 <o,f0,male> à chaque fois,
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 533.025 533.947 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 533.947 534.912 <o,f0,male> que les français se tournent
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 534.912 536.375 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 536.375 537.590 <o,f0,male> pour [dis=hes-] euh [-dis=hes] leur protection
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 537.590 538.443 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 538.443 539.621 <o,f0,male> ou pour la préparation
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 539.621 540.250 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 540.250 545.046 <o,f0,male> de leur avenir. la réduction de nos déficits est inscrite dans la loi de finances pour 2013.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 545.046 545.952 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 545.952 548.224 <o,f0,male> et dans [dis=rev-] *trajectoire [-dis=rev] trajectoire [r] triennale,
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 548.224 549.115 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 549.115 550.565 <o,f0,male> que le premier ministre a fixée.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 550.565 551.890 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 551.890 552.418 <o,f0,male> ce sont,
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 552.418 553.042 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 553.042 557.705 <o,f0,male> cette année, 10 milliards d'économies que nous devrons dégager sur le budget de l'État.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 557.705 558.274 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 558.274 561.533 <o,f0,male> tout en préservant les secteurs prioritaires : [r] l'emploi,
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 561.533 562.502 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 562.502 563.290 <o,f0,male> l'éducation,
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 563.290 563.783 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 563.783 564.575 <o,f0,male> la justice,
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 564.575 565.481 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Francois_HOLLANDE 565.481 566.366 <o,f0,male> et la sécurité.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 566.366 567.281 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 567.281 568.773 <o,f0,female> &lt;pers=Annick_LEPETIT&gt;Annick Lepetit&lt;/pers&gt;, bonjour.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 568.773 569.241 <o,f0,female> bonjour.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 569.241 580.314 <o,f0,female> [dis=hes-] euh [-dis=hes] vous êtes porte parole du groupe PS à l'assemblée nationale, député socialiste [dis=hes-] euh [-dis=hes] de Paris. alors, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; a laissé entendre, lors de ses voeux, [r] [dis=hes-] euh [-dis=hes] que compte tenu de la situation économique, il faudrait faire des efforts en 2013.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 580.314 588.752 <o,f0,female> [r] [dis=hes-] euh [-dis=hes] le ministre du budget a dit [dis=hes-] euh [-dis=hes] ce week-end, qu'il n'y aurait pas de hausse d'impôts. ça veut dire que [r] les corps constitués devront faire plus d'économies ?
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 588.752 590.275 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 590.275 605.046 <o,f0,female> à la fois, le gouvernement [dis=hes-] euh [-dis=hes] agit dans l'urgence et aussi [dis=hes-] euh [-dis=hes] en profondeur. le chef [dis=hes-] euh [-dis=hes] du gouvernement, [dis=rep-] le [-dis=rep] le premier ministre [dis=hes-] euh [-dis=hes] [dis=rev-] apprend [-dis=rev] [dis=rep-] a pré(senter) [-dis=rep] présenté [r] [dis=rep-] le [-dis=rep] le nouvel [dis=hes-] euh [-dis=hes] [r] [dis=hes-] euh [-dis=hes] [dis=rep-] le [-dis=rep] le nouveau modèle [dis=hes-] euh [-dis=hes] français, [r] en insistant
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 605.046 618.852 <o,f0,female> [dis=hes-] euh [-dis=hes] sur les changements en profondeur qu'il faut dans notre pays. c'est à dire [r] à la fois [dis=hes-] euh [-dis=hes] , réformer notre économie pour qu'elle aille mieux, [r] mais aussi, bien évidemment, [r] [dis=hes-] euh [-dis=hes] garder [dis=hes-] euh [-dis=hes] et même renforcer, si c'est possible, [r] notre protection sociale. j'insiste
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 618.852 632.013 <o,f0,female> [r] sur ces deux [dis=hes-] euh [-dis=hes] pieds [r] parce que [dis=hes-] euh [-dis=hes] bien souvent, on a tendance [r] [dis=rep-] à à [-dis=rep] à gommer [dis=hes-] euh [-dis=hes] la deuxième partie, c'est à dire la protection sociale. [r] et [dis=hes-] euh [-dis=hes] il suffit de regarder ce qui se passe dans beaucoup d'autres pays [r] pour se rendre compte à quel point
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 632.013 636.568 <o,f0,female> [r] la nôtre [dis=hes-] euh [-dis=hes] est fondamentale [bc] [dis=rep-] surtout [-dis=rep] surtout [r] en période de crise. [bc] donc moi
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 636.568 640.181 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 640.181 652.672 <o,f0,female> puisse être sur ses deux jambes. [r] à la fois agir dans l'urgence, on le voit avec malheureusement, [r] les plans de licenciement qui sont [dis=hes-] euh [-dis=hes] annoncés, où vous voyez [r] les ministres de ce gouvernement [r] qui [dis=hes-] euh [-dis=hes] passent [dis=rep-] beaucoup [-dis=rep] beaucoup de temps à l'écoute
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 652.672 663.357 <o,f0,female> [r] [dis=hes-] euh [-dis=hes] des partenaires sociaux, mais aussi à poser des questions [r] sur des directions d'entreprise lorsqu'il y a incompréhension [bc] sur la manière [r] [dis=rev-] dans des situations dont [-dis=rev] on se retrouve dans des situations quelquefois un peu [r]
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 663.357 677.598 <o,f0,female> incompréhensibles, [dis=rep-] où [-dis=rep] [r] où il y a des prises [dis=hes-] euh [-dis=hes] [dis=rev-] de [-dis=rev] en compte qui sont très tardives. [r] et donc je trouve que [dis=hes-] euh [-dis=hes] ce gouvernement qui est [dis=rep-] à [-dis=rep] à la manoeuvre [r] fait [dis=hes-] euh [-dis=hes] [r] [dis=rep-] beaucoup [-dis=rep] , beaucoup pour être, à la fois là, présent au quotidien, [r] mais aussi
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 677.598 681.154 <o,f0,female> [r] avoir un cap sur l'avenir parce que c'est bien en investissant
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 681.154 681.885 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 681.885 688.098 <o,f0,female> [dis=hes-] euh [-dis=hes] sur la recherche. [r] et c'est le cas, justement, de ce que nous avons fait [bc] ces derniers mois à l'Assemblée nationale en créant [r] la banque
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 688.098 689.878 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 689.878 698.017 <o,f0,female> sur les voeux. hier, vous savez, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; s'est adressé aux membres du conseil constitutionnel. [r] [dis=hes-] euh [-dis=hes] il a annoncé que les anciens présidents ne seraient plus membres de droit [r] [dis=hes-] euh [-dis=hes] de cette institution.
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 698.017 700.340 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 700.340 704.793 <o,f0,female> pour plus d'indépendance ? est ce que c'est par risque de conflits d'intérêts ? pour quelles raisons précises selon vous ?
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 704.793 717.707 <o,f0,female> [r] alors, [dis=rep-] il s'en [-dis=rep] il s'en était [dis=hes-] euh [-dis=hes] déjà, il en avait déjà parlé [dis=hes-] euh [-dis=hes] [dis=rep-] pendant [-dis=rep] pendant la campagne. il souhaitait [dis=hes-] euh [r] euh [-dis=hes] faire un certain nombre de réformes [dis=hes-] concer(nant) [-dis=hes] concernant [r] [dis=hes-] euh [-dis=hes] [dis=rev-] la [-dis=rev] le statut du président de la République.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 717.707 731.817 <o,f0,female> [r] [dis=hes-] euh [-dis=hes] par exemple le statut pénal, dont on a moins parlé mais qu'il a aussi annoncé, qui est une réforme extrêmement importante. [r] et puis, [r] le fait que [dis=hes-] euh [-dis=hes] désormais [dis=hes-] euh [-dis=hes] les anciens présidents de la république ne pourront plus [r] siéger au conseil constitutionnel. d'ailleurs,
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 731.817 745.531 <o,f0,female> [r] il va se l'appliquer à lui, [dis=hes-] euh [-dis=hes] en premier. [r] c'est [dis=hes-] euh [-dis=hes] tout simplement parce que d'abord, soit ils n'y siègent plus. c'est le cas, [r] [dis=hes-] euh [-dis=hes] par exemple, [dis=hes-] euh [-dis=hes] de &lt;pers=Jacques_CHIRAC&gt;Jacques Chirac&lt;/pers&gt; [dis=hes-] euh [-dis=hes] et de &lt;pers=Valery_GISCARD_D_ESTAING&gt;Valéry Giscard d'Estaing&lt;/pers&gt;, ou en tout cas, [r] ils y ont siégé mais n'y siègent plus.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 745.531 758.373 <o,f0,female> [r] et puis c'est aussi [dis=hes-] euh [-dis=hes] , [r] [dis=hes-] euh [-dis=hes] une réforme [dis=hes-] euh [-dis=hes] qui nous semble naturelle et moderne [r] pour un pays qui [dis=hes-] euh [-dis=hes] est justement un pays [dis=hes-] euh [-dis=hes] [r] [dis=hes-] euh [-dis=hes] [dis=rep-] qui qui [-dis=rep] qui a en place des lois de la république et qui n'est
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 758.373 758.958 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 758.958 760.868 <o,f0,female> un pays où il y a des restes de monarchie. [bc]
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 760.868 772.894 <o,f0,female> il va falloir [dis=hes-] euh [-dis=hes] changer la constitution pour cela et réunir les 3/5ème du Parlement. [r] est-ce que vous pensez que [dis=hes-] euh [-dis=hes] &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; réussira [dis=rep-] à [-dis=rep] à convaincre les 3/5ème du Parlement [dis=rep-] de [-dis=rep] de voter [r] cette révision constitutionnelle ?
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 772.894 787.864 <o,f0,female> [r] il faut toujours convaincre, mais je ne pense pas, en tout cas, je n'ai pas [r] [dis=hes-] euh [-dis=hes] vu [dis=hes-] euh [-dis=hes] jusqu'à présent [dis=hes-] euh [-dis=hes] , un sujet [dis=hes-] euh [-dis=hes] [r] [dis=rep-] de [-dis=rep] de polémique politicienne sur cette question. [r] [dis=hes-] euh [-dis=hes] c'est tout simplement, [dis=hes-] euh [-dis=hes] [r] [dis=hes-] euh [-dis=hes] je pense, [dis=hes-] euh [-dis=hes] une réforme de bon sens,
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 787.864 792.621 <o,f0,female> [r] et qui [dis=hes-] euh [-dis=hes] donne à nos institutions un petit souffle moderne.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 792.621 804.180 <o,f0,female> [r] on poursuit ce journal, &lt;pers=Annick_LEPETIT&gt;Annick [b] Lepetit&lt;/pers&gt;. il n'y aura sans doute pas d'amendement sur la procréation médicalement assistée dans le projet de loi sur le mariage pour tous. [r] la PMA devrait attendre [dis=hes-] euh [-dis=hes] trois mois et une nouvelle loi sur la famille.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 804.180 809.657 <o,f0,female> [r] le gouvernement a visiblement à coeur de jouer l'apaisement sur un sujet [r] polémique. &lt;pers=Jean-Baptiste_DAOULAS&gt;Jean-Baptiste Daoulas&lt;/pers&gt;
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 809.657 810.415 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Jean_Baptiste_DAOULAS 810.415 818.082 <o,f0,male> [b-] à la mi décembre, pour le patron des députés PS, le dépôt d'un amendement sur la procréation médicalement assistée, [r] ne faisait aucun doute.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Bruno_LE_ROUX 818.082 825.344 <o,f0,male> le groupe a pris la décision de déposer un amendement sur la PMA au texte qui viendra [r] en discussion le 29 janvier.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Jean_Baptiste_DAOULAS 825.344 834.388 <o,f0,male> une affirmation qui ne faisait pas l'unanimité au PS. le même jour, d'autres députés socialistes demandaient de dissocier mariage pour tous et PMA.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Olivier_FAURE 834.388 846.374 <o,f0,male> le groupe est extrêmement divisé sur cette question. mais que donc [dis=hes-] euh [-dis=hes] , [dis=rev-] il est pas [-dis=rev] [r] enfin il est urgent de reporter ce débat là, à une loi bioéthique, [r] parce que c'est la question des lois bioéthiques [r] de s'interroger sur les usages de la science.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Jean_Baptiste_DAOULAS 846.374 854.790 <o,f0,male> une ligne modérée qui semble l'avoir emporté. [r] le gouvernement promet désormais un projet de loi sur la famille et la filiation pour le mois de mars.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 854.790 855.332 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Jean_Baptiste_DAOULAS 855.332 865.298 <o,f0,male> au mois de janvier, [r] le texte sur le mariage pour tous ne traitera donc que de mariage et d'adoption. [r] c'est ni plus, ni moins que ce que &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; a promis pendant sa campagne.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Jean_Baptiste_DAOULAS 865.298 876.355 <o,f0,male> [r] le retrait de la PMA irrite les verts, mais il permet d'apaiser les centristes. [r] c'est ce que certains députés de l'UDI réclamaient, pour accepter de soutenir le texte sur le mariage pour tous.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 876.355 877.223 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 877.223 886.293 <o,f0,female> [r] &lt;pers=Annick_LEPETIT&gt;Annick Lepetit&lt;/pers&gt;, en tant que porte parole du groupe PS, est-ce que vous pouvez nous confirmer que le groupe ne déposera pas d'amendement [r] [dis=hes-] euh [-dis=hes] sur la PMA, dans le projet [b] de loi sur le mariage pour tous ?
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 886.293 898.235 <o,f0,female> [r] non, je ne peux pas vous le confirmer puisque [dis=hes-] euh euh [-dis=hes] lorsque le groupe s'est réuni [dis=hes-] euh [-dis=hes] pour [dis=rep-] la [-dis=rep] [dis=hes-] euh [-dis=hes] [rire-] la dernière fois [dis=hes-] euh [-dis=hes] en fin 2012 [-rire] . [r] il a voté majoritairement [bc] [dis=hes-] euh [-dis=hes] pour le dépôt de cet amendement.
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 898.235 899.963 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 899.963 904.907 <o,f0,female> il y aura [dis=hes-] euh [-dis=hes] cet amendement sur la PMA. alors après, [r] la discussion
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 904.907 906.612 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 906.612 907.270 <o,f0,female> il va être déposé ?
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 907.270 920.285 <o,f0,female> la discussion qui n'est pas nouvelle, c'est de savoir [dis=hes-] su(r) [-dis=hes] sur quel véhicule législatif [r] ? est-ce que ça sera, à la fin du mois de janvier, comme c'était [dis=hes-] euh [-dis=hes] effectivement [b] annoncé, [r] [dis=hes-] euh [-dis=hes] il y a quelques semaines, par [dis=hes-] euh [-dis=hes] le président de notre groupe, &lt;pers=Bruno_LE_ROUX&gt;Bruno Le Roux&lt;/pers&gt; ?
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 920.285 920.822 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 920.822 921.487 <o,f0,female> présentation du
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 921.487 922.566 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 922.566 924.206 <o,f0,female> [b] parce que c'est une nouveauté.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 924.206 924.631 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 924.631 934.074 <o,f0,female> dans le cadre [r] de [dis=hes-] euh [-dis=hes] du projet de loi [dis=hes-] euh [-dis=hes] , concernant [dis=hes-] euh [-dis=hes] la réforme des familles, enfin je ne sais pas comment l'appeler parce que pour le moment, [r] le premier ministre l'a annoncé, ce qui prouve, d'ailleurs,
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 934.074 940.280 <o,f0,female> [r] que ce débat [r] a été bénéfique, si je puis dire, dans le cadre du dialogue [bc] entre le gouvernement et sa majorité à l'Assemblée nationale.
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 940.280 942.281 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 942.281 943.645 <o,f0,female> évoluer le gouvernement [b] là des(sus)
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 943.645 956.238 <o,f0,female> [dis=rep-] j'en suis certaine. [-dis=rep] [bc] j'en suis certaine. pourquoi ? [r] tout simplement parce que ce texte, on est nombreux [r] à avoir dit [r] [dis=hes-] euh [-dis=hes] assez vite, mais c'est vrai que c'était pas la position du gouvernement, [r] que ce texte, à partir du moment où il portait sur le mariage et l'adoption
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 956.238 962.648 <o,f0,female> [r] des couples de même sexe, [r] [dis=hes-] euh [-dis=hes] il introduisait, de fait, un débat sur les questions de filiation. [bc] [r] et vous avez aujourd'hui,
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 962.648 973.425 <o,f0,female> [r] [dis=hes-] euh [-dis=hes] des familles qui sont [dis=hes-] euh [-dis=hes] moins bien protégées que d'autres et [dis=rev-] je par(le) [-dis=rev] je pense pas uniquement aux couples [dis=hes-] euh [-dis=hes] homosexuels. [r] je pense à d'autres familles, des familles recomposées, au statut du tiers, etc. .
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 973.425 975.594 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 975.594 976.092 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 976.092 990.496 <o,f0,female> [dis=rev-] ça peut être [-dis=rev] on attend d'avoir des précisions sur cette loi. [bc] en tout cas, moi j'apprécie le fait, que le premier ministre l'ait annoncé ait annoncé également un calendrier. [r] en attendant, cette question va être à nouveau débattue, [r] au sein de notre groupe pour savoir si c'est dans le cadre
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 990.496 993.951 <o,f0,female> [r] de [dis=hes-] euh [-dis=hes] la loi [dis=hes-] euh [-dis=hes] " mariage pour tous " ou si c'est dans le cadre
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 993.951 996.154 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 996.154 1003.383 <o,f0,female> cet amendement [dis=hes-] euh [-dis=hes] aura lieu. [bc] [dis=hes-] euh [-dis=hes] il n'est pas [dis=hes-] euh [-dis=hes] , il ne faudrait pas laisser croire parce que ce serait [r] faux et hypocrite de notre part,
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 1003.383 1006.000 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 1006.000 1006.687 <o,f0,female> exactement.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 1006.687 1008.456 <o,f0,female> et votre décision, vous la prendrez quand [b] en groupe ?
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Annick_LEPETIT 1008.456 1021.952 <o,f0,female> [b] &amp;ben écoutez, je pense que [dis=hes-] euh [-dis=hes] nous avons une première réunion [dis=hes-] euh [-dis=hes] de notre groupe demain donc nous [dis=hes-] commen(çons) [-dis=hes] commençons même [r] avant la reprise des débats [dis=hes-] euh [-dis=hes] à l'Assemblée. je ne sais pas [r] si ce sera cette question qui sera à l'ordre du jour dès demain, [r] mais elle va l'être forcément
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 1021.952 1023.246 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 1023.246 1023.852 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 1023.852 1034.563 <o,f0,female> le mariage homosexuel, il en était [dis=hes-] euh [-dis=hes] aussi question lors des voeux de &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt;. à cette occasion, la présidente du FN [r] en a profité pour expliquer la position du parti vis à vis du projet de loi sur le mariage pour tous.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 1034.563 1035.014 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 1035.014 1040.443 <o,f0,female> si elle est contre, elle ne manifestera pas dimanche, mais appelle ceux qui le souhaitent à descendre dans la rue. on l'écoute.
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Marine_LE_PEN 1040.443 1051.077 <o,f0,female> écoutez, ça dépend. j'ai effectué, [dis=rev-] il y a [-dis=rev] [r] en octobre, [r] [dis=rep-] un [-dis=rep] un communiqué rappelant [r] que le front national [dis=hes-] euh [-dis=hes] a toujours défendu [r] [dis=hes-] euh [-dis=hes] [dis=rep-] la [-dis=rep] la famille
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Marine_LE_PEN 1051.077 1055.665 <o,f0,female> et que nous nous opposions à ce projet de loi. il n'était pas question d'empêcher
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 1055.665 1056.112 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Marine_LE_PEN 1056.112 1070.833 <o,f0,female> [dis=rep-] des [-dis=rep] des cadres, des élus, des militants, des sympathisants, [r] d'exprimer par [dis=hes-] euh [-dis=hes] cette manifestation [r] leur opposition. j'attire l'attention des français sur le piège politique. non pas que représente cette manifestation en elle même, si vous voulez, mais que représente
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Marine_LE_PEN 1070.833 1082.562 <o,f0,female> [r] l'enfumage [r] que constitue [r] [dis=hes-] euh [-dis=hes] ce débat qui a pris toute la place. [r] on voit bien que derrière cela, encore une fois, il y a la volonté de recréer le clivage gauche droite.
+LCP_LCPActu14h_2013-01-08_135400 1 inter_segment_gap 1082.562 1083.298 <o,f0,> 
+LCP_LCPActu14h_2013-01-08_135400 1 LCP_LCPActu14h_2013_01_08_135400_Brigitte_BOUCHER 1083.298 1088.138 <o,f0,female> &lt;pers=Annick_LEPETIT&gt;Annick Lepetit&lt;/pers&gt;. [b] qu'est-ce que vous pensez [dis=rep-] de [-dis=rep] de la stratégie du Front National ? est-ce que ça vous étonne ?
+LCP_LCPActu14h_2013-01-08_135400 1 excluded_region 1088.138 1498.368 <o,,unknown> ignore_time_segment_in_scoring

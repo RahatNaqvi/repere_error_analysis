@@ -1,0 +1,53 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Yann, version 6 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-10-23_064700 1 excluded_region 0.000 463.000 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 463.000 469.415 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Philippe_DUFREIGNE 469.415 471.958 <o,f0,male> on l'avait vu s'essayer au théâtre et au cinéma,
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Raphael_HAROCHE 471.958 475.735 <o,f0,male> &amp;bah je suis pas acteur quoi puis [dis=hes-] euh [-dis=hes] [r] si j'ai pas envie d'être acteur.
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 475.735 476.602 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Raphael_HAROCHE 476.602 479.151 <o,f0,male> il m'a [rire-] fallu un peu de temps pour le découvrir [-rire] [r]
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Philippe_DUFREIGNE 479.151 486.288 <o,f0,male> &lt;pers=Raphael_HAROCHE&gt;Raphaël&lt;/pers&gt; revient donc avec "super Walter", un sixième album punchy , plus exigeant et dont beaucoup de titres parlent d'amour, souvent torturé.
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Raphael_HAROCHE 486.288 489.883 <o,f0,male> oui, l'amour c'est [dis=hes-] euh [-dis=hes] c' il faut en être digne, ça se mérite, c'est un truc [dis=hes-] euh [-dis=hes]
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 489.883 490.515 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Raphael_HAROCHE 490.515 491.591 <o,f0,male> je sais pas, c'est un
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 491.591 492.214 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Raphael_HAROCHE 492.214 500.285 <o,f0,male> c'est presque un combat quotidien. &amp;ouais je trouve ça, bien-sûr. [dis=rev-] je [-dis=rev] c'est ce qui m'intéresse le plus quoi. en fait, c'est un disque qui parle de moi, quoi. en gros, je me regarde le nombril en disant
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 500.285 500.896 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Raphael_HAROCHE 500.896 502.892 <o,f0,male> [dis=hes-] j(e) j(e) [-dis=hes] je sais pas de quoi parler d'autre, tu vois ?
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 502.892 503.437 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_speaker_3 503.437 504.470 <o,f0,female> ça s'améliore.
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 504.470 507.394 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Philippe_DUFREIGNE 507.394 517.476 <o,f0,male> on l'avait dit, "astérix" démarrait mal. les premiers chiffres n'étaient pas encourageants. [r] c'était sans compter sur le week-end qui a été très bon : [r] plus d'un million de spectateurs ont été recensés entre mercredi et dimanche soir.
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Philippe_DUFREIGNE 517.476 524.914 <o,f0,male> [r] un score équivalent à celui du "petit nicolas" qui a terminé sa course à plus de 5 millions 700 mille entrées. de bon augure avant les vacances de la Toussaint.
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 524.914 525.445 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_speaker_3 525.445 526.814 <o,f0,female> c'est l'humoriste du moment.
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 526.814 528.013 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Philippe_DUFREIGNE 528.013 529.552 <o,f0,male> il y a des signes qui ne trompent pas.
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Pascal_LEGITIMUS 529.552 532.850 <o,f0,male> est-ce qu'il est drôle ? &amp;bah écoutez [dis=hes-] euh [-dis=hes] , en général, un humoriste qui
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 532.850 533.382 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Pascal_LEGITIMUS 533.382 534.973 <o,f0,male> qui a pignon sur rue depuis un petit bout de temps.
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Philippe_DUFREIGNE 534.973 542.451 <o,f0,male> mais oui, c'est pour ça qu'&lt;pers=Alex_LUTZ&gt;Alex Lutz&lt;/pers&gt; démarrait au Grand Point-Virgule une nouvelle mouture de son spectacle et que les stars étaient, hier soir, présentes pour le soutenir.
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Muriel_ROBIN 542.451 547.015 <o,f0,female> moi, j'adore. j'aime beaucoup ce garçon, il a beaucoup de talent, il en a eu depuis très longtemps, il en a eu très jeune.
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Jean_DUJARDIN 547.015 551.497 <o,f0,male> je l'avais rencontré quand [dis=rep-] il [-dis=rep] il jouait au Point-Virgule [dis=hes-] euh [-dis=hes] dans le Marais.
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Philippe_DUFREIGNE 551.497 555.971 <o,f0,male> et désormais c'est au Grand Point-Virgule qu'il donne son spectacle et, parole d'expert,
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Pierre_RICHARD 555.971 560.312 <o,f0,male> je fais un tri quand-même, et lui [dis=rev-] il est bien dans le bon [-dis=rev] il est bien dans le top, là, [pi]
+BFMTV_CultureEtVous_2012-10-23_064700 1 BFMTV_CultureEtVous_2012_10_23_064700_Philippe_DUFREIGNE 560.312 562.321 <o,f0,male> après tout ça, vous savez ce qu'il vous reste à faire.
+BFMTV_CultureEtVous_2012-10-23_064700 1 inter_segment_gap 562.321 563.106 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-23_064700 1 excluded_region 563.106 1580.808 <o,,unknown> ignore_time_segment_in_scoring

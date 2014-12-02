@@ -1,0 +1,463 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:28 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 6 of 140312
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 0.000 597.510 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 597.510 611.624 <o,f0,male> projet contre projet, idée contre idée, bienvenue dans " pile et face " avec côté pile cette semaine l'ancien président de l'assemblée nationale et député UMP [r] [dis=hes-] euh [-dis=hes] de Haute-Savoie &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt;, côté face le député socialiste de Paris
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 611.624 612.004 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 612.004 620.470 <o,f0,male> &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt;. mercredi prochain sera présenté en conseil des ministres le projet de financement de la sécurité sociale.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 620.470 620.865 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 620.865 634.615 <o,f0,male> au menu davantage de taxes que d'économies pour tenter de combler le déficit de la sécu, [r] mais au-delà d'un raisonnement purement comptable, en quoi réside véritablement le changement concernant la politique
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 634.615 640.817 <o,f0,male> de santé du gouvernement Ayrault. &amp;eh bien messieurs vous allez avoir trente minutes pour en débattre,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 640.817 642.352 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 642.352 656.630 <o,f0,male> la pièce tombe sur face. autrement dit c'est vous &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt; qui allez entamer ce débat, c'est vous &lt;pers=Bernard_ACCOYER&gt;Bernard [dis=rep-] Acc(yer) [-dis=rep] Accoyer&lt;/pers&gt; [dis=rep-] qui allez le [-dis=rep] [r] qui allez le conclure. [dis=hes-] euh [-dis=hes] &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt; je regardais les chiffres, l'évolution des chiffres, [dis=hes-] euh [-dis=hes] et plus exactement du déficit de la sécurité sociale 2009
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 656.630 661.171 <o,f0,male> 20,3 milliards de déficit, 2010 23,9 milliards de déficit,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 661.171 661.583 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 661.583 670.206 <o,f0,male> 2011 17,4 milliards de déficit et alors 2012 13,3 milliards de déficit. on a envie de dire ça va mieux, concernant les comptes de la sécurité sociale.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 670.206 670.602 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 670.602 682.912 <o,f0,male> est-ce que c'est le cas et est-ce que [dis=hes-] euh [-dis=hes] le gouvernement précédent, le gouvernement de &lt;pers=Francois_FILLON&gt;François Fillon&lt;/pers&gt; [r] [dis=hes-] euh [-dis=hes] a bien fait son travail en la matière, comme semble l'indiquer les chiffres. ça va mieux, semble-t-il, ce déficit.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 682.912 683.782 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 683.782 692.674 <o,f0,male> oui, ça va mieux mais on part de très très loin [dis=hes-] euh [-dis=hes] des chiffres comme ceux-là [dis=hes-] euh [-dis=hes] 13 milliards d'euros de déficit, c'est effectivement tout à fait [dis=hes-] euh [-dis=hes] colossal.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 692.674 693.276 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 693.276 699.773 <o,f0,male> [dis=hes-] euh [-dis=hes] néanmoins nous héritons de cette situation et le projet de loi que le gouvernement présentera la semaine prochaine
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 699.773 700.121 <o,f0,male> &amp;ouais
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 700.121 701.963 <o,f0,male> [dis=hes-] euh [-dis=hes] a vocation à
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 701.963 702.422 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 702.422 712.768 <o,f0,male> deux objectifs : un objectif social, c'est dans une période qui est extrêmement difficile, on voit les problèmes du chômage [dis=hes-] euh [-dis=hes] on voit aussi des difficultés en terme de pouvoir d'achat [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 712.768 713.401 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 713.401 718.116 <o,f0,male> telle que, la situation économique de notre pays [dis=hes-] euh [-dis=hes] est aujourd'hui décrite.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 718.116 718.496 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 718.496 733.230 <o,f0,male> et [dis=hes-] euh [-dis=hes] nous avons fait le choix [dis=hes-] euh [-dis=hes] de ne pas couper dans les dépenses sociales mais d' [dis=rep-] au [-dis=rep] *au contraire de faire en sorte que le filet de notre protection sociale continue à exister dans cette période de crise. [r] nous le faisons pour des raisons sociales, évidemment, un filet de sécurité,
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 733.230 733.958 <o,f0,male> de protection,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 733.958 734.338 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 734.338 749.225 <o,f0,male> des français. [r] mais nous le faisons aussi pour des raisons économiques. c'est que [r] [dis=hes-] euh [-dis=hes] [dis=rep-] *c'est [-dis=rep] c'est le rôle aussi de la sécurité sociale de jouer dans cette période de crise un rôle d'amortisseur. [dis=rep-] *en [-dis=rep] en quelque sorte on fait en sorte que le pouvoir d'achat des français soit [r] par ce biais [r]
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 749.225 757.724 <o,f0,male> [dis=hes-] euh [-dis=hes] sauvegardé. [r] et que donc [dis=hes-] euh [-dis=hes] la machine économique ne s'étouffe pas. et donc dans un projet de budget, je termine
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 757.724 758.547 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 758.547 762.430 <o,f0,male> où nous faisons 10 milliards d'euros d'économies sur le budget de l'état,
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 762.430 762.762 <o,f0,male> oui
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 762.762 774.028 <o,f0,male> nous avons décidé de faire en sorte que [r] [dis=hes-] euh [-dis=hes] le coup de frein ne soit pas sur le budget social de la nation. [r] [dis=hes-] euh [-dis=hes] c'est une marque de ce gouvernement, son choix de politique *sociale, son choix de politique économique.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 774.028 774.534 <o,f0,male> &amp;hm
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 774.534 775.151 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 775.151 776.006 <o,f0,male> &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt;
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 776.006 776.497 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 776.497 781.086 <o,f0,male> vous l'avez ressenti comme ça [dis=rep-] ce [-dis=rep] ce projet de loi de financement de la sécurité sociale tel qu'on le connaît aujourd'hui ?
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 781.086 781.529 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 781.529 782.114 <o,f0,male> non d'abord
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 782.114 784.076 <o,f0,male> [bc-] filet de sécurité [-bc] maintenu [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 784.076 785.310 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 785.310 796.463 <o,f0,male> (sur)tout il faut surtout regarder l'avenir. parce que [dis=rev-] la [-dis=rev] l'action d'un gouvernement, y compris l'action sociale, [r] c'est de préparer le meilleur avenir possible pour les français, pour leurs enfants.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 796.463 796.954 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 796.954 807.951 <o,f0,male> et tel n'est pas je crois [r] le résultat [dis=rev-] de [-dis=rev] du projet de budget de la sécurité sociale tel qu'il nous est présenté. mais qu'il sera peut-être modifié,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 807.951 808.331 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 808.331 810.936 <o,f0,male> au cours des discussions [r] parlementaires
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 810.936 811.464 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 811.464 811.955 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 811.955 814.154 <o,f0,male> puisque le déficit va augmenter.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 814.154 815.135 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 815.135 824.859 <o,f0,male> puisque le déficit prévisionnel est [dis=hes-] euh [-dis=hes] d'environ 16 milliards d'euros pour [dis=hes-] euh [-dis=hes] les trois branches, je dirais même les quatre. [r] mais il se trouve que la branche
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 824.859 825.397 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 825.397 833.166 <o,f0,male> maladies professionnelles et accidents du travail sera bénéficiaire, en 2013. en tout cas c'est ce qui est [dis=hes-] euh [-dis=hes] [r] anticipé.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 833.166 833.672 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 833.672 841.457 <o,f0,male> pour autant, les déficits se creusent, et ce sont nos enfants, nos petits-enfants [r] qui donc vont financer les prestations
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 841.457 841.837 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 841.837 856.408 <o,f0,male> [dis=hes-] euh [-dis=hes] qui vont être [dis=hes-] euh [-dis=hes] [r] données [dis=hes-] euh [-dis=hes] à notre génération, aujourd'hui. [r] ça me paraît, [dis=rep-] et [-dis=rep] et ça ne date pas d'aujourd'hui, ça j'en conviens volontiers, [r] mais ça me paraît quelque chose de très inquiétant, puisque dans le même temps [dis=hes-] euh euh [-dis=hes] la dette
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 856.408 868.837 <o,f0,male> de l'état continue d'augmenter, [r] et que la dette sociale continue elle aussi de courir de plus en plus fort. [r] [dis=hes-] euh [-dis=hes] c'est une préoccupation majeure. [r] et je m'étonne d'autant plus de ce choix du gouvernement, [r] que la cour des comptes
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 868.837 869.233 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 869.233 870.926 <o,f0,male> a fait une recommandation ;
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 870.926 871.670 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 871.670 881.937 <o,f0,male> cette recommandation était de fixer [dis=rep-] un [-dis=rep] un objectif national de dépenses [dis=rev-] de l'axe [-dis=rev] de l'assurance maladie, [r] c'est-à-dire la hausse des dépenses d'une année [bc-] sur l'autre [-bc] ,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 881.937 882.428 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 882.428 894.480 <o,f0,male> qui est [dis=hes-] euh [-dis=hes] fixée par la cour des comptes à 2,4% . or le gouvernement fait le choix de mettre [dis=hes-] euh [-dis=hes] un objectif de dépenses de 2,7%
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 894.480 894.844 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 894.844 898.258 <o,f0,male> [dis=hes-] euh [-dis=hes] je comprends vraiment pas du tout [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 898.258 900.980 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 900.980 904.160 <o,f0,male> on le fait sur le dos de nos enfants et de nos petits-enfants.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 904.160 904.904 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 904.904 918.583 <o,f0,male> &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt; a raison de vouloir se projeter dans l'avenir et de pas regarder le passé fût-il récent. puisque effectivement les 5 dernières années c'est plus de cent milliards d'euros de déficit qui ont été [dis=hes-] euh [-dis=hes] transmis par [dis=hes-] euh [-dis=hes] la majorité à laquelle appartenait
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 918.583 919.569 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 919.569 923.351 <o,f0,male> (expli)quer que la courbe était dans la bonne direction, jusqu'à cette [bc-] année depuis [-bc]
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 923.351 930.092 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 930.092 937.592 <o,f0,male> crise n'est pas terminée, je sais bien que Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; avait expliqué le contraire pendant la campagne mais objectivement il faut [dis=rev-] nous [-dis=rev] reconnaître que la crise n'est pas terminée je crois que les français le savent.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 937.592 938.130 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 938.130 952.953 <o,f0,male> donc [dis=hes-] euh [-dis=hes] [r] [dis=hes-] euh [-dis=hes] il y a eu explosion [dis=hes-] euh [-dis=hes] de la dette [dis=rev-] mais je [-dis=rev] moi non plus je ne vais pas [r] [dis=hes-] euh [-dis=hes] passer mon temps [r] à [dis=hes-] euh [-dis=hes] parler [dis=hes-] euh [-dis=hes] du passé même s'il est très récent et même si aujourd'hui ce passé n'est pas effacé, [r] c'est un héritage qui
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 952.953 967.817 <o,f0,male> pèse sur nous. alors nous avons fait le choix [dis=hes-] euh [-dis=hes] effectivement [r] [dis=hes-] euh [-dis=hes] d'un ONDAM c'est-à-dire la dépense de santé &amp;hein [dis=hes-] euh [-dis=hes] remboursée par la sécurité sociale, [r] en progression de 2,7 , ce qui est supérieur à ce qu'avait [dis=hes-] euh [-dis=hes] [r] [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 967.817 970.792 <o,f0,male> prévu [dis=hes-] euh [-dis=hes] *la majorité précédente.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 970.792 971.688 <o,f0,male> pourquoi ce choix ?
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 971.688 972.280 <o,f0,male> [b] voilà.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 972.280 973.736 <o,f0,male> et recommander la cour des [b-] comptes [-b] .
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 973.736 975.935 <o,f0,male> et recommandé par la cour des comptes [dis=rev-] je [-dis=rev] j'en conviens.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 975.935 976.363 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 976.363 983.721 <o,f0,male> nous avons fait ce choix parce que nous estimons que nous sommes dans une situation [dis=hes-] euh [-dis=hes] très difficile du point de vue de notre offre de soins.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 983.721 984.132 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 984.132 994.656 <o,f0,male> [dis=hes-] euh [-dis=hes] la situation des hôpitaux [r] [dis=hes-] euh [-dis=hes] est aujourd'hui très difficile avec des déficits qui se sont accumulés, 600 millions d'euros, en gros [dis=hes-] euh [-dis=hes] qui ont été [dis=hes-] euh [-dis=hes] [r] accumulés
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 994.656 995.479 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 995.479 1009.322 <o,f0,male> d'une part, et deuxièmement, [dis=hes-] euh [-dis=hes] chacun en convient [r] [dis=hes-] euh [-dis=hes] il y a des problèmes de désertification médicale, il y a de très sérieux problèmes d'organisation de notre système de soins qui n'ont pas été résolus. et donc [dis=hes-] euh [-dis=hes] il faut que nous investissions dans notre système de santé.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1009.322 1009.767 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1009.767 1014.957 <o,f0,male> et donc si nous avons pris une part supérieure, [r] de 0,2 ou de 0,3 point su(périeure)
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1014.957 1015.590 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1015.590 1017.631 <o,f0,male> (su)périeure, c'est parce que nous croyons au plan
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1017.631 1018.043 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1018.043 1024.261 <o,f0,male> de notre système de santé, c'est que nous avons besoin d'investir pour moderniser ou pour remettre à flot, je pense [dis=rev-] des [-dis=rev] aux hôpitaux.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1024.261 1024.720 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1024.720 1039.375 <o,f0,male> investir pour transformer notre système de santé et faire qu'il soit véritablement accessible. lutter contre la désertification médicale. [r] et parce que nous pensons aussi que la dépense de santé est particulièrement pourvoyeuse d'emplois, d'aménagement du territoire [r] et que dans une période aussi
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1039.375 1050.983 <o,f0,male> difficile pour l'activité économique [r] nous pensons que la santé est une dépense vertueuse. nous pensons [r] [dis=hes-] euh [-dis=hes] que [dis=hes-] euh [-dis=hes] ce n'est pas un coût, comme malheureusement souvent la droite veut [dis=hes-] euh [-dis=hes] le faire croire.
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1050.983 1052.771 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1052.771 1053.983 <o,f0,male> de santé, c'est ça ?
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1053.983 1054.844 <o,f0,male> c'est que de
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1054.844 1055.651 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1055.651 1056.505 <o,f0,male> [b-] (in)vestir [-b] sur notre
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1056.505 1057.376 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1057.376 1062.043 <o,f0,male> (exac)tement c'est [dis=hes-] euh [-dis=hes] la volonté d'indiquer [r] que, au plan économique, je parle pas du plan sanitaire ou du
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1062.043 1062.455 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1062.455 1071.626 <o,f0,male> mais au plan économique, [r] la santé est un facteur de croissance vertueux [r] qui est très important et non pas une charge comme toujours veut le faire croire la droite.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1071.626 1072.101 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1072.101 1078.952 <o,f0,male> &amp;ben [dis=rep-] c'est [-dis=rep] c'est encore une fois je m'en réfère à la cour des comptes présidée par un ancien député prestigieux et socialiste.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1078.952 1079.823 <o,f0,male> s'appelle &lt;pers=Didier_MIGAUD&gt;Didier Migaud&lt;/pers&gt;
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1079.823 1088.588 <o,f0,male> qui est [bc-] &lt;pers=Didier_MIGAUD&gt;Didier Migaud&lt;/pers&gt; [-bc] , et qui dans son rapport, multiplie l'utilisation [dis=hes-] euh [-dis=hes] de l'expression " coût de la santé " [r] [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1088.588 1089.743 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1089.743 1095.250 <o,f0,male> c'est largement partagé. [bc-] quant à la cour des comptes [-bc] elle a pas l'habitude [bc-] de parler [-bc] des petits oiseaux [bc-] &amp;hein elle parle plutôt [dis=hes-] euh [-dis=hes] de [-bc]
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1095.250 1096.168 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1096.168 1109.172 <o,f0,male> puisque c'est le mot idéologie venons-en à ce terme. [r] effectivement l'idéologie voudrait faire croire que, [r] parce que ce sont des dépenses sociales, évidemment généreuses, évidemment destinées à ceux de nos compatriotes
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1109.172 1109.600 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1109.600 1112.416 <o,f0,male> qui en ont à 99% le plus besoin.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1112.416 1112.796 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1112.796 1124.880 <o,f0,male> ça [dis=rev-] ne [-dis=rev] mériterait de ne pas être suivi aussi attentivement que les autres dépenses. [r] mais nos enfants, nos petits-enfants qui vont payer cette dette, [r] ça sera quand même [dis=hes-] euh [-dis=hes] la même chose que les autres dépenses. mais je voudrais
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1124.880 1125.371 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1125.371 1131.969 <o,f0,male> [dis=hes-] euh [-dis=hes] revenir sur ce qu'a dit &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt;, [r] [dis=hes-] euh [-dis=hes] lorsqu'il dit on fait [dis=rev-] un s() [-dis=rev] un choix qui est un choix
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1131.969 1132.681 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1132.681 1142.119 <o,f0,male> d'essayer de faire face aux difficultés [dis=hes-] euh [-dis=hes] sociales du moment. [r] en augmentant davantage les dépenses [dis=hes-] euh [-dis=hes] de [bc-] santé [-bc] que le recommande la cour des comptes.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1142.119 1142.499 <o,f0,male> &amp;ouais
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1142.499 1142.831 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1142.831 1145.306 <o,f0,male> et dans le même temps il n'est pas interdit
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1145.306 1145.686 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1145.686 1152.648 <o,f0,male> de poursuivre les réformes structurelles de l'hôpital. [r] or ces réformes structurelles de l'hôpital, qui sont le seul moyen
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1152.648 1153.028 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1153.028 1158.234 <o,f0,male> de maîtriser le premier poste de dépenses de l'assurance maladie qui est l'hospitalisation,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1158.234 1158.630 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1158.630 1163.424 <o,f0,male> ces réformes structurelles vous les abandonnez. personnellement je le regrette beaucoup.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1163.424 1163.978 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1163.978 1166.858 <o,f0,male> pourquoi abandonner la convergence tarifaire ?
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1166.858 1167.301 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1167.301 1182.182 <o,f0,male> [dis=hes-] euh [-dis=hes] au nom de quoi abandonner la convergence tarifaire ? [r] sur quelle base [r] l'hôpital pourra-t-il faire évoluer ses pratiques, qui sont d'ailleurs de grande qualité, [r] et généralement [r] remarquables. [r] si on enlève ce repère, [r] et
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1182.182 1183.052 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1183.052 1184.112 <o,f0,male> (ra)ppeler ce que c'est que la [bc-] convergence [-bc]
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1184.112 1184.777 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1184.777 1187.546 <o,f0,male> tarifaire c'est [r] tout simplement que les mêmes soins,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1187.546 1188.179 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1188.179 1190.078 <o,f0,male> administrés dans un hôpital,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1190.078 1190.474 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1190.474 1195.664 <o,f0,male> reviennent 27% plus cher que les mêmes soins administrés dans un établissement
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1195.664 1196.155 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1196.155 1204.244 <o,f0,male> privé. [bc-] alors [-bc] je ne suis pas de ceux qui disent que l'hôpital [dis=rev-] et l'hospita(lisation) [-dis=rev] public et *l'hospitalisation privée c'est la même chose. il y a des charges particulières
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1204.244 1204.845 <o,f0,male> pense que vous avez
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1204.845 1205.383 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1205.383 1217.912 <o,f0,male> [dis=rep-] de permanence [-dis=rep] de permanence des soins, [r] [dis=hes-] euh [-dis=hes] d'enseignement, de recherche qui sont spécifiques à beaucoup d'établissements [r] publics. [bc-] toutefois [-bc] , [dis=hes-] euh [-dis=hes] lorsque l'on opère en secteur hospitalier public
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1217.912 1218.529 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1218.529 1233.103 <o,f0,male> une gastrectomie, c'est-à-dire enlever [bc-] l'estomac [-bc] . ou qu'on le fait dans un établissement hospitalier privé, c'est pareil. [r] et donc il n'y a pas de raison que ça coûte plus cher [r] dans un établissement que dans l'autre. [r] et donc c'est cette réforme structurelle,
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1233.103 1234.527 <o,f0,male> qui exige, c'est vrai, du courage,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1234.527 1235.176 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1235.176 1239.163 <o,f0,male> qui est difficile à conduire, que vous abandonnez. personnellement je le regrette.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1239.163 1240.793 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1240.793 1255.625 <o,f0,male> évidemment il faut continuer à réformer notre système de santé car il n'y a pas plus mobile [r] [dis=hes-] euh [-dis=hes] au regard [dis=hes-] euh [-dis=hes] de l'évolution des pathologies, au regard de l'évolution de la science et de l'art médical, il faut bouger, il faut sans arrêt transformer notre
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1255.625 1255.995 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1255.995 1257.404 <o,f0,male> faut moderniser notre système de s(anté)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1257.404 1258.749 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1258.749 1259.176 <o,f0,male> charge des aff(aires)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1259.176 1259.762 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1259.762 1260.363 <o,f0,male> &lt;pers=Marisol_TOURAINE&gt;Marisol Touraine&lt;/pers&gt;
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1260.363 1260.616 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1260.616 1264.588 <o,f0,male> [b-] faut [-b] le moderniser, pour ça il faut investir, et pour ça il faut réformer.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1264.588 1264.968 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1264.968 1269.098 <o,f0,male> mais certainement pas les réformes telles que vous les avez menées depuis cinq ans, alors exc(usez)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1269.098 1269.794 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1269.794 1273.212 <o,f0,male> *nous nous excusons de ne pas aller dans le même sens des réformes.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1273.212 1273.703 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1273.703 1274.289 <o,f0,male> c'est-à-dire
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1274.289 1274.732 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1274.732 1285.981 <o,f0,male> que, ce que vous venez de décrire, ça a été d'une part l'imposition de la logique comptable à l'hôpital. on voulait faire de l'hôpital public une entreprise. l'important c'était le résultat financier.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1285.981 1287.104 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1287.104 1297.262 <o,f0,male> nous pensons autrement. nous pensons que il faut bien gérer, mais que l'hôpital doit d'abord donner satisfaction aux besoins de santé de la population. et nous pensons,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1297.262 1297.816 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1297.816 1299.019 <o,f0,male> que l'hôpital public,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1299.019 1299.510 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1299.510 1303.213 <o,f0,male> n'est pas, ne fait pas du tout le même métier que les cliniques privées.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1303.213 1303.862 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1303.862 1318.418 <o,f0,male> les cliniques privées c'est vrai, vous avez raison de le dire, ont largement profité des tarifs que vous leur avez accordés. mais l'hôpital public ne soigne ni les mêmes maladies, en règle générale, [r] ni les mêmes malades, en règle générale, [r] que les cliniques privées. qui se
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1318.418 1320.333 <o,f0,male> focalisent sur certains actes,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1320.333 1320.760 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1320.760 1335.370 <o,f0,male> les plus techniques, [dis=hes-] euh [-dis=hes] les plus rémunérateurs, [r] [dis=hes-] euh [-dis=hes] qui abandonnent, par exemple très largement les disciplines médicales par rapport aux disciplines chirurgicales. et dans les actes chirurgicaux prennent des actes ponctuels avec une population [r] [dis=hes-] euh [-dis=hes] qui est
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1335.370 1350.193 <o,f0,male> autant que possible, j'allais dire une population moyenne, moyenne supérieure, [r] mais on évite évidemment plutôt les personnes âgées. [dis=rep-] est-ce qu'il y a [-dis=rep] , est-ce qu'il y a par exemple dans notre dans les cliniques privées, aujourd'hui, un chiffre [dis=hes-] euh [-dis=hes] je m'adresse pas à vous &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt; parce que je pense pas que, il est normal
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1350.193 1352.282 <o,f0,male> que vous ne l'ayez pas mais [r] je le pose aux cliniques privées :
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1352.282 1352.662 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1352.662 1353.516 <o,f0,male> quelle est la part
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1353.516 1353.975 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1353.975 1359.956 <o,f0,male> des personnes de plus de 80 ans présentes dans les cliniques privées ? je parle pas des EPAD, je parle des cliniques privées qui font des soins médicaux.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1359.956 1360.240 <o,f0,male> &amp;ouais
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1360.240 1360.774 <o,f0,male> très peu.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1360.774 1361.201 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1361.201 1363.516 <o,f0,male> toutes les personnes âgées se font soigner
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1363.516 1364.276 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1364.276 1369.893 <o,f0,male> à l'hôpital public. pourquoi ? parce que tout le monde sait que c'est beaucoup plus compliqué [r] même, [dis=hes-] euh [-dis=hes] un soin quelcon(que)
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1369.893 1370.858 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1370.858 1374.956 <o,f0,male> un bras cassé. un bras cassé [dis=hes-] euh [-dis=hes] pour une personne de 40 ans,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1374.956 1375.621 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1375.621 1379.292 <o,f0,male> ou un bras cassé pour une personne de 80 ans, c'est pas du tout la même chose.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1379.292 1379.656 <o,f0,male> je ne suis
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1379.656 1390.955 <o,f0,male> [bc-] &amp;eh bien [-bc] [r] les tarifs sont calculés à peu de choses près de la même façon et les cliniques privées ont très largement sélectionné quelque part leurs malades. [r] et donc nous nous disons [dis=hes-] euh [-dis=hes] nous ne sommes pas contre les cliniques privées,
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1390.955 1400.423 <o,f0,male> elles peuvent faire des soins. simplement nous ne sommes pas [r] pour avoir l'hypocrisie de dire que les tarifs doivent être les mêmes. ça c'est une politique d'asphyxie du service [bc-] public [-bc] .
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1400.423 1407.227 <o,f0,male> c'est parce que vous faites [dis=hes-] euh euh [-dis=hes] un gros méli-mélo, entre toutes les missions de l'hôpital public que je ne nie pas.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1407.227 1407.607 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1407.607 1408.841 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1408.841 1409.205 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1409.205 1416.010 <o,f0,male> encore une fois. [r] mais la convergence tarifaire, sur des actes qui sont techniquement les mêmes [r] c'est du bon sens. &amp;moui
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1416.010 1416.659 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1416.659 1417.434 <o,f0,male> [dis=rep-] ne [-dis=rep] ne nous a(rrêtons)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1417.434 1419.317 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1419.317 1420.346 <o,f0,male> mais ça je suis pas d'accord avec
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1420.346 1421.643 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1421.643 1422.245 <o,f0,male> sais pas quel
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1422.245 1423.384 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1423.384 1424.065 <o,f0,male> (per)sonnes âgées
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1424.065 1424.856 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1424.856 1425.347 <o,f0,male> des pauvres
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1425.347 1428.638 <o,f0,male> je ne sais, mais je suis pas d'accord, je ne sais pas dans quel monde vous a(vez)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1428.638 1432.246 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1432.246 1437.547 <o,f0,male> passe pas comme ça, en tout cas [r] les établissements que je connais ça ne se passe pas du tout comme ça. [r] il y a
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1437.547 1437.958 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1437.958 1441.297 <o,f0,male> d'ailleurs il faut bien le reconnaître, on entend beaucoup parler de la situation
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1441.297 1441.629 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1441.629 1455.803 <o,f0,male> difficile des hôpitaux, parce qu'il n'y a pas eu de réformes de structures suffisantes dans les hôpitaux publics. [r] mais on est en train d'asphyxier l'hospitalisation privée ; qui assure pourtant [r] une part très importante de la chirurgie dans le pays. [r] et dans tout système,
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1455.803 1470.356 <o,f0,male> il faut de l'émulation, et il y a besoin d'avoir [dis=hes-] euh [-dis=hes] des points de repère. [r] et la convergence tarifaire, c'est-à-dire de rétribuer au même prix les choses strictement identiques [r] dans le secteur hospitalier et dans le secteur privé, [r] c'est une *une économie de 14 milliards par an, qui pourrait
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1470.356 1478.331 <o,f0,male> [r] être atteinte. [r] donc je trouve que c'est dommage de balayer une réforme de structure. [bc-] mais ça me fait penser [-bc] [r] [bc-] à une autre [-bc] réforme de structure [bc-] à laquelle [-bc] la gauche s'était opposée
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1478.331 1478.742 <o,f0,male> allez-y
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1478.742 1481.733 <o,f0,male> et &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt; siégeait déjà avec moi dans cette assemblée.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1481.733 1482.144 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1482.144 1496.867 <o,f0,male> c'était simplement le fait, &amp;oh que vous aviez hurlé à l'époque, [r] de faire un budget pour la sécurité sociale. [r] c'est-à-dire d'établir un ONDAM. [dis=rev-] ce que ce que [-dis=rev] ce dont nous sommes en train de discuter, c'est-à-dire de dire [r] &amp;ben on va commencer à regarder combien
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1496.867 1503.117 <o,f0,male> coûtent les dépenses de santé chaque année. il y aura des objectifs de dépenses, [r] [dis=hes-] euh [-dis=hes] qui [bc-] seront [-bc] fixés chaque année.
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1503.117 1506.582 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1506.582 1508.244 <o,f0,male> parle des comptes de la sécurité sociale et
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1508.244 1511.772 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1511.772 1519.765 <o,f0,male> avait [dis=rep-] cette [-dis=rep] cette sorte de rêve vis-à-vis des réalités, [dis=rev-] c'est d'un [-dis=rev] de distance vis-à-vis des réalités. [r] oui bien entendu qu'il y a des comptes.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1519.765 1520.208 <o,f0,male> &amp;ouais
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1520.208 1527.920 <o,f0,male> mais [r] comment voulez-vous vous soigner, comment voulez-vous vous alimenter, [r] si vous ne tenez pas compte de votre budget ? et un état
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1527.920 1528.917 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1528.917 1529.787 <o,f0,male> &amp;eh bien un état,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1529.787 1530.341 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1530.341 1538.738 <o,f0,male> c'est comme une famille. vous ne pouvez pas indéfiniment dépenser plus que vous n'avez de recettes. [r] et donc, si on veut garder à la France,
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1538.738 1539.134 <o,f0,male> &amp;hm
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1539.134 1543.175 <o,f0,male> [r] sa capacité de protéger les plus faibles, c'est-à-dire, et nous sommes
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1543.175 1546.561 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1546.561 1549.014 <o,f0,male> d'accord, &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt; [dis=rep-] avec [-dis=rep] avec [bc-] moi sur [-bc]
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1549.014 1549.916 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1549.916 1564.368 <o,f0,male> c'est-à-dire préserver [r] [dis=hes-] euh [-dis=hes] notre système de protection sociale à la française, [r] nous ne pouvons pas le laisser dériver financièrement davantage. [r] bien sûr que tout n'a pas été fait jusqu'à présent. parce que c'est très difficile, [r] mais casser
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1564.368 1576.590 <o,f0,male> ce qui était en ordre de marche pour améliorer la tendance, [r] ça fait quand même trois années de suite que nous respectons [r] l'objectif national de dépenses d'assurance maladie. c'est la première fois ! depuis qu' [dis=rep-] en [-dis=rep] en 1996
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1576.590 1580.720 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1580.720 1581.986 <o,f0,male> (sécuri)té sociale. [r] donc re(connaissons)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1581.986 1584.375 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1584.375 1584.723 <o,f0,male> connu
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1584.723 1593.112 <o,f0,male> [bc-] reconnaissons à la droite [-bc] et au centre d'avoir mis en place un dispositif [r] qui permette de maîtriser des dérapages, [r] et donc de pérenniser la sécurité sociale.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1593.112 1594.014 <o,f0,male> [bc-] alors [-bc] &lt;pers=Jean-Marie_LE_GUEN&gt;Jean-Marie Le Guen&lt;/pers&gt;.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1594.014 1603.772 <o,f0,male> je vais pas rappeler que sur les déficits c'est parce qu'ils ont explosé en 2008 et 2009 que aujourd'hui il y a un petit mieux. mais [dis=hes-] euh [-dis=hes] n'oublions pas que l'explosion elle a eu lieu sous la présidence de Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sar(kozy)&lt;/pers&gt;
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1603.772 1604.061 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1604.061 1604.911 <o,f0,male> les objectifs ont é(té)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1604.911 1606.288 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1606.288 1609.500 <o,f0,male> trente milliards. on est passé entre 2007 on était à
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1609.500 1610.354 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1610.354 1611.894 <o,f0,male> trente milliards. il y a toujours la crise.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1611.894 1612.364 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1612.364 1615.529 <o,f0,male> mais on est dans cette situation là. bien. je n'y reviens pas.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1615.529 1615.877 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1615.877 1620.185 <o,f0,male> mais [dis=hes-] euh [-dis=hes] maintenant [dis=rep-] je [-dis=rep] je reviens sur la question dite de l'ONDAM, de la gestion.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1620.185 1620.580 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1620.580 1623.013 <o,f0,male> ça fait, [dis=rep-] la [-dis=rep] la réforme à laquelle vous parlez et
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1623.013 1623.899 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1623.899 1636.564 <o,f0,male> [dis=rev-] i(nexact) [-dis=rev] inexact de dire à l'époque que la gauche s'était opposée, [r] c'était en 96, ça nous ramène maintenant quand même à [dis=hes-] euh [-dis=hes] 15 ans. [r] et depuis la gauche a gouverné et elle n'a pas remis en cause à aucun moment l'ONDAM [bc-] puisqu'elle l'avait [-bc]
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1636.564 1637.389 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1637.389 1641.376 <o,f0,male> [bc-] (a)ttendez, [-bc] [dis=rep-] elle l'avait [-dis=rep] elle l'avait [dis=hes-] euh [-dis=hes] approuvé selon certaines limites parce que
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1641.376 1642.405 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1642.405 1643.070 <o,f0,male> l'approuve sans voter.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1643.070 1647.896 <o,f0,male> &amp;nan c'était l'ensemble de la réforme vous saviez très bien que la réforme, c'était la réforme Juppé, vous avez pas osé dire de quoi il s'a(git)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1647.896 1649.700 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1649.700 1652.691 <o,f0,male> coûté [bc-] d'ailleurs [-bc] à la majorité une partie de sa défaite de
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1652.691 1653.482 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1653.482 1653.878 <o,f0,male> c'est
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1653.878 1656.109 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1656.109 1656.995 <o,f0,male> (mille) neuf cent quatre (vingt) (quinze)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1656.995 1659.780 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1659.780 1674.743 <o,f0,male> et des millions de français dans la rue, [dis=rev-] cette fa(çon) [-dis=rev] cette façon [dis=rep-] de [-dis=rep] de réformer a été [dis=hes-] euh [-dis=hes] plebiscitée par les français. [b-] donc [-b] [dis=hes-] euh euh [-dis=hes] [dis=rep-] je [-dis=rep] je passe là-dessus parce que c'est de l'histoire maintenant. mais nous sommes nous [b-] tout simplement et là nous avons une divergence [-b] , c'est que vous avez voulu
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1674.743 1689.132 <o,f0,male> pas vous d'ailleurs &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt; parce que sur le fond [r] je pense que vous n'étiez pas totalement convaincu, je vous l'accorde. mais, Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; a instauré l'hôpital-entreprise, il a *marginalisé [r] la pensée médicale, [r] vous savez combien les médecins ont été
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1689.132 1703.917 <o,f0,male> profondément choqués de voir leur place minorée à l'intérieur du fonctionnement de l'hôpital. ou des cliniques d'ailleurs. au profit de gens [r] qui nous racontaient [r] [dis=hes-] euh [-dis=hes] qu'ils allaient remettre les compteurs à zéro, [r] [dis=hes-] euh [-dis=hes] qu'ils étaient des excellents gestionnaires, on est allé chercher [r]
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1703.917 1718.606 <o,f0,male> des gens qui avaient des compétences [dis=hes-] euh [-dis=hes] extérieures au monde de l'hôpital, [r] et qui n'ont pas donné de résultats significatifs. je rappelle que les hôpitaux dont vous avez eu la responsabilité de gestion ont eu 600 millions d'euros de déficit, ça n'apparaît pas d'ailleurs dans les comptes de la sécurité sociale, si j'ose dire.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1718.606 1729.160 <o,f0,male> [r] c'est les hôpitaux qui portent la dette et c'est pas la sécurité sociale qui la [r] consolide comme on dirait en termes comptables ou en termes économiques. [r] donc [dis=hes-] euh [-dis=hes] nous sommes dans une situation où nous nous voulons faire avancer
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1729.160 1730.014 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1730.014 1739.674 <o,f0,male> la réforme des hôpitaux. nous pensons que [r] ce qui doit faire avancer la réforme des hôpitaux, c'est un projet médical. c'est s'adapter [r] [dis=rev-] à l() [-dis=rev] aux besoins de la population, popula(tion)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1739.674 1740.719 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1740.719 1742.048 <o,f0,male> (en)gorger les hôpitaux pu(blics)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1742.048 1743.792 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1743.792 1757.602 <o,f0,male> par exemple dans les urgences en faisant en sorte [r] qu'il y ait une médecine de premier recours, une médecine de ville comme on dit, [r] qui fonctionne, ou avec une permanence des soins qui fonctionne. je rappelle que la première des choses que vous avez faite en 2003 ça a été de supprimer
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1757.602 1759.460 <o,f0,male> les obligations de permanence de soins
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1759.460 1760.315 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1760.315 1762.324 <o,f0,male> qu'avait mis en place le conseil de l'ordre des médecins.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1762.324 1763.021 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1763.021 1777.052 <o,f0,male> tout ça [r] pour faire plaisir à un moment donné [dis=hes-] euh [-dis=hes] [dis=rev-] ou à y [-dis=rev] à une clientèle électorale et pour aboutir à une désorganisation de notre système de soins. [r] et comme notre système de soins en ville est très désorganisé, [r] &amp;eh bien l'hôpital et les urgences de l'hôpital c'est une sorte
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1777.052 1783.334 <o,f0,male> la voiture-balai de notre système de santé. et tout ceci [r] vient compliquer la vie de l'hôpital et coûter cher d'ailleurs au final.
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1783.334 1785.856 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1785.856 1787.138 <o,f0,male> de soins, [r] à domi(cile)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1787.138 1788.641 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1788.641 1799.205 <o,f0,male> de permanence des soins, [r] plus de soins en ville, ça évitera [r] que on se concentre sur l'hôpital, [r] ou plus exactement qu'on fasse aboutir à l'hôpital [r] des cas qui auraient pu être traités d'une façon
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1799.205 1799.648 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1799.648 1803.809 <o,f0,male> plus précoce, de meilleure qualité et moins cher. [r] voilà, ça se sont des ré(formes)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1803.809 1807.639 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1807.639 1810.202 <o,f0,male> qui est mis en oeuvre, déjà, [dis=rep-] et [-dis=rep] et depuis longtemps.
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1810.202 1812.275 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1812.275 1816.041 <o,f0,male> (pro)blème est que on se heurte aussi [dis=rev-] en [-dis=rev] dans le même temps à des difficultés
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1816.041 1816.737 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1816.737 1817.354 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1817.354 1818.335 <o,f0,male> vous aviez fait le même diagnos(tic)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1818.335 1819.379 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1819.379 1819.965 <o,f0,male> de la majori(té)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1819.965 1820.788 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1820.788 1821.658 <o,f0,male> n'ont plus le même âge
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1821.658 1822.370 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1822.370 1823.019 <o,f0,male> sur la m(oyen)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1823.019 1823.731 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1823.731 1833.120 <o,f0,male> le système a changé, les jeunes médecins ont d'autres priorités, [r] [dis=rep-] et [-dis=rep] et c'est très difficile d'organiser désormais [r] [dis=hes-] euh [-dis=hes] la permanence des soins [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1833.120 1836.791 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1836.791 1837.646 <o,f0,male> (fé)minisation
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1837.646 1839.798 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1839.798 1847.789 <o,f0,male> qualité des soins mais en disponibilité des professionnels au cours de la vie. [r] et ça ce sont des problèmes qui sont devant nous. mais venons-en si vous le voulez bien plus
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1847.789 1850.178 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1850.178 1850.606 <o,f0,male> traitée.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1850.606 1851.302 <o,f0,male> mais qui s'aggrave
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1851.302 1853.755 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1853.755 1856.002 <o,f0,male> s'il n'y avait pas une autre politique mise en place.
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1856.002 1860.780 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1860.780 1862.537 <o,f0,male> 0,4% d'ONDAM supplémentaire
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1862.537 1862.885 <o,f0,male> &amp;ouais
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1862.885 1871.938 <o,f0,male> c'est de [bc-] mettre [-bc] de l'argent sur [bc-] cette permanence des soins [-bc] . c'est de mettre [dis=rep-] de [-dis=rep] de sur la proximité des soins. [r] et pour ça il faut effectivement [r] &amp;eh bien lutter contre les désertifi(cations)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1871.938 1873.725 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1873.725 1874.405 <o,f0,male> &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt;.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1874.405 1874.864 <o,f0,male> alors je m'arr(ête)
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1874.864 1876.304 <o,f0,male> donc [dis=rep-] on va [-dis=rep] on va le laisser vous répondre.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1876.304 1879.975 <o,f0,male> bon [dis=hes-] euh [-dis=hes] faudrait pas croire que rien n'a été fait
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1879.975 1880.402 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1880.402 1895.345 <o,f0,male> pour organiser la permanence des soins. parce que bon an mal an elle fonctionne. elle ne fonctionne pas assez bien, il y a des zones où ça n'est pas satisfaisant, [r] mais elle fonctionne. mais il faudra aller plus loin, ça c'est [dis=rev-] in(évitable) [-dis=rev] inévitable compte-tenu de l'évolution sociologique
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1895.345 1907.411 <o,f0,male> du pays, [r] et des professions de santé et de la nécessité [r] d'une meilleure [dis=rev-] coor(dination) [-dis=rev] coordination des soins. mais revenons-en [r] [dis=hes-] euh [-dis=hes] au sujet qui nous occupe même si j'aurais voulu parler [r] des retraites et j'aimerais qu'on en parle un tout petit peu
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1907.411 1911.019 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1911.019 1911.604 <o,f0,male> pour les retraites.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1911.604 1912.269 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1912.269 1915.544 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1915.544 1916.588 <o,f0,male> aimable aujourd'hui.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1916.588 1916.984 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1916.984 1919.800 <o,f0,male> [dis=hes-] euh [-dis=hes] non mais parlons des recettes nouvelles, que [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1919.800 1920.228 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1920.228 1934.824 <o,f0,male> le gouvernement a [bc-] imaginé [-bc] pour [dis=hes-] euh [-dis=hes] [r] couvrir [dis=hes-] euh [-dis=hes] la hausse qui n'est pas maîtrisée des dépenses telle qu'elle aurait voulu, elle aurait souhaité et l'a écrit et recommandé [r] la cour des comptes. c'est une avalanche de nouveaux prélèvements
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1934.824 1937.182 <o,f0,male> une avalanche de nouvelles taxes, [bc-] parce que [-bc]
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1937.182 1937.752 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1937.752 1939.097 <o,f0,male> [bc-] les [-bc] cigarettes, la bière ?
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1939.097 1939.524 <o,f0,male> oui
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1939.524 1940.204 <o,f0,male> et puis une ta(xe)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1940.204 1944.762 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1944.762 1945.775 <o,f0,male> aussi les retraités
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1945.775 1946.661 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1946.661 1949.003 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1949.003 1949.905 <o,f0,male> taxe qui est la ta(xe)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1949.905 1951.250 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1951.250 1952.531 <o,f0,male> taxe qui a été votée par la
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1952.531 1953.765 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 1953.765 1954.873 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1954.873 1957.041 <o,f0,male> qui vont être mis à contribution, je ne
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1957.041 1957.642 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1957.642 1959.763 <o,f0,male> je ne suis pas sûr. de 0,15% , c'est
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1959.763 1960.206 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1960.206 1960.538 <o,f0,male> 15
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1960.538 1960.760 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1960.760 1962.548 <o,f0,male> de 0,30% l'année prochaine. oui
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1962.548 1966.678 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1966.678 1971.852 <o,f0,male> sous prétexte que le taux marginal de départ n'est pas important, ça compte pas. &amp;eh bien quand
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1971.852 1972.865 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1972.865 1973.229 <o,f0,male> par mois
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1973.229 1976.124 <o,f0,male> beaucoup [dis=rep-] de de de [-dis=rep] de taux marginaux ça fait des
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1976.124 1976.852 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1976.852 1978.814 <o,f0,male> (retrai)tés imposables paieront vous dites 2 euros
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1978.814 1979.637 <o,f0,male> deux euros par mois
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1979.637 1980.460 <o,f0,male> par mois, de plus.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1980.460 1981.020 <o,f0,male> il y a la taxe
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1981.020 1982.327 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1982.327 1983.641 <o,f0,male> future réforme sur la dépendan(ce)
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1983.641 1984.717 <o,f0,male> il y a la *taxe, oui bon
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1984.717 1985.208 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1985.208 1985.814 <o,f0,male> pas cette année,
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 1985.814 1986.131 <o,f0,male> on verra
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1986.131 1986.869 <o,f0,male> pas cette année.
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1986.869 1987.645 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1987.645 1990.778 <o,f0,male> &amp;nan vous avez dit que c'était à l'année prochaine, [r] la dépendance, cette année c'est pour
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1990.778 1991.553 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 1991.553 1993.737 <o,f0,male> mais le financement de la dépendance parce qu'aujourd'hui la
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1993.737 1997.946 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 1997.946 1998.753 <o,f0,male> mon cher [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 1998.753 2000.604 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2000.604 2001.759 <o,f0,male> &amp;ah &amp;ah &amp;ah &amp;ah &amp;ah &amp;ah
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2001.759 2003.072 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2003.072 2017.816 <o,f0,male> et l'auto-entrepreneur, vous allez maintenant taxer les auto-entrepreneurs, [dis=rev-] vous travaill(ez) [-dis=rev] vous taxez, vous augmentez les prélèvements [dis=hes-] euh [-dis=hes] sociaux, [r] sur les indépendants, les travailleurs [dis=hes-] euh [-dis=hes] indépendants. [r] c'est une multiplication [r] [dis=hes-] euh [-dis=hes] [dis=rep-] de de [-dis=rep]
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2017.816 2032.411 <o,f0,male> de taxes nouvelles. sur les ruptures conventionnelles pourtant ça marche pas mal les ruptures conventionnelles, [r] &amp;eh bien [b-] on en augmente [-b] le coût. [r] peu importe que la priorité [r] soit d'améliorer la compétitivité des entreprises, de favoriser l'emploi, [r] il faut trouver de l'argent parce qu'on se fiche
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2032.411 2043.967 <o,f0,male> des objectifs qui sont trop élevés [r] alors *on taxe les français, on pressure les français, et je ne reviendrai pas [r] parce que ça n'est pas le lieu, [r] sur les 20 milliards d'impôts supplémentaires. mais tout ça [dis=rep-] c'est [-dis=rep] c'est sont les mêmes qui payent.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 2043.967 2044.321 <o,f0,male> alors
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 2044.321 2045.634 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2045.634 2060.619 <o,f0,male> que c'est dans la case [r] cotisations sociales, [r] que il ne faut pas les payer, comme on doit payer les impôts. [r] en réalité c'est toujours pareil avec la gauche et les socialistes. [r] on prélève, on prélève et on dépense toujours tout. alors [dis=rep-] on [-dis=rep] on a [dis=rep-] des [-dis=rep] [r] des explications généreuses, on dit oui
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2060.619 2063.456 <o,f0,male> c'est difficile, quand on *augmente davantage [r] les dépenses
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 2063.456 2064.991 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2064.991 2066.922 <o,f0,male> une fois ce sont nos enfants et nos pe(tits)
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 2066.922 2068.742 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 2068.742 2069.929 <o,f0,male> conclusion à &lt;pers=Bernard_ACCOYER&gt;Bernard Accoyer&lt;/pers&gt;.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2069.929 2079.834 <o,f0,male> &amp;ben pour que les déficits soient amortis il faut évidemment [dis=hes-] euh [-dis=hes] [dis=rev-] à [-dis=rev] faire appel à la solidarité. et la solidarité dans l'équité, c'est-à-dire que [r] par exemple, la fameuse journée de Pentecôte payée par les salariés,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2079.834 2080.420 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2080.420 2082.253 <o,f0,male> par les entreprises à 0,1%
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2082.253 2082.762 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2082.762 2097.448 <o,f0,male> elle ne touchait pas [dis=hes-] euh [-dis=hes] d'autres professionnels. les indépendants [r] [dis=hes-] euh [-dis=hes] , les retraités. ce n'était pas juste. il a fallu [dis=hes-] euh [-dis=hes] c'était [dis=rev-] u(ne) [-dis=rev] un opportunisme. [r] donc il faut bien, pour des raisons d'équité le faire. c'est ce que nous faisons. nous assumons l'idée de l'équité fiscale.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2097.448 2097.748 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2097.748 2108.030 <o,f0,male> nous ne sommes pas [r] pour [dis=hes-] euh [-dis=hes] cette politique où on fait des petits cadeaux fiscaux. nous voulons une politique fiscale [r] qui soit la plus juste possible. elle est parfois dure pour les plus riches aujourd'hui, je le concède.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2108.030 2108.537 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2108.537 2121.059 <o,f0,male> [dis=rev-] elle est d(ure) [-dis=rev] elle peut être rugueuse pour les plus riches aujourd'hui. c'est une différence. vous les avez très largement aidés, [r] les cinq dernières années, [r] nous les mettons à contribution. mais les plus riches, ce sont ceux qui gagnent plus de 100 mille euros par an.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2121.059 2121.550 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2121.550 2131.323 <o,f0,male> ce ne sont pas les classes moyennes. [r] ce ne sont pas les plus pauvres, ce ne sont pas les salariés de notre pays. [r] c'est une petite minorité qui est mise à contribution dans cette période de crise de façon exceptionnelle.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2131.323 2132.209 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2132.209 2135.096 <o,f0,male> voilà, je crois que, pour [dis=rev-] les ro() [-dis=rev] les autres taxes
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2135.096 2135.579 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2135.579 2136.639 <o,f0,male> taxe sur le tabac,
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2136.639 2137.051 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2137.051 2138.760 <o,f0,male> elle a été votée par Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt;.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2138.760 2139.171 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2139.171 2153.766 <o,f0,male> taxe [dis=hes-] euh [-dis=hes] sur la bière ? elle ne l'était pas. nous assumons, y compris pour des raisons de santé publique, il faut qu'il y ait un équilibre qui se fasse. [r] voilà [dis=hes-] euh [-dis=hes] c'est comme cela, on ne peut pas [dis=rep-] la la la [-dis=rep] la maladie ne peut pas être toujours celle [r] [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2153.766 2168.611 <o,f0,male> [dis=hes-] euh [-dis=hes] comment dirais-je, [dis=rep-] qui [-dis=rep] qui récupère [r] les mauvais comportement induits [dis=hes-] euh [-dis=hes] quand l'industrie de la bière, aujourd'hui on voit par exemple ce que ça donne dans notre jeunesse, [bc-] vous êtes [-bc] [dis=hes-] euh [-dis=hes] je veux pas être plus long, [bc] [r] mais il est [bc-] logique aussi [-bc] que ceux qui quelque part profitent d'un certain
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Marie_LE_GUEN 2168.611 2175.342 <o,f0,male> nombre de dérives comportementales, [r] &amp;eh bien soient taxés [r] [dis=hes-] euh [-dis=hes] de façon équitable pour subvenir
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 2175.342 2176.545 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 2176.545 2178.602 <o,f0,male> [bc-] vous répondez [-bc] ? trente secondes c'est votre conclusion.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2178.602 2182.083 <o,f0,male> oui, un petit peu plus que trente secondes, parce que la conclusion de Monsieur &lt;pers=Jean-Marie_LE_GUEN&gt;Le Guen&lt;/pers&gt;
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 2182.083 2183.270 <o,,unknown> ignore_time_segment_in_scoring
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 2183.270 2185.659 <o,f0,male> parle déjà à l'oreillette [bc-] en me disant : non pas plus [-bc] . allez-y.
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2185.659 2186.371 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2186.371 2186.893 <o,f0,male> [dis=hes-] euh [-dis=hes]
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2186.893 2187.922 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2187.922 2202.569 <o,f0,male> ce qui se passe [bc-] aujourd'hui c'est [-bc] simplement l'abandon d'un cap. comme ça a été l'abandon du cap sur la retraite à soixante ans. on abandonne les réformes structurelles qui exigent du courage. [r] et dans les seize milliards de déficit l'année prochaine, qu'on met sur nos petits-enfants, [r] il y aura deux à trois
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2202.569 2207.031 <o,f0,male> milliards parce qu'on a abandonné [r] la réforme structurelle sur les retraites. il y aura
+LCP_PileEtFace_2012-10-04_192200 1 inter_segment_gap 2207.031 2207.474 <o,f0,> 
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2207.474 2221.768 <o,f0,male> des centaines de millions, et probablement plus, parce qu'on abandonne la réforme structurelle sur l'hôpital. [r] et il y aura derrière des français qui payeront toujours plus de taxes et toujours plus d'impôts [r] c'est [dis=rep-] en [-dis=rep] en réalité une facilité démagogique ou bien [dis=hes-] euh [-dis=hes] allez on va dire
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Bernard_ACCOYER 2221.768 2235.566 <o,f0,male> pseudo-généreuse [r] [dis=hes-] euh [-dis=hes] qui me paraît particulièrement préoccupante pour l'avenir du pays. [r] et cet ONDAM est à l'image, [dis=rev-] ces ta(xes) [-dis=rev] ce budget de la sécurité sociale [r] est à l'image de ce qui se fait sur le budget de l'état. [r] les français ne vont pas tarder à s'en apercevoir.
+LCP_PileEtFace_2012-10-04_192200 1 LCP_PileEtFace_2012_10_04_192200_Jean_Pierre_GRATIEN 2235.566 2249.354 <o,f0,male> c'était le mot de la fin. merci, grand merci à tous les deux d'avoir participé [dis=rep-] à [-dis=rep] à ce " pile et face ", le projet de loi de financement de la sécurité sociale c'est mercredi prochain [r] en conseil des ministres et le prochain " pile et face " est la semaine prochaine, à la même place, et à la même heure. à bientôt.
+LCP_PileEtFace_2012-10-04_192200 1 excluded_region 2249.354 2596.512 <o,,unknown> ignore_time_segment_in_scoring

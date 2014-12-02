@@ -1,0 +1,45 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Vervisch_Ménard, version 8 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-12-12_065040 1 excluded_region 0.000 358.847 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Christophe_DELAY 358.847 362.714 <o,f0,female> [musique-] [r] ce matin, nous avons Sexion d'Assaut, disque de diamant. tu connais Sexion d'Assaut ? [bc]
+BFMTV_CultureEtVous_2012-12-12_065040 1 excluded_region 362.714 364.570 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Pascale_DE_LA_TOUR_DU_PIN 364.570 368.647 <o,f0,female> ciné : &lt;pers=Richard_GERE&gt;Richard Gere&lt;/pers&gt;, le retour dans [r] "arbitrage". &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-12-12_065040 1 inter_segment_gap 368.647 370.923 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Philippe_DUFREIGNE 370.923 381.335 <o,f0,male> c'est pas tous les jours qu'on voit un disque de diamant. alors, même si la salle est petite, la presse est venue nombreuse pour applaudir le succès de Sexion d'Assaut. [r] 500000 exemplaires de l'album "l'apogée" vendus.
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Maitre_GIMS 381.335 390.358 <o,f0,male> mais surtout avec la crise du disque, avec [dis=rep-] le le [-dis=rep] le téléchargement [dis=rep-] qui [-dis=rep] qui a augmenté, avec tout ce qui se passe en ce moment, [dis=rep-] c'est [dis=hes-] euh [-dis=hes] [-dis=rep] [r] c'est [dis=hes-] euh [-dis=hes] , de prétendre à un disque de diamant, [dis=rep-] c'est [-dis=rep] c'est un challenge. [-b]
+BFMTV_CultureEtVous_2012-12-12_065040 1 inter_segment_gap 390.358 394.343 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Philippe_DUFREIGNE 394.343 397.097 <o,f0,male> [b-] grâce au tube de cet album, le groupe a réussi à atteindre :
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Maska 397.097 404.756 <o,f0,male> un autre univers musical qui est, [dis=hes-] euh [-dis=hes] le foyer français. donc voilà, donc [dis=rep-] c'est [-dis=rep] c'est un honneur pour nous, tout simplement. [-b]
+BFMTV_CultureEtVous_2012-12-12_065040 1 inter_segment_gap 404.756 406.639 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_speaker_6 406.639 407.792 <o,f0,female> le grand retour. [-musique]
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Philippe_DUFREIGNE 407.792 411.960 <o,f0,male> [b-] et le voilà, dans la peau d'un grand patron qui fait tout pour sauvegarder sa position. [-b]
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Richard_DARBOIS 411.960 414.856 <o,f0,male> [musique-] plus le temps passe, plus on s'enfonce dans les mensonges. [-musique]
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Philippe_DUFREIGNE 414.856 423.625 <o,f0,male> [b-] &lt;pers=Richard_GERE&gt;Richard Gere&lt;/pers&gt;, dans "arbitrage", retour en grâce pour l'acteur dont on entendait plus parler ces dernières années pour son engagement en faveur du Tibet. [r] des prises de position qui ont-elles freinées sa carrière ? [-b]
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Richard_DARBOIS 423.625 425.790 <o,f0,male> [musique-] tout ce que je fais, c'est pour nous, pour cette famille. [-musique]
+BFMTV_CultureEtVous_2012-12-12_065040 1 excluded_region 425.790 426.629 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-12_065040 1 excluded_region 426.629 437.461 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-12_065040 1 excluded_region 437.461 438.661 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-12_065040 1 inter_segment_gap 438.661 440.226 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_speaker_6 440.226 441.671 <o,f0,female> [musique-] une idée pour les fêtes.
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Philippe_DUFREIGNE 441.671 451.780 <o,f0,male> sous la nef du grand palais, une patinoire géante. elle sera inaugurée ce soir et accessible au public dès demain. [r] un lourd, très lourd chantier. [r] il faut dire que dès le départ, on a vu les choses en grand.
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Olivier_MAUREY 451.780 458.727 <o,f0,male> [b-] on a voulu faire la plus grande patinoire qui existe en France, donc elle est un petit peu plus grande que une patinoire olympique. [-b]
+BFMTV_CultureEtVous_2012-12-12_065040 1 BFMTV_CultureEtVous_2012_12_12_065040_Philippe_DUFREIGNE 458.727 465.813 <o,f0,male> plus de 2000 mètres carrés, 12 euros pour les adultes avec location de patins, 6 euros pour les enfants. [r] ouvert tous les jours jusqu'au 6 janvier.
+BFMTV_CultureEtVous_2012-12-12_065040 1 inter_segment_gap 465.813 467.947 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-12_065040 1 excluded_region 467.947 1086.144 <o,,unknown> ignore_time_segment_in_scoring

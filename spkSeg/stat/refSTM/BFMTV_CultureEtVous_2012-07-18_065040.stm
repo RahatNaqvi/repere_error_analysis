@@ -1,0 +1,45 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:25 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 5 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-07-18_065040 1 excluded_region 0.000 184.685 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-18_065040 1 BFMTV_CultureEtVous_2012_07_18_065040_Pauline_REVENAZ 184.685 190.327 <o,f0,female> acab, c'est le nom de code inventé par les skinheads [b-] dans l'Angleterre des années 70 pour insulter la police.
+BFMTV_CultureEtVous_2012-07-18_065040 1 BFMTV_CultureEtVous_2012_07_18_065040_Francois_Xavier_MENAGE 190.327 197.699 <o,f0,male> &amp;eh bien c'est désormais un film venu tout droit d'Italie. le réalisateur, qui s'appelle &lt;pers=Stefano_SOLLIMA&gt;Sollima&lt;/pers&gt;, frappe un grand coup. [r] &lt;pers=Claire_FLEURY&gt;Claire Fleury&lt;/pers&gt; et &lt;pers=Cecile_TRAN-TIEN&gt;Cécile Tran-Tien&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-07-18_065040 1 inter_segment_gap 197.699 200.864 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-18_065040 1 BFMTV_CultureEtVous_2012_07_18_065040_Claire_FLEURY 200.864 204.242 <o,f0,female> premier film, et premier coup de maître.
+BFMTV_CultureEtVous_2012-07-18_065040 1 BFMTV_CultureEtVous_2012_07_18_065040_Tito_TOPIN 204.242 208.807 <o,f0,male> le prix " sang neuf " est décerné cette année à &lt;pers=Stefano_SOLLIMA&gt;Stefano Sollima&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-07-18_065040 1 inter_segment_gap 208.807 209.820 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-18_065040 1 BFMTV_CultureEtVous_2012_07_18_065040_Claire_FLEURY 209.820 213.300 <o,f0,female> le voilà donc récompensé au festival du film policier de Beaune.
+BFMTV_CultureEtVous_2012-07-18_065040 1 inter_segment_gap 213.300 214.123 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-18_065040 1 BFMTV_CultureEtVous_2012_07_18_065040_Claire_FLEURY 214.123 220.705 <o,f0,female> et pourtant, dans une autre vie &lt;pers=Stefano_SOLLIMA&gt;Stefano Sollima&lt;/pers&gt; était journaliste. [r] désormais le voilà réalisateur, [r] et un grand. [-b]
+BFMTV_CultureEtVous_2012-07-18_065040 1 inter_segment_gap 220.705 222.651 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-18_065040 1 BFMTV_CultureEtVous_2012_07_18_065040_Claire_FLEURY 222.651 232.084 <o,f0,female> ici, pas de fioritures ni d'effets de style. [r] réalisation fiévreuse pour découvrir le quotidien d'une brigade de CRS. [r] portrait sans concession.
+BFMTV_CultureEtVous_2012-07-18_065040 1 excluded_region 232.084 238.397 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-18_065040 1 excluded_region 238.397 242.783 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-18_065040 1 inter_segment_gap 242.783 243.474 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-18_065040 1 excluded_region 243.474 246.828 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-18_065040 1 excluded_region 246.828 247.699 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-18_065040 1 BFMTV_CultureEtVous_2012_07_18_065040_Claire_FLEURY 247.699 253.890 <o,f0,female> une lutte qui semble impossible, car l'Italie de &lt;pers=Stefano_SOLLIMA&gt;Stefano Sollima&lt;/pers&gt; est une Italie en pleine crise morale.
+BFMTV_CultureEtVous_2012-07-18_065040 1 excluded_region 253.890 261.624 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-18_065040 1 excluded_region 261.624 262.146 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-18_065040 1 excluded_region 262.146 263.997 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-18_065040 1 excluded_region 263.997 264.762 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-07-18_065040 1 inter_segment_gap 264.762 266.703 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-18_065040 1 BFMTV_CultureEtVous_2012_07_18_065040_Claire_FLEURY 266.703 274.235 <o,f0,female> amoral, viscéral, Acab est une réussite. pas de doute, le cinéma italien nous a gratifié d'un film [r] coup de poing.
+BFMTV_CultureEtVous_2012-07-18_065040 1 inter_segment_gap 274.235 276.498 <o,f0,> 
+BFMTV_CultureEtVous_2012-07-18_065040 1 excluded_region 276.498 418.944 <o,,unknown> ignore_time_segment_in_scoring

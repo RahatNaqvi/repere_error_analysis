@@ -1,0 +1,266 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:28 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 12 of 140312
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_LCPInfo13h30_2012-04-19_132700 1 excluded_region 0.000 202.001 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 202.001 206.817 <o,f0,female> [r] bonjour à tous [musique-] et bienvenue dans votre édition de la mi-journée sur LCP nous sommes le jeudi 19 avril [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 206.817 209.046 <o,f0,female> [r] voici les titres [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 209.046 215.795 <o,f0,female> sortie réussie pour &lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt; la candidate Europe Écologie Les Verts fait une fin de campagne remarquée après un sarko tour
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 215.795 224.531 <o,f0,female> [r] en bus elle a continué à taper sur le président candidat hier au Cirque d'hiver un dernier grand meeting [r] où elle a espéré faire mentir les sondages dimanche prochain
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 224.531 232.462 <o,f0,female> [r] le Front National est dédiabolisé par &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; mais son père reste attaché à ses idées. nouveau dérapage en marge du meeting de sa fille mardi soir au Zénith.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 232.462 234.928 <o,f0,female> où il a comparé les initiales de &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 234.928 240.105 <o,f0,female> avec le National Socialisme et le meeting de l'UMP de la Concorde avec les rassemblements nazis de Nuremberg
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 240.105 244.459 <o,f0,female> [r] une séquence "LCP" filmée par &lt;pers=Mathilde_TERRIER&gt;Mathilde Terrier&lt;/pers&gt; et &lt;pers=Julia_LE_CORREC&gt;Julia Le Correc&lt;/pers&gt;.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 244.459 255.216 <o,f0,female> [r] dernier rassemblement du Front de Gauche ce soir à Paris &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; réunit ses partisans porte de Versailles. [r] un meeting et une stratégie affinée dans le secret du dernier conseil politique du parti. [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 255.216 259.267 <o,f0,female> filmé par les caméras d'"LCP" dans ce journal &lt;pers=Roland_MUZEAU&gt;Roland Muzeau&lt;/pers&gt; [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 259.267 262.733 <o,f0,female> le porte-parole des députés Front de Gauche est notre invité. [-musique]
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 262.733 264.901 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 264.901 272.228 <o,f0,female> dernier grand meeting de campagne avant le premier tour de l'élection présidentielle pour &lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt; la candidate Europe Ecologie Les Verts était hier soir [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 272.228 280.974 <o,f0,female> au Cirque d'hiver à Paris devant quelques milliers de militants [r] elle a une nouvelle fois réservé ses attaques à &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; sur place &lt;pers=Jeremie_HARTMANN&gt;Jérémie Hartmann&lt;/pers&gt;, &lt;pers=Clementine_MALIGORNE&gt;Clémentine Maligorne&lt;/pers&gt;.
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 280.974 281.570 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Clementine_MALIGORNE 281.570 285.234 <o,f0,female> c'était son dernier meeting hier au Cirque d'hiver
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Clementine_MALIGORNE 285.234 289.316 <o,f0,female> [r] et une &lt;pers=Eva_JOLY&gt;Eva Joly&lt;/pers&gt; qui a su enfin rencontrer son public.
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 289.316 290.550 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 290.550 295.174 <o,f0,female> je ne fais pas tanguer la foule sous la [b-] houle des mots qui roule [-b]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 295.174 299.753 <o,f0,female> je ne berce pas mon public par des belles paroles rassurantes
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 299.753 301.459 <o,f0,female> et je m'en excuse
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 301.459 303.447 <o,f0,female> quelque chose en moi
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 303.447 305.643 <o,f0,female> refuse de fonder la politique
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 305.643 307.694 <o,f0,female> sur la tyrannie de l'émotion
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 307.694 310.181 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 310.181 311.582 <o,f0,female> [applaude-] si je m'adresse [-applaude]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 311.582 314.406 <o,f0,female> davantage au cortex qu'aux tripes
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 314.406 314.939 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 314.939 317.597 <o,f0,female> c'est parce que notre monde est complexe
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 317.597 320.180 <o,f0,female> et mon devoir est d'éclairer les électeurs
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Eva_JOLY 320.180 321.603 <o,f0,female> pas de les mystifier
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_speaker_4 321.603 332.421 <o,f0,female> elle dit la vérité, sans détour, et moi je suis un peu comme ça donc [dis=hes-] euh [-dis=hes] [rire] voilà je sais que ça dérange mais voilà donc y'a rien qui me déplaît.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Inconnu_001 332.421 340.307 <o,f0,female> elle nous a fait [dis=hes-] euh [-dis=hes] une déclaration [dis=hes-] euh [-dis=hes] d'amour et [dis=hes-] euh [-dis=hes] et je pense on peut lui faire une déclaration d'amour à notre tour.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Clementine_MALIGORNE 340.307 346.593 <o,f0,female> dans la salle plus de 2 mille militants conquis et des proches aussi après l'avoir souvent critiquée
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Daniel_COHN_BENDIT 346.593 354.311 <o,f0,male> ce soir on a retrouvé le climat des européennes et ça c'est parce qu'elle était enfin dans la
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 354.311 361.273 <o,f0,female> oui nous avons un un problème sur ce reportage [r] [dis=hes-] euh [-dis=hes] nous poursuivons ce journal avec les derniers jours de campagne menés
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 361.273 366.953 <o,f0,female> [r] [dis=hes-] euh [-dis=hes] tambour battant par &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;, le président candidat est à Saint Maurice dans le Val-de-Marne [musique-]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 366.953 369.927 <o,f0,female> une réunion publique ce matin où il s'est adressé [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 369.927 373.337 <o,f0,female> une nouvelle fois à cette fameuse majorité silencieuse
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 373.337 377.959 <o,f0,female> &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; a aussi critiqué les journalistes. écoutez.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 377.959 379.487 <o,f0,male> [-musique] [applaude-] le peuple de France
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 379.487 380.736 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 380.736 382.205 <o,f0,male> il ne se reconnaît pas [-applaude]
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 382.205 383.012 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 383.012 386.738 <o,f0,male> dans une radio de service public ou lorsqu'on donne la parole à un auditeur
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 386.738 389.096 <o,f0,male> il insulte celui qui est l'invité
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 389.096 394.606 <o,f0,male> de la radio de service public. [b] [applaude] il ne se reconnaît pas dans ces valeurs.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 394.606 398.074 <o,f0,male> le peuple de France il considère que quand on est une radio ou une télévision
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 398.074 399.243 <o,f0,male> de service public
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 399.243 401.252 <o,f0,male> [r] on doit parler à tous les français.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 401.252 403.227 <o,f0,male> respecter tous les français
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 403.227 407.065 <o,f0,male> et ne jamais donner la parole à quelqu'un qui pourrait choquer
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 407.065 411.527 <o,f0,male> une partie des français parce que c'est avec l'argent du contribuable que l'on finance
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Nicolas_SARKOZY 411.527 414.449 <o,f0,male> l'audiovisuel du service public. [applaude]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 414.449 418.433 <o,f0,female> et ce matin le ministre des affaires étrangères &lt;pers=Alain_JUPPE&gt;Alain Juppé&lt;/pers&gt; s'en est pris vivement [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 418.433 423.099 <o,f0,female> aux commentateurs politiques sur son blog écrivant qu'en 30 ans de vie politique il n'avait [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 423.099 424.044 <o,f0,female> jamais vu [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 424.044 426.423 <o,f0,female> un tel engagement partisan.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 426.423 433.387 <o,f0,female> [r] à 3 jours du premier tour &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; [tx] portée par les sondages continue de battre campagne à Sens dans l'Yonne ce matin [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 433.387 437.246 <o,f0,female> [r] [b-] la présidente du FN a voulu défendre le commerce de proximité.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 437.246 440.474 <o,f0,female> [r] en dépit du chahut organisé par des militants extrême gauche
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 440.474 443.668 <o,f0,female> elle s'est montrée très optimiste pour dimanche. [-b]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Marine_LE_PEN 443.668 448.608 <o,f0,female> je pense [b] que y a énormément de français qui dans les derniers jours là vont avoir envie de s'exprimer
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 448.608 449.199 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Marine_LE_PEN 449.199 453.940 <o,f0,female> vont venir [dis=hes-] euh [-dis=hes] comme je l'ai dit [dis=hes-] euh [-dis=hes] en même temps crier leur colère ce qui est légitime et
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Marine_LE_PEN 453.940 455.749 <o,f0,female> crier aussi leur espérance.
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 455.749 456.144 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Marine_LE_PEN 456.144 458.381 <o,f0,female> dans quelque chose de nouveau dans
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Marine_LE_PEN 458.381 461.193 <o,f0,female> un nouvel avenir [dis=rep-] pour notre [-dis=rep] [dis=hes-] euh [-dis=hes] pour notre pays.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Marine_LE_PEN 461.193 461.734 <o,f0,female> [b]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Marine_LE_PEN 461.734 464.790 <o,f0,female> et [dis=hes-] &amp;hum [-dis=hes] je suis vraiment très optimiste
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Marine_LE_PEN 464.790 465.601 <o,f0,female> &amp;ouais
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Marine_LE_PEN 465.601 468.712 <o,f0,female> j'ai vraiment le sentiment qu'il est en train [dis=hes-] euh [-dis=hes]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Marine_LE_PEN 468.712 471.300 <o,f0,female> de se passer [dis=rep-] quelque chose d'é(tonnant) [-dis=rep] quelque chose d'étonnant.
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 471.300 471.942 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 471.942 476.437 <o,f0,female> &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; qui a repris le flambeau du Front National et dédiabolisé le parti mais le [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 476.437 479.722 <o,f0,female> [dis=hes-] euh [-dis=hes] père &lt;pers=Jean-Marie_LE_PEN&gt;Jean-Marie Le Pen&lt;/pers&gt; président d'honneur n'est jamais loin [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 479.722 484.662 <o,f0,female> il est souvent présent au meeting du FN mais prend peu la parole en public. en revanche devant les caméras [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 484.662 488.625 <o,f0,female> [r] il continue d'exprimer ses idées comme mardi soir au Zénith de Paris
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 488.625 493.903 <o,f0,female> au micro de &lt;pers=Mathilde_TERRIER&gt;Mathilde Terrier&lt;/pers&gt;, &lt;pers=Julia_LE_CORREC&gt;Julia le Correc&lt;/pers&gt;. c'était juste avant le discours de sa fille, écoutez.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 493.903 503.457 <o,f0,male> [dis=rep-] le [-dis=rep] le bobo se porte plutôt à gauche et il est poilu de la gueule d'habitude &amp;hein [bc] &amp;bah oui [bc] c'est la mode pour là-bas c'est la mode musulmane ça.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 503.457 510.548 <o,f0,male> d'être poilu de la gueule. [rire_en_fond] donc ça ça vous fait prendre pour un FLN. [rire_en_fond]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_speaker_10 510.548 512.548 <o,f0,male> [rire_en_fond] il fait du vélo aussi j'imagine ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 512.548 513.246 <o,f0,male> pardon ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_speaker_10 513.246 514.840 <o,f0,male> il fait du vélo dit votre fille.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 514.840 515.727 <o,f0,male> elle fait du vélo ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_speaker_10 515.727 516.309 <o,f0,male> oui
+LCP_LCPInfo13h30_2012-04-19_132700 1 excluded_region 516.309 517.432 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_speaker_10 517.432 518.448 <o,f0,male> non le bobo
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 518.448 520.906 <o,f0,male> le bobo il fait du vélo oui &amp;bah il fait comme
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 520.906 523.931 <o,f0,male> il fait comme NS [bc] NS
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 523.931 525.919 <o,f0,male> Nationale Socialisme vous savez ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_speaker_10 525.919 527.522 <o,f0,male> &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt;. [rire_en_fond]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 527.522 529.810 <o,f0,male> [rire] &amp;ah pardon, &amp;ah j'ai cru, &amp;ah ben j'ai
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 529.810 531.898 <o,f0,male> [dis=rep-] j'ai [-dis=rep] [rire] j'ai cru en regardant
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 531.898 535.829 <o,f0,male> la place de l'autre jour que c'était Nuremberg [rire_en_fond] avec &lt;pers=Nicolas_SARKOZY&gt;NS&lt;/pers&gt;
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 535.829 539.144 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 539.144 543.153 <o,f0,male> et alors je vais vous dire il y a Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt;
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 543.153 545.191 <o,f0,male> [dis=rep-] c'est [-dis=rep] c'est
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 545.191 552.175 <o,f0,male> ses amis disent qu'il y avait 100 à 120 mille personnes. [bc] alors ça ils peuvent dire ce qu'ils veulent puisqu'ils n'ont pas de reponsabilité.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Marie_LE_PEN 552.175 563.638 <o,f0,male> mais que Monsieur &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; dise qu'il y avait 120 mille personnes dans un endroit qui peut en contenir au maximum 50 mille ça alors c'est déjà la preuve d'une forme d'escroquerie politique.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 563.638 567.506 <o,f0,female> &lt;pers=Roland_MUZEAU&gt;Roland Muzeau&lt;/pers&gt; bonjour vous êtes [bc] porte-parole des députés [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 567.506 571.662 <o,f0,female> [r] [dis=hes-] euh [-dis=hes] Front de Gauche [dis=rep-] u(ne) [-dis=rep] une réaction à ce que vous venez d'entendre ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 571.662 575.991 <o,f0,male> &amp;bah écoutez [dis=hes-] euh [-dis=hes] le père ou la fille [dis=hes-] euh [-dis=hes] c'est exactement la même chose
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 575.991 579.721 <o,f0,male> [dis=rep-] le [-dis=rep] le statut de démocrate dont ils essayent de s'affubler
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 579.721 585.218 <o,f0,male> [dis=hes-] euh [-dis=hes] vole en éclats [dis=hes-] euh [-dis=hes] notamment au travers de la campagne qu'a mené le Front de gauche et d'autres candidats &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 585.218 589.950 <o,f0,male> et les propos de &lt;pers=Marine_LE_PEN&gt;Jean-Marie Le Pen&lt;/pers&gt; aujourd'hui sont les propos d'une crapule politique et d'un néo-fasciste
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 589.950 594.479 <o,f0,male> qui ne renie rien de son passé et de son présent et je crois que nos concitoyens
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 594.479 597.349 <o,f0,male> seraient bien avertis de regarder ce qui se passe en Norvège
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 597.349 600.231 <o,f0,male> et de ce qu'est le produit de ces théories politiques.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 600.231 605.662 <o,f0,male> que [dis=rep-] s(ont) [-dis=rep] qui sont menées par le Front National en France depuis fort longtemps [r] et qui conduisent à ce que un certain nombre de [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 605.662 611.149 <o,f0,male> leurs membres ici ou là dans quelque pays que ce soit et l'exemple de la Norvège est un exemple terrible
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 611.149 612.698 <o,f0,male> et bien [dis=hes-] euh [-dis=hes] [bc]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 612.698 614.260 <o,f0,female> vous faites le lien avec l'affaire &lt;pers=Anders_BEHRING_BREIVIK&gt;Breivik&lt;/pers&gt; c'est ça ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 614.260 616.032 <o,f0,male> [dis=rep-] bien évidemment [-dis=rep] , bien évidemment
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 616.032 620.744 <o,f0,male> [dis=hes-] euh [-dis=hes] et d'ailleurs ce personnage revendique l'idéologie néo-fasciste
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 620.744 625.098 <o,f0,male> et [dis=hes-] euh [-dis=hes] &lt;pers=Marine_LE_PEN&gt;Jean-Marie Le Pen&lt;/pers&gt; et sa fille en sont les porteurs quotidiens.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 625.098 635.329 <o,f0,female> vous restez avec nous [dis=hes-] euh [-dis=hes] &lt;pers=Roland_MUZEAU&gt;Roland Muzeau&lt;/pers&gt; puisque [r] on va parler du Front de gauche qui est en ordre de bataille à quelques jours du premier tour et avant le dernier meeting du parti [r] ce soir à Paris.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 635.329 640.294 <o,f0,female> debriefing et stratégie ont été définis par les cadres lors du dernier conseil national
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 640.294 642.602 <o,f0,female> autour de &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; et
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 642.602 643.334 <o,f0,female> devant
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 643.334 647.295 <o,f0,female> les caméras d'"LCP". regardez ce reportage de &lt;pers=Pierre_LASCAR&gt;Pierre Lascar&lt;/pers&gt; et &lt;pers=Marie_LABAT&gt;Marie Labat&lt;/pers&gt;.
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 647.295 647.923 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 647.923 651.979 <o,f0,male> [b] [musique-] [pi] excusez-moi mais [pi] est en train de me [pi]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Christian_PIQUET 651.979 652.759 <o,f0,male> t'es sûr ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 excluded_region 652.759 656.858 <o,,unknown> ignore_time_segment_in_scoring
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 656.858 660.019 <o,f0,male> [dis=rep-] de mon [-dis=rep] de mon expédition à Pau. regardez là c'est cool non ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 660.019 661.426 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 661.426 662.928 <o,f0,male> là c'était impressionnant
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Christian_PIQUET 662.928 667.444 <o,f0,male> deux tiers de page pour toi un tiers pour [dis=hes-] euh [-dis=hes] [bc] &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; le seul à pouvoir gagner
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Christian_PIQUET 667.444 671.677 <o,f0,male> moi ce que je vous propose c'est que on ait [dis=rep-] un bref [-dis=rep] [-musique] un bref tour
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Christian_PIQUET 671.677 678.523 <o,f0,male> [dis=hes-] euh [-dis=hes] notamment à partir [dis=rep-] des [-dis=rep] des gros événements [dis=rep-] de la semaine [-dis=rep] de la semaine écoulée le
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 678.523 681.299 <o,f0,male> [dis=rep-] l(e) [-dis=rep] le rassemblement de la Concorde est un échec.
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 681.299 682.030 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 682.030 687.137 <o,f0,male> pour la droite parce que la droite elle a une organisation puissante elle est capable de faire beaucoup mieux que ça.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 687.137 693.168 <o,f0,male> cependant on connaît &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; donc par conséquent il se passera quelque chose de son côté il ne va pas aller à l'abattoir sans se défendre &amp;hein.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 693.168 696.170 <o,f0,male> et le rassemblement autour de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 696.170 698.853 <o,f0,male> [dis=hes-] euh [-dis=hes] à mis un temps fou à se constituer.
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 698.853 699.669 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 699.669 703.524 <o,f0,male> et [dis=hes-] euh [-dis=hes] de tous les observateurs qui m'en ont parlé
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 703.524 704.706 <o,f0,male> [dis=hes-] euh [-dis=hes] bon
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 704.706 705.468 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 705.468 710.555 <o,f0,male> ceux qui étaient arrivés chauds sont repartis comme le temps quoi &amp;hein voila un peu refroidi
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 710.555 711.816 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 711.816 718.920 <o,f0,male> alors justement [dis=rep-] nous [-dis=rep] nous voilà entrés dans [dis=rep-] la [-dis=rep] la période ultra dense de la campagne [tx]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 718.920 722.268 <o,f0,male> on peut dire que cette semaine elle vaut pour un mois de campagne
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 722.268 722.897 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 722.897 724.386 <o,f0,male> parce que tout va aller très vite
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 724.386 726.419 <o,f0,male> et sur [dis=hes-] euh [-dis=hes]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 726.419 729.118 <o,f0,male> sur un détail [tx] la trajectoire peut être faussée.
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 729.118 729.588 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 729.588 732.707 <o,f0,male> alors cette semaine notre rassemblement c'est le 19
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 732.707 734.940 <o,f0,male> 24h de la fin de la campagne
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 734.940 740.367 <o,f0,male> donc c'est un enjeu pour nous. de toute façon il y aura encore un choc, on sait pas où, on sait pas comment mais il y aura un choc.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 740.367 745.237 <o,f0,male> donc attendons nous à ça et travaillons essentiellement sur l'idée de
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 745.237 747.711 <o,f0,male> de continuer [dis=rep-] l() [-dis=rep] l'ancrage
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 747.711 749.699 <o,f0,male> du Front de Gauche et sa diffusion.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 749.699 754.723 <o,f0,male> [musique] [pi]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Jean_Luc_MELENCHON 754.723 764.510 <o,f0,male> [musique-] &amp;ah &amp;ouais. une droite qu'il faut piloter d'une main ferme. [-musique]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 764.510 773.122 <o,f0,female> [bb] &lt;pers=Roland_MUZEAU&gt;Roland Muzeau&lt;/pers&gt;, [dis=hes-] euh [-dis=hes] &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; est apparu un peu comme la révélation de cette campagne avec des scores très importants dans les sondages [r] &lt;pers=Marine_LE_PEN&gt;Marine Le Pen&lt;/pers&gt; regagne du terrain [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 773.122 778.159 <o,f0,female> si &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; n'est pas [dis=rep-] le [-dis=rep] le troisième homme dimanche, est-ce que ce sera une déception ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 inter_segment_gap 778.159 778.584 <o,f0,> 
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 778.584 780.601 <o,f0,male> non rappelons nous tout de même que
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 780.601 785.134 <o,f0,male> [dis=rep-] les [-dis=rep] les sondeurs donnaient au Front de Gauche 4,5% 4%.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 785.134 786.494 <o,f0,male> il y a seulement trois mois
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 786.494 788.182 <o,f0,male> et qu'aujourd'hui [dis=hes-] euh [-dis=hes]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 788.182 795.567 <o,f0,male> on nous mène à des scores [bc] entre 14 et 17% et donc d'ores et déjà le Front de Gauche et son candidat
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 795.567 798.473 <o,f0,male> ont fait la démonstration que ils avaient
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 798.473 801.502 <o,f0,male> [dis=hes-] euh [-dis=hes] commis une percée énorme [dis=rep-] dans [-dis=rep] dans [bc-] l'opinion publique [-bc]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 801.502 806.132 <o,f0,female> que cette ferveur elle tient de la personnalité de &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt; ou des idées
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 806.132 807.624 <o,f0,female> véritablement du Front de Gauche ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 807.624 812.406 <o,f0,male> &amp;ah mais je crois que ça tient aux deux, je crois que le programme que défend le Front de gauche, l'humain d'abord
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 812.406 815.513 <o,f0,male> est la pièce essentielle puisque c'est la pièce qui rassemble [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 815.513 818.466 <o,f0,male> [dis=hes-] euh [-dis=hes] l'ensemble des forces qui consitue le Front de Gauche
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 818.466 820.949 <o,f0,male> [dis=rep-] et [-dis=rep] et également [dis=hes-] euh [-dis=hes]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 820.949 824.991 <o,f0,male> nos [dis=rep-] nos [-dis=rep] [dis=rev-] nos [-dis=rev] notre figure de proue, notre candidat &lt;pers=Jean-Luc_MELENCHON&gt;Jean-Luc Mélenchon&lt;/pers&gt;
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 824.991 828.676 <o,f0,male> met en valeur [dis=hes-] euh [-dis=hes] [dis=rep-] avec [-dis=rep] avec talent, intelligence et [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 828.676 830.036 <o,f0,male> [dis=rep-] et [-dis=rep] et conviction
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 830.036 834.098 <o,f0,male> ce qu'est [dis=hes-] euh [-dis=hes] la logique portée par ce programme. je crois que les deux sont inséparables.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 834.098 840.254 <o,f0,female> alors parmi vos principales mesures il y aurait [dis=rev-] le [-dis=rev] [r] la revalorisation du smic à 1700 euros est-ce que vous n'avez pas peur
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 840.254 846.681 <o,f0,female> d'asphixier notamment [dis=hes-] euh [-dis=hes] les petites et moyennes entreprises et puis de rendre la France encore moins compétitive [dis=rep-] qu'elle [-dis=rep] qu'elle ne l'est ? [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 846.681 851.738 <o,f0,male> non [dis=hes-] euh [-dis=hes] je crois que c'est une mesure qui est tout à fait applicable. 1700 euros brut maintenant [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 851.738 855.522 <o,f0,male> et 1700 euros net à la fin de la législature c'est notre proposition [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 855.522 859.984 <o,f0,male> et je constate d'ailleurs que un pays qui est proche de nous d'ailleurs le Luxembourg a un smic
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 859.984 861.989 <o,f0,male> à 1850 euros [dis=hes-] euh [-dis=hes] brut.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 861.989 866.426 <o,f0,male> donc [dis=hes-] euh [-dis=hes] c'est non seulement faisable mais c'est finançable et concernant
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 866.426 871.603 <o,f0,male> [dis=hes-] euh [-dis=hes] les difficultés que pourraient rencontrer un certain nombre de petites et moyennes entreprises nous en sommes
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 871.603 873.429 <o,f0,male> parfaitement [dis=rev-] confiance [-dis=rev] conscient
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 873.429 878.365 <o,f0,male> et donc c'est pour cela que nous mettons en face de ces difficultés que nous connaissons et que nous avons mesurées
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 878.365 880.503 <o,f0,male> des dispositifs qui visent à ce que
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 880.503 882.469 <o,f0,male> ce soit rendu possible avec
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 882.469 886.523 <o,f0,male> des modulations de leur fiscalité et de leur participation aux cotisations sociales.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 886.523 890.931 <o,f0,female> alors l'institut de l'entreprise a chiffré votre programme [r] à 130 milliards d'euros
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 890.931 895.033 <o,f0,female> [dis=hes-] euh [-dis=hes] sur 5 ans est-ce que [dis=rep-] c'est [-dis=rep] c'est l'un des plus coûteux, est-ce que c'est vraiment adapté
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 895.033 896.591 <o,f0,female> [dis=hes-] euh [-dis=hes] dans cette période de crise ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 896.591 901.415 <o,f0,male> mais c'est celui qui rapporte le plus aussi. certes nous ne contestons pas le chiffre de 130 milliards
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 901.415 905.012 <o,f0,male> peu m'importe parce que l'institut Montaigne qui est un institut patronal
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 905.012 910.748 <o,f0,male> [dis=hes-] euh [-dis=hes] fait ses chiffrages aussi. donc [dis=rep-] ce qui [-dis=rep] ce qui m'importe moi c'est de pouvoir dire à nos téléspectateurs que
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 910.748 912.478 <o,f0,male> [dis=hes-] euh [-dis=hes] à la fois notre programme
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 912.478 915.069 <o,f0,male> coûte bien évidemment et nous assumons ces dépenses
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 915.069 919.194 <o,f0,male> [dis=hes-] euh [-dis=hes] il y a les questions sur l'emploi, la création d'emploi, sur le pouvoir d'achat
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 919.194 926.842 <o,f0,male> sur [dis=hes-] euh [-dis=hes] [dis=rep-] les [-dis=rep] les services publics qu'il faut redynamiser donc [dis=hes-] euh [-dis=hes] repourvoir par exemple des postes dans l'éducation nationale et dans la santé.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 926.842 930.510 <o,f0,male> et dans la sécurité. bref ! tout ceci nous l'assumons. nous assumons
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 930.510 931.770 <o,f0,male> la dépense, le coût,
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 931.770 935.887 <o,f0,male> mais en face nous disons [dis=hes-] euh [-dis=hes] c'est un programme qui rapporte beaucoup aux finances publiques
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 935.887 938.033 <o,f0,male> et donc il s'agit d'apprécier
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 938.033 940.325 <o,f0,male> les dispositions avec ce mécanisme
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Roland_MUZEAU 940.325 943.406 <o,f0,male> interactif entre dépenses et recettes à venir.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 943.406 945.486 <o,f0,female> merci &lt;pers=Roland_MUZEAU&gt;Roland Muzeau&lt;/pers&gt; porte-parole
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 945.486 948.780 <o,f0,female> [r] des députés Front de gauche et &lt;pers=Florence_MURACCIOLE&gt;Florence Muracciole&lt;/pers&gt; nous a rejoint [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 948.780 951.218 <o,f0,female> [r] sur ce plateau pour la revue de presse. bonjour &lt;pers=Florence_MURACCIOLE&gt;Florence&lt;/pers&gt;
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 951.218 951.791 <o,f0,female> bonjour &lt;pers=Brigitte_BOUCHER&gt;Brigitte&lt;/pers&gt;
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 951.791 954.010 <o,f0,female> alors à la une des hebdos &lt;pers=Jacques_CHIRAC&gt;Jacques Chirac&lt;/pers&gt;
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 954.010 955.113 <o,f0,female> ira-t-il voter ?
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 955.113 960.003 <o,f0,female> oui alors on se demande bien ce que craint &lt;pers=Bernadette_CHIRAC&gt;Bernadette Chirac&lt;/pers&gt; parce que "le Point" nous apprend que la femme de l'ancien président
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 960.003 962.898 <o,f0,female> [r] a exfiltré son mari vers le Maroc où elle l'a
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 962.898 967.526 <o,f0,female> en quelque sorte assigné à résidence [r] à l'hôtel de la Gazelle d'Or à Taroudant
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 967.526 975.063 <o,f0,female> alors et ce sans doute jusqu' [dis=rev-] à [-dis=rev] au deuxième tour de la présidentielle inclus puisque &lt;pers=Bernadette_CHIRAC&gt;Bernadette&lt;/pers&gt; a tellement peur que ce &lt;pers=Jacques_CHIRAC&gt;Jacques Chirac&lt;/pers&gt; vote &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 975.063 982.133 <o,f0,female> qu'elle préfère voter à sa place [pi] alors c'est procuration en poche qu'elle se rendra en Corrèze pour voter &lt;pers=Nicolas_SARKOZY&gt;Sarkozy&lt;/pers&gt; bien sûr.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 982.133 987.331 <o,f0,female> [r] et rien ne dit qu'elle respectera la volonté de son mari [dis=rev-] on avait [-dis=rev] on l'avait entendu annoncer qu'il voterait [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 987.331 991.943 <o,f0,female> &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; alors [dis=hes-] euh [-dis=hes] c'est un trait d'humour avait-elle rétorqué [r] mais
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 991.943 994.135 <o,f0,female> il n'empêche les proches de l'ancien président [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 994.135 999.846 <o,f0,female> hormis sa femme voteront tous &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; alors &lt;pers=Claude_CHIRAC&gt;Claude&lt;/pers&gt; sa fille, &lt;pers=Frederic_SALAT-BAROUX&gt;Frédéric [dis=rev-] Sarab(aroux) [-dis=rev] Salat- [dis=hes-] Bal(ou) [-dis=hes] Baroux&lt;/pers&gt;
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 999.846 1002.579 <o,f0,female> son gendre, &lt;pers=Thierry_REY&gt;Thierry Rey&lt;/pers&gt; son ex gendre [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1002.579 1008.310 <o,f0,female> [dis=hes-] euh [-dis=hes] et père de son petit-fils, &lt;pers=Hugues_RENSON&gt;Hugues Renson&lt;/pers&gt; son conseiller et même sa plume &lt;pers=Jean-Luc_BARRE&gt;Jean-Luc Barré&lt;/pers&gt; celui qui a coécrit avec lui
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1008.310 1010.472 <o,f0,female> ses mémoires, alors pas sûr que ce clan pardonnerait
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1010.472 1013.171 <o,f0,female> à &lt;pers=Bernadette_CHIRAC&gt;Bernadette&lt;/pers&gt; de ne pas voter, de ne pas respecter
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1013.171 1014.656 <o,f0,female> [r] [dis=hes-] euh [-dis=hes] la volonté de son mari.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 1014.656 1017.571 <o,f0,female> [r] &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; est en pole position pour Matignon.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1017.571 1022.831 <o,f0,female> oui alors sans préjuger de l'avenir bien sûr et du résultat dimanche et bien il faut bien préparer [dis=hes-] euh [-dis=hes] le [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1022.831 1026.536 <o,f0,female> ce qui se passera après. alors c'est ainsi que selon "l'express" le nom de [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1026.536 1028.212 <o,f0,female> &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; président du groupe
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1028.212 1030.342 <o,f0,female> socialiste à l'assemblée depuis 15 ans
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1030.342 1037.071 <o,f0,female> [r] est avancé chez les socialistes comme [dis=rep-] premier [-dis=rep] premier ministre possible de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; bien sûr s'il est élu.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1037.071 1040.428 <o,f0,female> [r] alors il tient la corde assure un cadre de la campagne, l'intéressé bien sûr
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1040.428 1041.292 <o,f0,female> esquive
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1041.292 1045.621 <o,f0,female> mais le sujet, esquive le sujet mais "l'express" nous assure que depuis deux mois
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1045.621 1047.771 <o,f0,female> eh bien &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; ne cesse de [r]
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1047.771 1058.255 <o,f0,female> de prendre contact, d'intensifier ses contacts avec le monde patronal et syndical, [r] en outre il a l'avantage de bien connaître les composantes [dis=rep-] de [-dis=rep] [r] de la gauche puisqu'il est président depuis 15 ans du groupe socialiste
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1058.255 1060.672 <o,f0,female> et puis [dis=rev-] c'est un [-dis=rev] sans doute un atout aussi
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1060.672 1062.523 <o,f0,female> il est germanophile, il parle bien allemand
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1062.523 1067.470 <o,f0,female> et pour nouer des contacts ave(c) &lt;pers=Angela_MERKEL&gt;Angela Merkel&lt;/pers&gt; qui avait refusé de rencontrer &lt;pers=Francois_HOLLANDE&gt;Hollande&lt;/pers&gt; ça serait
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Florence_MURACCIOLE 1067.470 1068.541 <o,f0,female> pas si mal.
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 1068.541 1071.881 <o,f0,female> merci &lt;pers=Florence_MURACCIOLE&gt;Florence Muracciole&lt;/pers&gt; et à lundi pour la revue de presse
+LCP_LCPInfo13h30_2012-04-19_132700 1 LCP_LCPInfo13h30_2012_04_19_132700_Brigitte_BOUCHER 1071.881 1080.998 <o,f0,female> [r] des quotidiens, lundi une revue de presse qui sera [r] un petit peu plus longue. merci à tous de votre attention, bonne suite de programme [r] sur "LCP".
+LCP_LCPInfo13h30_2012-04-19_132700 1 excluded_region 1080.998 1560.744 <o,,unknown> ignore_time_segment_in_scoring

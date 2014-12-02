@@ -1,0 +1,56 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:25 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 11 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 0.000 76.009 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Christophe_DELAY 76.009 81.475 <o,f0,male> [musique-] et on a pratiquement que du cinéma [bc] ce matin, " intouchables " évidemment qui conquiert l'Europe pourquoi pas le monde.
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Pascale_DE_LA_TOUR_DU_PIN 81.475 87.723 <o,f0,female> &amp;han allons-y, &lt;pers=Jennifer_ANISTON&gt;Jennifer Aniston&lt;/pers&gt; on verra ça ce week-end tu vas me dire [bc] qui a inauguré hier son étoile sur Hollywood Boulevard.
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Christophe_DELAY 87.723 91.986 <o,f0,male> et le tapis rouge déplié à Hollywood et en vue évidemment [dis=rep-] des [-dis=rep] [r] des Oscars.
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Pascale_DE_LA_TOUR_DU_PIN 91.986 92.628 <o,f0,female> &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Christophe_DELAY 92.628 94.595 <o,f0,male> dimanche soir. &lt;pers=Philippe_DUFREIGNE&gt;Dufreigne Philippe&lt;/pers&gt;. [rire_en_fond]
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 94.595 101.823 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Philippe_DUFREIGNE 101.823 108.668 <o,f0,male> la musique au moins n'a pas changé, c'est en Italie qu' " intouchables " sort aujourd'hui et en version traduite, ça donne des scènes comme ça :
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 108.668 115.671 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Philippe_DUFREIGNE 115.671 124.924 <o,f0,male> la comédie est en train de conquérir l'Europe, projetée dès aujourd'hui sur 300 écrans italiens, [r] elle sortira ensuite le 9 mars en Espagne, " intouchables " qui est toujours en tête du box-office allemand
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Philippe_DUFREIGNE 124.924 133.152 <o,f0,male> [r] avec plus de 5 millions de spectateurs, il vient de faire mieux que " pirates des caraïbes 4 " [r] qui n'était autre que le deuxième plus gros succès de 2011 dans le pays.
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_speaker_4 133.152 136.050 <o,f0,female> &lt;pers=Jennifer_ANISTON&gt;Jennifer&lt;/pers&gt; comblée.
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Philippe_DUFREIGNE 136.050 147.030 <o,f0,male> c'était un peu la revanche de &lt;pers=Jennifer_ANISTON&gt;Jennifer&lt;/pers&gt;, son ex &lt;pers=Brad_PITT&gt;Brad Pitt&lt;/pers&gt; n'a pas la sienne, pas plus qu'&lt;pers=Angelina_JOLIE&gt;Angelina Jolie&lt;/pers&gt;, &lt;pers=Jennifer_ANISTON&gt;Jennifer Aniston&lt;/pers&gt; a inauguré son étoile sur Hollywood Boulevard [r] à dire vrai, elle y croyait à peine.
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 147.030 147.734 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 147.734 158.788 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_speaker_4 158.788 161.741 <o,f0,female> on reste à Hollywood boulevard.
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Philippe_DUFREIGNE 161.741 175.311 <o,f0,male> [musique-] car la première star a fait son apparition pour les oscars et il s'agit enfin du [r] tapis, ce tapis rouge qui sera foulé notamment par l'équipe de " the artist " dimanche. [r] et regardez comment il a été déroulé à la perfection. [r] bon le tapis, c'est bon
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Philippe_DUFREIGNE 175.311 184.846 <o,f0,male> les oscars en carton aussi. [r] ne manque plus que le sacre de &lt;pers=Jean_DUJARDIN&gt;Jean Dujardin&lt;/pers&gt; mais pour ça il faudra croiser les doigts. [r] on le saura dans la nuit de dimanche à lundi. [-musique]
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Christophe_DELAY 184.846 198.870 <o,f0,male> venir au oscars dans un instant &lt;pers=Pascale_DE_LA_TOUR_DU_PIN&gt;Pascale&lt;/pers&gt; [bc] mais [r] il y a donc les césars ce soir [bc] avec 10 nominations pour " the artist " , [r] 13 pour " polisse " et 8 pour " intouchables " . &lt;pers=Jean_DUJARDIN&gt;Jean Dujardin&lt;/pers&gt; qui était souffrant [bc] ces derniers jours [r] sera évidemment à la cérémonie des césars ce soir, il prendra l'avion
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Christophe_DELAY 198.870 208.650 <o,f0,male> le lendemain avec sa compagne et toute l'équipe du film pour être évidemment en forme à la cérémonie des oscars qui, on l'espère, [r] signeront la consécration du film.
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Pascale_DE_LA_TOUR_DU_PIN 208.650 210.737 <o,f0,female> on verra ça lundi matin évidemment dans première édition.
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Christophe_DELAY 210.737 212.889 <o,f0,male> en direct avec &lt;pers=Candice_MAHOUT&gt;Candice Mahout&lt;/pers&gt; qui prend elle aussi l'avion tout à l'heure.
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Pascale_DE_LA_TOUR_DU_PIN 212.889 223.123 <o,f0,female> [r] alors [rire] [r] tiens la cérémonie [dis=rep-] de [-dis=rep] de remise des *Oscars, [dis=rep-] une cin(quantaine) [-dis=rep] une cinquantaine de professionnels du cinéma y vont y recevoir la fameuse récompense [r] [dis=hes-] euh [-dis=hes] qui n'est pas produite à Hollywood m(ais)
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 223.123 223.931 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Christophe_DELAY 223.931 230.922 <o,f0,male> la récompense [bc-] effectivement [-bc] est fabriquée [r] à Chicago dans une petite usine que vous allez découvrir maintenant [r] grâce à &lt;pers=Melanie_VECCHIO&gt;Mélanie Vecchio&lt;/pers&gt;. [b]
+BFMTV_CultureEtVous_2012-02-24_065040 1 inter_segment_gap 230.922 232.568 <o,f0,> 
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Melanie_VECCHIO 232.568 241.733 <o,f0,female> derrière ces barreaux, les plus prestigieuses [-musique] des récompenses du cinéma. [r] à l'abri de tous les regards, c'est ici dans cette petite usine de Chicago que les statuettes sont fa(briquées)
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 241.733 243.780 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 243.780 254.949 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Melanie_VECCHIO 254.949 258.078 <o,f0,female> les mensurations des statuettes sont rigoureusement respectées
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Melanie_VECCHIO 258.078 272.059 <o,f0,female> [r] 34,29 centimètres pour 3 kilos 850 grammes. [r] leur façonnage nécessite un long procédé [r] le britannium, un alliage qui ressemble à de l'étain [r] est coulé dans des moules. chaque oscar demande 40h de travail.
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 272.059 273.832 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 273.832 283.471 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Melanie_VECCHIO 283.471 297.406 <o,f0,female> dernière étape, le moule est plongé dans du cuivre, du nickel, de l'argent puis de l'or 24 carats [r] la statuette est inspectée de la tête aux pieds [r] aucune erreur n'est admise. une récompense rayée ou légèrement abîmée est immédiatement refondue
+BFMTV_CultureEtVous_2012-02-24_065040 1 BFMTV_CultureEtVous_2012_02_24_065040_Melanie_VECCHIO 297.406 308.086 <o,f0,female> [r] [b-] après un [-b] dernier coup de laque, [b-] la touche finale [r] la gravure des noms des gagnants [-b] sur le socle [r] pas question de connaître les vainqueurs à l'avance, l'opération a lieu juste après la cérémonie.
+BFMTV_CultureEtVous_2012-02-24_065040 1 inter_segment_gap 308.086 308.923 <o,f0,> 
+BFMTV_CultureEtVous_2012-02-24_065040 1 excluded_region 308.923 417.600 <o,,unknown> ignore_time_segment_in_scoring

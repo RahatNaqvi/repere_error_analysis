@@ -1,0 +1,56 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Yann, version 6 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-10-26_064700 1 excluded_region 0.000 431.977 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Pascale_DE_LA_TOUR_DU_PIN 431.977 437.795 <o,f0,female> [musique-] évidemment ! évidemment ! aujourd'hui, la sortie du nouveau "james bond" : "skyfall".
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Christophe_DELAY 437.795 448.482 <o,f0,male> c'est un titre unique, évidemment. il *rempile &lt;pers=Daniel_CRAIG&gt;Daniel Craig&lt;/pers&gt; pour la troisième fois [r] dans le rôle de l'espion de sa majesté. &lt;pers=Philippe_DUFREIGNE&gt;Philippe Dufreigne&lt;/pers&gt; a vu le film et je crois qu'il a beaucoup aimé.
+BFMTV_CultureEtVous_2012-10-26_064700 1 inter_segment_gap 448.482 450.265 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Berenice_MARLOHE 450.265 453.475 <o,f0,female> [b-] [-musique] ça a du bon un coup de théâtre de temps en temps. monsieur ?
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Eric_HERSON_MACAREL 453.475 455.621 <o,f0,male> Bond. James Bond.
+BFMTV_CultureEtVous_2012-10-26_064700 1 inter_segment_gap 455.621 456.852 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Philippe_DUFREIGNE 456.852 463.223 <o,f0,male> la phrase est archi connue mais il faudra vous y faire, dans ce "james bond" du cinquantenaire, il y a d'abord beaucoup de clins d'oeil à la saga.
+BFMTV_CultureEtVous_2012-10-26_064700 1 excluded_region 463.223 464.371 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-26_064700 1 excluded_region 464.371 467.897 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-26_064700 1 excluded_region 467.897 468.830 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Philippe_DUFREIGNE 468.830 470.678 <o,f0,male> des fans qui vont avoir des haut-le-coeur.
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Annie_MILON 470.678 472.430 <o,f0,female> non ! je risque de toucher Bond.
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Nadine_ALARI 472.430 473.561 <o,f0,female> je vous dis de tirer, nom de dieu !
+BFMTV_CultureEtVous_2012-10-26_064700 1 inter_segment_gap 473.561 475.558 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Philippe_DUFREIGNE 475.558 478.834 <o,f0,male> car dès les premières scènes, on [b-] retient son souffle pour le héros.
+BFMTV_CultureEtVous_2012-10-26_064700 1 excluded_region 478.834 479.486 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-26_064700 1 excluded_region 479.486 482.780 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-26_064700 1 excluded_region 482.780 483.277 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Philippe_DUFREIGNE 483.277 485.435 <o,f0,male> [musique-] et ça tombe bien, on a ajouté des doutes,
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_speaker_10 485.435 487.664 <o,f0,male> il n'y a aucune honte à avouer que vous avez perdu la main.
+BFMTV_CultureEtVous_2012-10-26_064700 1 inter_segment_gap 487.664 488.513 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Philippe_DUFREIGNE 488.513 492.099 <o,f0,male> une menace qui plane sur M, la patronne des services secrets,
+BFMTV_CultureEtVous_2012-10-26_064700 1 inter_segment_gap 492.099 493.964 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Philippe_DUFREIGNE 493.964 497.538 <o,f0,male> et un méchant campé par &lt;pers=Javier_BARDEM&gt;Javier Bardem&lt;/pers&gt;, drôle et flippant à la fois.
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Samuel_LABARTHE 497.538 499.881 <o,f0,male> maman a vraiment été méchante. [musique-]
+BFMTV_CultureEtVous_2012-10-26_064700 1 excluded_region 499.881 504.005 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-26_064700 1 excluded_region 504.005 504.937 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Philippe_DUFREIGNE 504.937 509.384 <o,f0,male> autre atout qui ne vous mettra pas mal à l'aise : dans cette saga, une française !
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Berenice_MARLOHE 509.384 510.819 <o,f0,female> et quelle française !
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Philippe_DUFREIGNE 510.819 514.649 <o,f0,male> &lt;pers=Berenice_MARLOHE&gt;Bérénice Marlohe&lt;/pers&gt;, 33 ans, qui pour camper la bond-girl a imaginé
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Berenice_MARLOHE 514.649 518.085 <o,f0,female> une créature qui est entre l'homme, la femme
+BFMTV_CultureEtVous_2012-10-26_064700 1 inter_segment_gap 518.085 518.593 <o,f0,> 
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Berenice_MARLOHE 518.593 519.594 <o,f0,female> et un animal.
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Philippe_DUFREIGNE 519.594 523.787 <o,f0,male> rien que ça ! elle réussit, en tout cas, à se faire sa place dans cette saga d'envergure. [-musique]
+BFMTV_CultureEtVous_2012-10-26_064700 1 BFMTV_CultureEtVous_2012_10_26_064700_Berenice_MARLOHE 523.787 527.532 <o,f0,female> vous avez fait une apparition audacieuse dans notre petit mélo.
+BFMTV_CultureEtVous_2012-10-26_064700 1 excluded_region 527.532 1270.200 <o,,unknown> ignore_time_segment_in_scoring

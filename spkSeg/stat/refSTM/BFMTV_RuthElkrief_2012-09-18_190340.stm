@@ -1,0 +1,101 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Gwendo, version 12 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_RuthElkrief_2012-09-18_190340 1 excluded_region 0.000 2249.000 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2249.000 2249.417 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2249.417 2250.792 <o,f0,female> [r] bonsoir &lt;pers=Catherine_FROT&gt;Catherine Frot&lt;/pers&gt;.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2250.792 2251.028 <o,f0,female> [pi]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2251.028 2254.416 <o,f0,female> merci beaucoup d'être sur le plateau de BFM TV. bonsoir &lt;pers=Daniele_DELPEUCH&gt;Danièle Delpeuch&lt;/pers&gt;. [r]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2254.416 2263.619 <o,f0,female> [dis=hes-] euh [-dis=hes] vous êtes [dis=rep-] euh [-dis=rep] la première femme à être rentrée dans les cuisines de l'Élysée. vous étiez la cuisinière privée de &lt;pers=Francois_MITTERRAND&gt;François Mitterrand&lt;/pers&gt; de 1988 à 1990. [r]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2263.619 2273.457 <o,f0,female> et vous êtes toutes les deux [b] finalement les héroïnes du film qui sort demain, " les saveurs du palais " de &lt;pers=Christian_VINCENT&gt;Christian Vincent&lt;/pers&gt;. alors il y a à vos côtés &lt;pers=Catherine_FROT&gt;Catherine&lt;/pers&gt;, &lt;pers=Jean_D_ORMESSON&gt;Jean d'Ormesson&lt;/pers&gt; bien sûr et &lt;pers=Hippolyte_GIRARDOT&gt;Hippolyte Girardot&lt;/pers&gt;.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2273.457 2284.004 <o,f0,female> [r] [dis=hes-] euh [-dis=hes] parce que [dis=hes-] euh [-dis=hes] [b] bien les luttes de pouvoir, l'amour de la gastronomie, la poésie, la politique, tout est mêlé, dans ce [dis=hes-] euh [-dis=hes] délicieux film à savourer dès demain, à déguster je dirais. [r]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2284.004 2292.088 <o,f0,female> [dis=hes-] euh [-dis=hes] c'est votre histoire &lt;pers=Daniele_DELPEUCH&gt;Danièle Delpeuch&lt;/pers&gt; que vous racontiez dans un livre et [dis=rev-] qui a été [-dis=rev] qui a inspiré librement &lt;pers=Christian_VINCENT&gt;Christian Vincent&lt;/pers&gt;. [r] et qui raconte comme ça [b] [dis=hes-] euh [-dis=hes] à la fois,
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2292.088 2292.641 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2292.641 2305.546 <o,f0,female> comment, une femme, est arrivée à l'Élysée ? dans les cuisines de l'Élysée, c'était une première. [r] mais aussi comment ; &amp;bah les luttes internes [b] [dis=hes-] euh [-dis=hes] [dis=rep-] les [-dis=rep] les intrigues, les manoeuvres peuvent aussi, [r] arriver jusqu'aux cuisines.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Daniele_DELPEUCH 2305.546 2311.808 <o,f0,female> [dis=rep-] tout à fait. [-dis=rep] tout à fait. et le film est [dis=rep-] très juste [-dis=rep] . très juste. dans les grandes lignes vraiment, absolument.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2311.808 2321.779 <o,f0,female> et [dis=rev-] co [-dis=rev] [dis=rep-] comment [-dis=rep] comment [dis=rep-] *vous [-dis=rep] vous vous souvenez de votre première rencontre, [b-] de la manière dont vous avez été, [r] [dis=hes-] euh [-dis=hes] débauchée entre guillemets [dis=rep-] par [-dis=rep] [dis=hes-] euh [-dis=hes] par l'Élysée [-b] qui est venue vous chercher [dis=hes-] euh [-dis=hes] dans votre Périgord ?
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Daniele_DELPEUCH 2321.779 2333.531 <o,f0,female> [dis=rep-] ça s'est passé [-dis=rep] ça s'est passé très vite. on n'est pas venu me chercher, je suis venue à Paris. [r] mais [dis=rep-] c'est pareil [-dis=rep] c'est pareil, ça s'est fait [dis=hes-] euh [-dis=hes] dans l'instant. c'est une chose de l'instant en fait. [r] voilà [dis=hes-] euh [-dis=hes] . le matin je suis arrivée à Paris [dis=hes-] euh [-dis=hes] . [r]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Daniele_DELPEUCH 2333.531 2343.243 <o,f0,female> et j'ai été [dis=hes-] euh [-dis=hes] voilà [dis=hes-] euh [-dis=hes] [dis=rev-] je me [-dis=rev] [dis=rep-] sans [-dis=rep] sans désir particulier ou [dis=rep-] sans [-dis=rep] sans, je ne cherchais rien de particulier. [r] et le soir vers 4 5 heures, [rire_en_fond-] j'étais devenue la cuisinière du président. [-rire_en_fond]
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2343.243 2343.972 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2343.972 2349.914 <o,f0,female> [dis=rep-] vous [-dis=rep] [dis=rev-] vous et [-dis=rev] [dis=rep-] vous [-dis=rep] vous aimez la cuisine ? vous êtes [dis=hes-] euh [-dis=hes] vous coulée dans ce rôle très facilement ?
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2349.914 2357.397 <o,f0,female> oui enfin [dis=hes-] euh [-dis=hes] [dis=rev-] je ne suis [-dis=rev] je suis très gourmande, [b] mais je ne suis pas particulièrement douée en cuisine non. c'est pas du tout [dis=hes-] euh [-dis=hes] , [r]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2357.397 2371.674 <o,f0,female> [dis=hes-] euh [-dis=hes] une [dis=rep-] de mes [-dis=rep] de mes choses. [b] [r] mais voilà je sais pas comment dire. d'abord j'ai appris, une partie de la cuisine des choses qu'on devait représenter dans le film. [b] [r] [dis=hes-] euh [-dis=hes] certains plats. [r] donc on a travaillé [dis=hes-] euh [-dis=hes] , j'ai travaillé avec &lt;pers=Daniele_DELPEUCH&gt;Danièle&lt;/pers&gt;, chez &lt;pers=Daniele_DELPEUCH&gt;Danièle&lt;/pers&gt; d'abord, à Paris ensuite.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2371.674 2378.593 <o,f0,female> [r] et [dis=rep-] puis [-dis=rep] puis voilà quoi. [dis=rep-] puis [-dis=rep] puis les gestes, [r] avoir l'aisance, faire illusion, [r] faire croire.
+BFMTV_RuthElkrief_2012-09-18_190340 1 excluded_region 2378.593 2380.180 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2380.180 2381.560 <o,f0,female> le rôle de [dis=rep-] la [-dis=rep] la comédienne.
+BFMTV_RuthElkrief_2012-09-18_190340 1 excluded_region 2381.560 2382.212 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Daniele_DELPEUCH 2382.212 2384.241 <o,f0,female> elle dit faire illusion, [dis=rep-] non [-dis=rep] non elle fait réel.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2384.241 2384.791 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 excluded_region 2384.791 2385.981 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2385.981 2387.125 <o,f0,female> illusion c'est faire réel !
+BFMTV_RuthElkrief_2012-09-18_190340 1 excluded_region 2387.125 2387.592 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2387.592 2388.752 <o,f0,female> &amp;eh &amp;bah voilà [rire_en_fond-] bravo.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Daniele_DELPEUCH 2388.752 2391.873 <o,f0,female> j'apprends tellement de choses [rire_en_fond-] &lt;pers=Catherine_FROT&gt;Catherine&lt;/pers&gt;avec vous, je vous regarde ! [-rire_en_fond]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2391.873 2394.035 <o,f0,female> &amp;ah &amp;bah et moi je vous ai regardée aussi.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Daniele_DELPEUCH 2394.035 2396.279 <o,f0,female> [r] je sais ! oui ! effectivement. [-rire_en_fond]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2396.279 2404.148 <o,f0,female> on va regarder tout de suite ensemble, une première scène de ce film puisque c'est &lt;pers=Jean_D_ORMESSON&gt;Jean d'Ormesson&lt;/pers&gt; le président. [r] et c'est [dis=hes-] euh [-dis=hes] [dis=rep-] le [-dis=rep] le premier entretien.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2404.148 2406.413 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_speaker_4 2406.413 2408.380 <o,f0,female> je vous en prie, le président vous attend.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2408.380 2410.436 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Lionel_TAVERA 2410.436 2412.205 <o,f0,male> le président sait que nous sommes sur le point de partir ?
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_speaker_4 2412.205 2415.533 <o,f0,female> il voulait recevoir madame Laborie, il m'a assuré qu'il n'en aurait pas pour plus de 10 minutes.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Lionel_TAVERA 2415.533 2417.326 <o,f0,male> le président ne sera pas là avant 10 minutes.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_speaker_6 2417.326 2418.179 <o,f0,male> 10 minutes ?
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_speaker_6 2418.179 2420.735 <o,f0,male> je préviens le Bourget pour leur dire qu'on risque de décoller en retard !
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2420.735 2421.901 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Inconnu_005 2421.901 2424.865 <o,f0,male> messieurs, tout le monde se tient prêt, départ dans 5 minutes.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2424.865 2426.767 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2426.767 2432.496 <o,f0,female> [b] je suis très heureuse d'être là. [dis=rep-] dans [-dis=rep] dans cette splendide maison, [r] très honorée de la confiance qui m'est faite.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2432.496 2433.006 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2433.006 2436.999 <o,f0,female> je travaille dans d'excellentes conditions, avec un aide, un jeune garçon très doué.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2436.999 2438.296 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2438.296 2439.676 <o,f0,female> seulement [dis=hes-] euh [-dis=hes] &amp;pfff.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2439.676 2440.584 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2440.584 2442.187 <o,f0,female> il me manque quelque chose.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2442.187 2442.866 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2442.866 2444.260 <o,f0,female> il me manque une direction.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2444.260 2448.564 <o,f0,female> je ne suis pas certaine [dis=rep-] de de [-dis=rep] de savoir, la cuisine que je dois faire. [r]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Jean_D_ORMESSON 2448.564 2451.608 <o,f0,male> faites moi une cuisine simple.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2451.608 2452.136 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Jean_D_ORMESSON 2452.136 2458.173 <o,f0,male> je déteste les complications, les préparations tarabiscotées, les décorations inutiles.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2458.173 2458.980 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Jean_D_ORMESSON 2458.980 2466.366 <o,f0,male> quand je suis arrivé dans cette maison, le pâtissier, [b] sûrement pour me faire plaisir, [b] s'acharnait,
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2466.366 2467.096 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Jean_D_ORMESSON 2467.096 2479.224 <o,f0,male> à décorer ses désserts avec des petites roses en sucre. [b] des petites roses en sucre. [r] j'avais en horreur ces petites roses en sucre. [r] systématiquement, je les écartais dans mon assiette.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Jean_D_ORMESSON 2479.224 2491.974 <o,f0,male> [r] et systématiquement elles réapparaissaient dans mon assiette. [r] [rire_en_fond] à la fin, j'ai dû pondre une note écrite, [r] pour m'en débarrasser définitivement. [b] j'ai besoin de retrouver le goût des choses.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2491.974 2493.108 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2493.108 2494.823 <o,f0,female> [b] c'est une scène réelle ? [b]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Daniele_DELPEUCH 2494.823 2502.649 <o,f0,female> [dis=rep-] une scène réelle [-dis=rep] une scène réelle, [dis=rev-] il y a les [-dis=rev] il y a pas les petites roses mais c'était [dis=rep-] tout à fait [-dis=rep] tout à fait proche absolument.
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2502.649 2506.329 <o,f0,female> &lt;pers=Francois_MITTERRAND&gt;François Mitterrand&lt;/pers&gt; qui vous demandait de lui faire une cuisine [dis=hes-] euh [-dis=hes] plus proche de [dis=hes-] euh [-dis=hes]
+BFMTV_RuthElkrief_2012-09-18_190340 1 excluded_region 2506.329 2506.877 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Daniele_DELPEUCH 2506.877 2509.891 <o,f0,female> de sa grand-mère, ça c'est vraiment [dis=hes-] euh [-dis=hes] [dis=rev-] c'est [-dis=rev] c'était ses mots.
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2509.891 2510.394 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Daniele_DELPEUCH 2510.394 2516.946 <o,f0,female> [b] [dis=rep-] j'ai [-dis=rep] j'ai eu un petit peu de mal au départ enfin on parlait un petit peu de choses générales, [r] puis il m'a dit " écoutez, faites moi la cuisine de ma grand-mère " .
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2516.946 2520.786 <o,f0,female> parce qu'il se sentait complètement déconnecté [dis=rep-] de [-dis=rep] de, isolé dans son palais ?
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Daniele_DELPEUCH 2520.786 2531.994 <o,f0,female> je pense pas non, je pense pas mais [dis=rep-] je [-dis=rep] je crois que comme tous les gens qui travaillent, ils ont parfois besoin [dis=rev-] de [-dis=rev] [r] d'une cuisine reposante. [r] de repas [dis=hes-] euh [-dis=hes] qui ne leur posent pas de problème métaphysique. [rire]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2531.994 2541.117 <o,f0,female> qui leur font seulement *plaisir. [r] elle bousculait les protocoles, [dis=rep-] elle [-dis=rep] elle [dis=hes-] euh [-dis=hes] parlait au président [dis=hes-] euh [-dis=hes] très naturellement [b] [dis=hes-] euh [-dis=hes] et ça c'est tout à fait [rire-] vous aussi &lt;pers=Catherine_FROT&gt;Catherine Frot&lt;/pers&gt;? vous [-rire]
+BFMTV_RuthElkrief_2012-09-18_190340 1 excluded_region 2541.117 2541.620 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Ruth_ELKRIEF 2541.620 2544.121 <o,f0,female> [rire_en_fond-] oui vous êtes assez [dis=hes-] euh [-dis=hes] non, vous êtes. [-rire_en_fond] [r]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2544.121 2556.357 <o,f0,female> &amp;bah je sais pas. [b] disons que, [r] c'est vrai que [b] quand j'ai rencontré &lt;pers=Daniele_DELPEUCH&gt;Danièle&lt;/pers&gt; [dis=rep-] je [-dis=rep] [b] je, [r] ça m'a [dis=rep-] je [-dis=rep] [dis=rev-] je [-dis=rev] j'aurais pu m'emparer du personnage à ma manière comme je fais d'habitude, donc [pi] . [r] le fait qu'elle existe, [rire_en_fond-] pour de bon. [r] [-rire_en_fond]
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2556.357 2569.695 <o,f0,female> et puis [dis=rep-] euh [-dis=rep] j'avoue que [dis=rep-] ça ça [-dis=rep] ça, je trouve que c'était intéressant de m'inspirer un peu [dis=rep-] de [-dis=rep] de &lt;pers=Daniele_DELPEUCH&gt;Danièle&lt;/pers&gt; [dis=rep-] qui a [-dis=rep] , [r] qui a tout ce qui est décrit dans le film. [b] et, [r] et voilà quoi. c'est un peu moi. oui ! c'est un peu moi, c'est un peu &lt;pers=Daniele_DELPEUCH&gt;Danièle&lt;/pers&gt;, c'est un peu Hortense Laborie.
+BFMTV_RuthElkrief_2012-09-18_190340 1 excluded_region 2569.695 2571.452 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2571.452 2573.627 <o,f0,female> nous sommes 3, [r] [rire_en_fond-] à nous départager [bc]
+BFMTV_RuthElkrief_2012-09-18_190340 1 inter_segment_gap 2573.627 2574.331 <o,f0,> 
+BFMTV_RuthElkrief_2012-09-18_190340 1 BFMTV_RuthElkrief_2012_09_18_190340_Catherine_FROT 2574.331 2576.000 <o,f0,female> [rire] pour raconter cette histoire. [b]
+BFMTV_RuthElkrief_2012-09-18_190340 1 excluded_region 2576.000 3776.328 <o,,unknown> ignore_time_segment_in_scoring

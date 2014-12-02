@@ -1,0 +1,43 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Gwendo, version 9 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-12-21_064700 1 excluded_region 0.000 277.000 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Christophe_DELAY 277.000 280.539 <o,f0,male> [b-] ce matin nous avons évidemment la fin du monde, un festival de films sur l'apocalypse.
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Pascale_DE_LA_TOUR_DU_PIN 280.539 282.750 <o,f0,female> &lt;pers=Psy&gt;Psy&lt;/pers&gt; le chanteur sud-coréen en costume de &lt;pers=Michel_DE_NOSTREDAME&gt;Nostradamus&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Christophe_DELAY 282.750 290.299 <o,f0,male> &amp;bah ça promet d'être le court-métrage diffusé un peu partout en France, [r] à l'occasion, du jour le plus court de l'année, je crois que c'est ce que l'on appelle le solstice
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Pascale_DE_LA_TOUR_DU_PIN 290.299 290.980 <o,f0,female> exactement !
+BFMTV_CultureEtVous_2012-12-21_064700 1 excluded_region 290.980 291.409 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Pascale_DE_LA_TOUR_DU_PIN 291.409 293.848 <o,f0,female> &lt;pers=Christophe_PERSON&gt;(Chri)stophe Person&lt;/pers&gt; pourra, [r] nous en dire plus tout à l'heure. &lt;pers=Remi_PERROT&gt;Rémi Perrot&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-12-21_064700 1 inter_segment_gap 293.848 296.791 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Remi_PERROT 296.791 304.287 <o,f0,male> fin [-b] du monde et cinéma font généralement bon ménage. alors [b-] le forum des images a eu la bonne idée de surfer sur la vague de l'apocalypse. [r]
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Remi_PERROT 304.287 317.986 <o,f0,male> 4 semaines consacrées à la projection de 80 films qui font froid dans le dos, [r] pandémies, catastrophes nucléaires, tsunami tout y passe. le cycle de films l'apocalypse continuera même après la fin, [r] du monde puisqu'il se termine le 6 janvier prochain.
+BFMTV_CultureEtVous_2012-12-21_064700 1 inter_segment_gap 317.986 320.309 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_speaker_4 320.309 321.921 <o,f0,female> le clip de l'apocalypse.
+BFMTV_CultureEtVous_2012-12-21_064700 1 inter_segment_gap 321.921 324.624 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Remi_PERROT 324.624 334.600 <o,f0,male> ce clip annoncerait-il lui aussi l'apocalypse ? c'est en tout cas ce que &lt;pers=Michel_DE_NOSTREDAME&gt;Nostradamus&lt;/pers&gt; aurait prédit " du matin calme la fin viendra, une fois le nombre de cercles alignés à 9 sera, [r]
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Remi_PERROT 334.600 346.324 <o,f0,male> le cheval qui dansera. " alors matin calme est égal Corée du Sud, le pays d'origine de &lt;pers=Psy&gt;Psy&lt;/pers&gt;. le nombre de cercles alignés à 9 reprend le nombre de visionnages de la vidéo sur Youtube, [r] qui devrait atteindre le milliard en ce 21 décembre. [r]
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Remi_PERROT 346.324 358.610 <o,f0,male> enfin le cheval qui dansera fait lui référence à la fameuse chorégraphie. cette info a été reprise un peu partout à travers le monde, [r] sauf que la prédiction est une totale invention, [r] elle nous vient d'un internaute français qui a plutôt bien réussi son coup.
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Remi_PERROT 358.610 361.766 <o,f0,male> son canular vidéo a été visionné près de 500000 fois.
+BFMTV_CultureEtVous_2012-12-21_064700 1 inter_segment_gap 361.766 363.349 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_speaker_4 363.349 364.733 <o,f0,female> un ciné rapido !
+BFMTV_CultureEtVous_2012-12-21_064700 1 inter_segment_gap 364.733 366.030 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Nathalie_BAYE 366.030 368.800 <o,f0,female> le jour le plus court c'est bien pour aller voir les films les plus courts.
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Remi_PERROT 368.800 380.993 <o,f0,male> &amp;eh oui comble de malchance le dernier jour de notre existence est également le jour le plus court de l'année. [r] du coup le " festival du jour le plus court " vous propose d'en profiter à fond en regardant un maximum de films en un minimum de temps.
+BFMTV_CultureEtVous_2012-12-21_064700 1 BFMTV_CultureEtVous_2012_12_21_064700_Remi_PERROT 380.993 395.000 <o,f0,male> près de 250 mini-films sont ainsi diffusés dans 1500 lieux à travers toute la France. [r] alors si vous voulez penser à autre chose qu'à vos derniers instants sur Terre, vous pouvez toujours vous rendre sur le site du festival, [r] vous trouverez forcément des projections gratuites près de chez vous. [-b]
+BFMTV_CultureEtVous_2012-12-21_064700 1 excluded_region 395.000 1078.704 <o,,unknown> ignore_time_segment_in_scoring

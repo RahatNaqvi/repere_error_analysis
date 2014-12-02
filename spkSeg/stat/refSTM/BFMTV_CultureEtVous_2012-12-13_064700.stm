@@ -1,0 +1,51 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Yann, version 5 of 131014
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-12-13_064700 1 excluded_region 0.000 764.681 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Roselyne_DUBOIS 764.681 766.640 <o,f0,female> et ce matin, on a &lt;pers=Juliette_GRECO&gt;Juliette Gréco&lt;/pers&gt; décorée. [b]
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Damien_GOURLET 766.640 772.363 <o,f0,male> on a aussi des rugbymen sacrément bien gaulés [b] et un groupe mythique reformé. c'est "culture et vous" avec &lt;pers=Jean-Marie_MARCHAUT&gt;Jean-Marie Marchaut&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-12-13_064700 1 inter_segment_gap 772.363 773.227 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-13_064700 1 excluded_region 773.227 774.256 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-13_064700 1 excluded_region 774.256 786.128 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Jean_Marie_MARCHAUT 786.128 791.847 <o,f0,male> un spectacle inspiré de leurs nombreux tubes, [r] 18 ans après leurs débuts, et visiblement elles ont l'air satisfaites.
+BFMTV_CultureEtVous_2012-12-13_064700 1 inter_segment_gap 791.847 792.687 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-13_064700 1 excluded_region 792.687 796.638 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-13_064700 1 excluded_region 796.638 802.275 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-13_064700 1 inter_segment_gap 802.275 804.939 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_speaker_4 804.939 805.528 <o,f0,female> décorée
+BFMTV_CultureEtVous_2012-12-13_064700 1 inter_segment_gap 805.528 807.614 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_speaker_7 807.614 808.719 <o,f0,male> madame ? vers nous !
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Jean_Marie_MARCHAUT 808.719 821.193 <o,f0,male> icône de la chanson française, &lt;pers=Juliette_GRECO&gt;Juliette Gréco&lt;/pers&gt; a été élevée, hier soir, au rang de commandeur dans l'ordre de la légion d'honneur. une récompense de plus pour cette dame qui aime jouer les ingénues face aux honneurs, [r] preuve d'une certaine malice.
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Juliette_GRECO 821.193 825.449 <o,f0,female> je ne me rends pas très bien compte [dis=hes-] euh [-dis=hes] , à dire vrai [dis=hes-] euh [-dis=hes] , de ce qui m'arrive.
+BFMTV_CultureEtVous_2012-12-13_064700 1 inter_segment_gap 825.449 826.123 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Juliette_GRECO 826.123 828.322 <o,f0,female> c'est [dis=rep-] un [-dis=rep] un grand bonheur pour moi. [-b]
+BFMTV_CultureEtVous_2012-12-13_064700 1 inter_segment_gap 828.322 829.383 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_speaker_4 829.383 830.462 <o,f0,female> pour la bonne cause
+BFMTV_CultureEtVous_2012-12-13_064700 1 inter_segment_gap 830.462 831.224 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_speaker_9 831.224 831.933 <o,f0,female> [b-] &amp;oh &amp;bah là [dis=hes-] euh [-dis=hes]
+BFMTV_CultureEtVous_2012-12-13_064700 1 inter_segment_gap 831.933 832.600 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Jean_Marie_MARCHAUT 832.600 837.915 <o,f0,male> difficile de trouver les mots quand on découvre le calendrier des dieux du stade, en dédicace mardi soir. [-b]
+BFMTV_CultureEtVous_2012-12-13_064700 1 inter_segment_gap 837.915 842.509 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_speaker_10 842.509 846.357 <o,f0,female> vraiment, ils sont tellement bien foutus que il y a rien à dire !
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Inconnu_045 846.357 849.976 <o,f0,female> &amp;ah &amp;bah, on a hâte que les mois ils défilent en 2013. [rire]
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Roselyne_BACHELOT 849.976 858.394 <o,f0,female> je le planquais dans mon bureau. je le gardais précieusement et quand j'avais un coup de mou, que, [r] vraiment, j'avais plus le moral [dis=hes-] euh [-dis=hes] je regardais le calendrier. [-musique]
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Jean_Marie_MARCHAUT 858.394 865.982 <o,f0,male> [b-] en plus de redonner le sourire, la vente du calendrier des dieux du stade permettra aussi de financer l'action d'associations caritatives. [-b]
+BFMTV_CultureEtVous_2012-12-13_064700 1 BFMTV_CultureEtVous_2012_12_13_064700_Inconnu_030 865.982 867.081 <o,f0,female> [musique-] ça fait plaisir !
+BFMTV_CultureEtVous_2012-12-13_064700 1 inter_segment_gap 867.081 869.255 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-13_064700 1 excluded_region 869.255 1259.760 <o,,unknown> ignore_time_segment_in_scoring

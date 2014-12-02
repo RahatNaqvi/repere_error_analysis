@@ -1,0 +1,56 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by ELDA, version 14 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-12-17_064700 1 excluded_region 0.000 789.995 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Roselyne_DUBOIS 789.995 798.872 <o,f0,female> avec cette [b] d'abord cette nouvelle consécration [b] pour &lt;pers=Omar_SY&gt;Omar Sy&lt;/pers&gt;, l'acteur qui va découvrir ce soir sa statue, statue [b] de cire au musée Grévin et regardez comment ça se passe en amont comment [r]
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Roselyne_DUBOIS 798.872 805.660 <o,f0,female> on fabrique cette merveille, [b] séance de calibrage, la statue devrait être installée [b] [r] dans la salle des colonnes [bc] et ça c'est bien.
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Damien_GOURLET 805.660 819.326 <o,f0,male> [rire_en_fond] oui parce qu'il sera tout près de &lt;pers=Nicolas_CAGE&gt;Nicolas Cage&lt;/pers&gt;, de &lt;pers=George_CLOONEY&gt;George Clooney&lt;/pers&gt;, [r] de &lt;pers=Charlie_CHAPLIN&gt;Charlie Chaplin&lt;/pers&gt;. ils pourront parler cinéma [r] [b-] &lt;pers=Elisabeth_WINDSOR&gt;Elisabeth 2&lt;/pers&gt; n'est pas loin non plus voilà. [-b] voisinage prestigieux [r] pour &lt;pers=Omar_SY&gt;Omar Sy&lt;/pers&gt; qui donc accède à la consécration, il aura sa statue chez Grévin.
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Roselyne_DUBOIS 819.326 820.819 <o,f0,female> des heures de pose le pauvre quand mê(me).
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Damien_GOURLET 820.819 826.080 <o,f0,male> [b] du boulot [r] &amp;hein ? on entendra pas [dis=rep-] ce [-dis=rep] ce rire fameux [r] rendu célèbre par le film " intouchables " évidemment [b]
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Roselyne_DUBOIS 826.080 837.069 <o,f0,female> [r] aller " culture [b] et vous " à présent, [b] on fait dans la nouveauté, nouveau rôle pour [b] &lt;pers=Michel_HAZANAVICIUS&gt;Michel Hazanavicius&lt;/pers&gt; qui aura [b] peut-être lui aussi sa statue bientôt, [r] une nouvelle étoile sur Hollywood Boulevard et puis 2 petits nouveaux chez les Rolling Stones, c'était
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Roselyne_DUBOIS 837.069 840.271 <o,f0,female> [r] ambiance hier au [b] concert. [b-] &lt;pers=Claire_FLEURY&gt;Claire Fleury&lt;/pers&gt;, &lt;pers=Yoann_PARISET&gt;Yoann Pariset&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 840.271 846.051 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Claire_FLEURY 846.051 855.630 <o,f0,female> clap de fin [r] pour leur dernier concert aux États-Unis, les Stones ont tout fait pour marquer les esprits [r] à grand renfort d'invités prestigieux [r] &lt;pers=Bruce_SPRINGSTEEN&gt;Bruce Springsteen&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 855.630 857.680 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Claire_FLEURY 857.680 860.144 <o,f0,female> et plus surprenant, &lt;pers=Stefani_GERMANOTTA&gt;Lady Gaga&lt;/pers&gt; [r]
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 860.144 861.529 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Claire_FLEURY 861.529 865.105 <o,f0,female> qui avait préparé une chorégraphie disons [r] bien à elle.
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 865.105 871.604 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_speaker_4 871.604 872.876 <o,f0,female> inauguration.
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 872.876 875.370 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 excluded_region 875.370 882.023 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 882.023 883.520 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Claire_FLEURY 883.520 891.533 <o,f0,female> [musique-] et il a beau être très exactement la 2487ème star à avoir son bout de trottoir, [r] il ne s'en remet toujours pas.
+BFMTV_CultureEtVous_2012-12-17_064700 1 excluded_region 891.533 892.137 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-17_064700 1 excluded_region 892.137 895.908 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 895.908 897.252 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_speaker_4 897.252 898.846 <o,f0,female> un sacré festival.
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 898.846 900.114 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Claire_FLEURY 900.114 907.419 <o,f0,female> le cinéma, &lt;pers=Michel_HAZANAVICIUS&gt;Michel Hazanavicius&lt;/pers&gt; adore ça [r] alors pour " retour de flamme ", un festival qui mélange spectacle
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 907.419 908.322 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Claire_FLEURY 908.322 912.658 <o,f0,female> et découverte de films rares, [r] il s'est improvisé choriste.
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 912.658 916.100 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Claire_FLEURY 916.100 918.466 <o,f0,female> [b-] mais aussi, expert en bruitages [-b]
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_speaker_7 918.466 921.364 <o,f0,male> voici la machine à bruit de 1912.
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Claire_FLEURY 921.364 924.318 <o,f0,female> attention, objet on ne peut plus physique.
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 924.318 926.280 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Michel_HAZANAVICIUS 926.280 930.410 <o,f0,male> [-b] [musique-] &amp;ouais mais [dis=rep-] j(e) suis j(e) suis [-dis=rep] je suis une bête, ça va [dis=rep-] je m'en [-dis=rep] je m'en suis sorti
+BFMTV_CultureEtVous_2012-12-17_064700 1 BFMTV_CultureEtVous_2012_12_17_064700_Claire_FLEURY 930.410 935.040 <o,f0,female> et de façon exceptionnelle, [r] tant de talent d'ailleurs, [r] ça s'applaudit.
+BFMTV_CultureEtVous_2012-12-17_064700 1 inter_segment_gap 935.040 938.001 <o,f0,> 
+BFMTV_CultureEtVous_2012-12-17_064700 1 excluded_region 938.001 1257.480 <o,,unknown> ignore_time_segment_in_scoring

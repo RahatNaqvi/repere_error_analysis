@@ -1,0 +1,59 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:26 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Yann, version 9 of 140311
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+BFMTV_CultureEtVous_2012-11-09_064700 1 excluded_region 0.000 184.146 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Christophe_DELAY 184.146 188.750 <o,f0,male> ce matin, nous avons notamment une image, &lt;pers=Pascale_DE_LA_TOUR_DU_PIN&gt;Pascale&lt;/pers&gt; [bc-] hum [-bc] , de l'acteur [r] &lt;pers=Javier_BARDEM&gt;Javier Bardem&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pascale_DE_LA_TOUR_DU_PIN 188.750 189.403 <o,f0,female> &lt;pers=Javier_BARDEM&gt;Javier&lt;/pers&gt;, oui.
+BFMTV_CultureEtVous_2012-11-09_064700 1 excluded_region 189.403 191.387 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pascale_DE_LA_TOUR_DU_PIN 191.387 198.391 <o,f0,female> oui, à la veille de la sortie aux États-Unis du nouveau " james bond, skyfall " , dans lequel il interprète [r] un cyber-terroriste très inquiétant.
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Christophe_DELAY 198.391 200.539 <o,f0,male> nos artistes qui font du cirque pour la bonne cause.
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pascale_DE_LA_TOUR_DU_PIN 200.539 204.961 <o,f0,female> une expo de [dis=hes-] euh [-dis=hes] photos de &lt;pers=Karl_LAGERFELD&gt;Karl Lagerfeld&lt;/pers&gt; dédiée à la fameuse petite veste noire Chanel
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Christophe_DELAY 204.961 209.899 <o,f0,male> et puis le chanteur sud-coréen &lt;pers=Psy&gt;Psy&lt;/pers&gt; [r] qui continue [r] sa tournée royale. &lt;pers=Pauline_REBOUL&gt;Pauline Reboul&lt;/pers&gt;.
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 209.899 211.285 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pauline_REBOUL 211.285 219.980 <o,f0,female> cerceaux, funambules. gagné ! c'est du cirque. sauf que cette année, le funambule c'est &lt;pers=Arthur_JUGNOT&gt;Arthur Jugnot&lt;/pers&gt; [r] et celui qui surveille, c'est son père &lt;pers=Gerard_JUGNOT&gt;Gérard Jugnot&lt;/pers&gt;. [r]
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pauline_REBOUL 219.980 227.198 <o,f0,female> dernière répétition pour le cinquante-et-unième gala de l'union des artistes qui commencera lundi prochain. [r] et le grand marionnettiste, cette année, [-musique] c'est lui.
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Gerard_JUGNOT 227.198 228.186 <o,f0,male> (on) peut travailler un peu là ?
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 228.186 230.099 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Gerard_JUGNOT 230.099 235.448 <o,f0,male> il y a &lt;pers=Kad_MERAD&gt;Kad&lt;/pers&gt; et &lt;pers=Olivier_BAROUX&gt;O&lt;/pers&gt; [dis=rep-] qui vont [-dis=rep] qui vont découper &lt;pers=Wanda_RIBEIRO_DE_VASCONCELOS&gt;Lio&lt;/pers&gt;. il y a &lt;pers=Carole_BOUQUET&gt;Carole Bouquet&lt;/pers&gt; et *Grezzia sur &lt;pers=Dominique_BESNEHARD&gt;Besnehard&lt;/pers&gt;. il y a [pi]
+BFMTV_CultureEtVous_2012-11-09_064700 1 excluded_region 235.448 237.612 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pauline_REBOUL 237.612 238.785 <o,f0,female> mais pour la bonne [musique-] cause.
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 238.785 240.828 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Gerard_JUGNOT 240.828 245.985 <o,f0,male> c'est au profit [dis=rep-] des [-dis=rep] des artistes qui sont un peu [dis=rep-] dans [-dis=rep] dans la mouise. et dieu sait si, en ce moment [dis=hes-] euh [-dis=hes] ,
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 245.985 247.025 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Gerard_JUGNOT 247.025 248.987 <o,f0,male> c'est la mouise pour beaucoup ! [rire]
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 248.987 249.577 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_speaker_5 249.577 250.881 <o,f0,female> la petite veste noire.
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 250.881 253.157 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pauline_REBOUL 253.157 266.072 <o,f0,female> après la petite robe noire, la petite veste noire. incontournable et intemporelle. créée par &lt;pers=Gabrielle_CHANEL&gt;Coco Chanel&lt;/pers&gt; en 1954. [r] &lt;pers=Karl_LAGERFELD&gt;Karl Lagerfeld&lt;/pers&gt; lui consacre une exposition qui regroupe une centaine de photographies de célébrités
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pauline_REBOUL 266.072 276.632 <o,f0,female> [r] comme &lt;pers=Sarah-Jessica_PARKER&gt;Sarah Jessica Parker&lt;/pers&gt;, &lt;pers=Diane_KRUGER&gt;Diane Kruger&lt;/pers&gt;, [r] &lt;pers=Ines_DE_LA_FRESSANGE&gt;Inès de La Fressange&lt;/pers&gt; ou encore &lt;pers=Romain_DURIS&gt;Romain Duris&lt;/pers&gt;. [r] tous arborent la fameuse veste. [r] une expo à admirer au grand palais [r] jusqu'au 25 novembre.
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 276.632 278.251 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_speaker_5 278.251 279.249 <o,f0,female> la folie &lt;pers=Psy&gt;Psy&lt;/pers&gt;
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 279.249 280.202 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pauline_REBOUL 280.202 291.971 <o,f0,female> toge, noeud papillon. a priori pas facile d'entamer un Gangnam style en tenue d'"Harry Potter" [r] et pourtant ça balance du côté des grosses têtes d'Oxford. [r] envolé le cliché des intellos coincés, par ici la choré.
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 291.971 296.638 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pauline_REBOUL 296.638 301.009 <o,f0,female> pour le coréen, au programme : photo, discours, photo,
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 301.009 301.522 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pauline_REBOUL 301.522 302.520 <o,f0,female> &amp;ah ! discours. [-b]
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Jae_Sang_PARK 302.520 302.845 <o,f5,male> [-musique]
+BFMTV_CultureEtVous_2012-11-09_064700 1 excluded_region 302.845 304.149 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-11-09_064700 1 inter_segment_gap 304.149 305.405 <o,f0,> 
+BFMTV_CultureEtVous_2012-11-09_064700 1 excluded_region 305.405 306.185 <o,,unknown> ignore_time_segment_in_scoring
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Jae_Sang_PARK 306.185 306.970 <o,f5,male> [dis=hes-] hum [-dis=hes] [musique-]
+BFMTV_CultureEtVous_2012-11-09_064700 1 BFMTV_CultureEtVous_2012_11_09_064700_Pauline_REBOUL 306.970 310.251 <o,f0,female> à chacun son style , nous c'est encore façon Gangnam qu'on le préfère. [-musique]
+BFMTV_CultureEtVous_2012-11-09_064700 1 excluded_region 310.251 958.464 <o,,unknown> ignore_time_segment_in_scoring

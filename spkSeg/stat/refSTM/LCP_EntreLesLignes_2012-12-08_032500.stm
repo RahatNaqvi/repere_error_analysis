@@ -1,0 +1,90 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:27 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Gwendo, version 11 of 140307
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 0.000 304.655 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 304.655 314.657 <o,f0,male> bienvenue à toutes et à tous, c'est " entre les lignes " l'émission qui décortique les pages politiques de vos news magazine. avec moi pour décortiquer, [r] &amp;eh bien [b-] &lt;pers=Guillaume_ROQUETTE&gt;Guillaume Roquette&lt;/pers&gt; pour Le Figaro magazine, bonjour &lt;pers=Guillaume_ROQUETTE&gt;Guillaume&lt;/pers&gt;.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Guillaume_ROQUETTE 314.657 316.463 <o,f0,male> décortiquons cher &lt;pers=Christophe_RUAULTS&gt;Christophe&lt;/pers&gt; bonjour.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 316.463 319.605 <o,f0,male> à côté [-b] de vous &lt;pers=Romain_GUBERT&gt;Romain Gubert&lt;/pers&gt; pour Le Point. bonjour &lt;pers=Romain_GUBERT&gt;Romain&lt;/pers&gt;.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Romain_GUBERT 319.605 320.832 <o,f0,male> bonjour &lt;pers=Christophe_RUAULTS&gt;Christophe&lt;/pers&gt;. [b]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 320.832 325.130 <o,f0,male> de l'autre côté [b-] de la table [-b] nous avons un certain &lt;pers=Claude_WEILL&gt;Claude Weill&lt;/pers&gt; pour Le Nouvel Observateur. bonjour &lt;pers=Claude_WEILL&gt;Claude&lt;/pers&gt;.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Claude_WEILL 325.130 325.759 <o,f0,male> bonjour &lt;pers=Christophe_RUAULTS&gt;Christophe&lt;/pers&gt;.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 325.759 331.648 <o,f0,male> et puis [rire-] enfin, houla [-rire] [rire_en_fond-] parlez un peu plus fort [pi] . [dis=rep-] c'est [-dis=rep] c'est peut-être mon audition qui baisse mais j'ai du mal à vous entendre.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Claude_WEILL 331.648 333.623 <o,f0,male> j'ai [-rire_en_fond] dit bonjour &lt;pers=Christophe_RUAULTS&gt;Christophe&lt;/pers&gt;! [bc]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 333.623 335.003 <o,f0,male> [rire_en_fond-] très bien, très bien. [r] [-rire_en_fond]
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 335.003 335.804 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 335.804 341.243 <o,f0,male> [rire-] levez-vous s'il vous plaît ! [-rire] [r] et puis enfin &lt;pers=Laurent_NEUMANN&gt;Laurent Neumann&lt;/pers&gt; pour Marianne, bonjour.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 341.243 342.244 <o,f0,male> bonjour [rire_en_fond-] &lt;pers=Christophe_RUAULTS&gt;Christophe&lt;/pers&gt; ! [-rire_en_fond]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 342.244 351.582 <o,f0,male> [rire-] bonjour &lt;pers=Laurent_NEUMANN&gt;Laurent&lt;/pers&gt;. [-rire] [r] nous allons regarder les couvertures de vos journaux. voici d'abord celle de [dis=hes-] euh [-dis=hes] Marianne avec " les mensonges ça suffit ! " alors il y a [dis=rep-] beaucoup [-dis=rep] beaucoup [dis=rep-] de [-dis=rep] de sujets. [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 351.582 360.625 <o,f0,male> Arcelormittal, tricherie à l'UMP, [b] impôts, chômage, mariage gay, prix de l'essence, délinquance etc. etc. . [r] on va parler d'Arcelormittal en particulier, [r] dans un instant. [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 360.625 367.086 <o,f0,male> Le Nouvel Observateur avec " l'inquiétant, monsieur &lt;pers=Jean-Francois_COPE&gt;Copé&lt;/pers&gt; ". [r] nous allons y revenir [b] également. Le Point,
+LCP_EntreLesLignes_2012-12-08_032500 1 inter_segment_gap 367.086 367.645 <o,f0,> 
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 367.645 374.019 <o,f0,male> [b] alors Le Point, [r] fait l'inventaire de ceux qui en ont marre, entrepreneurs, médecins, cadres, artisans, professions libérales, [r] enseignants, commerçants, [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 374.019 384.043 <o,f0,male> alors [dis=rep-] je je [-dis=rep] je relève, je fais un aparté que Marianne malicieusement, [r] cette semaine relève que [dis=hes-] euh [-dis=hes] donc d'après cette couverture ça signifie que pour les ouvriers, les chômeurs, les smicards [b] [r] et les pauvres tout va bien.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 384.043 386.974 <o,f0,male> &amp;ah [dis=rep-] oui [-dis=rep] oui ! [bc] ils n'en ont pas marre visiblement. [bc] enfin [rire-] ils sont pas dans le dossier du point. [-rire]
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 386.974 391.994 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 391.994 394.438 <o,f0,male> [b-] (ar)tisans, les commerçants [-b] tout ça et d'ailleurs avec des choses,
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 394.438 396.356 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Romain_GUBERT 396.356 397.707 <o,f0,male> [b-] étudiants [-b] qui s'en vont parce que,
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 397.707 401.205 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 401.205 402.308 <o,f0,male> (Flor)ange par exemple sont pas dedans.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Romain_GUBERT 402.308 403.932 <o,f0,male> [b-] mais [-b] attendez vous plaisantez ? [b]
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 403.932 405.821 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Romain_GUBERT 405.821 414.301 <o,f0,male> complet [dis=rep-] de [-dis=rep] [b] de 16 pages, [r] qui justement fait le point [dis=rep-] sur [-dis=rep] sur [dis=hes-] euh [-dis=hes] le climat parce que finalement le climat social on voit bien que c'est en ébullition.
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 414.301 415.558 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 415.558 417.471 <o,f0,male> sur quelque chose [bc] qui est juste s'il y a juste quelques oublis.
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 417.471 418.073 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 418.073 420.615 <o,f0,male> messieurs il y a un garçon qui attend qu'on présente la couverture de son,
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 420.615 421.838 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 421.838 424.219 <o,f0,male> &lt;pers=Guillaume_ROQUETTE&gt;Guillaume Roquette&lt;/pers&gt;, [r] avec tout de même le nouveau [bc]
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 424.219 426.596 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 426.596 428.973 <o,f0,male> mais ça marche encore les Francs-Maçons &lt;pers=Guillaume_ROQUETTE&gt;Guillaume&lt;/pers&gt;? [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Guillaume_ROQUETTE 428.973 441.067 <o,f0,male> &amp;bah ce qui marche surtout c'est eux, les Francs-Maçons parce que, [r] depuis l'élection de &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;, [r] ils ont une influence [dis=rev-] à la même [-dis=rev] au sein même du gouvernement et au parlement, [r] qui n'avait plus du tout sur &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; et en ça c'est un sujet nouveau.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 441.067 447.154 <o,f0,male> [b] bien, très bien vous l'avez bien vendu. [rire_en_fond-] [dis=rep-] merci [-dis=rep] merci &lt;pers=Guillaume_ROQUETTE&gt;Guillaume&lt;/pers&gt;, [-rire_en_fond] on comprend pourquoi [b] vous êtes le directeur de la rédaction. [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Guillaume_ROQUETTE 447.154 447.583 <o,f0,male> c'est vrai !
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 447.583 450.783 <o,f0,male> [rire_en_fond-] [dis=rep-] parlons parlons à présent [-dis=rep] parlons à présent, [-rire_en_fond]
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 450.783 451.257 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Guillaume_ROQUETTE 451.257 451.764 <o,f0,male> encore
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 451.764 466.308 <o,f0,male> [rire_en_fond-] si vous le voulez bien parlons d'Arcelor [dis=hes-] euh [-dis=hes] Mittal [-rire_en_fond] pour commencer. 3 hommes, [r] en photo dans Marianne, [r] &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt;, &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; et &lt;pers=Arnaud_MONTEBOURG&gt;Arnaud Montebourg&lt;/pers&gt; alors, [r] sur ces 3 là pour vous &lt;pers=Laurent_NEUMANN&gt;Laurent&lt;/pers&gt;, [r] deux ont carrément failli.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 466.308 478.205 <o,f0,male> [dis=hes-] euh [-dis=hes] oui [dis=hes-] euh [-dis=hes] d'abord [dis=hes-] euh [-dis=hes] &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; a menti, [r] [dis=hes-] euh [-dis=hes] en présentant le plan pour Florange [b] comme une victoire alors qu'il faut appeler les choses [b] par leur nom c'est une reculade [b] en rase campagne. [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 478.205 488.425 <o,f0,male> on a menti [dis=hes-] euh [-dis=hes] en faisant croire qu'on [b] pourrait [dis=hes-] euh [-dis=hes] sauver ce site [dis=hes-] euh [-dis=hes] pourquoi pas en nationalisant, [r] de façon provisoire rappelons-le, [r] [b-] pour finalement arriver à ça [-b] . [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 488.425 496.347 <o,f0,male> [dis=hes-] euh [-dis=hes] mais il n'est pas le seul &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; à avoir menti, [r] &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; est allé je m'en souviens et il faut [dis=rep-] le [-dis=rep] [b-] le rappeler, [r] sur un camion à Flo(range) [-b]
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 496.347 498.219 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 498.219 498.830 <o,f0,male> (pré)sidentielle
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 498.830 499.432 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 499.432 511.114 <o,f0,male> le 24 février 2012, [r] pour dire, [r] je viens ici pour faire une promesse je ne vous trahirai pas. [b] ça sonne un peu comme un écho, [r] de ce qu'avait dit l'ancien président de la *République sur un autre site. dernière chose, [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 511.114 523.779 <o,f0,male> il manque quelqu'un sur la photo parce qu'il y en a [dis=rev-] un troisième [-dis=rev] un quatrième pardon [dis=hes-] euh [-dis=hes] personnage important, [r] et donc un troisième menteur [b] en l'occurrence, [r] c'est &lt;pers=Lakshmi_MITTAL&gt;Mittal&lt;/pers&gt;. [b] [r] qui depuis la reprise d'Arcelor n'a céssé de faire des promesses qu'il n'a pas tenues. [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 523.779 529.354 <o,f0,male> et on comprend que ces gens qu'on a vus à [dis=rep-] la [-dis=rep] [b-] la télévision. [-b] [r] [dis=rep-] qu'on soit [-dis=rep] [dis=rev-] qu'on soit [-dis=rev] quel que soit l'avis [bc] qu'on a sur Florange franchement, [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 529.354 542.612 <o,f0,male> tous ceux qui ont vu les images de ces salariés, [r] apprenant la nouvelle de la bouche de &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt; n'ont pas pu, [r] ne pas être [b] [dis=hes-] euh [-dis=hes] , [r] comment dire [dis=hes-] euh [-dis=hes] en empathie avec eux, voilà c'est comme ça. [r] et donc effectivement dans ce dossier-là et c'est pas le seul on ment et on ment de(puis)
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 542.612 543.334 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 543.334 548.777 <o,f0,male> [dis=hes-] euh [-dis=hes] je précise [dis=rep-] y a [-dis=rep] il y a un papier [dis=rep-] on [-dis=rep] on le verra peut-être passer, [r] [dis=rep-] un un [-dis=rep] un portrait de &lt;pers=Lakshmi_MITTAL&gt;Lakshmi Mittal&lt;/pers&gt; &amp;hein dans Le Nouvel Observateur.
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 548.777 550.933 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 550.933 551.370 <o,f0,male> la parole ju(ste)
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 551.370 552.857 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 552.857 566.508 <o,f0,male> souviens [b] que pendant la campagne aussi &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; avait dit " mon ennemi c'est la finance " . [r] je vous rappelle que Mittal est cornaqué par Goldman Sachs. [r] je vous rappelle que cette entreprise fait 20 [bc] à 22, attendez une seconde, [r] cette entreprise Mittal à 22 milliards de dettes, [b] [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 566.508 577.747 <o,f0,male> mais distribue 2,8 milliards d'euros à ses actionnaires. [b] [r] je vous rappelle qu'ils ont pris [b-] ce site là [-b] en particulier, [r] pour transférer tous les savoir-faire technologiques à l'étranger, [b] [r] dans des pays à bas coûts pour pouvoir se déba(rasser)
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 577.747 579.673 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 579.673 581.435 <o,f0,male> [dis=rep-] beaucoup [bc] beaucoup [-dis=rep] beaucoup de mensonges.
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Christophe_RUAULTS 581.435 581.995 <o,f0,male> &lt;pers=Laurent_NEUMANN&gt;Laurent&lt;/pers&gt;
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 581.995 582.618 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Romain_GUBERT 582.618 588.260 <o,f0,male> plein [b] de choses que vous dîtes qui sont tout à fait exactes [bc] et notamment [dis=hes-] euh [-dis=hes] [pi] mais c'est pas comme ça c'est pas [pi]
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 588.260 588.949 <o,,unknown> ignore_time_segment_in_scoring
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Laurent_NEUMANN 588.949 589.627 <o,f0,male> pouvait rien faire !
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Romain_GUBERT 589.627 601.825 <o,f0,male> non c'est pas ça du tout. justement, c'est ce que vous avez dit. vous avez &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; qui dit " mon ennemi c'est la finance ", [r] et derrière qu'est-ce que ça montre cette histoire ? ça montre exactement la même chose que &lt;pers=Nicolas_SARKOZY&gt;Nicolas Sarkozy&lt;/pers&gt; en 2008 à Gandrange. [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 LCP_EntreLesLignes_2012_12_08_032500_Romain_GUBERT 601.825 611.847 <o,f0,male> parce que ce que ça montre [b] ; c'est que l'état, aujourd'hui, est effectivement trop pauvre, [r] trop faible, pour pouvoir affronter les puissances de l'argent. [r]
+LCP_EntreLesLignes_2012-12-08_032500 1 excluded_region 611.847 2430.624 <o,,unknown> ignore_time_segment_in_scoring

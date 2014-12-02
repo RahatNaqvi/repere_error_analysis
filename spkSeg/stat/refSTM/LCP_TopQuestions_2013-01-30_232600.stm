@@ -1,0 +1,124 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:27:29 2014/12/01 with encoding ISO-8859-1
+;; program program of air_date
+;; transcribed by Gwendo, version 13 of 140307
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 0.000 504.734 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Thibaud_LE_FLOCH 504.734 512.925 <o,f0,male> [b-] bonsoir et bienvenue dans " top questions ", le meilleur des questions au gouvernement. et en ce mardi 29 janvier, [r] impossible de passer à côté du mariage pour tous.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Thibaud_LE_FLOCH 512.925 527.685 <o,f0,male> vous aurez notamment l'occasion d'entendre le Premier ministre &lt;pers=Jean-Marc_AYRAULT&gt;Jean-Marc Ayrault&lt;/pers&gt;, [r] et la ministre de la famille, &lt;pers=Dominique_BERTINOTTI&gt;Dominique Bertinotti&lt;/pers&gt; défendre ce texte. [r] et cet après-midi dans l'hémicycle, il était également question du Mali au lendemain de la sécurisation de Tombouctou, par les forces françaises et malienne.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Thibaud_LE_FLOCH 527.685 536.405 <o,f0,male> [r] l'occasion d'un échange entre la députée &lt;pers=Patricia_ADAM&gt;Patricia Adam&lt;/pers&gt;, [r] et le ministre de la défense &lt;pers=Jean-Yves_LE_DRIAN&gt;Jean-Yves Le Drian&lt;/pers&gt;. [r] le meilleur des questions au gouvernement, c'est maintenant.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 536.405 538.939 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Erwann_BINET 538.939 541.424 <o,f0,male> à l'approche de ce moment historique qui va,
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 541.424 542.663 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Erwann_BINET 542.663 553.901 <o,f0,male> permettre à tous les couples de bénéficier des mêmes droits. [r] et donc de la même protection par la loi, quelle que soit leur orientation sexuelle il est important de rappeler, [r] les dizaines d'années de combats.
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 553.901 555.115 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Erwann_BINET 555.115 569.358 <o,f0,male> marche pour l'égalité de tous les couples [r] et de toutes les familles. [r] il y a eu d'abord un premier pas avec les débats, sur le statut des homosexuels qui a aboutit en 1982 ; [r] par la dépénalisation totale de l'homosexualité, engagement du candidat &lt;pers=Francois_MITTERRAND&gt;François Mitterrand&lt;/pers&gt;.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 569.358 569.944 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Erwann_BINET 569.944 579.855 <o,f0,male> puis en 1998, les débats précédents le vote du pacs et son adoption. [r] qui ont montré déjà une opposition frontale de la droite à la reconnaissance des couples homosexuels.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 579.855 580.471 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Erwann_BINET 580.471 589.008 <o,f0,male> en 2012, pour la première fois, &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; alors candidat à l'élection présidentielle promet l'ouverture du mariage et de l'adoption pour tous.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 589.008 589.658 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Erwann_BINET 589.658 600.490 <o,f0,male> aujourd'hui, la volonté politique du gouvernement et de la majorité parlementaire est d'apporter sécurité, juridique, et protection à toutes les familles, [r] à toutes les formes de famille.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 600.490 601.163 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Erwann_BINET 601.163 614.899 <o,f0,male> ces longs mois de débats, qui ont sensibilisé chaque français ont révélé, des questionnements, voire des hostilités. [r] ces débats ont aussi fait ressurgir une violence, que l'on croyait marginalisée.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Erwann_BINET 614.899 623.742 <o,f0,male> monsieur le Premier ministre, pouvez-vous nous éclairer sur les conséquences du projet de loi ouvrant le mariage aux couples de personnes de même sexe, pour les familles homoparentales.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Erwann_BINET 623.742 635.902 <o,f0,male> pouvez-vous également, [r] nous indiquer les mesures que le gouvernement envisage, [r] pour lutter contre l'intolérance, [r] et les discriminations dont font encore l'objet nos concitoyens en fonction de leur orientation sexuelle.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 635.902 636.461 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 636.461 638.226 <o,f0,male> vous avez je
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 638.226 639.372 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 639.372 641.149 <o,f0,male> très bien exposé,
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 641.149 642.078 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 642.078 643.450 <o,f0,male> en des termes simples,
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 643.450 644.408 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 644.408 648.373 <o,f0,male> ce à quoi l'Assemblée Nationale est invitée, cet après-midi c'est-à-dire :
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 648.373 649.017 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 649.017 654.933 <o,f0,male> à une nouvelle avancée, [r] pour plus d'égalité et de droit pour tous les français.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 654.933 658.814 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 658.814 660.682 <o,f0,male> le mariage pour tous.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 660.682 661.454 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 661.454 673.620 <o,f0,male> oui en effet, c'est un engagement du président de la République, c'est même l'engagement [r] 31, [r] de ses propositions. [r] et qui a donné lieu à un large débat dans la société, [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 673.620 687.431 <o,f0,male> avec des opinions, effectivement controversées, [r] mais nous sommes dans une république, où les questions, de cette nature provoquent effectivement légitimement une discussion, un débat. [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 687.431 698.549 <o,f0,male> mais nous sommes dans une république, [r] où le suffrage universel, [r] donne mandat, [r] aux députés, [r] pour trancher, [r] pour décider. [r] et c'est ce que vous avez faire cet après-midi.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 698.549 706.126 <o,f0,male> [r] et je sais que vous allez le faire, [r] mesdames et messieurs les députés, avec la dignité et la sérénité [r] qui convient.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 706.126 706.722 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 706.722 707.539 <o,f0,male> vous savez
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 707.539 708.325 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 708.325 709.963 <o,f0,male> quand on regarde notre histoire
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 709.963 710.675 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 710.675 724.741 <o,f0,male> à chaque fois que nous avons fait progresser l'égalité dans notre pays, [r] il y a pu y avoir des résistances, [r] il y a pu y avoir des craintes, des inquiétudes, [r] et pourquoi pas ils ont le droit de s'exprimer. [r] mais une fois que ces lois ont été votées,
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 724.741 736.654 <o,f0,male> [r] et bien elles ont été considérées, [r] bien au-delà de ceux qui les avaient votées, [r] comme une vraie avancée, [r] partagée par tous et toutes, [r] et considérées comme un acquis, de la société française.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 736.654 737.357 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 737.357 752.158 <o,f0,male> et bien il en va de même avec le projet de loi, [r] sur le mariage pour tous. [r] c'est la prise en compte en définitive, [r] de l'évolution de la famille, [r] des couples et des familles homoparentales. [r] ce sont des milliers de personnes, [r] des milliers de familles, [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 752.158 766.409 <o,f0,male> des milliers de parents et d'enfants. [r] et bien, par ce projet de loi, [r] que le gouvernement a adopté, [r] qui vous est soumis. [r] vous allez pouvoir, renforcer, [r] les droits des parents, [r] et les droits des enfants.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 766.409 774.204 <o,f0,male> [r] et ce n'est pas l'institution du mariage, [r] que l'on va affaiblir, [r] on va simplement l'élargir et la renforcer.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 774.204 777.007 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 777.007 780.368 <o,f0,male> enfin ; mesdames et messieurs les députés,
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 780.368 781.030 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 781.030 789.111 <o,f0,male> je le dis à [dis=rev-] nos [-dis=rev] vos collègues [dis=hes-] euh [-dis=hes] [dis=rev-] de l'oppo(sition) [-dis=rev] de *l'opposition. ils ont parfaitement le droit d'être en désaccord.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 789.111 789.878 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 789.878 791.609 <o,f0,male> mais, il y a 15 ans,
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 791.609 792.251 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 792.251 802.101 <o,f0,male> nous avons eu un débat, ici même, sur le pacs, et je sais que ça n'avait pas été facile. [r] qu'il y avait eu des interrogations parfois similaires.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 802.101 814.013 <o,f0,male> [r] et bien, [r] combien d'entre vous, [r] mesdames et messieurs les députés de l'opposition, [r] m'ont dit quelques années après en me disant : " bon nous étions contre, [r] mais aujourd'hui [r] c'est admis,
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 814.013 826.690 <o,f0,male> c'est une avancée [r] et nous reconnaissons que vous avez eu raison. " [r] et bien je prends le pari, [r] que demain, [r] mesdames et messieurs les députés de l'opposition, [r] beaucoup d'entre vous, [r] viendront me dire : " oui c'est une avancée,
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 826.690 838.413 <o,f0,male> vous avez bien fait de le faire, [r] et je fais toute confiance à la majorité, [r] et même au-delà de ses rangs. " je suis sûr, qu'à la fin du débat, une large majorité de parlementaires,
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Jean_Marc_AYRAULT 838.413 850.484 <o,f0,male> adoptera cette réforme pour plus d'égalité, [r] entre les hommes et les femmes mais aussi entre ceux, [r] qui sont du même sexe, [r] et la société française et la République française en sera encore fière.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 850.484 855.417 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Claude_BARTOLONE 855.417 857.685 <o,f0,male> la parole est à monsieur &lt;pers=Christian_JACOB&gt;Christian Jacob&lt;/pers&gt;.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Christian_JACOB 857.685 872.494 <o,f0,male> monsieur le Premier ministre, [r] inexorablement le chômage augmente dans notre pays, [r] les usines ferment nous avons appris encore la semaine dernière, [r] qu'il y avait un risque, [r] de fermeture d'une usine Goodyear à Amiens [r] avec 1200 emplois
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 872.494 873.125 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Christian_JACOB 873.125 879.618 <o,f0,male> monsieur le Premier ministre. [r] et vous avez choisi de gouverner par diversion. [r] mais les Français ne sont pas dupes,
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Christian_JACOB 879.618 888.640 <o,f0,male> [r] ils ne comprennent pas votre obstination, [r] à maintenir l'examen du texte, [r] sur le mariage et l'adoption, [r] par les couples homosexuels dans ce contexte.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 888.640 890.955 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Christian_JACOB 890.955 899.669 <o,f0,male> renvoyer, qui plus est la discussion sur la procréation médicalement assistée, [r] à un texte ultérieur dans 1 mois, [r] est une imposture. [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Christian_JACOB 899.669 906.513 <o,f0,male> c'est une véritable imposture monsieur le Premier ministre, [r] parce que vous n'avez pas le courage, [r] d'assumer vos choix.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 906.513 907.095 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Christian_JACOB 907.095 921.356 <o,f0,male> depuis 3 mois, [r] le groupe UMP, [r] sollicite l'avis du comité national d'éthique. [r] le président de la République vient enfin d'accéder à sa demande, [r] mais il le fait 3 jours [r] avant l'examen du texte dans notre assemblée. [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Christian_JACOB 921.356 930.983 <o,f0,male> c'est un véritable mépris pour notre assemblée, [r] c'est un affront et je vous prends à témoin, [r] monsieur le président de l'Assemblée Nationale, [r] nous allons débattre sur ce texte [r] sans avoir
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 930.983 932.756 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Christian_JACOB 932.756 933.912 <o,f0,male> (comi)té national d'éthique.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Claude_BARTOLONE 933.912 934.580 <o,f0,male> on se calme !
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 934.580 936.615 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Christian_JACOB 936.615 944.498 <o,f0,male> ma question est donc simple monsieur le Premier ministre. vous avez peur du peuple parce que vous n'osez pas le consulter par référendum.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 944.498 945.239 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Christian_JACOB 945.239 960.137 <o,f0,male> vous n'avez pas non plus, le courage d'assumer vos choix notamment sur la procréation médicalement assistée. [r] je vous demande donc, de reporter l'examen de ce texte [r] tant que nous n'aurons pas reçu l'avis du comité national d'éthique.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 960.137 974.425 <o,f0,female> avant de parler [dis=hes-] euh [-dis=hes] de peur du peuple je commencerai par [dis=hes-] euh [-dis=hes] [r] vous rappeler que le peuple a besoin d'être respecté dans les urnes et que les urnes ont parlé. [r] et qu'elles ont confié par deux fois, [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 974.425 986.385 <o,f0,female> le soin [dis=hes-] euh [-dis=hes] d'une part au moment des présidentielles, [r] de donner la *possibilité à &lt;pers=Francois_HOLLANDE&gt;François Hollande&lt;/pers&gt; de tenir les 60 engagements qu'il a présentés devant l'ensemble des Français. [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 986.385 1000.966 <o,f0,female> et que d'autre part [dis=rev-] *cela [-dis=rev] ce choix a été confirmé au moment des élections législatives. [r] et qu'il est bien, [r] que un président de la République tienne ses engagements. [r] la deuxième remarque que je voudrais faire,
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 1000.966 1001.955 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 1001.955 1010.949 <o,f0,female> c'est que, cette loi, que nous allons présenter dans quelques instants qui j'espère se fera dans toute sérénité, en tout cas vous pourrez compter, [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 1010.949 1024.599 <o,f0,female> sur le gouvernement et l'ensemble des députés de la majorité pour assurer ce débat dans la plus grande [dis=rep-] de [-dis=rep] de sérénité. [r] [dis=rev-] ce [-dis=rev] [dis=hes-] euh [-dis=hes] cette loi porte sur le mariage et l'adoption qui sera ouverte aux couples de même sexe. [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 1024.599 1035.180 <o,f0,female> et je ne vois pas, [r] l'intérêt [dis=rev-] de [-dis=rev] [dis=hes-] euh [-dis=hes] d'introduire de la confusion dans le débat. [r] en jouant sur [dis=rep-] des [-dis=rep] des thèmes qui ne sont pas abordés. [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 1035.180 1048.616 <o,f0,female> en jouant sur les peurs, [r] en jouant sur [dis=hes-] euh [-dis=hes] un côté anxiogène, [r] que vous essayez de developper pour inquiéter nos concitoyens. [r] et puisque vous êtes tant [dis=hes-] euh [-dis=hes] [r]
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 1048.616 1060.418 <o,f0,female> préoccupés par la situation de la crise effectivement, [r] ne jouons pas sur les peurs et sur le renforcement d'un climat anxiogène, [r] sur lequel vous essayez de prospérer.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 1060.418 1073.986 <o,f0,female> [r] enfin je voudrais dire que les réformes de société, [r] ne sont pas incompatibles avec [dis=hes-] euh [-dis=hes] les réformes sociales, [r] sinon en pleine reconstruction d'après-guerre comment expliquer que le général &lt;pers=Charles_DE_GAULLE&gt;de Gaulle&lt;/pers&gt; ait pris l'initiative,
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 1073.986 1076.900 <o,f0,female> [r] d'accorder le droit de vote aux femmes. [r] comm(ent)
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 1076.900 1077.407 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 1077.407 1079.862 <o,f0,female> (ex)pliquer qu'en 1974,
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Claude_BARTOLONE 1079.862 1080.146 <o,f0,male> merci
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 1080.146 1080.477 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Dominique_BERTINOTTI 1080.477 1081.571 <o,f0,female> en plein choc pétrolier,
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 1081.571 1082.111 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 1082.111 1084.161 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Claude_BARTOLONE 1084.161 1087.466 <o,f0,male> la parole est à madame [dis=hes-] euh [-dis=hes] &lt;pers=Patricia_ADAM&gt;Patricia Adam&lt;/pers&gt;.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Patricia_ADAM 1087.466 1090.519 <o,f0,female> les dernières informations qui nous proviennent du Mali,
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Claude_BARTOLONE 1090.519 1090.852 <o,f0,male> s'il vous
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 1090.852 1091.483 <o,,unknown> ignore_time_segment_in_scoring
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Patricia_ADAM 1091.483 1103.769 <o,f0,female> opération Serval, [r] est sur le point de remplir l'objectif qui lui avait été fixé. libérer les villes du nord sur le fleuve Niger. [r] cela ne signifie pas bien sûr, [r] que l'opération [dis=rep-] est [-dis=rep] est terminée.
+LCP_TopQuestions_2013-01-30_232600 1 LCP_TopQuestions_2013_01_30_232600_Patricia_ADAM 1103.769 1115.694 <o,f0,female> [r] je souhaite donc que vous me puissiez répondre à un certain nombre [dis=rep-] de [-dis=rep] de questions et je vais aussi en profiter pour, [r] féliciter, [r] véritablement nos armées qui ont accompli avec brio leur mission sur le terrain.
+LCP_TopQuestions_2013-01-30_232600 1 inter_segment_gap 1115.694 1117.000 <o,f0,> 
+LCP_TopQuestions_2013-01-30_232600 1 excluded_region 1117.000 1199.808 <o,,unknown> ignore_time_segment_in_scoring
