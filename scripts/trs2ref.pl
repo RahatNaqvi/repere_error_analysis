@@ -29,12 +29,13 @@ my @turn = ();
 my @bg = ();
 
 my $eps = 0.001;
-
+my $gap=$eps;
 #
 # Process command line
 #
 Getopt::Long::config("no_ignore_case");
 GetOptions(
+		 "gap|g=f" => \$gap,
 		 "list|i=s" => \$scpfn,
 		 "exclude|x=s" => \$uemfn,
 		 "output|o=s" => \$ofn,
@@ -72,37 +73,22 @@ foreach my $ifn (@trsfn) {
 	my $iseg = 0;
 	my $prev=$turn[0]->{start_time};
 	foreach (@turn) {
-		#next if not defined $_->{speakers};
 		my $label = join "+", sort {$a cmp $b} split /\s+/, $_->{speakers};
-		#printf STDERR "$label $_->{speakers}\n";
+		if($label eq "") {
+			$label="empty";
+		}
 		
-#		if ($iseg > 0 and $seg[$iseg-1]->{label} eq $label and abs($seg[$iseg-1]->{end_time} - $_->{start_time}) < $eps) {
-#			$seg[$iseg-1]->{end_time} = $_->{end_time};
-#		}
-#		else {
-			if($label eq "") {
-				$label="empty";
-			}
-			
-			if(($_->{start_time} - $prev) > 0){
-				$seg[$iseg]->{label} = "hole";
-				$seg[$iseg]->{start_time} = $prev;
-				$seg[$iseg++]->{end_time} = $_->{start_time};
-				
-				printf STDERR "%f %f %s\n", $seg[$iseg-1]->{start_time}, $seg[$iseg-1]->{end_time}, $seg[$iseg-1]->{label};
-			}
-			
-			$seg[$iseg]->{label} = $label;
-			$seg[$iseg]->{start_time} = $_->{start_time};
-			$seg[$iseg++]->{end_time} = $_->{end_time};
-			$prev=$_->{end_time};
-			
-			
-#		}
+		if(($_->{start_time} - $prev) > 0){
+			$seg[$iseg]->{label} = "hole";
+			$seg[$iseg]->{start_time} = $prev;
+			$seg[$iseg++]->{end_time} = $_->{start_time};
+		}
+		
+		$seg[$iseg]->{label} = $label;
+		$seg[$iseg]->{start_time} = $_->{start_time};
+		$seg[$iseg++]->{end_time} = $_->{end_time};
+		$prev=$_->{end_time};
 	}
-
-
-
 
 	# we have a segmentation. If target exclude regions were
 	# specified, it's time to do the job....
@@ -128,15 +114,12 @@ foreach my $ifn (@trsfn) {
 				$type = "speaker";
 				$name = $speakers{$_}{name};
 			}
-			#printf F "%s %.3f %.3f %s %s\n", $source, $st, $e, $type, $name;
-			
 			$segInfo[$segInfoNb]->{start}=$st;
 			$segInfo[$segInfoNb]->{end}=$e;
 			$segInfo[$segInfoNb]->{source}=$source;
 			$segInfo[$segInfoNb]->{type}=$type;
 			$segInfo[$segInfoNb++]->{name}=$name;
 		}
-		
 	}
 	
 	for(my $i=0; $i < scalar(@segInfo); $i++) {
@@ -154,12 +137,14 @@ foreach my $ifn (@trsfn) {
 	foreach $w (@segInfo) {
 		if($w->{type} ne "noise") {
 			push @seg, $w;
-		} 
+		} else {
+			printf STDERR "%s %.3f %.3f %s %s\n", $w->{source}, $w->{start}, $w->{end}, $w->{type}, $w->{name};
+		}
 	}
 	
 	for(my $i=0; $i < scalar(@seg)-1; $i++) {
 		my $d = $seg[$i+1]->{start} - $seg[$i]->{end};
-		if (($d < 1) && ($seg[$i]->{name} eq $seg[$i+1]->{name})){
+		if (($d < $gap) && ($seg[$i]->{name} eq $seg[$i+1]->{name})){
 			$seg[$i+1]->{name} = "delete";
 			$seg[$i]->{end} = $seg[$i+1]->{end};
 		}
@@ -185,7 +170,6 @@ sub findName() {
 	my $res="";
 	
 	for(my $i = 0; $i < scalar(@lst); $i++) {
-#		printf STDERR "$lst[$i] eq $name\n";
 		if($lst[$i] eq $name) {
 			$lst[$i]="";
 		} else {
@@ -215,44 +199,34 @@ sub discard(**) {
 	my $n2 = $#$seg2;
 
 	for my $i1 (0 .. $#$seg1) {
-
 		$i2++ while $i2 < $n2 and $$seg2[$i2]->{end_time} < $$seg1[$i1]->{start_time};
 
 		if ($$seg2[$i2]->{end_time} < $$seg1[$i1]->{start_time} or $$seg2[$i2]->{start_time} > $$seg1[$i1]->{end_time}) {
 			$oseg[$n]->{label} = $$seg1[$i1]->{label};
 			$oseg[$n]->{start_time} = $$seg1[$i1]->{start_time};
 			$oseg[$n++]->{end_time} = $$seg1[$i1]->{end_time};
-		}
-		else {
+		} else {
 			my ($a, $b, $overlap) = undef;
-
 			$a = $$seg1[$i1]->{start_time};
-
 			while ($a != $$seg1[$i1]->{end_time}) {
-
-	if ($i2 <= $n2 and $$seg2[$i2]->{start_time} <= $a) {
-		if ($$seg2[$i2]->{end_time} < $$seg1[$i1]->{end_time}) {
-			$b = $$seg2[$i2]->{end_time};
-			$i2++;
-		}
-		else {
-			$b = $$seg1[$i1]->{end_time};
-		}
-	}
-	else {
-		if ($i2 <= $n2 and $$seg2[$i2]->{start_time} < $$seg1[$i1]->{end_time}) {
-			$b = $$seg2[$i2]->{start_time};
-		}
-		else {
-			$b = $$seg1[$i1]->{end_time};
-		}
-
-		$oseg[$n]->{label} = $$seg1[$i1]->{label};
-		$oseg[$n]->{start_time} = $a;
-		$oseg[$n++]->{end_time} = $b;
-	}
-	
-	$a = $b;
+				if ($i2 <= $n2 and $$seg2[$i2]->{start_time} <= $a) {
+					if ($$seg2[$i2]->{end_time} < $$seg1[$i1]->{end_time}) {
+						$b = $$seg2[$i2]->{end_time};
+						$i2++;
+					} else {
+						$b = $$seg1[$i1]->{end_time};
+					}
+				} else {
+					if ($i2 <= $n2 and $$seg2[$i2]->{start_time} < $$seg1[$i1]->{end_time}) {
+						$b = $$seg2[$i2]->{start_time};
+					}else {
+						$b = $$seg1[$i1]->{end_time};
+					}
+					$oseg[$n]->{label} = $$seg1[$i1]->{label};
+					$oseg[$n]->{start_time} = $a;
+					$oseg[$n++]->{end_time} = $b;
+				}
+				$a = $b;
 			}
 		}
 	}
@@ -276,23 +250,17 @@ sub uemread($) {
 
 	foreach ( <F> ) {
 		chomp;
-
 		s/;.*//g; s/^\s*//; s/\s*$//;
 		next if /^\s*$/;
-
 		/^([^\s]+)\s+(\d+)\s+([\d\.]+)\s+([\d\.]+)$/;
-
 		my $seg = undef;
 		$seg->{filename} = $1;
 		$seg->{channel} = $2;
 		$seg->{start_time} = $3;
 		$seg->{end_time} = $4;
-
 		push @tab, $seg;
 	}
-
 	close(F);
-
 	return @tab;
 }
 
