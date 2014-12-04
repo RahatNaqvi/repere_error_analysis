@@ -22,7 +22,12 @@ if __name__ == '__main__':
         desc[line[:-1]] = []
         score[line[:-1]] = []
 
-    for f in desc_files:
+    l_desc = []
+    for f in desc_files:     
+        for i in desc_files[f]:
+            l_desc.append(f.split('/')[-1]+' field'+str(i+1))
+
+    for f in desc_files: 
         for line in open(f):
             l = line[:-1].split(' ')   
             if l[0] in desc:         
@@ -36,6 +41,7 @@ if __name__ == '__main__':
 
 
     ecart = []
+    f_imp = []
     for spk_test in sorted(desc):
         X = []
         Y = []
@@ -47,11 +53,16 @@ if __name__ == '__main__':
         clas =  tree.DecisionTreeRegressor()
         clas.fit(X, Y)
         predic_score = clas.predict(desc[spk_test])[0]
+        score_predic[spk_test] = predic_score
+
+        f_imp.append(clas.feature_importances_)
+
         x.append(predic_score)
         y.append(score[spk_test])
         ecart.append(score[spk_test]-predic_score)
 
-        #print spk_test, predic_score, score[spk_test], abs(predic_score-score[spk_test])
+    for d, s in zip(l_desc, np.array(f_imp).mean(axis=0)):
+        print d, round(s*100, 1)
 
     print np.mean(ecart)
     fig1 = plt.figure()
