@@ -2,27 +2,13 @@ from sklearn.linear_model import LogisticRegression
 from sklearn import tree
 import numpy as np
 import pylab as plt
-
-
-def convert(value, type_):
-    import importlib
-    try:
-        # Check if it's a builtin type
-        module = importlib.import_module('__builtin__')
-        cls = getattr(module, type_)
-    except AttributeError:
-        # if not, separate module and class
-        module, type_ = type_.rsplit(".", 1)
-        module = importlib.import_module(module)
-        cls = getattr(module, type_)
-    return cls(value)
+import random
 
 if __name__ == '__main__':
-    desc_files = {'../spkshow/data/descripteur_prediction/test2.spkshow.OCR':['float', 'float', 'int', 'float', 'float', 'int', 'float', 'float', 'int'],    
-                  '../spkshow/data/descripteur_prediction/test2.spkshow.seg':['float', 'float', 'int', 'float', 'int'],             
-                  '../spkshow/data/descripteur_prediction/test2.spkshow.spoken':['int', 'int', 'int', 'int'], 
-                  #'../spkshow/test2.spkshow.role':['str'],
-                  '../SPK_model/test2.spkshow.3sites.acoustic':['float', 'int','float', 'int','float', 'int'],
+    desc_files = {'../spkshow/data/descripteur_prediction/test2.spkshow.OCR':[1, 2, 3, 4, 5, 6, 7, 8, 9],    
+                  '../spkshow/data/descripteur_prediction/test2.spkshow.seg':[1, 2, 3, 4, 5],             
+                  '../spkshow/data/descripteur_prediction/test2.spkshow.spoken':[1, 2, 3, 4], 
+                  '../SPK_model/test2.spkshow.max.acoustic':[1, 2, 3, 4, 5, 6],
                  }
 
     score_file = {'f':'../spkshow/PERCOOL_QCOMPERE_SODA_mono.durevalf.spkshow', 'field':6}
@@ -40,9 +26,8 @@ if __name__ == '__main__':
         for line in open(f):
             l = line[:-1].split(' ')   
             if l[0] in desc:         
-                for i in range(len(desc_files[f])):
-                    d = convert(l[i+1], desc_files[f][i])
-                    desc[l[0]].append(d)
+                for i in desc_files[f]:
+                    desc[l[0]].append(float(l[i]))
     
     for line in open(score_file['f']):
         l = line[:-1].split(' ')
