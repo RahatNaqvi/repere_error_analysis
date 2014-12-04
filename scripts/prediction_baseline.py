@@ -5,7 +5,7 @@ import pylab as plt
 if __name__ == '__main__':
     l_spkshow_file = '../reference/list_spkshow'
     l_spkseg_file = '../reference/list_spkseg'
-    score_file_spkshow = {'f':'../spkshow/PERCOOL_QCOMPERE_SODA_sup.durevalf.spkshow', 'field':2}
+    score_file_spkshow = {'f':'../spkshow/PERCOOL_QCOMPERE_SODA_sup.durevalf.spkshow', 'field':6}
     score_file_spkseg = {'f':'../spkseg/evalSegHB/PERCOOL_sup.repere.evalsegHB', 'field':4}
 
     score_spkshow = {}

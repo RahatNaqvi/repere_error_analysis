@@ -25,7 +25,7 @@ if __name__ == '__main__':
                   '../SPK_model/test2.spkshow.3sites.acoustic':['float', 'int','float', 'int','float', 'int'],
                  }
 
-    score_file = {'f':'../spkshow/PERCOOL_QCOMPERE_SODA_sup.durevalf.spkshow', 'field':2}
+    score_file = {'f':'../spkshow/PERCOOL_QCOMPERE_SODA_mono.durevalf.spkshow', 'field':6}
     l_spkshow_file = '../reference/list_spkshow'
 
     desc = {}
