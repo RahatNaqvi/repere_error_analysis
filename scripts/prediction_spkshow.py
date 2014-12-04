@@ -16,8 +16,6 @@ if __name__ == '__main__':
 
     desc = {}
     score = {}
-    x = []
-    y = []
     for line in open(l_spkshow_file):
         desc[line[:-1]] = []
         score[line[:-1]] = []
@@ -39,8 +37,22 @@ if __name__ == '__main__':
         if l[0] in score:
             score[l[0]] = float(l[score_file['field']])
 
-
+    x = []
+    y = []
     ecart = []
+    ecart_abs = []
+
+    nb_bins = 10.0
+    size_bin_2nd_app = np.arange(0,1.01,1.0/nb_bins)
+    nb_ex_2nd_app = 5
+
+    dic_histo_2D = {}
+    for i in size_bin_2nd_app:
+        dic_histo_2D[str(i)] = {}
+        for j in size_bin_2nd_app:
+            dic_histo_2D[str(i)][str(j)] = []
+    score_predic = {}
+
     f_imp = []
     for spk_test in sorted(desc):
         X = []
@@ -60,11 +72,18 @@ if __name__ == '__main__':
         x.append(predic_score)
         y.append(score[spk_test])
         ecart.append(score[spk_test]-predic_score)
+        ecart_abs.append(abs(score[spk_test]-predic_score))
+
+        a = str(round(predic_score * nb_bins) / nb_bins)
+        b = str(round(score[spk_test] * nb_bins) / nb_bins)
+        dic_histo_2D[a][b].append(spk_test)
+
 
     for d, s in zip(l_desc, np.array(f_imp).mean(axis=0)):
         print d, round(s*100, 1)
 
-    print np.mean(ecart)
+
+    print round(np.mean(ecart_abs),3)
     fig1 = plt.figure()
     fig1.suptitle('histogramme (scores mesures - predictions)', fontsize=14, fontweight='bold')
     plt.xlabel('valeur des ecarts')
@@ -74,7 +93,6 @@ if __name__ == '__main__':
     plt.hist(ecart, bins, normed=True)
     fig1.savefig('spkshow_histo_ecart')
     plt.show()
-
 
     fig1 = plt.figure()
     fig1.suptitle('predictions / scores mesures', fontsize=14, fontweight='bold')
@@ -87,3 +105,11 @@ if __name__ == '__main__':
     plt.grid()
     fig1.savefig('spkshow_nuage')
     plt.show() 
+
+    fig1 = plt.figure()
+    fig1.suptitle('predictions / scores mesures', fontsize=14, fontweight='bold')
+    plt.ylabel('prediction')
+    plt.xlabel("scores mesures")
+    plt.hist2d(x,y,bins=50);
+    fig1.savefig('spkshow_nuage2D')
+    plt.show()
