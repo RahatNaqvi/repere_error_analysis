@@ -67,8 +67,8 @@ if __name__ == '__main__':
     print np.mean(ecart)
     fig1 = plt.figure()
     fig1.suptitle('histogramme (scores mesures - predictions)', fontsize=14, fontweight='bold')
-    plt.ylabel('valeur des ecarts')
-    plt.xlabel("# d'ecarts")
+    plt.xlabel('valeur des ecarts')
+    plt.ylabel("# d'ecarts")
 
     bins = np.arange(-1.0,1.0,0.05)
     plt.hist(ecart, bins, normed=True)
