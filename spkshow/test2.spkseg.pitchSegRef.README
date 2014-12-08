@@ -1,0 +1,5 @@
+#field1: nom du speaker show
+#field2: debut du segment
+#field3: fin du segment
+#field4: pitch moyen calculé sur l'ensemble des trame du segment 
+#field5: variance du pitch calculé sur l'ensemble des trame du segment 
