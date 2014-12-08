@@ -5,6 +5,8 @@ my $prev=0;
 my $show="";
 my $name="";
 
+my $gap=$ARGV[2];
+
 open(REF, "$ARGV[0]")or die "impossible $ARGV[0] $!";
 my %gap=();
 
@@ -24,16 +26,34 @@ while(<REF>) {
 close(REF);
 
 open(HYP, "$ARGV[1]")or die "impossible 2 $ARGV[1] $!";
-my @seg=();
+my @segTmp=();
 my $nb=0;
 while(<HYP>) {
 	chomp;
 	my @a=split;
 	if($a[3] eq "speaker") {
-		push(@seg, [@a]);
+		push(@segTmp, [@a]);
 	}
 }
 close(HYP);
+#my $i=0;
+for(my $i=1; $i < scalar(@segTmp); $i++) {
+	my $d=$segTmp[$i][1] - $segTmp[$i-1][2];
+	if(($segTmp[$i-1][0] eq $segTmp[$i][0]) && ($segTmp[$i-1][4] eq $segTmp[$i][4]) && (($d) < $gap)) {
+		$segTmp[$i][1]=$segTmp[$i-1][1];
+		$segTmp[$i-1][3]="delete";
+		#printf STDERR "------\n";
+		#printf STDERR join(" ", @{$segTmp[$i-1]})." $d\n";
+		#printf STDERR join(" ", @{$segTmp[$i]})." $d\n";
+	}
+}
+
+my @seg=();
+for(my $i=1; $i < scalar(@segTmp); $i++) {
+	if($segTmp[$i][3] ne "delete") {
+		push(@seg, [@{$segTmp[$i]}]);
+	}
+}
 
 for(my $i=0; $i < scalar(@seg); $i++) {
 	#printf STDERR $seg[$i][0]."\n";
