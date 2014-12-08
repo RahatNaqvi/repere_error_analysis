@@ -1,3 +1,0 @@
-#field1: spkshow
-#field2: moyenne du pitch calculé sur l'ensemble des segments (lui-même calculé à partir d'une moyenne des valeurs de pitch mesurées à la trame)
-#field3: moyenne de la variance du pitch calculé sur l'ensemble des segments (elle-même calculée à partir des valeurs de pitch mesurées à la trame)

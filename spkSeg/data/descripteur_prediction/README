@@ -37,3 +37,17 @@ test2.spkshow.spoken:
     #field9: # d'occurrences du nom de spkseg prononcé dans un tour de parole courant du spkshow corrspondant
     #field10: # d'occurrences du nom de spkseg prononcé dans un tour de parole suivant du spkshow corrspondant
     #field11: # d'occurrences du nom de spkseg prononcé dans un autre tour de parole du spkshow corrspondant
+    
+test2.spkseg.pitchSegRef.1.0.v2:
+	#field1: nom du speaker show
+	#field2: debut du segment
+	#field3: fin du segment
+	#field4: pitch moyen calculé sur l'ensemble des trames du segment 
+	#field5: variance du pitch calculé sur l'ensemble des trames du segment 
+
+test2.spkshow.pitchSegRef.1.0.v2:	
+	#field1: spkshow
+	#field2: moyenne du pitch calculé sur chaque segment issu de list_spkseg.1.0.v2 (lui-même calculé à partir d'une moyenne des valeurs de pitch mesurées à la trame)
+	#field3: moyenne de la variance du pitch calculé sur chaque segment issu de list_spkseg.1.0.v2 (elle-même calculée à partir des valeurs de pitch mesurées à la trame)
+
+
