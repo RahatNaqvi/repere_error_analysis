@@ -1,0 +1,25 @@
+*.evalseg: evaluation des segments de list_spkseg, selon la methode de detection des segments de ref (1 seul segment de test associé au max)
+
+#field1: nom du fichier
+#field2: debut du segment
+#field3: fin du segment
+#field4: nom du speaker de ref
+#field5: harmonic-cover (equivalent F-mesure au niveau du segment)
+#field6: covertest (equivalent precision au niveau du segment)
+#field7: coverref (equivalent rappel au niveau du segment)
+#field8: label du speaker du segment de test associé
+#field9: debut du segment de test associé
+#field10: fin du segment de test associé
+
+*.evalseg.idseg:
+
+    - Field #1: idseg (show#debut#fin#spk)
+    - Field #2: duree du segment
+    - Field #3: harmonic-cover (=F1 segmental)
+    - Field #4: flag de locuteur reconnu au moins 1 fois dans l'emission (=1 si au moins un segment dans la meme emission avec un taux d'identification correct > 0, =0 sinon (i.e. locuteur jamais reconnu dans l'emission)
+
+
+Cette methode evaluant conjointement la segmentation et l'identification, elle est sensible a la sur ou sous-segmentation.
+
+les evaluations ont été faites sur les segments (hyp et ref) générés par Sylvain: remplissage des pauses (!= music etc...) < seuil, avec les hyp rendues cohérentes par rapport aux refs sur cet aspect.
+
