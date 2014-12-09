@@ -23,3 +23,11 @@ Cette methode evaluant conjointement la segmentation et l'identification, elle e
 
 les evaluations ont été faites sur les segments (hyp et ref) générés par Sylvain: remplissage des pauses (!= music etc...) < seuil, avec les hyp rendues cohérentes par rapport aux refs sur cet aspect.
 
+PERCOOL_QCOMPERE_SODA_${type}.SM1.0.evalseg.idseg:
+    - Field #1: idseg (show#debut#fin#spk)
+    - Field #2: duree du segment
+    - Field #3: harmonic-cover PERCOOL (=F1 segmental)
+    - Field #4: harmonic-cover QCOMPERE (=F1 segmental)
+    - Field #5: harmonic-cover SODA (=F1 segmental)
+    - Field #6: harmonic-cover moyenne des non-nuls (=F1 segmental)
+    - Field #7: harmonic-cover max(PERCOOL,QCOMPERE,SODA) (=F1 segmental)
