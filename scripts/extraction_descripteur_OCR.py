@@ -3,11 +3,12 @@ import numpy
 
 if __name__ == '__main__':
 
-    parser_spk = MagicParser().read('../reference/test2.repere')
+    #parser_spk = MagicParser().read('../reference/test2.repere')
+    parser_spk = MagicParser().read('../reference/test2.1.0.v2.repere')
     parser_ocr = MagicParser().read('../reference/test2.OCR.repere')
     parser_uem = MagicParser().read('../reference/test2.uem')
 
-    fout_spkshow = open('../spkshow/data/descripteur_prediction/test2.spkshow.OCR', 'w')
+    #fout_spkshow = open('../spkshow/data/descripteur_prediction/test2.spkshow.OCR', 'w')
     fout_spkseg = open('../spkseg/data/descripteur_prediction/test2.spkseg.OCR', 'w')
 
     for show in parser_ocr.uris:
@@ -16,11 +17,11 @@ if __name__ == '__main__':
         uem = parser_uem(uri=show)
 
         list_spk = {}
-
         for segment, track, label in spk.itertracks(label=True):
             if type(label).__name__ != 'Unknown' and 'BFMTV_' not in label and 'LCP_' not in label :
-                list_spk.setdefault(show+'#'+label, {'speech':[], 'ocr':[]})
+                list_spk.setdefault(show+'#'+label, {'speech':[], 'ocr':[], 'dur':[]})
                 list_spk[show+'#'+label]['speech'].append(segment)
+                list_spk[show+'#'+label]['dur'].append(segment.duration)
 
         for segment, track, label in ocr.itertracks(label=True):
             if show+'#'+label in list_spk:
@@ -46,9 +47,13 @@ if __name__ == '__main__':
                     if seg_OCR & seg_spk:
                         l_dur_OCR_cooc_spk_in_uem.append((seg_OCR & seg_spk).duration)
 
+            '''
             fout_spkshow.write(spk)
             if len(l_dur_OCR_uem) > 0:
                 fout_spkshow.write(' '+str(numpy.sum(l_dur_OCR_uem))+" "+str(numpy.mean(l_dur_OCR_uem))+' '+str(len(l_dur_OCR_uem)))
+                fout_spkshow.write(' '+str(numpy.sum(l_dur_OCR_uem)/numpy.sum(list_spk[spk]['dur'])))
+                fout_spkshow.write(' '+str(numpy.mean(l_dur_OCR_uem)/numpy.mean(list_spk[spk]['dur'])))
+                fout_spkshow.write(' '+str(len(l_dur_OCR_uem)/len(list_spk[spk]['speech'])))
             else:
                 fout_spkshow.write(' 0.0 0.0 0')
 
@@ -61,8 +66,24 @@ if __name__ == '__main__':
                 fout_spkshow.write(' '+str(numpy.sum(l_dur_OCR_cooc_spk_in_uem))+" "+str(numpy.mean(l_dur_OCR_cooc_spk_in_uem))+' '+str(len(l_dur_OCR_cooc_spk_in_uem)))
             else:
                 fout_spkshow.write(' 0.0 0.0 0')
-            fout_spkshow.write('\n')
+            
+            if len(l_dur_OCR_uem) > 0:
+                fout_spkshow.write(' '+str(numpy.sum(l_dur_OCR_uem)/numpy.sum(list_spk[spk]['dur'])))
+                fout_spkshow.write(' '+str(numpy.mean(l_dur_OCR_uem)/numpy.mean(list_spk[spk]['dur'])))
+                fout_spkshow.write(' '+str(len(l_dur_OCR_uem)/len(list_spk[spk]['speech'])))
+            else:
+                fout_spkshow.write(' 0.0 0.0 0.0')
 
+            if len(l_dur_OCR_cooc_spk_in_uem) > 0:
+                fout_spkshow.write(' '+str(numpy.sum(l_dur_OCR_cooc_spk_in_uem)/numpy.sum(list_spk[spk]['dur'])))
+                fout_spkshow.write(' '+str(numpy.mean(l_dur_OCR_cooc_spk_in_uem)/numpy.mean(list_spk[spk]['dur'])))
+                fout_spkshow.write(' '+str(len(l_dur_OCR_cooc_spk_in_uem)/len(list_spk[spk]['speech'])))
+            else:
+                fout_spkshow.write(' 0.0 0.0 0.0')
+
+
+            fout_spkshow.write('\n')
+            '''
             #spkseg
 
             for seg_spk in list_spk[spk]['speech']:

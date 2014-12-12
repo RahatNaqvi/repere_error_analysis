@@ -4,10 +4,11 @@ from itertools import tee, islice, chain, izip
 
 if __name__ == '__main__':
 
-    parser_spk = MagicParser().read('../reference/test2.repere')
+    #parser_spk = MagicParser().read('../reference/test2.repere')
+    parser_spk = MagicParser().read('../reference/test2.1.0.v2.repere')
     parser_spo = MagicParser().read('../reference/test2.spoken.repere')
 
-    fout_spkshow = open('../spkshow/data/descripteur_prediction/test2.spkshow.spoken', 'w')
+    #fout_spkshow = open('../spkshow/data/descripteur_prediction/test2.spkshow.spoken', 'w')
     fout_spkseg = open('../spkseg/data/descripteur_prediction/test2.spkseg.spoken', 'w')
 
     for show in parser_spo.uris:
@@ -64,10 +65,12 @@ if __name__ == '__main__':
                 if not spo_used:
                     spo_other_st_show+=1
 
+            '''
             fout_spkshow.write(spk)
             fout_spkshow.write(' '+str(spo_previous_st_show)+' '+str(spo_current_st_show)+' '+str(spo_next_st_show)+' '+str(spo_other_st_show))
             fout_spkshow.write('\n')
-
+            '''
+            
             #spkseg
             for seg_spk in list_spk[spk]['speech']:
                 spo_current_st = 0
