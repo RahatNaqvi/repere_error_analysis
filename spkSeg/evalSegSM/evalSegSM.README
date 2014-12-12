@@ -31,3 +31,15 @@ PERCOOL_QCOMPERE_SODA_${type}.SM1.0.evalseg.idseg:
     - Field #5: harmonic-cover SODA (=F1 segmental)
     - Field #6: harmonic-cover moyenne des non-nuls (=F1 segmental)
     - Field #7: harmonic-cover max(PERCOOL,QCOMPERE,SODA) (=F1 segmental)
+
+PERCOOL_QCOMPERE_SODA_${type}.SM1.0.evalseg.spkshowmax.idseg:
+    - Field #1: idseg (show#debut#fin#spk)
+    - Field #2: duree du segment
+    - Field #3: harmonic-cover PERCOOL (=F1 segmental)
+    - Field #4: harmonic-cover QCOMPERE (=F1 segmental)
+    - Field #5: harmonic-cover SODA (=F1 segmental)
+    - Field #6: harmonic-cover moyenne des non-nuls (=F1 segmental)
+    - Field #7: harmonic-cover max(PERCOOL,QCOMPERE,SODA) (=F1 segmental)
+    - Field #8: Fmax spkshow
+    - Field #9: harmonic-cover du système donnant Fmax_spkshow
+
