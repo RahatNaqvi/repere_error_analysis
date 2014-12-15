@@ -1,35 +1,39 @@
             
 test2.spkseg.OCR:
-    #field1: spkseg
+    #field1: video
     #field2: segment start
     #field3: segment end
-    #field4: duree total des noms ecrits du spkseg dans le segment
-    #field5: duree moyenne des noms ecrits du spkseg dans le segment
-    #field6: nombre d'occurrences des noms ecrits du spkseg dans le segment
-    #field7: duree total des noms ecrits du spkseg dans les uem du meme show
-    #field8: duree moyenne des noms ecrits du spkseg dans les uem du meme show
-    #field9: nombre d'occurrences des noms ecrits du spkseg dans les uem du meme show
-    #field10: duree total des noms ecrits du spkseg en dehors des uem du meme show
-    #field11: duree moyenne des noms ecrits du spkseg en dehors des uem du meme show
-    #field12: nombre d'occurrences des noms ecrits du spkseg en dehors des uem du meme show
-    #field13: duree total des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
-    #field14: duree moyenne des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
-    #field15: nombre d'occurrences des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
+    #field4: nom
+    #field5: duree total des noms ecrits du spkseg dans le segment
+    #field6: duree moyenne des noms ecrits du spkseg dans le segment
+    #field7: nombre d'occurrences des noms ecrits du spkseg dans le segment
+    #field8: duree total des noms ecrits du spkseg dans les uem du meme show
+    #field9: duree moyenne des noms ecrits du spkseg dans les uem du meme show
+    #field10: nombre d'occurrences des noms ecrits du spkseg dans les uem du meme show
+    #field11: duree total des noms ecrits du spkseg en dehors des uem du meme show
+    #field12: duree moyenne des noms ecrits du spkseg en dehors des uem du meme show
+    #field13: nombre d'occurrences des noms ecrits du spkseg en dehors des uem du meme show
+    #field14: duree total des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
+    #field15: duree moyenne des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
+    #field16: nombre d'occurrences des noms ecrits du spkseg qui co-occurrent un tour de parole du spkseg du meme show
 
 test2.spkseg.seg:
-    #field1: spkseg
-    #field2: duree du segment de spkseg
-    #field3: duree des overlaps de spkseg
-    #field4: nombre d'overlap de spkseg
-    #field5: duree total des segments du meme speaker dans les uem du show
-    #field6: duree moyenne des segments du meme speaker dans les uem du show
-    #field7: nombre d'occurrences des segments du meme speaker dans les uem du show
+    #field1: video
+    #field2: segment start
+    #field3: segment end
+    #field4: nom
+    #field5: duree du segment de spkseg
+    #field6: duree des overlaps de spkseg
+    #field7: nombre d'overlap de spkseg
+    #field8: duree total des segments du meme speaker dans les uem du show
+    #field9: duree moyenne des segments du meme speaker dans les uem du show
+    #field10: nombre d'occurrences des segments du meme speaker dans les uem du show
 
 test2.spkshow.spoken:
-    #field1: spkseg
-    #field2: duree du segment de spkseg
-    #field3: duree des overlaps de spkseg
-    #field4: nombre d'overlap de spkseg
+    #field1: video
+    #field2: segment start
+    #field3: segment end
+    #field4: nom
     #field5: # d'occurrences du nom de spkseg prononcé dans le tour de parole précédent
     #field6: # d'occurrences du nom de spkseg prononcé dans le tour de parole courant
     #field7: # d'occurrences du nom de spkseg prononcé dans le tour de parole suivant
@@ -44,10 +48,3 @@ test2.spkseg.pitchSegRef.1.0.v2:
 	#field3: fin du segment
 	#field4: pitch moyen calculé sur l'ensemble des trames du segment 
 	#field5: variance du pitch calculé sur l'ensemble des trames du segment 
-
-test2.spkshow.pitchSegRef.1.0.v2:	
-	#field1: spkshow
-	#field2: moyenne du pitch calculé sur chaque segment issu de list_spkseg.1.0.v2 (lui-même calculé à partir d'une moyenne des valeurs de pitch mesurées à la trame)
-	#field3: moyenne de la variance du pitch calculé sur chaque segment issu de list_spkseg.1.0.v2 (elle-même calculée à partir des valeurs de pitch mesurées à la trame)
-
-

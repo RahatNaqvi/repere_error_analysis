@@ -10,14 +10,23 @@ test2.spkshow.OCR:
     #field8: duree total des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow
     #field9: duree moyenne des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow
     #field10: nombre d'occurrences des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow
+    #field11: duree total des noms ecrits du spkshow dans les uem / durée total de la parole dans les uem du spkshow
+    #field12: duree moyenne des noms ecrits du spkshow dans les uem / durée moyenne des tours de paroles du spkshow
+    #field13: nombre d'occurrences des noms ecrits du spkshow dans les uem / nombre de tours de parole du spkshow
+    #field14: duree total des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow / durée total de la parole dans les uem du spkshow
+    #field15: duree moyenne des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow / durée moyenne des tours de paroles du spkshow
+    #field16: nombre d'occurrences des noms ecrits du spkshow qui co-occurrent un tour de parole du spkshow / nombre de tours de parole du spkshow
 
 test2.spkshow.seg:
     #field1: spkshow
     #field2: duree total des segments du spkshow dans les uem
     #field3: duree moyenne des segments du spkshow dans les uem
     #field4: nombre d'occurrences des segments du spkshow dans les uem
-    #field3: duree total des overlaps du spkshow dans les uem
-    #field4: nombre d'occurrences des overlaps du spkshow dans les uem  
+    #field5: duree total des overlaps du spkshow dans les uem
+    #field6: nombre d'occurrences des overlaps du spkshow dans les uem  
+    #field7: duree total des segments du spkshow dans les uem / durée total de parole dans le uem
+    #field8: duree moyenne des segments du spkshow dans les uem / durée moyenne des tours de parole dans le uem
+    #field9: nombre d'occurrences des segments du spkshow dans les uem / nombre de tour de parole dans uem
 
 test2.spkshow.spoken:
     #field1: spkshow
@@ -25,3 +34,8 @@ test2.spkshow.spoken:
     #field3: # d'occurrences du nom de spkshow prononcé dans le tour de parole courant
     #field4: # d'occurrences du nom de spkshow prononcé dans le tour de parole suivant
     #field5: # d'occurrences du nom de spkshow prononcé dans un autre tour de parole 
+
+test2.spkshow.pitchSegRef.1.0.v2:   
+    #field1: spkshow
+    #field2: moyenne du pitch calculé sur chaque segment issu de list_spkseg.1.0.v2 (lui-même calculé à partir d'une moyenne des valeurs de pitch mesurées à la trame)
+    #field3: moyenne de la variance du pitch calculé sur chaque segment issu de list_spkseg.1.0.v2 (elle-même calculée à partir des valeurs de pitch mesurées à la trame)
