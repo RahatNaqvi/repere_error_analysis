@@ -2,14 +2,14 @@ from sklearn import tree
 import numpy as np
 
 if __name__ == '__main__':
-
+    # field number start at 1
     desc_files = {'../spkshow/data/descripteur_prediction/test2.spkshow.seg':[2, 3, 4, 5, 6, 7, 8, 9],             
                   '../SPK_model/test2.spkshow.max.acoustic':[2, 3, 4, 5, 6, 7],
                   '../spkshow/data/descripteur_prediction/test2.spkshow.pitchSegRef.1.0.v2':[2, 3],
                  }
 
     score_file = '../spkshow/PERCOOL_QCOMPERE_SODA_mono.durevalf.spkshow'
-    score_field = 6
+    score_field = 7
     l_spkshow_file = '../reference/list_spkshow'
 
     desc = {}                                               # dictionary of the spkshow/descriptors
@@ -36,7 +36,7 @@ if __name__ == '__main__':
     for line in open(score_file):                           # file real_score dictionary
         l = line[:-1].split(' ')
         if l[0] in real_score:
-            real_score[l[0]] = float(l[score_field])
+            real_score[l[0]] = float(l[score_field-1])
    
     for spkshow_test in sorted(desc):                       # for each spkshow, train a classifier
         X = []                                              # list of descriptors

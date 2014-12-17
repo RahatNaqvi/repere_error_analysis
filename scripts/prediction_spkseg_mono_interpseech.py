@@ -2,15 +2,15 @@ from sklearn import tree
 import numpy as np
 
 if __name__ == '__main__':
-
+    # field number start at 1
     l_desc_files_spkseg = {'../spkSeg/data/descripteur_prediction/test2.spkseg.seg':[5, 6, 7, 8, 9, 10],
                            '../spkSeg/data/descripteur_prediction/test2.spkseg.pitchSegRef.1.0.v2.goodspkseg':[5, 6], 
                           }
     l_desc_files_spkshow = {'../SPK_model/test2.spkshow.max.acoustic':[2, 3, 4, 5, 6, 7],
                            }
     score_file_spkseg = '../spkseg/evalSegSM/PERCOOL_QCOMPERE_SODA_mono.SM1.0.evalseg.spkshowmax.idseg'
-    field_score_file_spkseg = 6
-    field_score_file_spkshow = 7
+    field_score_file_spkseg = 7
+    field_score_file_spkshow = 8
 
     f_imp = []                                              # list of the features importance
     l_desc = []                                             # list of the descriptor names (filename #field) in the same order than in desc
@@ -28,9 +28,9 @@ if __name__ == '__main__':
         l = line[:-1].split(' ')
         spk = l[0].split('#')[0]+'#'+l[0].split('#')[3]
         seg = str(float(l[0].split('#')[1]))+' '+str(float(l[0].split('#')[2]))
-        if float(l[field_score_file_spkshow]) != 0:         # only for spk recognizable
+        if float(l[field_score_file_spkshow-1]) != 0:         # only for spk recognizable
             real_score.setdefault(spk, {})
-            real_score[spk][seg] = float(l[field_score_file_spkseg])/100
+            real_score[spk][seg] = float(l[field_score_file_spkseg-1])/100
             predicted_score.setdefault(spk, {})
             predicted_score[spk][seg] = {}
 
