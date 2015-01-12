@@ -48,3 +48,14 @@ test2.spkseg.pitchSegRef.1.0.v2:
 	#field3: fin du segment
 	#field4: pitch moyen calculé sur l'ensemble des trames du segment 
 	#field5: variance du pitch calculé sur l'ensemble des trames du segment 
+
+test2.spkseg.segadj:
+    #field1: video
+    #field2: segment start
+    #field3: segment end
+    #field4: nom
+	# field5: 1 si le seg precedent provient du meme spk, 0 sinon
+	# field6: 1 si le seg suivant provient du meme spk, 0 sinon
+	# field7: 1 si le seg precedent et suivant proviennent d'un meme spk, 0 sinon
+	# field8: duree de la pause precedent le seg
+	# field9: duree de la pause suivant le seg
