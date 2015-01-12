@@ -50,9 +50,8 @@ if __name__ == '__main__':
             Y = []                                              # list of scores
             for spkshow_train in sorted(desc):
                 if spkshow_test != spkshow_train: # leave-one-out
-                    if desc[spkshow_train][0]>0:
-                        X.append(desc[spkshow_train])
-                        Y.append(real_score[spkshow_train])
+                    X.append(desc[spkshow_train])
+                    Y.append(real_score[spkshow_train])
 
             clas =  tree.DecisionTreeRegressor()                # define the classifier
             clas.fit(X, Y)                                      # train the classifier
