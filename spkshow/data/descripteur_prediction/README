@@ -39,3 +39,20 @@ test2.spkshow.pitchSegRef.1.0.v2:
     #field1: spkshow
     #field2: moyenne du pitch calculé sur chaque segment issu de list_spkseg.1.0.v2 (lui-même calculé à partir d'une moyenne des valeurs de pitch mesurées à la trame)
     #field3: moyenne de la variance du pitch calculé sur chaque segment issu de list_spkseg.1.0.v2 (elle-même calculée à partir des valeurs de pitch mesurées à la trame)
+
+test2.spkshow.segadj:
+    #field1: spkshow
+	# field2: myenne sur les seg du spkshow de:1 si le seg precedent provient du meme spk, 0 sinon
+	# field3: myenne sur les seg du spkshow de:1 si le seg suivant provient du meme spk, 0 sinon
+	# field4: myenne sur les seg du spkshow de:1 si le seg precedent et suivant proviennent d'un meme spk, 0 sinon
+	# field5: duree moyenne de la pause precedent le seg
+	# field6: duree moyenne de la pause suivant le seg
+
+test2.spkshow.maxseg:
+	#field1: spkshow
+	#field2: duree du segment le plus long pour ce spkshow
+
+test2.spkshow.genre:
+	#field1: spkshow
+	#field2: genre (male/female) du spkshow
+	
