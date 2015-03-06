@@ -1,0 +1,89 @@
+\documentclass[a4paper]{article}
+
+\usepackage{INTERSPEECH2015}
+
+\usepackage{graphicx}
+\usepackage{amssymb,amsmath,bm}
+\usepackage{textcomp}
+
+\def\vec#1{\ensuremath{\bm{{#1}}}}
+\def\mat#1{\vec{#1}}
+
+
+\sloppy % better line breaks
+\ninept
+
+\title{Speakers identification in broadcast TV: facilities and barriers}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% If multiple authors, uncomment and edit the lines shown below.       %%
+%% Note that each line must be emphasized {\em } by itself.             %%
+%% (by Stephen Martucci, author of spconf.sty).                         %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\makeatletter
+%\def\name#1{\gdef\@name{#1\\}}
+%\makeatother
+%\name{{\em Firstname1 Lastname1, Firstname2 Lastname2, Firstname3 Lastname3,}\\
+%      {\em Firstname4 Lastname4, Firstname5 Lastname5, Firstname6 Lastname6,
+%      Firstname7 Lastname7}}
+%%%%%%%%%%%%%%% End of required multiple authors changes %%%%%%%%%%%%%%%%%
+
+\makeatletter
+\def\name#1{\gdef\@name{#1\\}}
+\makeatother \name{{\em Delphine Charlet, ..., Herv\'{e} Bredin$^1$, Xxxxxx YYYYYY$^{2}$}}
+
+\address{$^1$LIMSI - CNRS \\ 
+         $^2$Uuuuuuuuuu Vvvvv-Wwwww \\
+         {\small \tt herve.bredin@limsi.fr}
+}
+
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+
+\end{abstract}
+
+\noindent{\bf Index Terms}: speaker recognition, error analysis
+
+
+\section{Introduction}
+\label{sec:introduction}
+\input{introduction}
+
+\section{Notations}
+\label{sec:notations}
+\input{notations}
+
+\section{Systems description}
+\label{sec:systems}
+\input{systems}
+
+\section{Performance analysis}
+\label{sec:analysis}
+\input{analysis}
+
+\section{Performance prediction}
+\label{sec:prediction}
+\input{prediction}
+
+\section{Cross-show extension}
+\label{sec:xshow}
+\input{xshow}
+
+\section{Conclusions}
+\label{sec:conclusion}
+\input{conclusion}
+
+\section{Acknowledgements}
+
+
+\newpage
+\eightpt
+
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+
+\end{document}
