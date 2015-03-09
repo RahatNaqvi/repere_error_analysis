@@ -1,0 +1,21 @@
+Acoustic feature vectors are extracted from the speech signal on the 0-8kHz
+bandwidth every $10$ms using a $30$ms Hamming window.
+They consist of 15 PLP-like cepstrum coefficients~\cite{Hermansky1990}
+with 15 delta coefficients and delta energy, for a total of 31 features.
+Feature warping normalization is performed using a sliding window of $3$~seconds
+in order to reduce the effect of the acoustic environment~\cite{Pelecanos2001}.
+The Universal Background Model is a mixture
+of 256 diagonal Gaussians trained on a multilingual broadcast corpus.
+Then, three annotated data sources were used to train one \emph{i-vector} per speaker: the REPERE training~\cite{Giraudel2012}, the ETAPE training and development data~\cite{Gravier2012} and additional French politicians data extracted from French radio broadcast.
+Only speakers with more than $30$ seconds training data were kept,
+resulting in $706$~speaker \emph{identity} vertices.
+The \emph{total variability space} is trained using $39356$ speech segments
+of variable length (few seconds to several minutes) collected
+over the target speakers (around $15$ segments/speaker).
+$400$-dimensional \emph{i-vector} is considered for characterization of the speech segment.
+In test phase, only speaker factor (channel factor is kept fixed equal
+to the dimension of \emph{i-vector} i.e. $400$) of PLDA is varied to find
+the optimal performance of the speaker identification system
+on development data set.
+Before PLDA, \emph{i-vectors} are length-normalized by two iterations
+of Eigen Factor Radial algorithm \cite{Bousquet2011}.
