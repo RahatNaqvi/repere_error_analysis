@@ -1,15 +1,4 @@
-We are interested here in analyzing the performances obtained per speaker, according to their characteristics, for instance in terms of speech turns etc. As the speech turns properties depend on the show in which the speaker appears, one speaker in one show is considered as the unit of analysis, the so-called $SpkShow$. One speaker appearing in 2 different videos is considered as 2 distinct $SpkShow$.
 
-The test corpus contains about 10 hours of annotated contents, on 62 different videos, totalizing 477 non-anonymous different $SpkShow$.
-
-In the analysis, we adopt the point of view of the references: for each $SpkShow_i$ in the reference is computed a performance measure of the biometric system, defined as the F-measure of the detection of $SpkShow_i$. More precisely, considering the definition given in \ref{notation}, Precision and Recall can be computed for each $SpkShow_i$:
-\begin{itemize}
-\item $Precision_i=\frac{T^{corr}_i}{T^{test}_i}$
-\item $Recall_i=\frac{T^{corr}_i}{T^{ref}_i}$
-\item $Fm_i=\frac{2*Precision_i*Recall_i}{Precision_i+Recall_i}$
-\end{itemize} 
-
-Thus, $Fm_i=0$ means that $SpkShow_i$ was never correctly identified, whereas $Fm_i=1$ means that $SpkShow_i$ is perfectly identified, without miss detection nor false alarm.
 
 The table \ref{table-spkshow-perf} shows the average $Fm$ per $SpkShow$ for the different systems.
 \begin{table*}[t]
