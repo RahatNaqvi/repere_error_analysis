@@ -1,4 +1,41 @@
 brief description of the systems: training data, modelling, decision...
+
+\begin{table*}[t]
+  \centering
+  \begin{tabular}{|c|c|c|c|}
+    \hline
+    System          & PERCOL                                        & QCOMPERE                                        & SODA      \\
+    \hline    
+    Diarization     & i-vector \cite{charlet2013}                   &                                                 &           \\
+                    & + overlapping speech detection                &                                                 &           \\
+    \hline    
+    SID             & ALIZE v3.0 toolkit \cite{larcher2013}         &                                                 &           \\
+    \hline    
+    feature         & 19 LFCC + $\delta$ coef,                      & 15 PLP-like cepstrum coef~\cite{Hermansky1990}  &           \\
+                    & + $\delta$ energy + 11 $\delta$$\delta$ coef  & 15 $\delta$ coef + $\delta$ energy              &           \\
+    \hline    
+    UBM             & gender independent                            & 256 diagonal Gaussians                          &           \\
+                    & 512 GMM                                       &                                                 &           \\
+    \hline    
+    i-vector        & 200 dim TVS estimated from                    & 400 dim TVS trained using $39356$               &           \\
+                    & 1200 spk and 7500 sessions                    & speech segments (around $15$ seg/spk)           &           \\
+    \hline    
+    Normalisation   & cepstral mean subtraction                     & Feature warping normalization with a            &           \\
+                    & and variance normalization                    & sliding window of $3$~s.~\cite{Pelecanos2001}.  &           \\
+    \hline    
+    Training data   & min 30s, max 2mn30 (if higher                 & 1 \emph{i-vector}/spk, min 30s                  &           \\
+    for i-vector    & a set of i-vectors is extracted)              & REPERE+ETAPE+French radio                       &           \\
+                    & REPERE corpus                                 & $706$~spk \emph{identity} vertices              &           \\            
+    \hline    
+    Decision        & CDS joined with Within-Class                  &                                                 &           \\
+                    & covariance normalization for                  &                                                 &           \\
+                    & session/channel compensation                  &                                                 &           \\
+    \hline                              
+  \end{tabular}
+  \caption{System comparison, TVS : total variability space, CDS: Cosine Distance Scoring}
+  \label{tab:system}  
+\end{table*}
+
 \subsubsection{PERCOL}
 \input{speakerID-percol}
 
