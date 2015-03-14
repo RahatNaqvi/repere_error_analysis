@@ -1,11 +1,8 @@
-In this section, the aim is to predict the performance of the speaker, from his characteristics derived from the analysis of testing and training data. If we are able to reliably predict  if the $Spkshow$ will be correctly recognized or not, when analysing the main features contributing to this prediction, we can identify the features that  facilitates or hamper the identification, for a given system.
+We have seen in the previous section that speaker identification performance is essentially bi-modal: either a speaker is not recognized at all or it is very well recognized. This section aims at uncovering the speaker characteristics explaining why some speakers are recognized ($\checkmark$) and others are not ($\times$)? To answer this question, we first try to automatically classify the speakers into those two classes. In case we succeed, analyzing the speaker characteristics contributing the most to this prediction, we should be able to identify the characteristics that facilitates or hamper the identification.
 
-At each $SpkShow$ is associated the maximal $Fm$ obtained accross systems. Doing so, we do not focus on a particular system, but we try to explain "the-best-we-can-do" performance for each $SpkShow$.
-As we have seen in the previous section that the performance is essentially bi-modal (the speaker is not recognized at all vs the speaker is well recognized), we focus on the task of predicting, for a given $SpkShow$, if the $Fmax$ will be equal to zero or not.
+\subsection{Speaker/show characteristics}
 
-Many parameters, resulting from the analysis of the training or the testing data, could be potentially used for this classification task. For instance, parameters related to the linguistic content of the speech turns, the prosody or the ambiant noise could be studied.
-
-We restrict our work, in a first attempt, to the families of parameters derived from the analysis of speech segment distribution for the testing data, and from the training data parameters, because they are straightforward to compute, and easily interpretable.
+Numerous characteristics could explain why a speaker/show is recognized or not, including linguistic or prosodic characteristics or the background noise. In this paper, we only study the families of characteristics derived from the analysis of speech segment distribution for the testing data, and from the training data parameters, because they are straightforward to compute, and easily interpretable.
 
 In the family of parameters based on training data, the potential parameters are derived from the analysis of the amount of  training data available for $SpkShow$ in the system that gives the $Fmax$:
 \begin{itemize}
@@ -32,6 +29,13 @@ In the family of parameters derived from the speech segment distribution of the 
 \item average pause duration following the speech turns of $SpkShow$
 \end{itemize}
 
+\subsection{Performance prediction}
+
+
+We focus on the task of predicting, for a given $SpkShow$, if the $Fmax$ will be equal to zero or not.
+
+At each $SpkShow$ is associated the maximal $Fm$ obtained accross systems. Doing so, we do not focus on a particular system, but we try to explain the oracle performance for each $SpkShow$.
+
 As far as the classifier is concerned, it is preferable to chose a classifier that enables an easy interpretation of the results and the importance of each parameters, more than a black box, leading to good classifier results, without any interpretation. That's why we choose a classification tree predictor (quelle ref pour le classifier de scikit learn???).
 As the corpus is limited (305 $SpkShow$), it was treated in a leave-one-out fashion: for each $SpkShow$, a classification tree is trained on the corpus minus the $SpkShow$, and applied on the parameters of $SpkShow$ to predict if his $Fmax$ will be zero or not. The global performance is thus obtained concatenating the performance obtained for each $SpkShow$ separately.
 As the corpus in unbalanced (63 $SpkShow$ with $Fmax=0$, and 242 $SpkShow$ with $Fmax>0$), the performance is not evaluated in terms of classification errors, but in terms of prediction and recall for each class of speakers. Precision and recall rates, and F-measure,  are computed to evaluate the task of detecting $SpkShow$ with $Fmax=0$ and symetrically, precision and recall rates, and F-measure are computed to evaluate the task of detection $Spkshow$ with non-zero $Fmax$
@@ -52,12 +56,7 @@ Detection of $SpkShow$ with $Fmax>0$ & 94.5 & 93.4 & 94.0 & 95.6 & 94.6 & 95.0 \
 \end{center}
 \end{table*}
 
-
-\subsection{Detection}
-
-
-\subsection{Prediction}
-
+\subsection{What makes a speaker recognizable?}
 
 \begin{figure}[t]
 \centering
