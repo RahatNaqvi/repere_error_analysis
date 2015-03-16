@@ -2,62 +2,48 @@ We have seen in the previous section that speaker identification performance is 
 
 \subsection{Speaker/show characteristics}
 
-Numerous characteristics could explain why a speaker/show is recognized or not, including linguistic or prosodic characteristics or the background noise. In this paper, we only study the families of characteristics derived from the analysis of speech segment distribution for the testing data, and from the training data parameters, because they are straightforward to compute, and easily interpretable.
+Numerous characteristics could explain why a speaker/show is recognized or not, including linguistic or prosodic characteristics or the background noise. In this paper, we only study two families of characteristics -- derived from the amount of training data used for speaker modeling, or related to the distribution of speech segments uttered by each speaker in the test set. 
 
-In the family of parameters based on training data, the potential parameters are derived from the analysis of the amount of  training data available for $SpkShow$ in the system that gives the $Fmax$:
-\begin{itemize}
-\item total duration of training data
-\item total number of training sessions
-\item duration of training data from REPERE corpus
-\item number of training sessions from REPERE corpus
-\item duration of training data from external corpus (non-REPERE)
-\item number of training sessions from external corpus
-\end{itemize}
-With these parameters, we investigate the importance of the variability of the training data (in terms of number of sessions and type of corpus)
+The first set of characteristics includes the duration of training data available for each reference speaker (from the REPERE corpus, other corpora, or both) and the corresponding number of training sessions. For each $SpkShow$, these characteristics are obtained from the oracle system (\emph{i.e.} the system that performs the best for this particular $SpkShow$ among the three systems).
 
-In the family of parameters derived from the speech segment distribution of the testing data, the potential parameters, for each $SpkShow$, are:
-\begin{itemize}
-\item total duration of the speech turns of $SpkShow$
-\item average duration of the speech turns of $SpkShow$
-\item duration of the longest speech turn of $SkShow$
-\item number of speech turns of $SpkShow$
-\item total duration of overlapped speech segments of $SpkShow$
-\item number of overlapped speech segments of $SpkShow$
-\item normalized duration of $SpkShow$ (i.e. total duration of speech turns of $SpkSghow$ divided by the total duration of speech for the whole show)
-\item normalized number of speech segments of $SpkShow$ (i.e.   number of speech turns of $SpkShow$ divided by the total number of speech turns for the whole show) 
-\item average pause duration preceding the speech turns of $SpkShow$
-\item average pause duration following the speech turns of $SpkShow$
-\end{itemize}
+For each $SpkShow$, the second set of characteristics includes the number of speech turns, their total (or average) duration or the duration of the longest speech turn. It also includes characteristics related to the level of interactions of a $SpkShow$, such as the number and total duration of overlapped speech segments or the average pause duration before and after each speech turn of a $SpkShow$.
 
-\subsection{Performance prediction}
+\subsection{Prediction of oracle performance}
 
+Given a $SpkShow$ and its corresponding set of characteristics, we aim at predicting whether the oracle system is able to (at least partially) recognize $\checkmark$ it or not (at all) $\times$. 
+As the corpus is limited (only 305 different $SpkShow$) and unbalanced (63 $\times$ vs. 242 $\checkmark$), we proceed using leave-one-out cross-validation and evaluate this classification experiment as two complementary detection tasks using precision, recall and F-measure.
 
-We focus on the task of predicting, for a given $SpkShow$, if the $Fmax$ will be equal to zero or not.
+Not all speaker/show characteristics are meaningful features for this task, and some can even degrade the classification performance. 
+Hence, feature selection is applied using the following heuristic manner.
+Starting with the whole set of characteristics, each iteration removes the one characteristic whose removal leads to the best performance is obtained. 
+The optimal subset of characteristics is selected as the one leading to the best overall performance.
 
-At each $SpkShow$ is associated the maximal $Fm$ obtained accross systems. Doing so, we do not focus on a particular system, but we try to explain the oracle performance for each $SpkShow$.
-
-As far as the classifier is concerned, it is preferable to chose a classifier that enables an easy interpretation of the results and the importance of each parameters, more than a black box, leading to good classifier results, without any interpretation. That's why we choose a classification tree predictor (quelle ref pour le classifier de scikit learn???).
-As the corpus is limited (305 $SpkShow$), it was treated in a leave-one-out fashion: for each $SpkShow$, a classification tree is trained on the corpus minus the $SpkShow$, and applied on the parameters of $SpkShow$ to predict if his $Fmax$ will be zero or not. The global performance is thus obtained concatenating the performance obtained for each $SpkShow$ separately.
-As the corpus in unbalanced (63 $SpkShow$ with $Fmax=0$, and 242 $SpkShow$ with $Fmax>0$), the performance is not evaluated in terms of classification errors, but in terms of prediction and recall for each class of speakers. Precision and recall rates, and F-measure,  are computed to evaluate the task of detecting $SpkShow$ with $Fmax=0$ and symetrically, precision and recall rates, and F-measure are computed to evaluate the task of detection $Spkshow$ with non-zero $Fmax$
-
-Among all the potential parameters listed before, not everyone is usefull, but some can hamper the performances, due to the training process of the tree. Hence, we apply an optimization heuristic to select the best subset of parameters, among the initial set of potential parameters. It is an iterative process, that starts with the whole set of parameters, and at each iteration, removes the parameters without which the best performances are obtained. It ends when there is no parameter to remove. This process leads to a curve of performance in function of the subset of selected parameters (here restricted to a function of the number of selected parameters), and for analysing the result, we focus on the subset which gives the best classification performance.
-
- The results of the classification process, in a leave-one-out fashion, for the initial set of parameters, and for the selected subset of parameters are given in table\ref{tableresult}.
-\begin{table*}[t]
+As far as the classification algorithms is concerned, we chose to use a decision tree (rather than a more sophisticated black box classifier) as the analysis of its internal structure allows for easy interpretation of the results and the importance of each characteristic.
+Figure~\ref{tableresult} contains the experimental results. It shows that it is possible to predict whether a speaker/show will be recognized ($\text{F-measure} = 95.0\%$) or not ($\text{F-measure} = 81.4\%$)
+\begin{table}[t]
 \begin{center}
-\begin{tabular}{r||c|c|c||c|c|c|}
-& \multicolumn{3}{c}{all parameters}& \multicolumn{3}{c}{optimal parameters subset}\\\hline
-& Prec & Recall & F-measure & Prec & Recall & F-measure \\\hline
-Detection of $SpkShow$ with $Fmax=0$ & 75.8 & 79.0 & 77.4 & 80.0 & 82.7 & 81.4 \\\hline
-Detection of $SpkShow$ with $Fmax>0$ & 94.5 & 93.4 & 94.0 & 95.6 & 94.6 & 95.0 \\\hline
+\begin{tabular}{|r|c|c|c|c|c|c|}
+\hline
+& \multicolumn{3}{c|}{All characteristics} & \multicolumn{3}{c|}{Optimal subset} \\
+\hline
+& P. & R. & F-measure & P. & R. & F-measure \\
+\hline
+$\checkmark$ & 94.5 & 93.4 & 94.0 & 95.6 & 94.6 & 95.0 \\
+\hline
+$\times$ & 75.8 & 79.0 & 77.4 & 80.0 & 82.7 & 81.4 \\
+\hline
 \end{tabular}
 \caption{Detection performance of classifier}
 \label{tableresult}
 \end{center}
-\end{table*}
+\end{table}
 
 \subsection{What makes a speaker recognizable?}
 
+Now that we showed that it is possible to predict whether a speaker/show is recognizable or not, this section aims at providing more insight into why this is the case.
+
+Figure~\ref{fig:featureImportance} provides the distributions of \emph{feature importance} for the six characteristics selected in the optimal subset, computed over the 305 leave-one-out cross-validation rotations. 
+Here, in the case of decision trees, feature importance is defined as the Gini coefficient and is related to the number of times a characteristic is used in the tree and how discriminant it is on average. More information on this metric can be found in~\cite{Breiman2001}
 \begin{figure}[t]
 \centering
 \includegraphics[width=\linewidth]{figures/violin.eps}
@@ -65,13 +51,18 @@ Detection of $SpkShow$ with $Fmax>0$ & 94.5 & 93.4 & 94.0 & 95.6 & 94.6 & 95.0 \
 \label{fig:featureImportance}
 \end{figure}
 
+Interestingly, the two most important features are related to the duration of speech turns in the test set -- characteristics related to the amount of training data only appear at rank \#3 and \#6. 
+The presence at rank \#4 of the characteristic defined as the average duration of the pause after each speech turn of a speaker is somewhat suprising. This could be explained by the fact that long pauses between two speech turns of two different speakers may ease the segmentation process (whose influence is discussed in Section~\ref{sec:analysis}) and therefore increase speaker recognizability.
 
-Feature importance === Gini coefficent~\cite{Breiman2001}
-
-
+Finally, Figure~\ref{fig:tree} is a graphical illustration of a decision tree (limited to depth 3) trained on the whole set of speaker/show and based on the optimal subset of characteristics discussed in previous section.
+Talkative $SpkShow$ appear to be much easier to recognize than those with only a few short speech turns. When combined with lots of training data (see rightmost leaf), the former characteristic nearly always leads to good recognition (193 $\checkmark$ out of $305$ speakers!).
 \begin{figure}[t]
 \centering
 \includegraphics[width=\linewidth]{figures/tree.eps}
 \caption{Not recognized ($\times$) vs. (partially) recognized ($\checkmark$)}
 \label{fig:tree}
 \end{figure}
+
+
+
+% As anticipated, the amount of training data appears to be
