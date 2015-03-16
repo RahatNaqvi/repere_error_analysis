@@ -2,6 +2,6 @@ The speaker identification system is based on a i-vector/PLDA framework develope
 
 The same training corpus is used to train the UBM, the total variability matrix, the PLDA matrices and the target i-vectors. This training corpus is composed of 680 speakers corresponding to 4150 sessions for a total of 103 hours of speech. The UBM is composed of 1024-distribution with diagonal co-variance matrix. The total variability space is set to rank 300 and the low rank speaker and channel matrices from the PLDA model are set to 150 and 40 respectively. After i-vector extraction, length-normalization and whitening is perfomed.
 
-During the test phase, the signal is automatically segmented and clustered \cite{}. A i-vector is extracted and normalized for each cluster. A close-set speaker identification test is performed to assign the identity of one of the 680 target i-vectors to the cluster. 
+During the test phase, the signal is automatically segmented and clustered \cite{dupuy2014}. A i-vector is extracted and normalized for each cluster. A close-set speaker identification test is performed to assign the identity of one of the 680 target i-vectors to the cluster. 
 
  

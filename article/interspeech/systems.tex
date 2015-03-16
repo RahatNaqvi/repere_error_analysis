@@ -6,29 +6,29 @@ brief description of the systems: training data, modelling, decision...
     \hline
     System          & PERCOL                                        & QCOMPERE                                        & SODA      \\
     \hline    
-    Diarization     & i-vector \cite{charlet2013}                   &                                                 &           \\
+    Diarization     & i-vector \cite{charlet2013}                   &                                                 &  i-vector \cite{dupuy2014}         \\
                     & + overlapping speech detection                &                                                 &           \\
     \hline    
-    SID             & ALIZE v3.0 toolkit \cite{larcher2013}         &                                                 &           \\
+    SID             & ALIZE v3.0 toolkit \cite{larcher2013}         &                                                 &  ALIZE v3.0 toolkit \cite{larcher2013}  \\
     \hline    
-    feature         & 19 LFCC + $\delta$ coef,                      & 15 PLP-like cepstrum coef~\cite{Hermansky1990}  &           \\
-                    & + $\delta$ energy + 11 $\delta$$\delta$ coef  & 15 $\delta$ coef + $\delta$ energy              &           \\
+    feature         & 19 LFCC + $\delta$ coef,                      & 15 PLP-like cepstrum coef~\cite{Hermansky1990}  &  19 MFCC + $\delta$ coef,         \\
+                    & + $\delta$ energy + 11 $\delta$$\delta$ coef  & 15 $\delta$ coef + $\delta$ energy              &  + $\delta$ energy + 11 $\delta$$\delta$ coef  \\
     \hline    
-    UBM             & gender independent                            & 256 diagonal Gaussians                          &           \\
-                    & 512 GMM                                       &                                                 &           \\
+    UBM             & gender independent                            & 256 diagonal Gaussians                          &  gender independent         \\
+                    & 512 GMM                                       &                                                 &  1024 GMM         \\
     \hline    
-    i-vector        & 200 dim TVS estimated from                    & 400 dim TVS trained using $39356$               &           \\
-                    & 1200 spk and 7500 sessions                    & speech segments (around $15$ seg/spk)           &           \\
+    i-vector        & 200 dim TVS estimated from                    & 400 dim TVS trained using $39356$               &  300 dim TVS estimated from         \\
+                    & 1200 spk and 7500 sessions                    & speech segments (around $15$ seg/spk)           &  680 spk and 4150 sessions         \\
     \hline    
-    Normalisation   & cepstral mean subtraction                     & Feature warping normalization with a            &           \\
-                    & and variance normalization                    & sliding window of $3$~s.~\cite{Pelecanos2001}.  &           \\
+    Normalisation   & cepstral mean subtraction                     & Feature warping normalization with a            &  cepstral mean subtraction         \\
+                    & and variance normalization                    & sliding window of $3$~s.~\cite{Pelecanos2001}.  &   and variance normalization        \\
     \hline    
-    Training data   & min 30s, max 2mn30 (if higher                 & 1 \emph{i-vector}/spk, min 30s                  &           \\
-    for i-vector    & a set of i-vectors is extracted)              & REPERE+ETAPE+French radio                       &           \\
+    Training data   & min 30s, max 2mn30 (if higher                 & 1 \emph{i-vector}/spk, min 30s                  &  680 speakers, min 1mn , max 12 min         \\
+    for i-vector    & a set of i-vectors is extracted)              & REPERE+ETAPE+French radio                       &  REPERE+ETAPE+French radio + web         \\
                     & REPERE corpus                                 & $706$~spk \emph{identity} vertices              &           \\            
     \hline    
-    Decision        & CDS joined with Within-Class                  &                                                 &           \\
-                    & covariance normalization for                  &                                                 &           \\
+    Decision        & CDS joined with Within-Class                  &                                                 &  PLDA         \\
+                    & covariance normalization for                  &                                                 &  length-normalization and whitening         \\
                     & session/channel compensation                  &                                                 &           \\
     \hline                              
   \end{tabular}
@@ -43,4 +43,4 @@ brief description of the systems: training data, modelling, decision...
 \input{qcompere}
 
 \subsubsection{SODA}
-
+\input{soda}

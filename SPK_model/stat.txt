@@ -1,10 +1,13 @@
    systeme     dureeGlobal nbSessionGlobal     dureeRepere nbSessionRepere      dureeAutre nbSessionAutre
-      soda          549.46            6.10          157.95            1.21          391.50            4.89 
-   percol          534.88            5.41          256.08            2.62          278.80            2.79 
+    percol          534.88            3.69          256.08            1.75          278.80            1.94 
+ qcompere         1020.39            7.37          120.89            1.24          899.50            6.13 
+     soda          549.46            6.10          157.95            1.21          391.50            4.89 
 -----------------------------------------------
-nombre de locuteur pour percol : 533
+nombre de locuteur pour qcompere : 706
 nombre de locuteur pour soda : 680
+nombre de locuteur pour percol : 533
 -----------------------------------------------
-locuteur commun à 1 systemes : 551
-locuteur commun à 2 systemes : 331
-nombre de locuteur différent : 882
+locuteur commun à 1 systemes : 662
+locuteur commun à 2 systemes : 210
+locuteur commun à 3 systemes : 279
+nombre de locuteur différent : 1151
