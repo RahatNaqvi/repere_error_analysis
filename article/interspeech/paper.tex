@@ -11,10 +11,15 @@
 \def\mat#1{\vec{#1}}
 
 
-\sloppy % better line breaks
+\sloppy
 \ninept
 
-\title{Speakers identification in broadcast TV: facilities and barriers}
+
+\title{What Makes a Speaker Recognizable in TV Broadcast?\\
+Going Beyond Speaker Identification Error Rates}
+
+
+% \title{Speakers identification in broadcast TV: facilities and barriers}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% If multiple authors, uncomment and edit the lines shown below.       %%
@@ -31,11 +36,13 @@
 
 \makeatletter
 \def\name#1{\gdef\@name{#1\\}}
-\makeatother \name{{\em Delphine Charlet, ..., Herv\'{e} Bredin$^1$, Xxxxxx YYYYYY$^{2}$}}
+\makeatother \name{{\em Delphine Charlet$^{1}$, Johann Poignant$^{2}$, Herv\'{e} Bredin$^{2}$, Corinne Fredouille$^{3}$, Sylvain Meignier$^{4}$}}
 
-\address{$^1$LIMSI - CNRS \\ 
-         $^2$Uuuuuuuuuu Vvvvv-Wwwww \\
-         {\small \tt herve.bredin@limsi.fr}
+\address{$^1$ Orange \\
+         $^2$ LIMSI -- CNRS -- Rue John Von Neumann, Orsay, France.\\
+         $^2$ LIA \\
+         $^2$ LIUM \\
+         {\small \tt delphine.charlet@orange.com}
 }
 
 
@@ -44,7 +51,8 @@
 \maketitle
 
 \begin{abstract}
-
+Speaker identification approaches for TV broadcast are usually evaluated and compared based on global error rates derived from the overall duration of missed detection, false alarm and confusion.
+This paper highlights the fact that these average metrics lead to the incorrect intuition that current state-of-the-art algorithms partially recognize all speakers. Setting aside incorrect diarization and adverse acoustic conditions, we show that their performance is in fact essentially bi-modal: either all speech turns of a speaker are correctly identified or none of them are. We then proceed with trying to understand and explain this behavior, based on the output of three state-of-the-art speaker identification systems applied to TV shows from the REPERE corpus. Performance prediction experiments show that the most discrimant speaker characteristics are -- first -- their total speech duration in the current show and -- then only -- the amount of training data available to build their acoustic model.
 \end{abstract}
 
 \noindent{\bf Index Terms}: speaker recognition, error analysis
