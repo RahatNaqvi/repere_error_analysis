@@ -6,10 +6,10 @@ brief description of the systems: training data, modelling, decision...
     \hline
     System          & PERCOL                                        & QCOMPERE                                        & SODA      \\
     \hline    
-    Diarization     & i-vector \cite{charlet2013}                   &                                                 &  i-vector \cite{dupuy2014}         \\
+    Diarization     & i-vector \cite{charlet2013}                   &  multi-stage speaker diarization \cite{Barras2006} &  i-vector \cite{dupuy2014}         \\
                     & + overlapping speech detection                &                                                 &           \\
     \hline    
-    SID             & ALIZE v3.0 toolkit \cite{larcher2013}         &                                                 &  ALIZE v3.0 toolkit \cite{larcher2013}  \\
+    SID             & ALIZE v3.0 toolkit \cite{larcher2013}         & Bob toolkit \cite{bob2012}                      &  ALIZE v3.0 toolkit \cite{larcher2013}  \\
     \hline    
     feature         & 19 LFCC + $\delta$ coef,                      & 15 PLP-like cepstrum coef~\cite{Hermansky1990}  &  19 MFCC + $\delta$ coef,         \\
                     & + $\delta$ energy + 11 $\delta$$\delta$ coef  & 15 $\delta$ coef + $\delta$ energy              &  + $\delta$ energy + 11 $\delta$$\delta$ coef  \\
@@ -27,7 +27,7 @@ brief description of the systems: training data, modelling, decision...
     for i-vector    & a set of i-vectors is extracted)              & REPERE+ETAPE+French radio                       &  REPERE+ETAPE+French radio + web         \\
                     & REPERE corpus                                 & $706$~spk \emph{identity} vertices              &           \\            
     \hline    
-    Decision        & CDS joined with Within-Class                  &                                                 &  PLDA         \\
+    Decision        & CDS joined with Within-Class                  & PLDA                                            &  PLDA         \\
                     & covariance normalization for                  &                                                 &  length-normalization and whitening         \\
                     & session/channel compensation                  &                                                 &           \\
     \hline                              
