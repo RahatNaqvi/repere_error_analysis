@@ -1,4 +1,4 @@
-We have seen in the previous section that speaker identification performance is essentially bi-modal: either a speaker is not recognized at all or it is very well recognized. This section aims at uncovering the speaker characteristics explaining why some speakers are recognized ($\checkmark$) and others are not ($\times$)? To answer this question, we first try to automatically classify the speakers into those two classes. In case we succeed, analyzing the speaker characteristics contributing the most to this prediction, we should be able to identify the characteristics that facilitates or hamper the identification.
+We have seen in the previous section that speaker identification performance is essentially bi-modal: either a speaker is not recognized at all or it is very well recognized. This section aims at uncovering the speaker characteristics explaining why some speakers are recognized ($\checkmark$) and others are not ($\times$)? To answer this question, we first try to automatically classify the speakers into those two classes. In case we succeed, by analyzing the speaker characteristics contributing the most to this prediction, we should be able to identify the characteristics that facilitate or hamper the identification.
 
 \subsection{$SpkShow$ characteristics}
 
@@ -15,11 +15,11 @@ As the corpus is limited (only 305 different $SpkShow$) and unbalanced (63 $\tim
 
 Not all $SpkShow$ characteristics are meaningful features for this task, and some can even degrade the classification performance. 
 Hence, feature selection is applied using the following heuristic manner.
-Starting with the whole set of characteristics, each iteration removes the one characteristic whose removal leads to the best performance.
+Starting with the whole set of characteristics, each iteration removes the single characteristic whose removal leads to the best performance.
 The optimal subset of characteristics is selected as the one leading to the best overall performance.
 
 As far as the classification algorithm is concerned, we chose to use a decision tree (rather than a more sophisticated black box classifier) as the analysis of its internal structure allows for easy interpretation of the results and the importance of each characteristic.
-Figure~\ref{tableresult} contains the experimental results. It shows that it is possible to predict whether a $SpkShow$ will be recognized ($\checkmark$ $\text{F-measure} = 95.0\%$) or not ($\times$ $\text{F-measure} = 81.4\%$)
+Table~\ref{tableresult} contains the experimental results. It shows that it is possible to predict whether a $SpkShow$ will be recognized ($\checkmark$ $\text{F-measure} = 95.0\%$) or not ($\times$ $\text{F-measure} = 81.4\%$)
 \begin{table}[t]
 \begin{center}
 \begin{tabular}{|r|c|c|c|c|c|c|}

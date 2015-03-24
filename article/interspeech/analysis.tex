@@ -1,28 +1,29 @@
 
 
-The table \ref{table-spkshow-perf} shows the average $Fm$ per $SpkShow$ for the different systems, and for the Oracle system which is made of the best system for each $SpkShow$.
+Table~\ref{table-spkshow-perf} shows the average $Fm$ related to $SpkShow$ for the different systems, and for the Oracle system which is made of the best system for each $SpkShow$.
 \begin{table}[t]
 \begin{center}
+\footnotesize
 \begin{tabular}{r||c|c|c|c}
-& Percol & Qcompere & Soda & Oracle \\\hline\hline
+& PERCOL & QCOMPERE & SODA & Oracle \\\hline\hline
 average $Fm$ & 36.1 & 38.1 & 35.1 & 46.2\\\hline
 average $Fm$ for & & & &\\
-in dictionary speakers & 62.8 & 68.4 & 61.9 & 72.2\\\hline
+in-dictionary $SpkShow$ & 62.8 & 68.4 & 61.9 & 72.2\\\hline
 \#$SpkShow$ out of & & & &\\
 dictionary & 200 & 209 & 204 & 172\\\hline
 \#$SpkShow$ in dictionary & 277& 268 & 273 & 305\\\hline
 \#$SpkShow$ in dictionary& & & & \\
 with $Fm=0$ & 79 & 63 & 86 & 63\\\hline
 \end{tabular}
-\caption{Average system performances per $SpkShow$}
+\caption{Average system performance related to $SpkShow$}
 \label{table-spkshow-perf}
 \end{center}
 \end{table}
 
-From the table we can notice the important number of $SpkShow$ which are not in the dictionary of the system, about 40\% for each system. As they don't have any model, they obviously cannot be identified, leading to an average global $Fm$ rather poor. More interestingly, the number of $SpkShow$ which are actually in the dictionary and which are not recognised at all, is not negligeable: their represent between 23.5\% to 31.5\% of the in-dictionary $SpkShow$, according to the systems.
+From the table, we can notice the important number of $SpkShow$ which are not in the dictionary of the three systems, about 40\% for each system. As they don't have any model, they obviously cannot be identified, leading to an average global $Fm$ rather poor. More interestingly, the number of $SpkShow$ which are actually in the dictionary and which are not recognised at all, is not negligeable: they represent between 23.5\% to 31.5\% of the in-dictionary $SpkShow$, according to the systems.
 
 
-Figure~\ref{fig:FMeasureDistribution} plot the distribution of all the $SpkShow$ in the system dictionaries, according to their performance $Fm$, for the different systems. We can see from this figure that the average performance (from 61.9\% to 72.2\% according to the systems) presented in table\ref{table-spkshow-perf} is not at all representative of the performances obtained foreach $SpkShow$: speakers are either not recognized or well recognized. Indeed, if we compute the average performance for $SpkShow$ which have $Fm \neq 0$, the average $Fm$ grows to 87.9\% for PERCOL, 89.5\% for QCompere and 90.3\% for SODA. 
+Figure~\ref{fig:FMeasureDistribution} plots the distribution of all the $SpkShow$ in the system dictionaries, according to their performance expressed in terms of $Fm$, for the different systems. We can see from this figure that the average performance (from 61.9\% to 72.2\% according to the systems) presented in Table~\ref{table-spkshow-perf} is not at all representative of performance obtained for each $SpkShow$: speakers are either not recognized or well recognized. Indeed, if we compute the average performance for $SpkShow$ which have $Fm \neq 0$, the average $Fm$ grows to 87.9\% for PERCOL, 89.5\% for QCompere and 90.3\% for SODA. 
 
 % \begin{figure}[!h]
 % \includegraphics[scale=0.6]{figures/PQS-mono-model.eps}
@@ -30,15 +31,15 @@ Figure~\ref{fig:FMeasureDistribution} plot the distribution of all the $SpkShow$
 % \label{PQS}
 % \end{figure}
 
-To evaluate the impact of the automatic speaker diarization, we also perform the speaker analysis performance, for systems applied on reference speaker diarization. Results for systems PERCOL is shown in Figure~\ref{fig:autoVSref}.  The bi-modal distribution of performance (speaker either well recognized, or not at all recognized) is dramatically emphasized with reference diarization.
+To evaluate the impact of the automatic speaker diarization, the analysis of the speaker performance when systems rely on the reference speaker diarization is carried out. Results for PERCOL system is shown in Figure~\ref{fig:autoVSref}.  The bi-modal distribution of performance (speaker either well recognized, or not at all recognized) is dramatically emphasized with the reference diarization.
 The comparison of the speaker identification performance between using the reference or automatic speaker diarization, carried out on PERCOL and SODA systems, shows that 38 $SpkShow$ (over the 277 in-dictionary speakers) for PERCOL and 14 $SpkShow$ (over the 273 in-dictionary speakers) for SODA present a null f-measure ($Fm_i=0$) with the automatic speaker diarization and a f-measure above 90\% with the reference one. For these particular $SpkShow$, the quality of the automatic speaker diarization is the main reason of the poor speaker identification performance since a fine-grained analysis of the speaker diarization outputs highlighted segment frontier errors, clustering confusion errors, or both of them. 
-In addition, we considered the $SpkShow$ for which a null f-measure is obtained even with reference diarization: 41 for PERCOL and 72 for SODA. For half of these $SpkShow$, the amount of testing data was less than 10s, and for the other half with more than 10s of testing data, the amount of training data could not explain the poor performance, as on average, more than 600s were available for each of those $SpkShow$.
-Focusing on the 12 $SpkShow$ which have a null f-measure with reference diarization in both SODA and PERCOL, the analysis revealed that these segments were associated with very poor acoustic quality: a large amount of overlapped speech for 4 $SpkShow$ (from 20 to 90\% of overlapped speech according to  $SpkShow$), an entire interview made by phone for 1 $SpkShow$, poor sound quality with reverberation for 1 $SpkShow$, and large background noise (street, assembly background voices, applause, etc) or music for 8 of them.
+In addition, we considered the $SpkShow$ for which a null f-measure is obtained even with the reference diarization: 41 for PERCOL and 72 for SODA. For half of these $SpkShow$, the amount of testing data was less than 10s, and for the other half with more than 10s of testing data, the amount of training data could not explain the poor performance, as on average, more than 600s were available for each of those $SpkShow$.
+Focusing on the 12 $SpkShow$ which have a null f-measure with reference diarization in both systems, the analysis revealed that these segments were associated with very poor acoustic quality: a large amount of overlapped speech for 4 $SpkShow$ (from 20 to 90\% of overlapped speech according to  $SpkShow$), an entire interview made by phone for 1 $SpkShow$, poor sound quality with reverberation for 1 $SpkShow$, and large background noise (street, assembly background voices, applause, etc) or music for 8 of them.
 
 \begin{figure}[t]
 \centering
 \includegraphics[width=\linewidth]{figures/bimodal.eps}
-\caption{Distribution of $SpkShow$ according to system performance}
+\caption{Distribution of $SpkShow$ according to system performance expressed in terms of $Fm$}
 \label{fig:FMeasureDistribution}
 \end{figure}
 
@@ -46,9 +47,9 @@ Focusing on the 12 $SpkShow$ which have a null f-measure with reference diarizat
 \begin{figure}[t]
 \centering
 \includegraphics[width=\linewidth]{figures/ref.eps}
-\caption{Effect of segmentation errors on PERCOL.}
+\caption{Effect of diarization errors on PERCOL system.}
 \label{fig:autoVSref}
 \end{figure}
 
-If we analyze performance obtained per speaker, independently of the shows in which they appear, we distinguish the speakers occurring in only one show (single speakers), and the speakers occurring in several shows (recurrent speakers). The 305 $SpkShow$ which are in at least one system dictionary comes from 141 speakers, 88 being single speakers and 53 being recurrent speakers. These 53 recurrent speakers count for 217 $SpkShow$, among which 35 $SpkShow$ have a null f-measure in the Oracle system. Among these 35 $SpkShow$ with null f-measure, 23 comes from 13 speakers which have good fmeasure in other shows (with an average Oracle non-null f-measure=91.7\%) and 12 comes from 5 speakers which have always null f-measure. Thus, we can conclude that the influence of the show (the test data) is very strong, as for a same given speaker model, we can observe null performance or very good performance according to the show.
+If we analyze performance obtained per speaker, independently of the shows in which they appear, we distinguish the speakers occurring in only one show (single speakers), and the speakers occurring in several shows (recurrent speakers). The 305 $SpkShow$ which are in at least one system dictionary comes from 141 speakers, 88 being single speakers and 53 being recurrent speakers. These 53 recurrent speakers count for 217 $SpkShow$, among which 35 $SpkShow$ have a null f-measure in the Oracle system. Among these 35 $SpkShow$ with null f-measure, 23 comes from 13 speakers which have a good f-measure in other shows (with an average Oracle non-null f-measure=91.7\%) and 12 comes from 5 speakers which have always null f-measure. Thus, we can conclude that the influence of the show (testing data) is very strong, as for a same given speaker model, we can observe null performance or very good performance according to the show.
  

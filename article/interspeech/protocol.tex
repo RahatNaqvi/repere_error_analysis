@@ -1,9 +1,9 @@
 
 \subsection{Evaluation metrics}
 \vspace*{-0.1cm}
-We are interested in analysing speaker identification system performance, and particularly, the influence of some characteristics, in the training and the testing data. Thus, one speaker in a given show is considered as the unit of analysis, the so-called $SpkShow$. One speaker appearing in 2 different videos is considered as 2 distinct $SpkShow$. 
+We are interested in analysing speaker identification system performance, and particularly, the influence of some characteristics, in the training and testing data. Thus, one speaker in a given show is considered as the unit of analysis, the so-called $SpkShow$. One speaker appearing in 2 different videos is considered as 2 distinct $SpkShow$. 
 
-In this analysis, we adopt the point of view of the references: for each $SpkShow_i$ in the reference is computed a performance measure of the biometric system, defined as the F-measure of the detection of $SpkShow_i$. More precisely, defining $T^{ref}_i$ the total duration of $SpkShow_i$ in the reference, $T^{test}_i$ the total duration where $SpkShow_i$ is the system response and $T^{corr}_i$ the total duration of correct identification of $SpkShow_i$, Precision and Recall can be computed for each $SpkShow_i$:
+In this analysis, we adopt the point of view of the references: for each $SpkShow_i$ in the reference, is computed a performance measure of the biometric system, defined as the F-measure of the detection of $SpkShow_i$. More precisely, defining $T^{ref}_i$ the total duration of $SpkShow_i$ in the reference, $T^{test}_i$ the total duration where $SpkShow_i$ is the system response and $T^{corr}_i$ the total duration of correct identification of $SpkShow_i$, Precision and Recall can be computed for each $SpkShow_i$:
 \begin{itemize}
 \item $Precision_i=\frac{T^{corr}_i}{T^{test}_i}$ ~~~~~~$Recall_i=\frac{T^{corr}_i}{T^{ref}_i}$
 \item $Fm_i=\frac{2*Precision_i*Recall_i}{Precision_i+Recall_i}$
@@ -40,7 +40,7 @@ The REPERE challenge~\cite{KAHN--CBMI--2012} is an evaluation campaign on multim
 %\end{table}
 
 
-\subsection{Systems description}
+\subsection{System description}
 \label{sec:systems}
 \input{systems}
 
