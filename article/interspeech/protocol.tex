@@ -1,34 +1,11 @@
 
+\subsection{Evaluation metrics}
+\vspace*{-0.1cm}
+We are interested in analysing speaker identification system performance, and particularly, the influence of some characteristics, in the training and the testing data. Thus, one speaker in a given show is considered as the unit of analysis, the so-called $SpkShow$. One speaker appearing in 2 different videos is considered as 2 distinct $SpkShow$. 
 
-
-
-In this paper, we are interested in analyzing the performances obtained by supervised speaker identification system, and particulary in their capability to identify speakers, according to their characteristics, for instance in terms of speech turns etc. As the speech turns properties depend on the show in which the speaker appears, one speaker in one show is considered as the unit of analysis, the so-called $SpkShow$ (see table~\ref{notation} for notation used in the rest of the paper). One speaker appearing in 2 different videos is considered as 2 distinct $SpkShow$.
-
-\begin{table}[ht]
-  \centering
-    \begin{tabular}{|c|l|}
-        \hline 
-        Notation & Description \\ 
-        \hline 
-        \hline
-        $SpkShow$ & All speech segments of a speaker in a video \\ 
-        %$SpkSeg$  & A speaker turn \\
-        $T^{ref}_i$ & the total duration of the speech\\
-        & of  $SpkShow_i$, in the reference \\
-        $T^{test}_i$ & the total duration where $SpkShow_i$\\
-        & is recognized by the automatic system\\
-        $T^{corr}_i$ & the total duration of correct\\
-        & identification of $SpkShow_i$\\
-        \hline 
-    \end{tabular} 
-    \caption{Notation used in the rest of the paper}
-    \label{notation}
-\end{table}
-
-In this analysis, we adopt the point of view of the references: for each $SpkShow_i$ in the reference is computed a performance measure of the biometric system, defined as the F-measure of the detection of $SpkShow_i$. More precisely, considering the definition given in \ref{notation}, Precision and Recall can be computed for each $SpkShow_i$:
+In this analysis, we adopt the point of view of the references: for each $SpkShow_i$ in the reference is computed a performance measure of the biometric system, defined as the F-measure of the detection of $SpkShow_i$. More precisely, defining $T^{ref}_i$ the total duration of $SpkShow_i$ in the reference, $T^{test}_i$ the total duration where $SpkShow_i$ is the system response and $T^{corr}_i$ the total duration of correct identification of $SpkShow_i$, Precision and Recall can be computed for each $SpkShow_i$:
 \begin{itemize}
-\item $Precision_i=\frac{T^{corr}_i}{T^{test}_i}$
-\item $Recall_i=\frac{T^{corr}_i}{T^{ref}_i}$
+\item $Precision_i=\frac{T^{corr}_i}{T^{test}_i}$ ~~~~~~$Recall_i=\frac{T^{corr}_i}{T^{ref}_i}$
 \item $Fm_i=\frac{2*Precision_i*Recall_i}{Precision_i+Recall_i}$
 \end{itemize} 
 
@@ -36,30 +13,31 @@ Thus, $Fm_i=0$ means that $SpkShow_i$ was never correctly identified, whereas $F
 
 \subsection{REPERE Corpus~\cite{Giraudel2012}}
 
-The REPERE challenge~\cite{KAHN--CBMI--2012} is an evaluation campaign on multimodal person recognition (phase 1 took place in January 2013 and phase 2 in January 2014). The main objective is to answer the two following questions at any instant of the video: \emph{``who is speaking?"} \emph{``who is seen?"}. All modalities available (audio, image, external data ...) can be used for answering these questions. 
-
-The subset used in our experiments correspond to the \texttt{test2}. It is composed of videos recorded from eight different shows (including news and talk shows) broadcasted from two French TV channels. In table \ref{tab:test2} we detail the speaker repartition on the \texttt{test2} corpus.
+The REPERE challenge~\cite{KAHN--CBMI--2012} is an evaluation campaign on multimodal person recognition (phase 1 took place in January 2013 and phase 2 in January 2014).  The systems evaluated in our experiments are the "mono-modal" systems (based only on voice-based speaker identification) submitted to phase2, on data set named \texttt{test2}, composed of 62 videos recorded from 8 different types of show (including news and talk shows) broadcasted from two French TV channels. 10 hours of speech are annotated, and contain 477 non-anonymous $SpkShow$, which have on average 6.2 speech turns each, for a mean duration of speech turn equal to 12.1s
 
 
-\begin{table}[ht]
-  \centering
-  \begin{tabular}{|c|c|}
-    \hline
-    Part                                & \texttt{test2}    \\
-    \hline    
-    \# videos                           & 62                \\         
-    Annotated duration                  & 10 h.             \\
-    \hline      
-    $SpkShow$                           & 477               \\
-    \# speaker turns                    & 2981              \\
-    speech duration                     & 35929             \\
-    mean duration speech turns in s.    & 12.1 (15.32)      \\
-    \# speech turn per $SpkShow$        & 6.2 (10.7)        \\ 
-    \hline                              
-  \end{tabular}
-  \caption{Corpus size for the annotated part, number of $SpkShow$, speakers turns and speech duration for non-anonymous speakers. Mean duration of speech turns and number of speech turns par $SpkShow$, in parenthesis is the stantard deviation}
-  \label{tab:test2}  
-\end{table}
+%In table \ref{tab:test2} we detail the speaker repartition on the \texttt{test2} corpus.
+
+
+%begin{table}[ht]
+ % \centering
+  %\begin{tabular}{|c|c|}
+    %\hline
+    %Part                                & \texttt{test2}    \\
+    %\hline    
+    %\# videos                           & 62                \\         
+    %Annotated duration                  & 10 h.             \\
+    %\hline      
+    %$SpkShow$                           & 477               \\
+    %\# speaker turns                    & 2981              \\
+    %speech duration                     & 35929             \\
+    %mean duration speech turns in s.    & 12.1 (15.32)      \\
+    %\# speech turn per $SpkShow$        & 6.2 (10.7)        \\ 
+   % \hline                              
+  %\end{tabular}
+  %\caption{Corpus size for the annotated part, number of $SpkShow$, speakers turns and speech duration for non-anonymous speakers. Mean duration of speech turns and number of speech turns par $SpkShow$, in parenthesis is the stantard deviation}
+  %\label{tab:test2}  
+%\end{table}
 
 
 \subsection{Systems description}

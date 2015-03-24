@@ -41,7 +41,7 @@ Going Beyond Speaker Identification Error Rate}
 \address{$^1$ Orange Labs, Lannion, France\\
          $^2$ LIMSI -- CNRS -- Rue John Von Neumann, Orsay, France.\\
          $^3$ CERI/LIA - University of Avignon, France\\
-         $^4$ LIUM \\
+         $^4$ LIUM, Univesité du Mans, France \\
          {\small \tt delphine.charlet@orange.com}
 }
 
@@ -51,6 +51,7 @@ Going Beyond Speaker Identification Error Rate}
 \maketitle
 
 \begin{abstract}
+\vspace*{-0.2cm}
 Speaker identification approaches for TV broadcast are usually evaluated and compared based on global error rates derived from the overall duration of missed detection, false alarm and confusion.
 Based on the analysis of the output of the systems submitted to the final round of the French evaluation campaign REPERE, this paper highlights the fact that these average metrics lead to the incorrect intuition that current state-of-the-art algorithms partially recognize all speakers. Setting aside incorrect diarization and adverse acoustic conditions, we show that their performance is in fact essentially bi-modal: in a given show, either all speech turns of a speaker are correctly identified or none of them are. We then proceed with trying to understand and explain this behavior, through perfomance prediction experiments. These experiments show that the most discriminant speaker characteristics are -- first -- their total speech duration in the current show and -- then only -- the amount of training data available to build their acoustic model.
 \end{abstract}
@@ -61,6 +62,7 @@ Based on the analysis of the output of the systems submitted to the final round 
 \label{sec:introduction}
 \input{introduction}
 
+\vspace*{-0.4cm}
 \section{Experimental protocol}
 \label{sec:protocol}
 \input{protocol}
@@ -73,15 +75,12 @@ Based on the analysis of the output of the systems submitted to the final round 
 \label{sec:prediction}
 \input{prediction}
 
-\section{Cross-show extension}
-\label{sec:xshow}
-\input{xshow}
 
-\section{Conclusions}
+\section{Conclusion}
 \label{sec:conclusion}
 \input{conclusion}
 
-\section{Acknowledgements}
+%\section{Acknowledgements}
 
 \newpage
 \eightpt
