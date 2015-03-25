@@ -1,38 +1,4 @@
 Monomodal speaker ID systems used in this paper for the error analysis were developed by the three research consortia involved in the REPERE challenge : PERCOL, QCOMPERE, and SODA. For all the systems, the speaker ID process relies on a typical i-vector framework, applied on speech segment clusters resulting from associated speaker diarization systems. Only SODA system  \cite{dupuy2014}  fully integrates the i-vector framework for both the speaker diarization and ID processes. Instead, PERCOL and QCOMPERE speaker diarization systems \cite{Barras2006,charlet2013} are based on a more standard multi-stage hierarchical clustering. Table~\ref{tab:system} provides detailed information about system configuration individually. It is interesting to notice that QCOMPERE and SODA speaker ID systems follow very similar speaker modeling strategies. Indeed, they are based on about the same number of speaker models (706 and 680 respectively), for which only one i-vector is estimated if a minimum amount of training data is available (30s for QCOMPERE, 1mn for SODA).  PERCOL system exhibits 533 speaker models only and proposes a different manner for extracting the corresponding i-vectors in order to take into account the possibly large amount of training data available for some speakers :  (1) for a given speaker, an i-vector is extracted only if a minimum 30s long training data are available, (2) if the duration of training data for a given speaker is longer than 2mn30, a set of i-vectors is extracted, each of them on the basis of 2mn30 duration, the last one having to respect rule (1). Yet, for all the consortia, the initial training corpus made available for the REPERE challenge was enriched by additional audio sources (other French TV shows recorded earlier for the ETAPE evaluation campaign \cite{gravier2012}, French radio shows and data collected on the web)  
 Finally, for the decision, QCOMPERE and SODA systems use a similar PLDA-based scoring coupled with a length-normalization approach (Eigen Factor Radial technique for QCOMPERE and ??? for SODA). A basic Cosine Distance Scoring combined with a session/channel compensation technique (Within-Class covariance normalization)  is used in PERCOL system.
 
-\begin{table*}[t]
-  \centering
-  \begin{tabular}{|c|c|c|c|}
-    \hline
-    System          & PERCOL                                        & QCOMPERE                                        & SODA      \\
-    \hline    
-    Diarization     & two stage spk. diarization \cite{charlet2013}                   &  multi-stage spk. diarization \cite{Barras2006} &  i-vector \cite{dupuy2014}         \\
-                    & + overlapping speech detection                &                                                 &           \\
-    \hline    
-    SID             & ALIZE v3.0 toolkit \cite{larcher2013}         & Bob toolkit \cite{bob2012}                      &  ALIZE v3.0 toolkit \cite{larcher2013}  \\
-    \hline    
-    feature         & 19 LFCC + $\delta$ coef,                      & 15 PLP-like cepstrum coef~\cite{Hermansky1990}  &  19 MFCC + $\delta$ coef,         \\
-                    & + $\delta$ energy + 11 $\delta$$\delta$ coef  & 15 $\delta$ coef + $\delta$ energy              &  + $\delta$ energy + 11 $\delta$$\delta$ coef  \\
-    \hline    
-    UBM             & gender independent                            & multi-lingual                          &  gender independent         \\
-                    & 512 diagonal Gaussians                                       &      256 diagonal Gaussians                                           &  1024 diagonal Gaussians         \\
-    \hline    
-    i-vector        & 200 dim TVS estimated from                    & 400 dim TVS estimated from $39356$               &  300 dim TVS estimated from         \\
-                    & 1200 spk. and 7500 sessions                    & speech segments (around $15$ seg./spk.)           &  680 spk. and 4150 sessions         \\
-    \hline    
-    Normalisation   & cepstral mean subtraction                     & Feature warping normalization            &  cepstral mean subtraction         \\
-                    & and variance normalization                    & with a sliding window of $3$~s.~\cite{Pelecanos2001}.  &   and variance normalization        \\
-    \hline    
-    Training data   & 533 spk. id., min 30s, max 2mn30                  & $706$ spk. id., min 30s                  &  680 spk. id., min 1mn , max 12 min         \\
-    for i-vector    & (if higher, a set of i-vectors extracted)              & REPERE+ETAPE+French radio                       &  REPERE+ETAPE+French radio+web         \\
-                    & REPERE+ETAPE+French radio+web                                 &                &           \\            
-    \hline    
-    Decision        & CDS joined with Within-Class                  & PLDA                                            &  PLDA         \\
-                    & covariance normalization for                  &   Eigen Factor Radial-based                                               &  length-normalization and whitening ???        \\
-                    & session/channel compensation                  &    length normalization~\cite{bousquet2011}                            &           \\
-    \hline                              
-  \end{tabular}
-  \caption{System comparison, TVS : total variability space, CDS: Cosine Distance Scoring}
-  \label{tab:system}  
-\end{table*}
+
