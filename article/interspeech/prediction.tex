@@ -14,8 +14,8 @@ Given a $SpkShow$ and its corresponding set of characteristics, we aim at predic
 As the corpus is limited (only 305 different $SpkShow$) and unbalanced (63 $\times$ vs. 242 $\checkmark$), we proceed using leave-one-out cross-validation and evaluate this classification experiment as two complementary detection tasks using precision, recall and F-measure.
 
 Not all $SpkShow$ characteristics are meaningful features for this task, and some can even degrade the classification performance. 
-Hence, feature selection is applied using the following heuristic manner.
-Starting with the whole set of characteristics, each iteration removes the single characteristic whose removal leads to the best performance.
+Hence, feature selection is applied using the following heuristic.
+Starting with the whole set of characteristics, each iteration removes the characteristic whose removal leads to the best performance.
 The optimal subset of characteristics is selected as the one leading to the best overall performance.
 
 As far as the classification algorithm is concerned, we chose to use a decision tree (rather than a more sophisticated black box classifier) as the analysis of its internal structure allows for easy interpretation of the results and the importance of each characteristic.

@@ -3,17 +3,17 @@
 \vspace*{-0.1cm}
 We are interested in analysing speaker identification system performance, and particularly, the influence of some characteristics, in the training and testing data. Thus, one speaker in a given show is considered as the unit of analysis, the so-called $SpkShow$. One speaker appearing in 2 different videos is considered as 2 distinct $SpkShow$. 
 
-In this analysis, we adopt the point of view of the references: for each $SpkShow_i$ in the reference, is computed a performance measure of the biometric system, defined as the F-measure of the detection of $SpkShow_i$. More precisely, defining $T^{ref}_i$ the total duration of $SpkShow_i$ in the reference, $T^{test}_i$ the total duration where $SpkShow_i$ is the system response and $T^{corr}_i$ the total duration of correct identification of $SpkShow_i$, Precision and Recall can be computed for each $SpkShow_i$:
+In this analysis, we adopt the point of view of the references: for each $SpkShow_i$ in the reference, the performance metric of the biometric system is defined as the F-measure of the detection of $SpkShow_i$. More precisely, defining $T^{\text{reference}}_i$ the total duration of $SpkShow_i$ in the reference, $T^{\text{hypothesis}}_i$ the total duration where $SpkShow_i$ is the system response and $T^{\text{correct}}_i$ the total duration of correct identification of $SpkShow_i$, Precision and Recall can be computed for each $SpkShow_i$:
 \begin{itemize}
-\item $Precision_i=\frac{T^{corr}_i}{T^{test}_i}$ ~~~~~~$Recall_i=\frac{T^{corr}_i}{T^{ref}_i}$
-\item $Fm_i=\frac{2*Precision_i*Recall_i}{Precision_i+Recall_i}$
+\item $\text{precision}_i=\frac{T^{\text{correct}}_i}{T^{\text{hypothesis}}_i}$ ~~~~~~$\text{recall}_i=\frac{T^{\text{correct}}_i}{T^{\text{reference}}_i}$
+\item $Fm_i=\frac{2*\text{precision}_i*\text{recall}_i}{\text{precision}_i+\text{recall}_i}$
 \end{itemize} 
 
 Thus, $Fm_i=0$ means that $SpkShow_i$ was never correctly identified, whereas $Fm_i=1$ means that $SpkShow_i$ is perfectly identified, without miss detection nor false alarm.
 
-\subsection{REPERE Corpus~\cite{Giraudel2012}}
+\subsection{REPERE Corpus}
 
-The REPERE challenge~\cite{KAHN--CBMI--2012} is an evaluation campaign on multimodal person recognition (phase 1 took place in January 2013 and phase 2 in January 2014).  The systems evaluated in our experiments are the "mono-modal" systems (based only on voice-based speaker identification) submitted to phase2, on data set named \texttt{test2}, composed of 62 videos recorded from 8 different types of show (including news and talk shows) broadcasted from two French TV channels. 10 hours of speech are annotated, and contain 477 non-anonymous $SpkShow$, which have on average 6.2 speech turns each, for a mean duration of speech turn equal to 12.1s
+The REPERE challenge~\cite{KAHN--CBMI--2012} is an evaluation campaign on multimodal person recognition (phase 1 took place in January 2013 and phase 2 in January 2014).  The systems evaluated in our experiments are the "mono-modal" systems (voice-based speaker identification) submitted to phase2, on \texttt{test2} data set, composed of 62 videos recorded from 8 different types of show (including news and talk shows) broadcasted by two French TV channels~\cite{Giraudel2012}. 10 hours of speech are annotated, and contain 477 non-anonymous $SpkShow$, which have on average 6.2 speech turns each, for a mean duration of speech turn equal to 12.1s.
 
 
 %In table \ref{tab:test2} we detail the speaker repartition on the \texttt{test2} corpus.
