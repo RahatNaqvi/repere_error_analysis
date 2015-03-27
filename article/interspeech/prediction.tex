@@ -10,7 +10,7 @@ For each $SpkShow$, the second set of characteristics includes the number of spe
 
 \subsection{Prediction of oracle performance}
 
-Given a $SpkShow$ and its corresponding set of characteristics, we aim at predicting whether the oracle system is able to (at least partially) recognize $\checkmark$ it or not (at all) $\times$. 
+Given a $SpkShow$ and its corresponding set of characteristics, we aim at predicting whether the oracle system is able to (at least partially) recognize $\checkmark$ it or not (at all) $\times$.  Focusing on oracle system enables to draw conclusions which are not specific of a given system.
 As the corpus is limited (only 305 different $SpkShow$) and unbalanced (63 $\times$ vs. 242 $\checkmark$), we proceed using leave-one-out cross-validation and evaluate this classification experiment as two complementary detection tasks using precision, recall and F-measure.
 
 Not all $SpkShow$ characteristics are meaningful features for this task, and some can even degrade the classification performance. 
@@ -19,7 +19,8 @@ Starting with the whole set of characteristics, each iteration removes the chara
 The optimal subset of characteristics is selected as the one leading to the best overall performance.
 
 As far as the classification algorithm is concerned, we chose to use a decision tree (rather than a more sophisticated black box classifier) as the analysis of its internal structure allows for easy interpretation of the results and the importance of each characteristic.
-Table~\ref{tableresult} contains the experimental results. It shows that it is possible to predict whether a $SpkShow$ will be recognized ($\checkmark$ $\text{F-measure} = 95.0\%$) or not ($\times$ $\text{F-measure} = 81.4\%$)
+Table~\ref{tableresult} contains the experimental results. It shows that it is possible to predict, with pretty good performance, whether a $SpkShow$ will be recognized ($\checkmark$ $\text{F-measure} = 95.0\%$) or not ($\times$ $\text{F-measure} = 81.4\%$). 
+
 \begin{table}[t]
 \begin{center}
 \begin{tabular}{|r|c|c|c|c|c|c|}
@@ -53,8 +54,8 @@ Here, in the case of decision trees, feature importance is defined as the Gini c
 
 Interestingly, the two most important features are related to the duration of speech turns in the test set -- characteristics related to the amount of training data only appear at rank \#3 and \#6. 
 The presence at rank \#4 of the characteristic defined as the average duration of the pause after each speech turn of a speaker is somewhat suprising. This could be explained by the fact that long pauses between two speech turns of two different speakers may ease the segmentation process (whose influence is discussed in Section~\ref{sec:analysis}) and therefore increase speaker recognizability.
-Finally, Figure~\ref{fig:tree} is a graphical illustration of a decision tree (limited to depth 3) trained on the whole set of $SpkShow$ and based on the optimal subset of characteristics discussed in previous section.
-Talkative $SpkShow$ appear to be much easier to recognize than those with only a few short speech turns. When combined with lots of training data (see rightmost leaf), the former characteristic nearly always leads to good recognition (193 $\checkmark$ out of $305$ speakers!).
+Finally, Figure~\ref{fig:tree} is a graphical illustration of a decision tree (in this case limited to depth 3 for sake of vizualisation) trained on the whole set of $SpkShow$ and based on the optimal subset of characteristics discussed in previous section.
+Talkative $SpkShow$ appear to be much easier to recognize than those with only a few short speech turns. When combined with lots of training data (see rightmost leaf), the former characteristic nearly always leads to good recognition (193 $\checkmark$ out of $305$ speakers!). 
 \begin{figure}[t]
 \centering
 \includegraphics[width=\linewidth]{figures/tree.eps}
